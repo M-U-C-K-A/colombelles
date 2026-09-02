@@ -2,6 +2,7 @@ import { redirect } from "next/navigation";
 import { AdminShell } from "@/components/admin/admin-shell";
 import { getSession } from "@/lib/auth";
 import { getDb, storageMode } from "@/lib/db";
+import { keySource } from "@/lib/session";
 
 export default async function DashboardLayout({ children }: LayoutProps<"/admin">) {
   const session = await getSession();
@@ -24,7 +25,12 @@ export default async function DashboardLayout({ children }: LayoutProps<"/admin"
   };
 
   return (
-    <AdminShell session={session} counts={counts} storage={storage}>
+    <AdminShell
+      session={session}
+      counts={counts}
+      storage={storage}
+      keySource={keySource()}
+    >
       {children}
     </AdminShell>
   );

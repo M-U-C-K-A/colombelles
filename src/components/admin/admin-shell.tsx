@@ -30,6 +30,7 @@ import { LogoMark } from "@/components/site/logo";
 import { ADMIN_NAV } from "@/lib/admin-nav";
 import { cn } from "@/lib/utils";
 import type { StorageMode } from "@/lib/db";
+import type { KeySource } from "@/lib/session";
 import type { SessionPayload } from "@/lib/session";
 
 const ICONS = {
@@ -54,11 +55,13 @@ export function AdminShell({
   session,
   counts,
   storage,
+  keySource,
   children,
 }: {
   session: SessionPayload;
   counts: Record<string, number>;
   storage: StorageMode;
+  keySource: KeySource;
   children: React.ReactNode;
 }) {
   const pathname = usePathname();
@@ -209,9 +212,29 @@ export function AdminShell({
           </button>
           <span className="text-sm font-medium">Administration</span>
         </header>
+        {keySource === "deploiement" && <SessionKeyWarning />}
         {storage !== "disque" && <StorageWarning mode={storage} />}
         <div className="min-w-0 flex-1">{children}</div>
       </div>
+    </div>
+  );
+}
+
+/** La clé de session n'est pas configurée : elle change à chaque livraison. */
+function SessionKeyWarning() {
+  return (
+    <div
+      role="status"
+      className="flex items-start gap-3 border-b border-amber-600/40 bg-amber-500/10 px-6 py-3 lg:px-10"
+    >
+      <WarningIcon className="mt-0.5 size-4 shrink-0 text-amber-600" aria-hidden="true" />
+      <p className="text-sm leading-relaxed">
+        <strong className="font-medium">Clé de session non configurée.</strong> Faute
+        d&apos;<code className="bg-muted px-1 py-0.5 font-mono text-xs">AUTH_SECRET</code>, la clé
+        est dérivée de l&apos;identifiant du déploiement : chaque nouvelle livraison déconnecte tout
+        le monde. Définissez une clé propre dans les variables d&apos;environnement
+        (<code className="bg-muted px-1 py-0.5 font-mono text-xs">openssl rand -base64 48</code>).
+      </p>
     </div>
   );
 }

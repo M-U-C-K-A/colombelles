@@ -4,7 +4,13 @@ import { scrypt as _scrypt, randomBytes, timingSafeEqual } from "node:crypto";
 import { promisify } from "node:util";
 import { read, mutate } from "@/lib/db";
 import type { UserItem } from "@/lib/types";
-import { SESSION_COOKIE, signSession, verifySession, type SessionPayload } from "@/lib/session";
+import {
+  MissingAuthSecretError,
+  SESSION_COOKIE,
+  signSession,
+  verifySession,
+  type SessionPayload,
+} from "@/lib/session";
 
 const scrypt = promisify(_scrypt) as (
   password: string,
@@ -44,12 +50,25 @@ export async function login(username: string, password: string): Promise<LoginRe
     return { ok: false, error: "Identifiant ou mot de passe incorrect." };
   }
 
-  const token = await signSession({
-    sub: user.id,
-    username: user.username,
-    name: user.name,
-    role: user.role,
-  });
+  let token: string;
+  try {
+    token = await signSession({
+      sub: user.id,
+      username: user.username,
+      name: user.name,
+      role: user.role,
+    });
+  } catch (error) {
+    if (error instanceof MissingAuthSecretError) {
+      console.error(error.message);
+      return {
+        ok: false,
+        error:
+          "L'espace d'administration est désactivé : la clé de session (AUTH_SECRET) n'est pas configurée sur cet hébergement.",
+      };
+    }
+    throw error;
+  }
 
   const jar = await cookies();
   jar.set(SESSION_COOKIE, token, {

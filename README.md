@@ -33,8 +33,15 @@ http://localhost:3000/admin
 
 ### Variables d'environnement
 
-Copiez `.env.example` vers `.env.local` et complétez-le. En développement, une clé
-de repli est utilisée si `AUTH_SECRET` est absent ; en production, définissez-la.
+Copiez `.env.example` vers `.env.local` et complétez-le.
+
+`AUTH_SECRET` signe les cookies de session de l'administration. **Définissez-la
+sur votre hébergement** (`openssl rand -base64 48`). La clé de développement
+présente dans le dépôt n'est jamais utilisée en production : à défaut
+d'`AUTH_SECRET`, la clé est dérivée de l'identifiant du déploiement — les
+sessions restent valides tant que la livraison ne change pas, et un
+avertissement s'affiche dans l'administration. Si aucun identifiant stable n'est
+disponible, les sessions sont refusées plutôt que devinables.
 
 ---
 
@@ -169,7 +176,9 @@ le méga-menu et le plan du site, sans intervention sur le code.
   constant, et vérification à vide lorsque l'identifiant est inconnu pour ne pas
   révéler l'existence d'un compte.
 - Sessions **JWT HS256** (jose) en cookie `HttpOnly`, `SameSite=Lax`, `Secure` en
-  production, d'une durée de huit heures.
+  production, d'une durée de huit heures. La clé de signature ne retombe jamais
+  sur la valeur inscrite dans le dépôt en production (voir *Variables
+  d'environnement*).
 - `src/proxy.ts` ferme toute l'arborescence `/admin` et mémorise la page demandée
   pour y revenir après connexion.
 - Toutes les entrées, publiques comme administratives, sont validées par **Zod**.
