@@ -36,11 +36,15 @@ http://localhost:3000/admin
 Copiez `.env.example` vers `.env.local` et complétez-le.
 
 `NEXT_PUBLIC_SITE_URL` fixe l'adresse absolue du site. Elle sert de base aux
-métadonnées, au sitemap et surtout aux **images de partage** : sans elle, celles-ci
-seraient annoncées sur un domaine qui ne les héberge pas. À défaut, l'adresse est
-déduite du déploiement (`VERCEL_PROJECT_PRODUCTION_URL`, puis `VERCEL_URL`) —
-mais la renseigner explicitement reste préférable, les pages statiques figeant
-cette valeur au moment de la compilation.
+métadonnées, au sitemap, à robots.txt et surtout aux **images de partage** :
+une adresse erronée les fait pointer vers un domaine qui ne les héberge pas.
+
+À défaut, l'adresse est déduite dans cet ordre : le poste local en
+développement, le domaine de production de l'hébergeur, puis l'adresse
+canonique déclarée dans `src/lib/site-url.ts` — aujourd'hui
+**https://colombelles.vercel.app**. Changez cette constante, ou renseignez la
+variable, si le site déménage : les pages statiques figent cette valeur au
+moment de la compilation.
 
 `AUTH_SECRET` signe les cookies de session de l'administration. **Définissez-la
 sur votre hébergement** (`openssl rand -base64 48`). La clé de développement

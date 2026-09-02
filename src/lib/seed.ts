@@ -24,7 +24,7 @@ const settings: Settings = {
   siteName: "Colombelles",
   tagline: "Ville de Colombelles",
   description:
-    "Site officiel de la Ville de Colombelles, commune de 7 200 habitants du Calvados, membre de la communauté urbaine Caen la mer.",
+    "Ville de Colombelles, commune de 7 200 habitants du Calvados, membre de la communauté urbaine Caen la mer. Démarches, actualités, agenda et services municipaux.",
   address: "Place François Mitterrand",
   postalCode: "14460",
   city: "Colombelles",
@@ -1861,7 +1861,7 @@ En cas de désaccord, vous pouvez saisir la Commission nationale de l'informatiq
       "Le site est conforme au RGAA 4.1. Une difficulté, une remarque ? Écrivez-nous, nous vous répondons.",
     content: `La Ville de Colombelles s'engage à rendre son site internet accessible à toutes et à tous, conformément à l'article 47 de la loi n° 2005-102 du 11 février 2005.
 
-Cette déclaration s'applique au site **www.colombelles.fr**.
+Cette déclaration s'applique au site **colombelles.vercel.app**.
 
 ## État de conformité
 
