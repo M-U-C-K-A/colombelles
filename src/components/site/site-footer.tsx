@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { ColorRule } from "@/components/site/horizon";
-import { LogoMark } from "@/components/site/logo";
+import { SiteLogo } from "@/components/site/logo";
 import { FOOTER_LINKS } from "@/lib/navigation";
 import { telHref } from "@/lib/format";
 import type { NavSection } from "@/lib/queries";
@@ -20,20 +20,7 @@ export function SiteFooter({
         <div className="swiss-grid">
           {/* Identité et contact */}
           <div className="col-span-4 lg:col-span-4">
-            <div className="flex items-center gap-3">
-              <LogoMark className="size-11" />
-              <span className="flex flex-col leading-none">
-                <span className="text-[0.625rem] font-medium tracking-[0.14em] uppercase opacity-60">
-                  Ville de
-                </span>
-                <span className="mt-1 text-xl leading-none font-semibold tracking-[-0.025em]">
-                  Colombelles
-                </span>
-                <span className="mt-1.5 text-[0.6875rem] opacity-70">
-                  Les couleurs de l&apos;horizon
-                </span>
-              </span>
-            </div>
+            <SiteLogo height={52} plate />
             <address className="mt-8 space-y-1 text-sm not-italic opacity-80">
               <p>Hôtel de ville</p>
               <p>{settings.address}</p>

@@ -146,7 +146,7 @@ export function AdminShell({
       {/* Barre latérale — écrans larges */}
       <aside className="sticky top-0 hidden h-screen w-64 shrink-0 flex-col bg-sidebar lg:flex">
         <div className="flex h-16 items-center gap-3 border-b border-sidebar-border px-5">
-          <LogoMark className="size-7" />
+          <LogoMark size={30} plate />
           <div className="leading-none">
             <p className="text-sm font-semibold tracking-[-0.02em] text-sidebar-foreground uppercase">
               Colombelles
@@ -173,7 +173,7 @@ export function AdminShell({
           >
             <div className="flex h-16 items-center justify-between border-b border-sidebar-border px-5">
               <div className="flex items-center gap-3">
-                <LogoMark className="size-7" />
+                <LogoMark size={30} plate />
                 <p className="text-sm font-semibold tracking-[-0.02em] text-sidebar-foreground uppercase">
                   Administration
                 </p>

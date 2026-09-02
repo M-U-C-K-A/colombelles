@@ -49,7 +49,6 @@ export const metadata: Metadata = {
       "Démarches, actualités, agenda et services de la Ville de Colombelles (Calvados).",
   },
   robots: { index: true, follow: true },
-  icons: { icon: "/icon.svg", apple: "/icon.svg" },
 };
 
 export const viewport: Viewport = {

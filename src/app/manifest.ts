@@ -12,7 +12,8 @@ export default function manifest(): MetadataRoute.Manifest {
     theme_color: "#d92b1f",
     lang: "fr-FR",
     icons: [
-      { src: "/icon.svg", sizes: "any", type: "image/svg+xml", purpose: "any" },
+      { src: "/icon", sizes: "128x128", type: "image/png", purpose: "any" },
+      { src: "/logo-colombelles.png", sizes: "288x100", type: "image/png" },
     ],
   };
 }

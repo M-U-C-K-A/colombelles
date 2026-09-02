@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { ChevronDown, Menu, Moon, Phone, Search, Sun, X } from "lucide-react";
 import { useTheme } from "next-themes";
-import { Wordmark } from "@/components/site/logo";
+import { SiteLogo } from "@/components/site/logo";
 import { SearchDialog } from "@/components/site/search-dialog";
 import {
   Accordion,
@@ -98,7 +98,7 @@ export function SiteHeader({ sections, phone }: Props) {
       <div className="rule-bottom" ref={navRef} onMouseLeave={scheduleClose}>
         <div className="swiss-container flex h-16 items-center justify-between gap-6 lg:h-20">
           <Link href="/" aria-label="Colombelles — accueil" className="shrink-0">
-            <Wordmark tagline={false} />
+            <SiteLogo height={46} priority className="dark:bg-white dark:px-2.5 dark:py-1.5" />
           </Link>
 
           <nav aria-label="Navigation principale" className="hidden h-full items-stretch lg:flex">
@@ -168,7 +168,7 @@ export function SiteHeader({ sections, phone }: Props) {
               >
                 <SheetTitle className="sr-only">Navigation</SheetTitle>
                 <div className="rule-bottom flex h-16 items-center justify-between px-5">
-                  <Wordmark tagline={false} />
+                  <SiteLogo height={38} className="dark:bg-white dark:px-2 dark:py-1" />
                   <button
                     type="button"
                     onClick={() => setMobileOpen(false)}
@@ -258,7 +258,7 @@ export function SiteHeader({ sections, phone }: Props) {
             onMouseEnter={cancelClose}
             onClickCapture={closeOnLink}
             style={themeStyle(section.theme)}
-            className="absolute inset-x-0 top-full hidden border-t-[5px] border-t-theme border-b border-b-border bg-background shadow-[0_24px_48px_-32px_rgba(0,0,0,0.35)] lg:block"
+            className="absolute inset-x-0 top-full hidden border-b border-b-border bg-background shadow-[0_24px_48px_-32px_rgba(0,0,0,0.35)] lg:block"
           >
             <div className="swiss-container py-10">
               <div className="swiss-grid">

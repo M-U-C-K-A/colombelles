@@ -204,10 +204,10 @@ inchangés.
 
 Les informations pratiques — adresse, téléphone, horaires, arborescence des
 rubriques, patrimoine industriel — reprennent celles du site municipal de
-Colombelles. La marque du site est un **dessin original** reprenant le principe
-du logo de la ville (un C ouvert, un éventail de couleurs sur la ligne
-d'horizon, la devise « Les couleurs de l'horizon ») ; il n'utilise pas le
-fichier du logo officiel, qu'il conviendra de substituer. **Les articles, événements, documents, noms d'élus et fiches
+Colombelles, **logo officiel compris** (`public/logo-colombelles.png`, repris du
+site municipal ; le favicon en est le pictogramme recadré à la volée par
+`src/app/icon.tsx`). Ce logo reste la propriété de la Ville : son usage ici
+relève de la démonstration. **Les articles, événements, documents, noms d'élus et fiches
 d'annuaire sont des contenus de démonstration**, destinés à être remplacés depuis
 l'espace d'administration. Les noms de personnes sont fictifs.
 

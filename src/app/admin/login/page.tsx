@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 import { LoginForm } from "@/components/admin/login-form";
-import { LogoMark } from "@/components/site/logo";
+import { SiteLogo } from "@/components/site/logo";
 
 export const metadata: Metadata = {
   title: "Connexion",
@@ -17,12 +17,7 @@ export default async function LoginPage({ searchParams }: PageProps<"/admin/logi
     <div className="grid min-h-screen lg:grid-cols-2">
       {/* Colonne d'identité */}
       <aside className="relative hidden flex-col justify-between bg-foreground p-12 text-background lg:flex">
-        <div className="flex items-center gap-3">
-          <LogoMark />
-          <span className="text-[1.0625rem] font-semibold tracking-[-0.02em] uppercase">
-            Colombelles
-          </span>
-        </div>
+        <SiteLogo height={46} plate />
 
         <div>
           <p className="eyebrow text-background/60">Espace d&apos;administration</p>
@@ -47,7 +42,7 @@ export default async function LoginPage({ searchParams }: PageProps<"/admin/logi
       <main className="flex flex-col justify-center px-6 py-16 sm:px-12 lg:px-20">
         <div className="mx-auto w-full max-w-sm">
           <div className="lg:hidden">
-            <LogoMark />
+            <SiteLogo height={42} />
           </div>
           <p className="eyebrow mt-8 text-rouge lg:mt-0">Connexion</p>
           <h1 className="display mt-5 text-[2.25rem]">Espace d&apos;administration</h1>
