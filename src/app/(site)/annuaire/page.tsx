@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Globe, Mail, MapPin, Phone } from "lucide-react";
+import { themeStyle } from "@/lib/themes";
 import { PageHeader } from "@/components/site/page-header";
 import { telHref } from "@/lib/format";
 import { getDirectory } from "@/lib/queries";
@@ -36,13 +37,14 @@ export default async function Page({ searchParams }: PageProps<"/annuaire">) {
   return (
     <>
       <PageHeader
+        theme={"culture"}
         crumbs={[{ label: "Annuaire" }]}
         eyebrow={`${all.length} structures référencées`}
         title="Annuaire"
         lead="Les associations, commerces et équipements de la commune. Pour être référencé ou corriger une fiche, écrivez à l'accueil de la mairie."
       />
 
-      <div className="swiss-container py-12 md:py-16">
+      <div style={themeStyle("culture")} className="swiss-container py-12 md:py-16">
         <nav aria-label="Filtrer l'annuaire" className="rule-bottom flex flex-wrap gap-2 pb-6">
           {TYPES.map((item) => (
             <Link

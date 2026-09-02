@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { themeStyle } from "@/lib/themes";
 import { PageHeader } from "@/components/site/page-header";
 import { FOOTER_LINKS } from "@/lib/navigation";
 import { getNavigation } from "@/lib/queries";
@@ -28,13 +29,14 @@ export default async function Page() {
   return (
     <>
       <PageHeader
+        theme={"mairie"}
         crumbs={[{ label: "Plan du site" }]}
         eyebrow="Arborescence"
         title="Plan du site"
         lead="L'ensemble des pages publiées, organisées par rubrique."
       />
 
-      <div className="swiss-container py-14 md:py-20">
+      <div style={themeStyle("mairie")} className="swiss-container py-14 md:py-20">
         <div className="space-y-16">
           <section>
             <h2 className="rule-strong pt-4 pb-5 text-xl font-medium tracking-[-0.02em]">
@@ -43,7 +45,7 @@ export default async function Page() {
             <ul className="grid gap-x-8 gap-y-1 sm:grid-cols-2 lg:grid-cols-3">
               {TRANSVERSAL.map((link) => (
                 <li key={link.href} className="rule-bottom py-2.5">
-                  <Link href={link.href} className="text-sm hover:text-rouge">
+                  <Link href={link.href} className="text-sm hover:text-theme">
                     {link.label}
                   </Link>
                 </li>
@@ -54,7 +56,7 @@ export default async function Page() {
           {sections.map((section) => (
             <section key={section.key}>
               <h2 className="rule-strong pt-4 pb-5 text-xl font-medium tracking-[-0.02em]">
-                <Link href={section.href} className="hover:text-rouge">
+                <Link href={section.href} className="hover:text-theme">
                   {section.label}
                 </Link>
               </h2>
@@ -65,7 +67,7 @@ export default async function Page() {
                     <ul className="space-y-1">
                       {group.links.map((link) => (
                         <li key={link.href + link.label} className="rule-bottom py-2">
-                          <Link href={link.href} className="text-sm hover:text-rouge">
+                          <Link href={link.href} className="text-sm hover:text-theme">
                             {link.label}
                           </Link>
                         </li>
@@ -84,7 +86,7 @@ export default async function Page() {
             <ul className="grid gap-x-8 gap-y-1 sm:grid-cols-2 lg:grid-cols-3">
               {FOOTER_LINKS.map((link) => (
                 <li key={link.href} className="rule-bottom py-2.5">
-                  <Link href={link.href} className="text-sm hover:text-rouge">
+                  <Link href={link.href} className="text-sm hover:text-theme">
                     {link.label}
                   </Link>
                 </li>

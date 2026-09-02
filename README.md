@@ -40,31 +40,55 @@ de repli est utilisée si `AUTH_SECRET` est absent ; en production, définissez-
 
 ## Parti pris graphique
 
-Le site suit les principes du **style typographique international** (école suisse) :
+### Rigueur suisse, couleurs de la ville
+
+La mise en page suit les principes du **style typographique international** :
 
 - **Grille** — 12 colonnes sur grand écran, 8 sur tablette, 4 sur mobile
-  (`.swiss-grid`, `.swiss-container`). Les compositions sont asymétriques et les
-  contenus alignés sur la grille plutôt que centrés.
+  (`.swiss-grid`, `.swiss-container`). Compositions asymétriques, contenus alignés
+  sur la grille plutôt que centrés.
 - **Typographie** — **Geist** (SIL Open Font License 1.1), néo-grotesque proche des
   grotesques suisses, avec chiffres tabulaires pour les tableaux d'horaires. Texte
   toujours fer à gauche, drapeau à droite : jamais de justification.
-- **Hiérarchie par l'échelle** — pas d'ornement, pas d'ombre portée dans l'interface
-  courante. Les séparations sont des filets capillaires (`.rule-top`,
-  `.rule-bottom`, `.rule-strong`).
-- **Angles vifs** — `--radius: 0`.
-- **Une seule couleur d'accent** — un rouge signalétique (`--rouge`), complété d'une
-  rouille (`--fonte`, mémoire sidérurgique), d'un acier et d'un bleu d'eau réservés
-  aux usages fonctionnels.
+- **Hiérarchie par l'échelle** — pas d'ornement, aucune ombre portée. Les
+  séparations sont des filets (`.rule-top`, `.rule-bottom`, `.rule-strong`).
+- **Angles vifs** — `--radius: 0`. Aucun effet de relief ni de matière.
 
-### Le claymorphisme, et où il s'arrête
+### « Les couleurs de l'horizon »
 
-Le claymorphisme est cantonné aux **blocs consacrés à la mémoire industrielle** :
-la composition du haut fourneau en page d'accueil, le portrait de la maire, les
-pastilles de date de l'agenda. Volumes modelés, arrondis généreux, doubles ombres
-interne et externe (`.clay`, `.clay-deep`, `.clay-inset`). Ailleurs, la rigueur
-suisse reste intacte — le contraste entre les deux registres est délibéré.
+Le logo municipal enferme un éventail de couleurs dans un C ouvert. Le site en
+fait un **code de repérage** : chaque grand domaine porte sa teinte, si bien que
+l'on sait d'un coup d'œil où l'on se trouve.
 
-Le thème sombre est pris en charge sur l'ensemble du site.
+| Couleur | Domaine | Jeton |
+| --- | --- | --- |
+| Rouge | Actualités, vie municipale | `--t-actu` |
+| Bleu nuit | Institution, budget, élections | `--t-mairie` |
+| Violet | Démarches, état civil, prise de contact | `--t-contact` |
+| Bleu | Écoles, jeunesse | `--t-ecole` |
+| Bleu ciel | Famille, petite enfance, menus scolaires | `--t-famille` |
+| Framboise | Solidarité, seniors, santé | `--t-solidarite` |
+| Vert | Environnement, déchets, nature | `--t-nature` |
+| Vert olive | Sport et loisirs | `--t-sport` |
+| Orange | Emploi, commerce, économie | `--t-emploi` |
+| Magenta | Culture, agenda | `--t-culture` |
+| Rouille | Patrimoine, histoire industrielle | `--t-patrimoine` |
+
+La couleur se lit dans le bandeau supérieur de chaque page, l'étiquette de
+rubrique, le fil d'Ariane, le soulignement de l'onglet de navigation, les
+pastilles du méga-menu, les tuiles d'accès rapide, les étiquettes d'articles et
+le quantième des événements.
+
+**Mise en œuvre.** `src/lib/themes.ts` déclare les thèmes ; `themeStyle(theme)`
+pose `--theme` sur un conteneur, et les utilitaires `theme-text`, `theme-bg`,
+`theme-rule`, `theme-wash`, `theme-dot` (déclarés en `@utility`, donc compatibles
+avec `hover:` et `dark:`) s'en servent. Chaque actualité, événement et page porte
+un champ `theme` modifiable depuis l'administration.
+
+**Accessibilité.** Les onze teintes sont calées pour dépasser 4,5:1 **dans les
+deux sens** — en texte coloré sur le papier du site, et en blanc sur aplat
+coloré. La couleur ne porte jamais seule une information : elle double toujours
+un libellé.
 
 ---
 
@@ -180,7 +204,10 @@ inchangés.
 
 Les informations pratiques — adresse, téléphone, horaires, arborescence des
 rubriques, patrimoine industriel — reprennent celles du site municipal de
-Colombelles. **Les articles, événements, documents, noms d'élus et fiches
+Colombelles. La marque du site est un **dessin original** reprenant le principe
+du logo de la ville (un C ouvert, un éventail de couleurs sur la ligne
+d'horizon, la devise « Les couleurs de l'horizon ») ; il n'utilise pas le
+fichier du logo officiel, qu'il conviendra de substituer. **Les articles, événements, documents, noms d'élus et fiches
 d'annuaire sont des contenus de démonstration**, destinés à être remplacés depuis
 l'espace d'administration. Les noms de personnes sont fictifs.
 

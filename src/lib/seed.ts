@@ -58,6 +58,7 @@ const settings: Settings = {
 const news: NewsItem[] = [
   {
     id: "n-001",
+    theme: "ecole",
     slug: "rentree-scolaire-2026-les-nouveautes",
     title: "Rentrée scolaire : ce qui change dans les écoles colombelloises",
     excerpt:
@@ -86,6 +87,7 @@ Toutes les informations pratiques sont disponibles auprès du service Éducation
   },
   {
     id: "n-002",
+    theme: "actu",
     slug: "budget-participatif-2026-les-projets-laureats",
     title: "Budget participatif : les six projets retenus par les habitants",
     excerpt:
@@ -115,6 +117,7 @@ L'enveloppe globale s'élève à 130 000 €, soit 18 € par habitant.`,
   },
   {
     id: "n-003",
+    theme: "patrimoine",
     slug: "le-plateau-nouvelle-etape-amenagement",
     title: "Le Plateau : une nouvelle étape pour l'ancien site sidérurgique",
     excerpt:
@@ -145,6 +148,7 @@ La tour de refroidissement et le bâtiment des soufflantes, inscrits au titre du
   },
   {
     id: "n-004",
+    theme: "culture",
     slug: "mediatheque-le-phenix-horaires-elargis",
     title: "La médiathèque Le Phénix ouvre le dimanche matin",
     excerpt:
@@ -174,6 +178,7 @@ L'inscription reste gratuite pour tous les habitants de Caen la mer.`,
   },
   {
     id: "n-005",
+    theme: "mairie",
     slug: "travaux-rue-jean-jaures-septembre",
     title: "Travaux rue Jean-Jaurès : circulation modifiée jusqu'au 31 octobre",
     excerpt:
@@ -199,6 +204,7 @@ Pour toute question relative au chantier : service technique municipal, 02 31 35
   },
   {
     id: "n-006",
+    theme: "culture",
     slug: "forum-des-associations-2026",
     title: "Forum des associations : 68 structures au gymnase Marcel-Cerdan",
     excerpt:
@@ -226,6 +232,7 @@ Le guide des associations est également téléchargeable dans la rubrique publi
   },
   {
     id: "n-007",
+    theme: "nature",
     slug: "collecte-dechets-nouveau-calendrier",
     title: "Déchets : nouveau calendrier de collecte au 1er octobre",
     excerpt:
@@ -253,6 +260,7 @@ Un calendrier papier sera distribué dans les boîtes aux lettres à partir du 1
   },
   {
     id: "n-008",
+    theme: "actu",
     slug: "recensement-population-2027-preparation",
     title: "Recensement 2027 : la commune recrute des agents recenseurs",
     excerpt:
@@ -280,6 +288,7 @@ Les candidatures (CV et lettre) sont à adresser au service des ressources humai
   },
   {
     id: "n-009",
+    theme: "actu",
     slug: "conseil-municipal-seance-septembre",
     title: "Conseil municipal : séance publique le 24 septembre",
     excerpt:
@@ -304,6 +313,7 @@ Les séances sont ouvertes au public et retransmises en direct. Les procès-verb
   },
   {
     id: "n-010",
+    theme: "solidarite",
     slug: "plan-canicule-inscription-registre",
     title: "Registre canicule : pensez à vous inscrire",
     excerpt:
@@ -330,6 +340,7 @@ Auprès du CCAS, place François Mitterrand, ou par téléphone au 02 31 35 25 2
   },
   {
     id: "n-011",
+    theme: "actu",
     slug: "brouillon-voeux-du-maire",
     title: "Cérémonie des vœux 2027",
     excerpt: "Article en cours de rédaction.",
@@ -346,6 +357,7 @@ Auprès du CCAS, place François Mitterrand, ou par téléphone au 02 31 35 25 2
 const events: EventItem[] = [
   {
     id: "e-001",
+    theme: "culture",
     slug: "forum-des-associations",
     title: "Forum des associations",
     excerpt: "68 associations vous accueillent pour les inscriptions de la saison.",
@@ -361,6 +373,7 @@ const events: EventItem[] = [
   },
   {
     id: "e-002",
+    theme: "patrimoine",
     slug: "journees-du-patrimoine-haut-fourneau",
     title: "Journées du patrimoine — Sur les traces de la SMN",
     excerpt: "Visite guidée du site sidérurgique et de la tour de refroidissement.",
@@ -377,6 +390,7 @@ const events: EventItem[] = [
   },
   {
     id: "e-003",
+    theme: "actu",
     slug: "conseil-municipal-24-septembre",
     title: "Conseil municipal",
     excerpt: "Séance publique — décision modificative et tarifs 2027.",
@@ -391,6 +405,7 @@ const events: EventItem[] = [
   },
   {
     id: "e-004",
+    theme: "culture",
     slug: "concert-la-renaissance-quatuor",
     title: "Quatuor Debussy — saison du théâtre La Renaissance",
     excerpt: "Ouverture de la saison musicale avec Ravel, Debussy et Dutilleux.",
@@ -406,6 +421,7 @@ const events: EventItem[] = [
   },
   {
     id: "e-005",
+    theme: "emploi",
     slug: "marche-hebdomadaire",
     title: "Marché hebdomadaire",
     excerpt: "Producteurs et commerçants, tous les jeudis matin.",
@@ -421,6 +437,7 @@ const events: EventItem[] = [
   },
   {
     id: "e-006",
+    theme: "solidarite",
     slug: "atelier-numerique-seniors",
     title: "Atelier numérique pour les seniors",
     excerpt: "Prise en main du smartphone et des démarches en ligne.",
@@ -437,6 +454,7 @@ const events: EventItem[] = [
   },
   {
     id: "e-007",
+    theme: "nature",
     slug: "nettoyage-berges-de-l-orne",
     title: "Nettoyage participatif des berges de l'Orne",
     excerpt: "Opération citoyenne avec le service environnement.",
@@ -452,6 +470,7 @@ const events: EventItem[] = [
   },
   {
     id: "e-008",
+    theme: "culture",
     slug: "micro-folie-musee-numerique",
     title: "Micro-Folie — Le musée numérique",
     excerpt: "Découverte des collections de douze musées nationaux.",
@@ -471,6 +490,7 @@ const pages: PageItem[] = [
   /* ---------- Votre mairie ---------- */
   {
     id: "p-001",
+    theme: "mairie",
     slug: "presentation-de-la-ville",
     title: "Présentation de la ville",
     section: "votre-mairie",
@@ -503,6 +523,7 @@ Colombelles est membre de la communauté urbaine Caen la mer. Les 300 hectares d
   },
   {
     id: "p-002",
+    theme: "mairie",
     slug: "au-sein-de-caen-la-mer",
     title: "Au sein de Caen la mer",
     section: "votre-mairie",
@@ -537,6 +558,7 @@ Un guichet unique en mairie oriente les habitants vers le bon interlocuteur, que
   },
   {
     id: "p-003",
+    theme: "mairie",
     slug: "les-quartiers",
     title: "Les quartiers",
     section: "votre-mairie",
@@ -567,6 +589,7 @@ Secteur pavillonnaire situé à l'est de la commune, développé à partir des a
   },
   {
     id: "p-004",
+    theme: "emploi",
     slug: "marche-hebdomadaire",
     title: "Marché hebdomadaire",
     section: "votre-mairie",
@@ -589,6 +612,7 @@ Contact : reglementation@colombelles.fr — 02 31 35 25 18`,
   },
   {
     id: "p-005",
+    theme: "mairie",
     slug: "budget",
     title: "Budget de la commune",
     section: "votre-mairie",
@@ -632,6 +656,7 @@ L'encours de dette s'élève à 612 € par habitant, contre 748 € pour la moy
   },
   {
     id: "p-006",
+    theme: "actu",
     slug: "budget-participatif",
     title: "Budget participatif",
     section: "votre-mairie",
@@ -671,6 +696,7 @@ Le projet doit :
   },
   {
     id: "p-007",
+    theme: "mairie",
     slug: "elections",
     title: "Élections",
     section: "votre-mairie",
@@ -710,6 +736,7 @@ Le bureau d'affectation est indiqué sur la carte électorale.
   /* ---------- Démarches pratiques ---------- */
   {
     id: "p-101",
+    theme: "contact",
     slug: "etat-civil",
     title: "État civil",
     section: "demarches",
@@ -754,6 +781,7 @@ La déclaration de décès s'effectue dans les 24 heures. Le cimetière communal
   },
   {
     id: "p-102",
+    theme: "contact",
     slug: "carte-identite-passeport",
     title: "Carte d'identité et passeport",
     section: "demarches",
@@ -795,6 +823,7 @@ Le titre est à retirer en personne dans les trois mois. Un SMS vous prévient d
   },
   {
     id: "p-103",
+    theme: "patrimoine",
     slug: "urbanisme",
     title: "Urbanisme et autorisations de travaux",
     section: "demarches",
@@ -837,6 +866,7 @@ La commune dispose d'un droit de préemption sur les zones urbaines et à urbani
   },
   {
     id: "p-104",
+    theme: "nature",
     slug: "dechets-et-proprete",
     title: "Déchets et propreté",
     section: "demarches",
@@ -879,6 +909,7 @@ Caen la mer met à disposition des composteurs individuels au tarif de 20 €, e
   },
   {
     id: "p-105",
+    theme: "actu",
     slug: "prevention-securite",
     title: "Prévention et sécurité",
     section: "demarches",
@@ -926,6 +957,7 @@ Vingt-deux caméras couvrent les espaces publics sensibles. Les images sont cons
   },
   {
     id: "p-106",
+    theme: "famille",
     slug: "portail-famille",
     title: "Portail famille",
     section: "demarches",
@@ -957,6 +989,7 @@ Le tarif du repas est calculé sur le quotient familial, de 0,85 € à 4,60 €
   },
   {
     id: "p-107",
+    theme: "culture",
     slug: "location-de-salles",
     title: "Location de salles et prêt de matériel",
     section: "demarches",
@@ -990,6 +1023,7 @@ Tables, bancs, chaises, barrières, grilles d'exposition, sonorisation légère 
   },
   {
     id: "p-108",
+    theme: "nature",
     slug: "transports-et-deplacements",
     title: "Transports et déplacements",
     section: "demarches",
@@ -1025,6 +1059,7 @@ Deux aires de covoiturage sont aménagées à l'entrée du Plateau et près de l
   /* ---------- Vivre à Colombelles ---------- */
   {
     id: "p-201",
+    theme: "solidarite",
     slug: "centre-communal-d-action-sociale",
     title: "Centre communal d'action sociale",
     section: "vivre-a-colombelles",
@@ -1057,6 +1092,7 @@ Le CCAS conduit tous les mandats une analyse des besoins sociaux du territoire. 
   },
   {
     id: "p-202",
+    theme: "ecole",
     slug: "ecoles-maternelles-et-elementaires",
     title: "Écoles maternelles et élémentaires",
     section: "vivre-a-colombelles",
@@ -1093,6 +1129,7 @@ Une demande de dérogation à la carte scolaire peut être déposée pour motif 
   },
   {
     id: "p-203",
+    theme: "famille",
     slug: "petite-enfance",
     title: "Petite enfance",
     section: "vivre-a-colombelles",
@@ -1123,6 +1160,7 @@ Espace de jeu libre et d'échange, ouvert sans inscription aux enfants de moins 
   },
   {
     id: "p-204",
+    theme: "ecole",
     slug: "jeunesse",
     title: "Jeunesse",
     section: "vivre-a-colombelles",
@@ -1158,6 +1196,7 @@ Deux médiateurs de rue interviennent en soirée sur l'espace public, en lien av
   },
   {
     id: "p-205",
+    theme: "solidarite",
     slug: "seniors",
     title: "Seniors",
     section: "vivre-a-colombelles",
@@ -1192,6 +1231,7 @@ L'inscription, volontaire et gratuite, permet un suivi téléphonique en cas de 
   },
   {
     id: "p-206",
+    theme: "sport",
     slug: "sport-et-equipements-sportifs",
     title: "Sport et équipements sportifs",
     section: "vivre-a-colombelles",
@@ -1227,6 +1267,7 @@ Les demandes de créneaux sont instruites en juin pour la saison suivante. Elles
   },
   {
     id: "p-207",
+    theme: "nature",
     slug: "environnement-et-biodiversite",
     title: "Environnement et biodiversité",
     section: "vivre-a-colombelles",
@@ -1259,6 +1300,7 @@ Trois kilomètres d'espaces continus relient le centre-bourg aux berges de l'Orn
   /* ---------- Sortir et découvrir ---------- */
   {
     id: "p-301",
+    theme: "patrimoine",
     slug: "societe-metallurgique-de-normandie",
     title: "La Société métallurgique de Normandie",
     section: "sortir-et-decouvrir",
@@ -1298,6 +1340,7 @@ Les 300 hectares dépollués accueillent aujourd'hui un parc d'activités, des e
   },
   {
     id: "p-302",
+    theme: "patrimoine",
     slug: "historique-de-colombelles",
     title: "Historique de Colombelles",
     section: "sortir-et-decouvrir",
@@ -1339,6 +1382,7 @@ Colombelles reste un village agricole de la plaine de Caen, marqué par la cultu
   },
   {
     id: "p-303",
+    theme: "culture",
     slug: "mediatheque-le-phenix",
     title: "Médiathèque Le Phénix",
     section: "sortir-et-decouvrir",
@@ -1384,6 +1428,7 @@ Huit postes en accès libre, accompagnement aux démarches en ligne, ateliers he
   },
   {
     id: "p-304",
+    theme: "culture",
     slug: "theatre-la-renaissance",
     title: "Théâtre La Renaissance",
     section: "sortir-et-decouvrir",
@@ -1416,6 +1461,7 @@ La salle peut être mise à disposition des associations colombelloises pour leu
   },
   {
     id: "p-305",
+    theme: "nature",
     slug: "nature-et-balades",
     title: "Nature et balades",
     section: "sortir-et-decouvrir",
@@ -1450,6 +1496,7 @@ Les fiches détaillées sont disponibles à l'accueil de la mairie et en téléc
   },
   {
     id: "p-306",
+    theme: "famille",
     slug: "lieux-de-vie",
     title: "Lieux de vie",
     section: "sortir-et-decouvrir",
@@ -1488,6 +1535,7 @@ Espace de jeu libre pour les moins de 4 ans accompagnés d'un adulte. Gratuit, s
   /* ---------- Institutionnel ---------- */
   {
     id: "p-901",
+    theme: "mairie",
     slug: "mentions-legales",
     title: "Mentions légales",
     section: "institutionnel",
@@ -1530,6 +1578,7 @@ Police de caractères : Geist, distribuée sous licence SIL Open Font License 1.
   },
   {
     id: "p-902",
+    theme: "mairie",
     slug: "donnees-personnelles",
     title: "Données personnelles",
     section: "institutionnel",
@@ -1569,6 +1618,7 @@ En cas de désaccord, vous pouvez saisir la Commission nationale de l'informatiq
   },
   {
     id: "p-903",
+    theme: "mairie",
     slug: "accessibilite",
     title: "Accessibilité : partiellement conforme",
     section: "institutionnel",

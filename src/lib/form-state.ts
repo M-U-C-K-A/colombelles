@@ -9,6 +9,8 @@ export interface ActionState {
   status: "idle" | "error";
   message?: string;
   errors?: Record<string, string>;
+  /** Saisie renvoyée telle quelle, pour ne rien perdre après une erreur. */
+  values?: Record<string, string>;
 }
 
 export const idleState: ActionState = { status: "idle" };
@@ -18,6 +20,8 @@ export interface FormState {
   message?: string;
   errors?: Record<string, string>;
   reference?: string;
+  /** Saisie renvoyée telle quelle, pour ne rien perdre après une erreur. */
+  values?: Record<string, string>;
 }
 
 export const initialFormState: FormState = { status: "idle" };

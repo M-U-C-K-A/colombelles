@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Clock, Mail, MapPin, Phone } from "lucide-react";
+import { themeStyle } from "@/lib/themes";
 import { PageHeader } from "@/components/site/page-header";
 import { telHref } from "@/lib/format";
 import { getServices } from "@/lib/queries";
@@ -16,6 +17,7 @@ export default async function Page() {
   return (
     <>
       <PageHeader
+        theme={"mairie"}
         crumbs={[
           { label: "Votre mairie", href: "/votre-mairie" },
           { label: "Services de la ville" },
@@ -25,11 +27,11 @@ export default async function Page() {
         lead="Un guichet unique en mairie oriente vers le bon interlocuteur. Voici le détail des services, leurs missions et leurs horaires."
       />
 
-      <div className="swiss-container py-14 md:py-20">
-        <ul className="grid gap-px bg-border md:grid-cols-2">
+      <div style={themeStyle("mairie")} className="swiss-container py-14 md:py-20">
+        <ul className="grid border-t border-l border-border md:grid-cols-2">
           {services.map((service, index) => (
-            <li key={service.id} className="flex flex-col bg-background p-7">
-              <span className="numeral eyebrow text-rouge">
+            <li key={service.id} className="flex flex-col border-r border-b border-border p-7">
+              <span className="numeral eyebrow text-theme">
                 {String(index + 1).padStart(2, "0")}
               </span>
               <h2 className="mt-4 text-xl leading-snug font-medium tracking-[-0.02em]">

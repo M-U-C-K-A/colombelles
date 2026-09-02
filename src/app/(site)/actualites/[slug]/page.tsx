@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft } from "lucide-react";
 import { NewsCard } from "@/components/site/cards";
+import { themeStyle } from "@/lib/themes";
 import { PageHeader, SectionTitle } from "@/components/site/page-header";
 import { formatDate } from "@/lib/format";
 import { Markdown, plainText } from "@/lib/markdown";
@@ -41,6 +42,7 @@ export default async function Page({ params }: PageProps<"/actualites/[slug]">) 
   return (
     <>
       <PageHeader
+        theme={item.theme}
         crumbs={[
           { label: "Actualités", href: "/actualites" },
           { label: item.category, href: `/actualites?categorie=${encodeURIComponent(item.category)}` },
@@ -51,7 +53,7 @@ export default async function Page({ params }: PageProps<"/actualites/[slug]">) 
         lead={item.excerpt}
       />
 
-      <div className="swiss-container py-14 md:py-20">
+      <div style={themeStyle(item.theme)} className="swiss-container py-14 md:py-20">
         <div className="swiss-grid">
           <aside className="col-span-4 md:col-span-8 lg:col-span-3">
             <dl className="rule-strong space-y-5 pt-4 text-sm lg:sticky lg:top-28">

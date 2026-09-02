@@ -14,6 +14,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 import { Sheet, SheetContent, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
+import { themeStyle } from "@/lib/themes";
 import { cn } from "@/lib/utils";
 import type { NavSection } from "@/lib/queries";
 
@@ -97,7 +98,7 @@ export function SiteHeader({ sections, phone }: Props) {
       <div className="rule-bottom" ref={navRef} onMouseLeave={scheduleClose}>
         <div className="swiss-container flex h-16 items-center justify-between gap-6 lg:h-20">
           <Link href="/" aria-label="Colombelles — accueil" className="shrink-0">
-            <Wordmark />
+            <Wordmark tagline={false} />
           </Link>
 
           <nav aria-label="Navigation principale" className="hidden h-full items-stretch lg:flex">
@@ -105,7 +106,7 @@ export function SiteHeader({ sections, phone }: Props) {
               const active = pathname.startsWith(section.href);
               const expanded = open === section.key;
               return (
-                <div key={section.key} className="flex items-stretch">
+                <div key={section.key} style={themeStyle(section.theme)} className="flex items-stretch">
                   <button
                     type="button"
                     aria-expanded={expanded}
@@ -117,10 +118,10 @@ export function SiteHeader({ sections, phone }: Props) {
                     onClick={() => setOpen(expanded ? null : section.key)}
                     className={cn(
                       "relative flex items-center gap-1.5 px-5 text-[0.9375rem] font-medium transition-colors",
-                      "after:absolute after:inset-x-0 after:bottom-0 after:h-[3px] after:transition-colors",
+                      "after:absolute after:inset-x-0 after:bottom-0 after:h-[4px] after:transition-all",
                       active || expanded
-                        ? "text-foreground after:bg-rouge"
-                        : "text-muted-foreground after:bg-transparent hover:text-foreground",
+                        ? "text-theme after:bg-theme"
+                        : "text-muted-foreground after:bg-transparent hover:text-foreground hover:after:bg-theme/35",
                     )}
                   >
                     {section.label}
@@ -167,7 +168,7 @@ export function SiteHeader({ sections, phone }: Props) {
               >
                 <SheetTitle className="sr-only">Navigation</SheetTitle>
                 <div className="rule-bottom flex h-16 items-center justify-between px-5">
-                  <Wordmark />
+                  <Wordmark tagline={false} />
                   <button
                     type="button"
                     onClick={() => setMobileOpen(false)}
@@ -183,15 +184,19 @@ export function SiteHeader({ sections, phone }: Props) {
                       <AccordionItem
                         key={section.key}
                         value={section.key}
+                        style={themeStyle(section.theme)}
                         className="rule-bottom border-b-0 px-5"
                       >
                         <AccordionTrigger className="py-4 text-base font-medium hover:no-underline">
-                          {section.label}
+                          <span className="flex items-center gap-3">
+                            <span className="theme-bg block h-1 w-6" aria-hidden="true" />
+                            {section.label}
+                          </span>
                         </AccordionTrigger>
                         <AccordionContent className="pb-5">
                           <Link
                             href={section.href}
-                            className="eyebrow mb-4 inline-block text-rouge"
+                            className="eyebrow mb-4 inline-block text-theme"
                           >
                             Voir la rubrique →
                           </Link>
@@ -203,11 +208,12 @@ export function SiteHeader({ sections, phone }: Props) {
                                 </p>
                                 <ul className="space-y-1.5">
                                   {group.links.map((link) => (
-                                    <li key={link.href + link.label}>
+                                    <li key={link.href + link.label} style={themeStyle(link.theme)}>
                                       <Link
                                         href={link.href}
-                                        className="text-[0.9375rem] text-foreground/80 hover:text-foreground"
+                                        className="flex items-start gap-2.5 text-[0.9375rem] text-foreground/80 hover:text-foreground"
                                       >
+                                        <span className="theme-dot mt-1.5" aria-hidden="true" />
                                         {link.label}
                                       </Link>
                                     </li>
@@ -251,12 +257,13 @@ export function SiteHeader({ sections, phone }: Props) {
             hidden={open !== section.key}
             onMouseEnter={cancelClose}
             onClickCapture={closeOnLink}
-            className="absolute inset-x-0 top-full hidden border-b border-border bg-background shadow-[0_24px_48px_-32px_rgba(0,0,0,0.35)] lg:block"
+            style={themeStyle(section.theme)}
+            className="absolute inset-x-0 top-full hidden border-t-[5px] border-t-theme border-b border-b-border bg-background shadow-[0_24px_48px_-32px_rgba(0,0,0,0.35)] lg:block"
           >
             <div className="swiss-container py-10">
               <div className="swiss-grid">
                 <div className="col-span-3">
-                  <p className="eyebrow text-rouge">Rubrique</p>
+                  <p className="eyebrow theme-bg inline-block px-2 py-1">Rubrique</p>
                   <h2 className="mt-3 text-2xl font-medium tracking-[-0.02em]">
                     {section.label}
                   </h2>
@@ -278,11 +285,12 @@ export function SiteHeader({ sections, phone }: Props) {
                       </p>
                       <ul className="mt-3 space-y-2">
                         {group.links.map((link) => (
-                          <li key={link.href + link.label}>
+                          <li key={link.href + link.label} style={themeStyle(link.theme)}>
                             <Link
                               href={link.href}
-                              className="text-[0.9375rem] leading-snug text-foreground/80 transition-colors hover:text-rouge"
+                              className="flex items-start gap-2.5 text-[0.9375rem] leading-snug text-foreground/80 transition-colors hover:text-theme"
                             >
+                              <span className="theme-dot mt-1.5" aria-hidden="true" />
                               {link.label}
                             </Link>
                           </li>

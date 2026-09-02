@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowUpRight, CalendarClock } from "lucide-react";
+import { themeStyle } from "@/lib/themes";
 import { PageHeader } from "@/components/site/page-header";
 import { formatDate } from "@/lib/format";
 import { getJobs } from "@/lib/queries";
@@ -17,13 +18,14 @@ export default async function Page() {
   return (
     <>
       <PageHeader
+        theme={"emploi"}
         crumbs={[{ label: "Offres d'emploi" }]}
         eyebrow={`${jobs.length} poste${jobs.length > 1 ? "s" : ""} à pourvoir`}
         title="Offres d'emploi"
         lead="La Ville de Colombelles emploie 140 agents dans une vingtaine de métiers. Les candidatures spontanées sont également étudiées."
       />
 
-      <div className="swiss-container py-14 md:py-20">
+      <div style={themeStyle("emploi")} className="swiss-container py-14 md:py-20">
         {jobs.length === 0 ? (
           <p className="py-20 text-center text-muted-foreground">
             Aucune offre en cours. Les candidatures spontanées restent les bienvenues.
@@ -36,11 +38,11 @@ export default async function Page() {
                   href={`/emploi/${job.slug}`}
                   className="group flex flex-col gap-5 rule-bottom py-7 lg:flex-row lg:items-center lg:gap-10"
                 >
-                  <span className="numeral eyebrow shrink-0 text-rouge lg:w-12">
+                  <span className="numeral eyebrow shrink-0 text-theme lg:w-12">
                     {String(index + 1).padStart(2, "0")}
                   </span>
                   <span className="min-w-0 flex-1">
-                    <span className="block text-xl leading-snug font-medium tracking-[-0.02em] transition-colors group-hover:text-rouge">
+                    <span className="block text-xl leading-snug font-medium tracking-[-0.02em] transition-colors group-hover:text-theme">
                       {job.title}
                     </span>
                     <span className="mt-2 flex flex-wrap gap-x-5 gap-y-1 text-sm text-muted-foreground">

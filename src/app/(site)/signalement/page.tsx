@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Lightbulb, Recycle, TrafficCone, TreePine } from "lucide-react";
+import { themeStyle } from "@/lib/themes";
 import { PageHeader, SectionTitle } from "@/components/site/page-header";
 import { ReportForm } from "@/components/site/report-form";
 
@@ -20,20 +21,21 @@ export default function Page() {
   return (
     <>
       <PageHeader
+        theme={"actu"}
         crumbs={[{ label: "Signaler un problème" }]}
         eyebrow="Espace public"
         title="Signaler un problème"
         lead="Un lampadaire éteint, un nid-de-poule, un dépôt sauvage ? Signalez-le : votre demande est transmise directement au service compétent."
       />
 
-      <div className="swiss-container py-14 md:py-20">
+      <div style={themeStyle("actu")} className="swiss-container py-14 md:py-20">
         <div className="swiss-grid">
           <div className="col-span-4 md:col-span-8 lg:col-span-5">
             <SectionTitle index="01" title="Ce que vous pouvez signaler" />
             <ul className="mt-8 space-y-px bg-border">
               {EXAMPLES.map((example) => (
                 <li key={example.label} className="flex gap-4 bg-background py-5">
-                  <example.icon className="mt-0.5 size-5 shrink-0 text-rouge" aria-hidden="true" />
+                  <example.icon className="mt-0.5 size-5 shrink-0 text-theme" aria-hidden="true" />
                   <div>
                     <p className="text-sm font-medium">{example.label}</p>
                     <p className="mt-1 text-sm text-muted-foreground">{example.text}</p>
@@ -42,7 +44,7 @@ export default function Page() {
               ))}
             </ul>
 
-            <div className="mt-10 border-l-2 border-rouge pl-5">
+            <div className="mt-10 border-l-2 border-theme pl-5">
               <p className="text-sm leading-relaxed text-muted-foreground">
                 Ce formulaire ne remplace pas les numéros d&apos;urgence. En cas de danger
                 immédiat, composez le <strong className="text-foreground">17</strong> ou le{" "}
@@ -59,7 +61,7 @@ export default function Page() {
                   "L'intervention est programmée selon l'urgence et les moyens disponibles.",
                 ].map((step, index) => (
                   <li key={step} className="flex gap-4">
-                    <span className="numeral eyebrow shrink-0 pt-0.5 text-rouge">
+                    <span className="numeral eyebrow shrink-0 pt-0.5 text-theme">
                       {String(index + 1).padStart(2, "0")}
                     </span>
                     <span className="text-muted-foreground">{step}</span>

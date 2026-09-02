@@ -53,11 +53,11 @@ export function Field({
             required={required}
             aria-describedby={describedBy || undefined}
             aria-invalid={error ? true : undefined}
-            className="mt-1 size-4 shrink-0 accent-[var(--rouge)]"
+            className="mt-1 size-4 shrink-0 accent-[var(--theme)]"
           />
           <label htmlFor={fieldId} className="text-sm leading-relaxed">
             {label}
-            {required && <span className="ml-1 text-rouge">*</span>}
+            {required && <span className="ml-1 text-theme">*</span>}
           </label>
         </div>
         {hint && (
@@ -74,7 +74,7 @@ export function Field({
     <div>
       <label htmlFor={fieldId} className="eyebrow mb-2.5 block text-muted-foreground">
         {label}
-        {required && <span className="ml-1 text-rouge">*</span>}
+        {required && <span className="ml-1 text-theme">*</span>}
       </label>
 
       {as === "textarea" ? (
@@ -87,17 +87,21 @@ export function Field({
           defaultValue={defaultValue}
           aria-describedby={describedBy || undefined}
           aria-invalid={error ? true : undefined}
-          className={cn(BASE, "resize-y", error ? "border-rouge" : "border-input")}
+          className={cn(BASE, "resize-y", error ? "border-theme" : "border-input")}
         />
       ) : as === "select" ? (
         <select
+          // Un <select> non contrôlé ne reprend pas `defaultValue` au
+          // re-rendu : on le remonte quand la valeur renvoyée change, pour que
+          // la saisie survive à une erreur de validation.
+          key={defaultValue ?? ""}
           id={fieldId}
           name={name}
           required={required}
           defaultValue={defaultValue ?? ""}
           aria-describedby={describedBy || undefined}
           aria-invalid={error ? true : undefined}
-          className={cn(BASE, error ? "border-rouge" : "border-input")}
+          className={cn(BASE, error ? "border-theme" : "border-input")}
         >
           <option value="" disabled>
             Sélectionnez…
@@ -119,7 +123,7 @@ export function Field({
           defaultValue={defaultValue}
           aria-describedby={describedBy || undefined}
           aria-invalid={error ? true : undefined}
-          className={cn(BASE, error ? "border-rouge" : "border-input")}
+          className={cn(BASE, error ? "border-theme" : "border-input")}
         />
       )}
 
@@ -135,7 +139,7 @@ export function Field({
 
 function FieldError({ id, children }: { id: string; children: React.ReactNode }) {
   return (
-    <p id={id} role="alert" className="mt-2 flex items-center gap-1.5 text-xs text-rouge">
+    <p id={id} role="alert" className="mt-2 flex items-center gap-1.5 text-xs text-theme">
       <AlertCircle className="size-3.5 shrink-0" aria-hidden="true" />
       {children}
     </p>

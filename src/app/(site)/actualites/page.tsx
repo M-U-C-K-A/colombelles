@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { NewsCard } from "@/components/site/cards";
+import { themeForCategory, themeStyle } from "@/lib/themes";
 import { PageHeader } from "@/components/site/page-header";
 import { getNews, getNewsCategories } from "@/lib/queries";
+import type { ThemeKey } from "@/lib/themes";
 import { cn } from "@/lib/utils";
 
 export const metadata: Metadata = {
@@ -21,13 +23,14 @@ export default async function Page({ searchParams }: PageProps<"/actualites">) {
   return (
     <>
       <PageHeader
+        theme={"actu"}
         crumbs={[{ label: "Actualités" }]}
         eyebrow={`${all.length} articles publiés`}
         title="Actualités"
         lead="Les informations de la vie municipale, des services et des équipements de la commune."
       />
 
-      <div className="swiss-container py-12 md:py-16">
+      <div style={themeStyle("actu")} className="swiss-container py-12 md:py-16">
         {/* Filtres */}
         <nav aria-label="Filtrer par catégorie" className="rule-bottom flex flex-wrap gap-2 pb-6">
           <FilterLink href="/actualites" active={!active}>
@@ -38,6 +41,7 @@ export default async function Page({ searchParams }: PageProps<"/actualites">) {
               key={category}
               href={`/actualites?categorie=${encodeURIComponent(category)}`}
               active={active === category}
+              theme={themeForCategory(category)}
             >
               {category}
             </FilterLink>
@@ -63,23 +67,34 @@ export default async function Page({ searchParams }: PageProps<"/actualites">) {
 function FilterLink({
   href,
   active,
+  theme,
   children,
 }: {
   href: string;
   active: boolean;
+  theme?: ThemeKey;
   children: React.ReactNode;
 }) {
   return (
     <Link
       href={href}
       aria-current={active ? "true" : undefined}
+      style={theme ? themeStyle(theme) : undefined}
       className={cn(
-        "border px-4 py-2 text-sm transition-colors",
+        "inline-flex items-center gap-2 border px-4 py-2 text-sm transition-colors",
         active
-          ? "border-foreground bg-foreground text-background"
-          : "border-border text-muted-foreground hover:border-foreground hover:text-foreground",
+          ? theme
+            ? "theme-bg border-theme"
+            : "border-foreground bg-foreground text-background"
+          : "border-border text-muted-foreground hover:border-theme hover:text-theme",
       )}
     >
+      {theme && (
+        <span
+          className={cn("size-2 shrink-0", active ? "bg-white" : "theme-dot")}
+          aria-hidden="true"
+        />
+      )}
       {children}
     </Link>
   );

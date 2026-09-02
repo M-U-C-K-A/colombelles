@@ -1,3 +1,4 @@
+import type { ThemeKey } from "@/lib/themes";
 import type { SectionKey } from "@/lib/types";
 
 export interface SectionMeta {
@@ -5,6 +6,8 @@ export interface SectionMeta {
   label: string;
   href: string;
   description: string;
+  /** Couleur de la rubrique, reprise dans la navigation et les fils d'Ariane. */
+  theme: ThemeKey;
   /** Liens fixes ajoutés en tête du groupe correspondant du méga-menu. */
   extras: { group: string; label: string; href: string }[];
 }
@@ -12,6 +15,7 @@ export interface SectionMeta {
 export const SECTIONS: SectionMeta[] = [
   {
     key: "votre-mairie",
+    theme: "mairie",
     label: "Votre mairie",
     href: "/votre-mairie",
     description:
@@ -27,6 +31,7 @@ export const SECTIONS: SectionMeta[] = [
   },
   {
     key: "demarches",
+    theme: "contact",
     label: "Démarches pratiques",
     href: "/demarches",
     description:
@@ -40,6 +45,7 @@ export const SECTIONS: SectionMeta[] = [
   },
   {
     key: "vivre-a-colombelles",
+    theme: "famille",
     label: "Vivre à Colombelles",
     href: "/vivre-a-colombelles",
     description:
@@ -51,6 +57,7 @@ export const SECTIONS: SectionMeta[] = [
   },
   {
     key: "sortir-et-decouvrir",
+    theme: "culture",
     label: "Sortir et découvrir",
     href: "/sortir-et-decouvrir",
     description:
@@ -68,15 +75,20 @@ export const SECTION_BY_KEY = Object.fromEntries(
 ) as Record<SectionKey, SectionMeta>;
 
 /** Raccourcis mis en avant sur la page d'accueil et dans le pied de page. */
-export const QUICK_ACCESS = [
-  { label: "Démarches en ligne", href: "/demarches", hint: "État civil, identité, urbanisme" },
-  { label: "Portail famille", href: "/demarches/portail-famille", hint: "Inscriptions et repas" },
-  { label: "Menus scolaires", href: "/demarches/portail-famille", hint: "Restauration" },
-  { label: "Déchets", href: "/demarches/dechets-et-proprete", hint: "Collecte et tri" },
-  { label: "Plan de la ville", href: "/plan", hint: "Carte interactive" },
-  { label: "Offres d'emploi", href: "/emploi", hint: "Recrutement municipal" },
-  { label: "Horaires et contact", href: "/contact", hint: "Nous joindre" },
-  { label: "Signaler un problème", href: "/signalement", hint: "Espace public" },
+export const QUICK_ACCESS: {
+  label: string;
+  href: string;
+  hint: string;
+  theme: ThemeKey;
+}[] = [
+  { label: "Démarches en ligne", href: "/demarches", hint: "État civil, identité, urbanisme", theme: "contact" },
+  { label: "Portail famille", href: "/demarches/portail-famille", hint: "Inscriptions et réservations", theme: "famille" },
+  { label: "Menus scolaires", href: "/demarches/portail-famille", hint: "Restauration scolaire", theme: "famille" },
+  { label: "Écoles et jeunesse", href: "/vivre-a-colombelles/ecoles-maternelles-et-elementaires", hint: "Inscriptions, périscolaire", theme: "ecole" },
+  { label: "Déchets et tri", href: "/demarches/dechets-et-proprete", hint: "Calendrier de collecte", theme: "nature" },
+  { label: "Offres d'emploi", href: "/emploi", hint: "Recrutement municipal", theme: "emploi" },
+  { label: "Horaires et contact", href: "/contact", hint: "Nous joindre", theme: "contact" },
+  { label: "Signaler un problème", href: "/signalement", hint: "Espace public", theme: "actu" },
 ];
 
 export const FOOTER_LINKS = [

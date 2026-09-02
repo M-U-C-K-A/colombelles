@@ -17,7 +17,7 @@ export default function Page() {
           groups={PAGE_FIELDS}
           cancelHref="/admin/pages"
           submitLabel="Créer la page"
-          values={{ status: "brouillon", section: "votre-mairie", order: 50 }}
+          values={{ status: "brouillon", section: "votre-mairie", theme: "mairie", order: 50 }}
         />
       </AdminBody>
     </>

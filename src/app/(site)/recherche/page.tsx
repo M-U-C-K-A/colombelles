@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowUpRight } from "lucide-react";
+import { themeStyle } from "@/lib/themes";
 import { PageHeader } from "@/components/site/page-header";
 import { formatDate } from "@/lib/format";
 import { search } from "@/lib/queries";
@@ -19,6 +20,7 @@ export default async function Page({ searchParams }: PageProps<"/recherche">) {
   return (
     <>
       <PageHeader
+        theme={"mairie"}
         crumbs={[{ label: "Recherche" }]}
         eyebrow={
           query
@@ -28,7 +30,7 @@ export default async function Page({ searchParams }: PageProps<"/recherche">) {
         title={query ? `« ${query} »` : "Rechercher"}
       />
 
-      <div className="swiss-container py-12 md:py-16">
+      <div style={themeStyle("mairie")} className="swiss-container py-12 md:py-16">
         <form action="/recherche" method="get" role="search" className="rule-bottom flex gap-3 pb-8">
           <label htmlFor="q" className="sr-only">
             Votre recherche
@@ -74,8 +76,8 @@ export default async function Page({ searchParams }: PageProps<"/recherche">) {
                   className="group flex items-start justify-between gap-8 rule-bottom py-6"
                 >
                   <span className="min-w-0">
-                    <span className="eyebrow text-rouge">{result.type}</span>
-                    <span className="mt-2 block text-lg leading-snug font-medium transition-colors group-hover:text-rouge">
+                    <span className="eyebrow text-theme">{result.type}</span>
+                    <span className="mt-2 block text-lg leading-snug font-medium transition-colors group-hover:text-theme">
                       {result.title}
                     </span>
                     {result.excerpt && (

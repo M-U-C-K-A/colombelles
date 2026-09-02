@@ -66,7 +66,14 @@ export default async function Page() {
                             </span>
                           </td>
                           <td className="px-3 py-3.5 text-muted-foreground">
-                            {item.subsection ?? "—"}
+                            <span className="flex items-center gap-2">
+                              <span
+                                className="size-2.5 shrink-0"
+                                style={{ backgroundColor: `var(--t-${item.theme})` }}
+                                aria-hidden="true"
+                              />
+                              {item.subsection ?? "—"}
+                            </span>
                           </td>
                           <td className="numeral px-3 py-3.5 text-muted-foreground">{item.order}</td>
                           <td className="numeral px-3 py-3.5 text-muted-foreground">

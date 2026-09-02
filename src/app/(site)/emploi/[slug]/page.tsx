@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft } from "lucide-react";
+import { themeStyle } from "@/lib/themes";
 import { PageHeader } from "@/components/site/page-header";
 import { formatDate } from "@/lib/format";
 import { Markdown, plainText } from "@/lib/markdown";
@@ -32,12 +33,13 @@ export default async function Page({ params }: PageProps<"/emploi/[slug]">) {
   return (
     <>
       <PageHeader
+        theme={"emploi"}
         crumbs={[{ label: "Offres d'emploi", href: "/emploi" }, { label: job.title }]}
         eyebrow={job.department}
         title={job.title}
       />
 
-      <div className="swiss-container py-14 md:py-20">
+      <div style={themeStyle("emploi")} className="swiss-container py-14 md:py-20">
         <div className="swiss-grid">
           <aside className="col-span-4 md:col-span-8 lg:col-span-3">
             <dl className="rule-strong space-y-5 pt-4 text-sm lg:sticky lg:top-28">

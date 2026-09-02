@@ -23,7 +23,7 @@ export function ContactForm({ services }: { services: string[] }) {
   if (state.status === "success") {
     return (
       <FormNotice
-        icon={<CheckCircle2 className="size-5 text-rouge" aria-hidden="true" />}
+        icon={<CheckCircle2 className="size-5 text-theme" aria-hidden="true" />}
         title="Message transmis"
         body={state.message}
       />
@@ -38,6 +38,7 @@ export function ContactForm({ services }: { services: string[] }) {
           name="name"
           required
           autoComplete="name"
+          defaultValue={state.values?.name}
           error={state.errors?.name}
         />
         <Field
@@ -46,6 +47,7 @@ export function ContactForm({ services }: { services: string[] }) {
           type="email"
           required
           autoComplete="email"
+          defaultValue={state.values?.email}
           error={state.errors?.email}
         />
       </div>
@@ -56,10 +58,17 @@ export function ContactForm({ services }: { services: string[] }) {
         as="select"
         required
         options={services}
+        defaultValue={state.values?.service}
         error={state.errors?.service}
       />
 
-      <Field label="Objet" name="subject" required error={state.errors?.subject} />
+      <Field
+        label="Objet"
+        name="subject"
+        required
+        defaultValue={state.values?.subject}
+        error={state.errors?.subject}
+      />
 
       <Field
         label="Votre message"
@@ -67,6 +76,7 @@ export function ContactForm({ services }: { services: string[] }) {
         as="textarea"
         rows={7}
         required
+        defaultValue={state.values?.message}
         error={state.errors?.message}
         hint="4 000 caractères maximum."
       />

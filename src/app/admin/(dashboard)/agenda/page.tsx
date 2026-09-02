@@ -38,7 +38,12 @@ export default async function Page() {
                   <tr key={item.id} className="border-b border-border hover:bg-secondary/50">
                     <td className="max-w-xs px-3 py-3.5">
                       <span className="block truncate font-medium">{item.title}</span>
-                      <span className="eyebrow mt-1 block text-muted-foreground">
+                      <span className="eyebrow mt-1 flex items-center gap-2 text-muted-foreground">
+                        <span
+                          className="size-2.5 shrink-0"
+                          style={{ backgroundColor: `var(--t-${item.theme})` }}
+                          aria-hidden="true"
+                        />
                         {item.category}
                       </span>
                     </td>

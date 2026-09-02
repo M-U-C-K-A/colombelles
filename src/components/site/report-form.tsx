@@ -34,7 +34,7 @@ export function ReportForm() {
   if (state.status === "success") {
     return (
       <FormNotice
-        icon={<CheckCircle2 className="size-5 text-rouge" aria-hidden="true" />}
+        icon={<CheckCircle2 className="size-5 text-theme" aria-hidden="true" />}
         title="Signalement enregistré"
         body={state.message}
         footer={
@@ -57,6 +57,7 @@ export function ReportForm() {
         as="select"
         required
         options={CATEGORIES}
+        defaultValue={state.values?.category}
         error={state.errors?.category}
       />
 
@@ -65,6 +66,7 @@ export function ReportForm() {
         name="location"
         required
         placeholder="Rue, numéro, point de repère"
+        defaultValue={state.values?.location}
         error={state.errors?.location}
       />
 
@@ -74,18 +76,27 @@ export function ReportForm() {
         as="textarea"
         rows={6}
         required
+        defaultValue={state.values?.description}
         error={state.errors?.description}
         hint="Décrivez le problème constaté : nature, ampleur, date d'apparition."
       />
 
       <div className="grid gap-6 sm:grid-cols-2">
-        <Field label="Nom et prénom" name="name" required autoComplete="name" error={state.errors?.name} />
+        <Field
+          label="Nom et prénom"
+          name="name"
+          required
+          autoComplete="name"
+          defaultValue={state.values?.name}
+          error={state.errors?.name}
+        />
         <Field
           label="Adresse électronique"
           name="email"
           type="email"
           required
           autoComplete="email"
+          defaultValue={state.values?.email}
           error={state.errors?.email}
         />
       </div>
@@ -96,6 +107,7 @@ export function ReportForm() {
         type="tel"
         autoComplete="tel"
         hint="Facultatif — utile si les services ont besoin d'une précision."
+        defaultValue={state.values?.phone}
         error={state.errors?.phone}
       />
 

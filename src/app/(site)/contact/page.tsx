@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Clock, Mail, MapPin, Phone } from "lucide-react";
 import { ContactForm } from "@/components/site/contact-form";
+import { themeStyle } from "@/lib/themes";
 import { PageHeader, SectionTitle } from "@/components/site/page-header";
 import { telHref } from "@/lib/format";
 import { getServices, getSettings } from "@/lib/queries";
@@ -17,13 +18,14 @@ export default async function Page() {
   return (
     <>
       <PageHeader
+        theme={"contact"}
         crumbs={[{ label: "Contact" }]}
         eyebrow="Nous joindre"
         title="Contact et horaires"
         lead="L'accueil de la mairie vous oriente vers le service compétent, quel que soit votre besoin."
       />
 
-      <div className="swiss-container py-14 md:py-20">
+      <div style={themeStyle("contact")} className="swiss-container py-14 md:py-20">
         <div className="swiss-grid">
           {/* Coordonnées */}
           <div className="col-span-4 md:col-span-8 lg:col-span-5">
@@ -31,7 +33,7 @@ export default async function Page() {
             <dl className="mt-8 space-y-7 text-sm">
               <div className="flex gap-4">
                 <dt className="sr-only">Adresse</dt>
-                <MapPin className="mt-0.5 size-5 shrink-0 text-rouge" aria-hidden="true" />
+                <MapPin className="mt-0.5 size-5 shrink-0 text-theme" aria-hidden="true" />
                 <dd>
                   <address className="not-italic">
                     {settings.address}
@@ -44,7 +46,7 @@ export default async function Page() {
                     )}`}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="eyebrow mt-3 inline-block text-rouge"
+                    className="eyebrow mt-3 inline-block text-theme"
                   >
                     Voir sur une carte →
                   </a>
@@ -53,7 +55,7 @@ export default async function Page() {
 
               <div className="flex gap-4">
                 <dt className="sr-only">Téléphone</dt>
-                <Phone className="mt-0.5 size-5 shrink-0 text-rouge" aria-hidden="true" />
+                <Phone className="mt-0.5 size-5 shrink-0 text-theme" aria-hidden="true" />
                 <dd>
                   <a href={`tel:${telHref(settings.phone)}`} className="link-underline numeral text-base">
                     {settings.phone}
@@ -63,7 +65,7 @@ export default async function Page() {
 
               <div className="flex gap-4">
                 <dt className="sr-only">Courriel</dt>
-                <Mail className="mt-0.5 size-5 shrink-0 text-rouge" aria-hidden="true" />
+                <Mail className="mt-0.5 size-5 shrink-0 text-theme" aria-hidden="true" />
                 <dd>
                   <a href={`mailto:${settings.email}`} className="link-underline break-all">
                     {settings.email}
@@ -73,7 +75,7 @@ export default async function Page() {
 
               <div className="flex gap-4">
                 <dt className="sr-only">Horaires</dt>
-                <Clock className="mt-0.5 size-5 shrink-0 text-rouge" aria-hidden="true" />
+                <Clock className="mt-0.5 size-5 shrink-0 text-theme" aria-hidden="true" />
                 <dd className="w-full">
                   <p className="eyebrow mb-3 text-muted-foreground">Horaires d&apos;ouverture</p>
                   <ul className="space-y-1.5">
@@ -89,7 +91,7 @@ export default async function Page() {
             </dl>
 
             <div className="mt-12 border-2 border-foreground p-6">
-              <p className="eyebrow text-rouge">Urgences</p>
+              <p className="eyebrow text-theme">Urgences</p>
               <ul className="mt-4 space-y-2 text-sm">
                 {[
                   ["Samu", "15"],

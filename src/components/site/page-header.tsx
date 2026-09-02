@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { ChevronRight } from "lucide-react";
+import { themeStyle, type ThemeKey } from "@/lib/themes";
 
 export interface Crumb {
   label: string;
@@ -7,17 +8,19 @@ export interface Crumb {
 }
 
 /**
- * En-tête de page : fil d'Ariane, indicatif de rubrique, titre en grande
- * échelle et chapô. Toute la hiérarchie tient dans la taille, pas dans la
- * décoration.
+ * En-tête de page : un bandeau de couleur annonce le thème, puis le fil
+ * d'Ariane, le titre en grande échelle et le chapô. La hiérarchie tient dans
+ * l'échelle ; la couleur, elle, dit où l'on se trouve.
  */
 export function PageHeader({
+  theme,
   crumbs = [],
   eyebrow,
   title,
   lead,
   aside,
 }: {
+  theme?: ThemeKey;
   crumbs?: Crumb[];
   eyebrow?: string;
   title: string;
@@ -25,10 +28,13 @@ export function PageHeader({
   aside?: React.ReactNode;
 }) {
   return (
-    <header className="rule-bottom pt-8 pb-12 md:pt-12 md:pb-16">
+    <header
+      style={theme ? themeStyle(theme) : undefined}
+      className="rule-bottom border-t-[6px] border-t-theme pt-8 pb-12 md:pt-10 md:pb-16"
+    >
       <div className="swiss-container">
         {crumbs.length > 0 && (
-          <nav aria-label="Fil d'Ariane" className="mb-10">
+          <nav aria-label="Fil d'Ariane" className="mb-9">
             <ol className="flex flex-wrap items-center gap-x-2 gap-y-1">
               <li className="flex items-center gap-2">
                 <Link href="/" className="eyebrow text-muted-foreground hover:text-foreground">
@@ -48,7 +54,10 @@ export function PageHeader({
                         {crumb.label}
                       </Link>
                     ) : (
-                      <span className="eyebrow text-foreground" aria-current={last ? "page" : undefined}>
+                      <span
+                        className="eyebrow text-theme"
+                        aria-current={last ? "page" : undefined}
+                      >
                         {crumb.label}
                       </span>
                     )}
@@ -64,7 +73,9 @@ export function PageHeader({
 
         <div className="swiss-grid items-end">
           <div className="col-span-4 md:col-span-8 lg:col-span-8">
-            {eyebrow && <p className="eyebrow mb-5 text-rouge">{eyebrow}</p>}
+            {eyebrow && (
+              <p className="eyebrow theme-bg mb-6 inline-block px-2 py-1">{eyebrow}</p>
+            )}
             <h1 className="display text-[2.5rem] sm:text-[3.25rem] lg:text-[4rem]">{title}</h1>
             {lead && (
               <p className="mt-7 max-w-[52ch] text-lg leading-relaxed text-muted-foreground">
@@ -79,7 +90,7 @@ export function PageHeader({
   );
 }
 
-/** Titre de section interne, avec numérotation façon grille suisse. */
+/** Titre de section interne, numéroté façon grille suisse. */
 export function SectionTitle({
   index,
   title,
@@ -90,9 +101,9 @@ export function SectionTitle({
   action?: React.ReactNode;
 }) {
   return (
-    <div className="rule-strong flex items-baseline justify-between gap-6 pt-4 pb-5">
+    <div className="rule-strong flex flex-wrap items-baseline justify-between gap-x-6 gap-y-2 pt-4 pb-5">
       <h2 className="flex items-baseline gap-4 text-xl font-medium tracking-[-0.02em] sm:text-2xl">
-        {index && <span className="numeral text-sm font-normal text-rouge">{index}</span>}
+        {index && <span className="numeral text-sm font-normal text-theme">{index}</span>}
         {title}
       </h2>
       {action}

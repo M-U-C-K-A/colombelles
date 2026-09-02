@@ -1,3 +1,5 @@
+import { THEME_OPTIONS } from "@/lib/themes";
+
 /** Descripteurs de champs partagés entre les formulaires d'administration. */
 
 export type FieldType =
@@ -35,6 +37,16 @@ const STATUS_OPTIONS = [
   { value: "publie", label: "Publié — visible sur le site" },
 ];
 
+/** Couleur thématique : elle balise la page dans la navigation et les listes. */
+const themeField: FieldSpec = {
+  name: "theme",
+  label: "Couleur thématique",
+  type: "select",
+  required: true,
+  options: THEME_OPTIONS,
+  hint: "Détermine la couleur du bandeau, de l'étiquette et des repères de navigation.",
+};
+
 const slugField = (hint: string): FieldSpec => ({
   name: "slug",
   label: "Adresse (slug)",
@@ -49,6 +61,7 @@ export const NEWS_FIELDS: FieldGroup[] = [
       { name: "title", label: "Titre", required: true, full: true },
       slugField("Partie finale de l'adresse : /actualites/mon-article"),
       { name: "category", label: "Catégorie", required: true, placeholder: "Culture, Travaux…" },
+      themeField,
       {
         name: "excerpt",
         label: "Chapô",
@@ -92,6 +105,7 @@ export const EVENT_FIELDS: FieldGroup[] = [
       { name: "title", label: "Titre", required: true, full: true },
       slugField("Partie finale de l'adresse : /agenda/mon-evenement"),
       { name: "category", label: "Catégorie", required: true, placeholder: "Culture, Sport…" },
+      themeField,
       { name: "excerpt", label: "Résumé", type: "textarea", rows: 3 },
     ],
   },
@@ -158,6 +172,7 @@ export const PAGE_FIELDS: FieldGroup[] = [
         required: true,
         hint: "Les valeurs les plus basses apparaissent en premier.",
       },
+      themeField,
       { name: "summary", label: "Résumé", type: "textarea", rows: 3, full: true },
     ],
   },

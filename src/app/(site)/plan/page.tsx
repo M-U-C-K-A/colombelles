@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { MapPin } from "lucide-react";
+import { themeStyle } from "@/lib/themes";
 import { PageHeader } from "@/components/site/page-header";
 import { getDirectory, getSettings } from "@/lib/queries";
 
@@ -17,13 +18,14 @@ export default async function Page() {
   return (
     <>
       <PageHeader
+        theme={"mairie"}
         crumbs={[{ label: "Plan de la ville" }]}
         eyebrow="Se repérer"
         title="Plan de la ville"
         lead="Situer les équipements publics, les colonnes de tri, les aires de jeux et les commerces de la commune."
       />
 
-      <div className="swiss-container py-14 md:py-20">
+      <div style={themeStyle("mairie")} className="swiss-container py-14 md:py-20">
         <div className="swiss-grid">
           <div className="col-span-4 md:col-span-8 lg:col-span-8">
             <div className="border border-border">

@@ -1,6 +1,7 @@
 import { read } from "@/lib/db";
 import { SECTIONS, type SectionMeta } from "@/lib/navigation";
 import { plainText } from "@/lib/markdown";
+import type { ThemeKey } from "@/lib/themes";
 import type {
   DirectoryItem,
   DocumentItem,
@@ -97,9 +98,17 @@ export async function getSectionGroups(section: SectionKey) {
 
 /* ------------------------------ Navigation ------------------------------ */
 
+export interface NavLink {
+  label: string;
+  href: string;
+  summary?: string;
+  /** Couleur du thème, affichée en pastille dans le méga-menu. */
+  theme: ThemeKey;
+}
+
 export interface NavGroup {
   title: string;
-  links: { label: string; href: string; summary?: string }[];
+  links: NavLink[];
 }
 
 export interface NavSection extends SectionMeta {
@@ -115,7 +124,7 @@ export async function getNavigation(): Promise<NavSection[]> {
 
     for (const extra of section.extras) {
       const group = groups.get(extra.group) ?? { title: extra.group, links: [] };
-      group.links.push({ label: extra.label, href: extra.href });
+      group.links.push({ label: extra.label, href: extra.href, theme: section.theme });
       groups.set(extra.group, group);
     }
 
@@ -126,6 +135,7 @@ export async function getNavigation(): Promise<NavSection[]> {
         label: page.title,
         href: `${section.href}/${page.slug}`,
         summary: page.summary,
+        theme: page.theme,
       });
       groups.set(title, group);
     }

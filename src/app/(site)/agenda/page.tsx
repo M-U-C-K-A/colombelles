@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { EventCard } from "@/components/site/cards";
+import { themeStyle } from "@/lib/themes";
 import { PageHeader, SectionTitle } from "@/components/site/page-header";
 import { getPastEvents, getUpcomingEvents } from "@/lib/queries";
 
@@ -28,13 +29,14 @@ export default async function Page() {
   return (
     <>
       <PageHeader
+        theme={"culture"}
         crumbs={[{ label: "Agenda" }]}
         eyebrow={`${upcoming.length} rendez-vous à venir`}
         title="Agenda"
         lead="Spectacles, réunions publiques, visites, animations : les prochains rendez-vous de la commune."
       />
 
-      <div className="swiss-container py-12 md:py-16">
+      <div style={themeStyle("culture")} className="swiss-container py-12 md:py-16">
         {upcoming.length === 0 ? (
           <p className="py-20 text-center text-muted-foreground">
             Aucun événement programmé pour le moment.

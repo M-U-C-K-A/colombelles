@@ -17,7 +17,7 @@ export default function Page() {
           groups={EVENT_FIELDS}
           cancelHref="/admin/agenda"
           submitLabel="Créer l'événement"
-          values={{ status: "brouillon", price: "Entrée libre", featured: false }}
+          values={{ status: "brouillon", theme: "culture", price: "Entrée libre", featured: false }}
         />
       </AdminBody>
     </>

@@ -1,14 +1,18 @@
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
+import { ColorRule } from "@/components/site/horizon";
+import { themeStyle } from "@/lib/themes";
 
 const SUGGESTIONS = [
-  { label: "Démarches pratiques", href: "/demarches", hint: "État civil, identité, urbanisme" },
-  { label: "Actualités", href: "/actualites", hint: "La vie de la commune" },
-  { label: "Agenda", href: "/agenda", hint: "Les prochains rendez-vous" },
-  { label: "Contact", href: "/contact", hint: "Horaires et coordonnées" },
-  { label: "Plan du site", href: "/plan-du-site", hint: "Toutes les pages" },
-  { label: "Recherche", href: "/recherche", hint: "Trouver un contenu" },
-];
+  { label: "Démarches pratiques", href: "/demarches", hint: "État civil, identité, urbanisme", theme: "contact" },
+  { label: "Actualités", href: "/actualites", hint: "La vie de la commune", theme: "actu" },
+  { label: "Agenda", href: "/agenda", hint: "Les prochains rendez-vous", theme: "culture" },
+  { label: "Écoles et famille", href: "/vivre-a-colombelles", hint: "Inscriptions, périscolaire", theme: "ecole" },
+  { label: "Déchets et environnement", href: "/demarches/dechets-et-proprete", hint: "Collecte et tri", theme: "nature" },
+  { label: "Offres d\u2019emploi", href: "/emploi", hint: "Recrutement municipal", theme: "emploi" },
+  { label: "Plan du site", href: "/plan-du-site", hint: "Toutes les pages", theme: "mairie" },
+  { label: "Contact", href: "/contact", hint: "Horaires et coordonnées", theme: "solidarite" },
+] as const;
 
 /**
  * 404 — le chiffre est traité comme un élément de composition, pas comme un
@@ -19,13 +23,16 @@ export function NotFoundContent() {
     <div className="swiss-container py-20 md:py-28">
       <div className="swiss-grid items-start">
         <div className="col-span-4 md:col-span-8 lg:col-span-5">
-          <p className="eyebrow text-rouge">Erreur 404</p>
+          <p className="eyebrow text-theme">Erreur 404</p>
           <p
             aria-hidden="true"
-            className="display mt-6 text-[7rem] leading-[0.8] text-rouge sm:text-[11rem]"
+            className="display mt-6 text-[7rem] leading-[0.8] sm:text-[11rem]"
           >
-            404
+            <span style={{ color: "var(--t-actu)" }}>4</span>
+            <span style={{ color: "var(--t-nature)" }}>0</span>
+            <span style={{ color: "var(--t-ecole)" }}>4</span>
           </p>
+          <ColorRule className="mt-8 max-w-xs" />
         </div>
 
         <div className="col-span-4 mt-10 md:col-span-8 lg:col-span-6 lg:col-start-7 lg:mt-0">
@@ -37,17 +44,20 @@ export function NotFoundContent() {
 
           <ul className="mt-10 grid gap-px bg-border sm:grid-cols-2">
             {SUGGESTIONS.map((item) => (
-              <li key={item.href}>
+              <li key={item.href} style={themeStyle(item.theme)}>
                 <Link
                   href={item.href}
-                  className="group flex h-full flex-col justify-between gap-5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background"
+                  className="group flex h-full flex-col justify-between gap-5 bg-background p-5 transition-colors hover:bg-theme hover:text-white"
                 >
-                  <span className="text-sm font-medium">{item.label}</span>
-                  <span className="flex items-end justify-between gap-2">
-                    <span className="text-xs text-muted-foreground group-hover:text-background/70">
-                      {item.hint}
+                  <span className="theme-bg block h-1.5 w-8 group-hover:bg-white" aria-hidden="true" />
+                  <span>
+                    <span className="block text-sm font-medium">{item.label}</span>
+                    <span className="mt-1.5 flex items-end justify-between gap-2">
+                      <span className="text-xs text-muted-foreground group-hover:text-white/75">
+                        {item.hint}
+                      </span>
+                      <ArrowRight className="size-4 shrink-0" aria-hidden="true" />
                     </span>
-                    <ArrowRight className="size-4 shrink-0" aria-hidden="true" />
                   </span>
                 </Link>
               </li>

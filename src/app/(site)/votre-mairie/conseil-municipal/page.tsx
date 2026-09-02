@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowUpRight } from "lucide-react";
+import { themeStyle } from "@/lib/themes";
 import { PageHeader, SectionTitle } from "@/components/site/page-header";
 import { formatDate } from "@/lib/format";
 import { getDocuments, getElus, getUpcomingEvents } from "@/lib/queries";
@@ -25,6 +26,7 @@ export default async function Page() {
   return (
     <>
       <PageHeader
+        theme={"mairie"}
         crumbs={[{ label: "Votre mairie", href: "/votre-mairie" }, { label: "Conseil municipal" }]}
         eyebrow="Instances municipales"
         title="Le conseil municipal"
@@ -39,7 +41,7 @@ export default async function Page() {
               <p className="mt-2 text-sm text-muted-foreground">{nextSession.location}</p>
               <Link
                 href={`/agenda/${nextSession.slug}`}
-                className="eyebrow mt-4 inline-block text-rouge"
+                className="eyebrow mt-4 inline-block text-theme"
               >
                 Ordre du jour →
               </Link>
@@ -48,7 +50,7 @@ export default async function Page() {
         }
       />
 
-      <div className="swiss-container py-14 md:py-20">
+      <div style={themeStyle("mairie")} className="swiss-container py-14 md:py-20">
         <section>
           <SectionTitle index="01" title="Composition" />
           <div className="mt-10 space-y-12">
@@ -126,7 +128,7 @@ export default async function Page() {
               action={
                 <Link
                   href="/publications?categorie=Conseil+municipal"
-                  className="eyebrow text-rouge"
+                  className="eyebrow text-theme"
                 >
                   Tous les documents →
                 </Link>
@@ -136,7 +138,7 @@ export default async function Page() {
               {pv.map((doc) => (
                 <li key={doc.id} className="rule-bottom">
                   <a href={doc.url} className="group flex items-center justify-between gap-6 py-4">
-                    <span className="text-sm font-medium transition-colors group-hover:text-rouge">
+                    <span className="text-sm font-medium transition-colors group-hover:text-theme">
                       {doc.title}
                     </span>
                     <span className="flex shrink-0 items-center gap-4">

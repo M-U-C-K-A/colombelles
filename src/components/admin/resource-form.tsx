@@ -30,6 +30,10 @@ export function ResourceForm({
   const boundAction = saveResource.bind(null, kind, recordId);
   const [state, action, pending] = useActionState<ActionState, FormData>(boundAction, idleState);
 
+  // Après une erreur, le formulaire réaffiche la saisie — y compris les cases
+  // décochées, absentes de `values` — plutôt que la valeur enregistrée.
+  const submitted = state.status === "error" ? state.values : undefined;
+
   return (
     <form action={action} className="max-w-4xl space-y-12" noValidate>
       {state.status === "error" && state.message && (
@@ -58,7 +62,7 @@ export function ResourceForm({
               <AdminField
                 key={field.name}
                 field={field}
-                value={values[field.name]}
+                value={submitted ? submitted[field.name] : values[field.name]}
                 error={state.errors?.[field.name]}
               />
             ))}
@@ -135,6 +139,9 @@ function AdminField({
 
       {type === "select" ? (
         <select
+          // Même remarque que côté public : un <select> non contrôlé ignore
+          // `defaultValue` au re-rendu.
+          key={value === undefined ? "" : String(value)}
           id={fieldId}
           name={field.name}
           defaultValue={value === undefined ? "" : String(value)}

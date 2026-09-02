@@ -7,6 +7,7 @@ import { id as newId, mutate, slugify } from "@/lib/db";
 import { requireSession } from "@/lib/auth";
 import { hashPassword } from "@/lib/auth";
 import type { ActionState } from "@/lib/form-state";
+import { THEME_KEYS } from "@/lib/themes";
 import type { Database } from "@/lib/types";
 
 /* -------------------------------------------------------------------------
@@ -17,11 +18,38 @@ import type { Database } from "@/lib/types";
    ------------------------------------------------------------------------- */
 
 const status = z.enum(["brouillon", "publie"]);
+const theme = z.enum(THEME_KEYS as [string, ...string[]]);
 const text = (min = 1, max = 500) => z.string().trim().min(min).max(max);
 const optionalText = (max = 500) => z.string().trim().max(max).optional().or(z.literal(""));
-const checkbox = z
-  .union([z.literal("on"), z.literal("true"), z.literal(""), z.undefined()])
-  .transform((v) => v === "on" || v === "true");
+const checkbox = z.boolean();
+
+/**
+ * Une case décochée n'est pas transmise par le navigateur : la clé est
+ * simplement absente du FormData. On la ramène donc explicitement à `false`
+ * avant validation, plutôt que de s'en remettre au comportement d'un champ
+ * optionnel — qui laisserait passer une case obligatoire non cochée.
+ */
+function toInput(
+  formData: FormData,
+  fields: readonly string[],
+  checkboxes: readonly string[],
+) {
+  const raw = Object.fromEntries(formData) as Record<string, unknown>;
+  // Un champ attendu mais absent (select laissé sur son intitulé) devient une
+  // chaîne vide : le message d'erreur reste lisible.
+  for (const key of fields) raw[key] ??= "";
+  for (const key of checkboxes) raw[key] = raw[key] === "on" || raw[key] === "true";
+  return raw;
+}
+
+/** Saisie renvoyée au formulaire pour la réafficher après une erreur. */
+function keptValues(formData: FormData): Record<string, string> {
+  const values: Record<string, string> = {};
+  for (const [key, value] of formData.entries()) {
+    if (typeof value === "string") values[key] = value;
+  }
+  return values;
+}
 const toIso = (value: string) => (value ? new Date(value).toISOString() : new Date().toISOString());
 const splitTags = (value: string) =>
   value
@@ -33,6 +61,7 @@ const SCHEMAS = {
   news: z.object({
     title: text(3, 200),
     slug: optionalText(120),
+    theme,
     excerpt: text(0, 400).or(z.literal("")),
     content: text(1, 40000),
     category: text(1, 80),
@@ -45,6 +74,7 @@ const SCHEMAS = {
   events: z.object({
     title: text(3, 200),
     slug: optionalText(120),
+    theme,
     excerpt: text(0, 400).or(z.literal("")),
     content: text(1, 20000),
     category: text(1, 80),
@@ -59,6 +89,7 @@ const SCHEMAS = {
   pages: z.object({
     title: text(3, 200),
     slug: optionalText(120),
+    theme,
     section: z.enum([
       "votre-mairie",
       "demarches",
@@ -130,6 +161,18 @@ const SCHEMAS = {
 } as const;
 
 export type ResourceKind = keyof typeof SCHEMAS;
+
+const CHECKBOXES: Record<ResourceKind, readonly string[]> = {
+  news: ["featured"],
+  events: ["featured"],
+  pages: [],
+  documents: [],
+  media: [],
+  directory: [],
+  jobs: [],
+  elus: [],
+  services: [],
+};
 
 const COLLECTIONS: Record<ResourceKind, keyof Database> = {
   news: "news",
@@ -206,13 +249,16 @@ export async function saveResource(
 ): Promise<ActionState> {
   const session = await requireSession();
   const schema = SCHEMAS[kind];
-  const parsed = schema.safeParse(Object.fromEntries(formData));
+  const parsed = schema.safeParse(
+    toInput(formData, Object.keys(schema.shape), CHECKBOXES[kind]),
+  );
 
   if (!parsed.success) {
     return {
       status: "error",
       message: "Certains champs doivent être corrigés.",
       errors: collectErrors(parsed.error),
+      values: keptValues(formData),
     };
   }
 
@@ -421,13 +467,16 @@ const settingsSchema = z.object({
 
 export async function saveSettings(_prev: ActionState, formData: FormData): Promise<ActionState> {
   const session = await requireSession();
-  const parsed = settingsSchema.safeParse(Object.fromEntries(formData));
+  const parsed = settingsSchema.safeParse(
+    toInput(formData, Object.keys(settingsSchema.shape), ["maintenance", "bannerEnabled"]),
+  );
 
   if (!parsed.success) {
     return {
       status: "error",
       message: "Certains champs doivent être corrigés.",
       errors: collectErrors(parsed.error),
+      values: keptValues(formData),
     };
   }
 
@@ -515,12 +564,15 @@ export async function saveUser(
     return { status: "error", message: "Action réservée aux administrateurs." };
   }
 
-  const parsed = userSchema.safeParse(Object.fromEntries(formData));
+  const parsed = userSchema.safeParse(
+    toInput(formData, Object.keys(userSchema.shape), []),
+  );
   if (!parsed.success) {
     return {
       status: "error",
       message: "Certains champs doivent être corrigés.",
       errors: collectErrors(parsed.error),
+      values: keptValues(formData),
     };
   }
 

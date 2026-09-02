@@ -1,3 +1,5 @@
+import type { ThemeKey } from "@/lib/themes";
+
 /** Modèle de contenu du site de la Ville de Colombelles. */
 
 export type Status = "brouillon" | "publie";
@@ -9,6 +11,7 @@ export interface NewsItem {
   excerpt: string;
   content: string;
   category: string;
+  theme: ThemeKey;
   image?: string;
   publishedAt: string;
   status: Status;
@@ -27,6 +30,7 @@ export interface EventItem {
   endsAt?: string;
   location: string;
   category: string;
+  theme: ThemeKey;
   price: string;
   image?: string;
   status: Status;
@@ -40,6 +44,7 @@ export interface PageItem {
   title: string;
   section: SectionKey;
   subsection?: string;
+  theme: ThemeKey;
   summary: string;
   content: string;
   order: number;

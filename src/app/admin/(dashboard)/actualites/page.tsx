@@ -42,7 +42,16 @@ export default async function Page() {
                         <span className="eyebrow mt-1 block text-rouge">En avant</span>
                       )}
                     </td>
-                    <td className="px-3 py-3.5 text-muted-foreground">{item.category}</td>
+                    <td className="px-3 py-3.5 text-muted-foreground">
+                      <span className="flex items-center gap-2">
+                        <span
+                          className="size-2.5 shrink-0"
+                          style={{ backgroundColor: `var(--t-${item.theme})` }}
+                          aria-hidden="true"
+                        />
+                        {item.category}
+                      </span>
+                    </td>
                     <td className="numeral px-3 py-3.5 text-muted-foreground">
                       {formatDate(item.publishedAt)}
                     </td>

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Download, FileText } from "lucide-react";
+import { themeStyle } from "@/lib/themes";
 import { PageHeader } from "@/components/site/page-header";
 import { formatDate } from "@/lib/format";
 import { getDocumentCategories, getDocuments } from "@/lib/queries";
@@ -22,13 +23,14 @@ export default async function Page({ searchParams }: PageProps<"/publications">)
   return (
     <>
       <PageHeader
+        theme={"mairie"}
         crumbs={[{ label: "Publications" }]}
         eyebrow={`${all.length} documents en ligne`}
         title="Publications"
         lead="Journal municipal, comptes rendus du conseil, budget, guides pratiques et documents réglementaires."
       />
 
-      <div className="swiss-container py-12 md:py-16">
+      <div style={themeStyle("mairie")} className="swiss-container py-12 md:py-16">
         <nav aria-label="Filtrer par catégorie" className="rule-bottom flex flex-wrap gap-2 pb-6">
           <Filter href="/publications" active={!active}>
             Tous les documents
@@ -62,7 +64,7 @@ export default async function Page({ searchParams }: PageProps<"/publications">)
                       aria-hidden="true"
                     />
                     <span className="min-w-0">
-                      <span className="block leading-snug font-medium transition-colors group-hover:text-rouge">
+                      <span className="block leading-snug font-medium transition-colors group-hover:text-theme">
                         {doc.title}
                       </span>
                       <span className="eyebrow mt-2 block text-muted-foreground">

@@ -20,6 +20,7 @@ export default function Page() {
           submitLabel="Créer l'actualité"
           values={{
             status: "brouillon",
+            theme: "actu",
             author: "Service communication",
             publishedAt: toDateTimeLocal(new Date().toISOString()),
             featured: false,

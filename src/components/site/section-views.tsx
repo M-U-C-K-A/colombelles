@@ -6,6 +6,7 @@ import { Markdown } from "@/lib/markdown";
 import { formatDate } from "@/lib/format";
 import { SECTION_BY_KEY } from "@/lib/navigation";
 import { getPage, getPages, getSectionGroups } from "@/lib/queries";
+import { themeStyle } from "@/lib/themes";
 import type { SectionKey } from "@/lib/types";
 
 /** Page d'atterrissage d'une rubrique : sommaire par sous-rubrique. */
@@ -16,6 +17,7 @@ export async function SectionIndex({ section }: { section: SectionKey }) {
   return (
     <>
       <PageHeader
+        theme={meta.theme}
         crumbs={[{ label: meta.label }]}
         eyebrow="Rubrique"
         title={meta.label}
@@ -25,11 +27,11 @@ export async function SectionIndex({ section }: { section: SectionKey }) {
       <div className="swiss-container py-14 md:py-20">
         <div className="space-y-16">
           {groups.map((group, index) => (
-            <section key={group.title}>
+            <section key={group.title} style={themeStyle(group.items[0]?.theme ?? meta.theme)}>
               <div className="swiss-grid">
                 <div className="col-span-4 md:col-span-8 lg:col-span-3">
-                  <div className="rule-strong sticky top-28 pt-4">
-                    <span className="numeral eyebrow text-rouge">
+                  <div className="theme-rule sticky top-28 pt-4">
+                    <span className="numeral eyebrow text-theme">
                       {String(index + 1).padStart(2, "0")}
                     </span>
                     <h2 className="mt-3 text-xl font-medium tracking-[-0.02em]">
@@ -40,13 +42,15 @@ export async function SectionIndex({ section }: { section: SectionKey }) {
                 <div className="col-span-4 md:col-span-8 lg:col-span-9">
                   <ul className="rule-top">
                     {group.items.map((page) => (
-                      <li key={page.id}>
+                      <li key={page.id} style={themeStyle(page.theme)}>
                         <Link
                           href={`${meta.href}/${page.slug}`}
-                          className="group flex items-start justify-between gap-8 rule-bottom py-6 transition-colors hover:bg-secondary/60"
+                          className="group flex items-start justify-between gap-6 rule-bottom py-6 transition-colors hover:theme-wash"
                         >
-                          <span className="max-w-[62ch]">
-                            <span className="block text-lg leading-snug font-medium transition-colors group-hover:text-rouge">
+                          <span className="flex max-w-[62ch] gap-4">
+                            <span className="theme-dot mt-2" aria-hidden="true" />
+                            <span className="block">
+                            <span className="block text-lg leading-snug font-medium transition-colors group-hover:text-theme">
                               {page.title}
                             </span>
                             {page.summary && (
@@ -54,6 +58,7 @@ export async function SectionIndex({ section }: { section: SectionKey }) {
                                 {page.summary}
                               </span>
                             )}
+                            </span>
                           </span>
                           <ArrowUpRight
                             className="mt-1 size-5 shrink-0 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5"
@@ -74,12 +79,16 @@ export async function SectionIndex({ section }: { section: SectionKey }) {
             <p className="eyebrow rule-strong pt-4 pb-5 text-muted-foreground">
               Voir aussi
             </p>
-            <ul className="grid gap-px bg-border sm:grid-cols-2 lg:grid-cols-4">
+            <ul className="grid border-t border-l border-border sm:grid-cols-2 lg:grid-cols-4">
               {meta.extras.map((extra) => (
-                <li key={extra.href + extra.label}>
+                <li
+                  key={extra.href + extra.label}
+                  style={themeStyle(meta.theme)}
+                  className="border-r border-b border-border"
+                >
                   <Link
                     href={extra.href}
-                    className="group flex h-full items-center justify-between gap-4 bg-background p-5 text-sm font-medium transition-colors hover:bg-foreground hover:text-background"
+                    className="group flex h-full items-center justify-between gap-4 p-5 text-sm font-medium transition-colors hover:bg-theme hover:text-white"
                   >
                     {extra.label}
                     <ArrowRight className="size-4 shrink-0" aria-hidden="true" />
@@ -116,6 +125,7 @@ export async function SectionPage({
   return (
     <>
       <PageHeader
+        theme={page.theme}
         crumbs={[
           { label: meta.label, href: meta.href },
           ...(page.subsection ? [{ label: page.subsection }] : []),
@@ -126,12 +136,12 @@ export async function SectionPage({
         lead={page.summary}
       />
 
-      <div className="swiss-container py-14 md:py-20">
+      <div style={themeStyle(page.theme)} className="swiss-container py-14 md:py-20">
         <div className="swiss-grid">
           {/* Sommaire de la rubrique */}
           <aside className="col-span-4 md:col-span-8 lg:col-span-3">
             <nav aria-label={`Pages de la rubrique ${meta.label}`} className="lg:sticky lg:top-28">
-              <p className="eyebrow rule-strong pt-4 pb-4 text-muted-foreground">
+              <p className="eyebrow theme-rule pt-4 pb-4 text-muted-foreground">
                 {page.subsection ?? meta.label}
               </p>
               <ul className="space-y-0">
@@ -144,8 +154,8 @@ export async function SectionPage({
                         aria-current={current ? "page" : undefined}
                         className={
                           current
-                            ? "block border-l-2 border-rouge py-3 pl-3 text-sm font-medium"
-                            : "block border-l-2 border-transparent py-3 pl-3 text-sm text-muted-foreground transition-colors hover:border-border hover:text-foreground"
+                            ? "theme-wash block border-l-[3px] border-theme py-3 pl-3 text-sm font-medium"
+                            : "block border-l-[3px] border-transparent py-3 pl-3 text-sm text-muted-foreground transition-colors hover:border-border hover:text-foreground"
                         }
                       >
                         {item.title}
@@ -154,7 +164,7 @@ export async function SectionPage({
                   );
                 })}
               </ul>
-              <Link href={meta.href} className="eyebrow mt-6 inline-flex items-center gap-1.5 text-rouge">
+              <Link href={meta.href} className="eyebrow mt-6 inline-flex items-center gap-1.5 text-theme">
                 Toute la rubrique
                 <ArrowRight className="size-3.5" aria-hidden="true" />
               </Link>
@@ -180,7 +190,7 @@ export async function SectionPage({
                     className="group bg-background p-5 transition-colors hover:bg-secondary"
                   >
                     <span className="eyebrow text-muted-foreground">Précédent</span>
-                    <span className="mt-2 block text-sm font-medium group-hover:text-rouge">
+                    <span className="mt-2 block text-sm font-medium group-hover:text-theme">
                       {previous.title}
                     </span>
                   </Link>
@@ -193,7 +203,7 @@ export async function SectionPage({
                     className="group bg-background p-5 text-right transition-colors hover:bg-secondary"
                   >
                     <span className="eyebrow text-muted-foreground">Suivant</span>
-                    <span className="mt-2 block text-sm font-medium group-hover:text-rouge">
+                    <span className="mt-2 block text-sm font-medium group-hover:text-theme">
                       {next.title}
                     </span>
                   </Link>
