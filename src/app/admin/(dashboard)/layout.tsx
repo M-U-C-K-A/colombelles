@@ -1,13 +1,13 @@
 import { redirect } from "next/navigation";
 import { AdminShell } from "@/components/admin/admin-shell";
 import { getSession } from "@/lib/auth";
-import { getDb } from "@/lib/db";
+import { getDb, storageMode } from "@/lib/db";
 
 export default async function DashboardLayout({ children }: LayoutProps<"/admin">) {
   const session = await getSession();
   if (!session) redirect("/admin/login");
 
-  const db = await getDb();
+  const [db, storage] = await Promise.all([getDb(), storageMode()]);
   const counts: Record<string, number> = {
     news: db.news.length,
     events: db.events.length,
@@ -24,7 +24,7 @@ export default async function DashboardLayout({ children }: LayoutProps<"/admin"
   };
 
   return (
-    <AdminShell session={session} counts={counts}>
+    <AdminShell session={session} counts={counts} storage={storage}>
       {children}
     </AdminShell>
   );

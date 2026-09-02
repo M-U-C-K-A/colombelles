@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
-import { ColorRule } from "@/components/site/horizon";
 import { themeStyle } from "@/lib/themes";
 
 const SUGGESTIONS = [
@@ -23,16 +22,16 @@ export function NotFoundContent() {
     <div className="swiss-container py-20 md:py-28">
       <div className="swiss-grid items-start">
         <div className="col-span-4 md:col-span-8 lg:col-span-5">
-          <p className="eyebrow text-theme">Erreur 404</p>
+          <p className="eyebrow text-muted-foreground">Erreur 404</p>
           <p
             aria-hidden="true"
-            className="display mt-6 text-[7rem] leading-[0.8] sm:text-[11rem]"
+            className="numeral mt-7 text-[7rem] leading-[0.78] font-medium tracking-[-0.05em] sm:text-[10rem]"
           >
-            <span style={{ color: "var(--t-actu)" }}>4</span>
-            <span style={{ color: "var(--t-nature)" }}>0</span>
-            <span style={{ color: "var(--t-ecole)" }}>4</span>
+            404
           </p>
-          <ColorRule className="mt-8 max-w-xs" />
+          <p className="rule-strong mt-8 max-w-[22rem] pt-4 text-sm text-muted-foreground">
+            Page non trouvée
+          </p>
         </div>
 
         <div className="col-span-4 mt-10 md:col-span-8 lg:col-span-6 lg:col-start-7 lg:mt-0">

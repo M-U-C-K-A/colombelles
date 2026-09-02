@@ -194,11 +194,26 @@ partir de `src/lib/seed.ts`). Les écritures sont sérialisées et atomiques
 (fichier temporaire puis `rename`). Le dossier `data/` est ignoré par Git :
 supprimer le fichier régénère le jeu de données initial.
 
-Ce choix convient à un hébergement Node classique (`next build && next start`) sur
-un disque inscriptible. Pour un déploiement sur système de fichiers en lecture
-seule, remplacer l'implémentation de `src/lib/db.ts` par un véritable SGBD :
-c'est le seul module à réécrire, `queries.ts` et les actions serveur restant
-inchangés.
+Ce choix convient à un hébergement Node classique (`next build && next start`)
+sur un disque inscriptible.
+
+### Hébergement sans disque permanent (Vercel et plateformes sans état)
+
+La couche de persistance se dégrade au lieu d'échouer. Elle essaie, dans
+l'ordre : `DATA_DIR`, puis `data/` à la racine du projet, puis le dossier
+temporaire du système ; à défaut de tout, elle reste en mémoire. Le site est
+donc consultable et l'administration utilisable partout — mais lorsque
+l'écriture n'est pas durable, un bandeau **« Mode démonstration »** le signale à
+l'agent connecté, plutôt que de lui laisser croire que son travail est
+enregistré.
+
+Pour une vraie mise en production, deux voies :
+
+1. **Un volume inscriptible** — renseignez `DATA_DIR` (VPS, Scalingo, Railway,
+   Fly.io, conteneur avec volume…). Rien d'autre à changer.
+2. **Une base de données** — réécrivez `src/lib/db.ts`. C'est le seul module à
+   toucher : il n'expose que `getDb`, `read` et `mutate`, sur lesquels
+   s'appuient `queries.ts` et les actions serveur, qui restent inchangés.
 
 ## Contenus
 
