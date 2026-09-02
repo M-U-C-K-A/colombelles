@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { FeatureGroup, Map as LeafletMap } from "leaflet";
-import { THEMES, themeStyle, type ThemeKey } from "@/lib/themes";
+import { themeStyle, type ThemeKey } from "@/lib/themes";
 import { cn } from "@/lib/utils";
 import type { PlaceItem } from "@/lib/types";
 
@@ -114,22 +114,25 @@ export function CityMap({ places }: { places: PlaceItem[] }) {
       for (const place of shown) {
         const icon = L.divIcon({
           className: "",
-          html: `<span style="display:block;width:16px;height:16px;border:3px solid #fff;background:var(--t-${place.theme});box-shadow:0 1px 4px rgba(0,0,0,.45)"></span>`,
-          iconSize: [16, 16],
-          iconAnchor: [8, 8],
-          popupAnchor: [0, -10],
+          html: `<span class="map-pin" style="background:var(--t-${place.theme})"></span>`,
+          iconSize: [22, 22],
+          iconAnchor: [11, 26],
+          popupAnchor: [0, -26],
         });
 
         const lines = [
-          `<strong style="font-size:14px">${escapeHtml(place.name)}</strong>`,
-          `<span style="color:#555">${escapeHtml(place.address)}</span>`,
-          place.description ? `<span>${escapeHtml(place.description)}</span>` : "",
-          place.phone ? `<span>${escapeHtml(place.phone)}</span>` : "",
-          place.href ? `<a href="${place.href}">En savoir plus</a>` : "",
+          `<span style="display:block;font-size:0.6875rem;letter-spacing:.14em;text-transform:uppercase;color:var(--t-${place.theme})">${escapeHtml(place.category)}</span>`,
+          `<strong style="display:block;margin-top:.5rem;font-size:0.9375rem;font-weight:500;letter-spacing:-.01em">${escapeHtml(place.name)}</strong>`,
+          `<span style="display:block;margin-top:.35rem;color:var(--muted-foreground)">${escapeHtml(place.address)}</span>`,
+          place.description
+            ? `<span style="display:block;margin-top:.55rem;padding-top:.55rem;border-top:1px solid var(--border)">${escapeHtml(place.description)}</span>`
+            : "",
+          place.phone ? `<span style="display:block;margin-top:.4rem;font-variant-numeric:tabular-nums">${escapeHtml(place.phone)}</span>` : "",
+          place.href ? `<a style="display:inline-block;margin-top:.6rem" href="${place.href}">En savoir plus</a>` : "",
         ].filter(Boolean);
 
         L.marker([place.lat, place.lon], { icon, title: place.name })
-          .bindPopup(`<div style="display:grid;gap:5px;line-height:1.45">${lines.join("")}</div>`)
+          .bindPopup(`<div style="--theme:var(--t-${place.theme})">${lines.join("")}</div>`)
           .addTo(layer.current);
       }
 
@@ -248,4 +251,3 @@ function escapeHtml(value: string) {
     .replace(/"/g, "&quot;");
 }
 
-export { THEMES };

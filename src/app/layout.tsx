@@ -48,6 +48,12 @@ export const metadata: Metadata = {
     description:
       "Démarches, actualités, agenda et services de la Ville de Colombelles (Calvados).",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Ville de Colombelles — site officiel",
+    description:
+      "Démarches, actualités, agenda et services de la Ville de Colombelles (Calvados).",
+  },
   robots: { index: true, follow: true },
 };
 

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { ArrowRight, ArrowUpRight, Clock, MapPin, Phone } from "lucide-react";
 import { EventCard, NewsCard } from "@/components/site/cards";
-import { ColorLegend, ColorRule, HorizonPanel, SPECTRUM } from "@/components/site/horizon";
+import { ColorLegend, ColorRule, SPECTRUM } from "@/components/site/horizon";
 import { SectionTitle } from "@/components/site/page-header";
 import { QUICK_ACCESS } from "@/lib/navigation";
 import { telHref } from "@/lib/format";
@@ -267,13 +267,13 @@ export default async function HomePage() {
       {/* ================= Mémoire industrielle ================= */}
       <section style={themeStyle("patrimoine")} className="rule-top">
         <div className="swiss-container py-16 md:py-24">
-          <div className="swiss-grid items-center">
+          <div className="swiss-grid">
             <div className="col-span-4 md:col-span-8 lg:col-span-5">
-              <p className="eyebrow theme-bg inline-block px-2 py-1">Patrimoine · 1909 — 1993</p>
+              <p className="eyebrow theme-bg inline-block px-2 py-1">Patrimoine</p>
               <h2 className="display mt-6 text-[2.25rem] sm:text-[3rem]">
                 La ville que la sidérurgie a bâtie
               </h2>
-              <p className="mt-7 max-w-[46ch] leading-relaxed text-muted-foreground">
+              <p className="mt-7 max-w-[44ch] leading-relaxed text-muted-foreground">
                 {smn?.summary ??
                   "De 1909 à 1993, la Société métallurgique de Normandie a façonné la ville, son paysage et sa population."}
               </p>
@@ -281,12 +281,12 @@ export default async function HomePage() {
                 {[
                   { value: "300", unit: "hectares reconvertis" },
                   { value: "6 000", unit: "salariés en 1974" },
-                  { value: "66", unit: "mètres de haut" },
+                  { value: "84", unit: "ans d'activité" },
                 ].map((stat) => (
                   <div key={stat.unit} className="theme-rule pt-3">
                     <dt className="sr-only">{stat.unit}</dt>
                     <dd>
-                      <span className="numeral block text-3xl leading-none font-medium">
+                      <span className="numeral block text-3xl leading-none font-medium tracking-[-0.03em]">
                         {stat.value}
                       </span>
                       <span className="mt-2 block text-xs leading-snug text-muted-foreground">
@@ -305,12 +305,32 @@ export default async function HomePage() {
               </Link>
             </div>
 
-            <div className="col-span-4 mt-12 md:col-span-8 lg:col-span-6 lg:col-start-7 lg:mt-0">
-              <HorizonPanel className="aspect-[8/5] w-full" />
-              <p className="mt-3 text-xs text-muted-foreground">
-                Le carreau de l&apos;ancienne SMN, au lever du jour — d&apos;où la ville tient
-                sa devise.
+            {/* Chronologie : le récit tient dans les dates, pas dans une image. */}
+            <div className="col-span-4 mt-14 md:col-span-8 lg:col-span-6 lg:col-start-7 lg:mt-0">
+              <p className="eyebrow rule-strong pt-4 pb-5 text-muted-foreground">
+                Repères chronologiques
               </p>
+              <ol>
+                {[
+                  ["1909", "August Thyssen acquiert les terrains au bord de l'Orne."],
+                  ["1917", "Première coulée de la Société métallurgique de Normandie."],
+                  ["1921", "La population passe de 178 à 2 301 habitants en sept ans."],
+                  ["1944", "La commune est détruite à 80 % pendant la bataille de Caen."],
+                  ["1974", "L'usine emploie près de 6 000 personnes."],
+                  ["1993", "Dernière coulée, le 6 novembre."],
+                  ["2026", "300 hectares reconvertis en quartiers et parc d'activités."],
+                ].map(([year, text]) => (
+                  <li
+                    key={year}
+                    className="rule-bottom grid grid-cols-[4.5rem_1fr] items-baseline gap-5 py-4"
+                  >
+                    <span className="numeral text-xl leading-none font-medium tracking-[-0.02em] text-theme">
+                      {year}
+                    </span>
+                    <span className="text-sm leading-relaxed text-muted-foreground">{text}</span>
+                  </li>
+                ))}
+              </ol>
             </div>
           </div>
         </div>

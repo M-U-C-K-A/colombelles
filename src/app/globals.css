@@ -371,3 +371,94 @@
   }
   .text-balance { text-wrap: balance; }
 }
+
+/* --- Carte Leaflet : alignement sur le langage du site ------------------
+   Leaflet arrondit fortement ses bulles et impose sa propre typographie.
+   On rétablit les arêtes vives, les filets capillaires et la police du site. */
+  .leaflet-container {
+    font-family: var(--font-sans), system-ui, sans-serif;
+    background: var(--secondary);
+  }
+
+  .leaflet-popup-content-wrapper,
+  .leaflet-popup-tip {
+    border-radius: 0;
+    background: var(--popover);
+    color: var(--popover-foreground);
+    box-shadow: 0 18px 36px -20px oklch(0 0 0 / 0.55);
+    border: 1px solid var(--foreground);
+  }
+  .leaflet-popup-tip {
+    border-top: 0;
+    border-left: 0;
+  }
+  .leaflet-popup-content {
+    margin: 0;
+    padding: 0.95rem 1.05rem;
+    font-size: 0.8125rem;
+    line-height: 1.5;
+    width: 16rem !important;
+  }
+  .leaflet-popup-content a {
+    color: var(--theme);
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+  .leaflet-container a.leaflet-popup-close-button {
+    top: 0.35rem;
+    right: 0.35rem;
+    color: var(--muted-foreground);
+    font-size: 1.1rem;
+  }
+  .leaflet-container a.leaflet-popup-close-button:hover {
+    color: var(--foreground);
+    background: transparent;
+  }
+
+  /* Contrôles de zoom : carrés, contrastés */
+  .leaflet-touch .leaflet-bar,
+  .leaflet-bar {
+    border-radius: 0;
+    border: 1px solid var(--foreground);
+    box-shadow: none;
+  }
+  .leaflet-bar a,
+  .leaflet-bar a:hover {
+    border-radius: 0 !important;
+    background: var(--background);
+    color: var(--foreground);
+    border-bottom-color: var(--border);
+  }
+  .leaflet-bar a:hover {
+    background: var(--secondary);
+  }
+
+  .leaflet-control-attribution {
+    background: color-mix(in oklab, var(--background) 88%, transparent);
+    color: var(--muted-foreground);
+    font-size: 0.6875rem;
+  }
+  .leaflet-control-attribution a {
+    color: var(--muted-foreground);
+  }
+
+  /* Repère : pastille de couleur cerclée de blanc puis d'encre, pour ressortir
+     sur un fond cartographique clair comme sur les zones foncées. */
+  .map-pin {
+    display: block;
+    width: 22px;
+    height: 22px;
+    border: 3px solid #fff;
+    outline: 1.5px solid oklch(0.16 0 0 / 0.65);
+    box-shadow: 0 2px 6px oklch(0 0 0 / 0.4);
+  }
+  .map-pin::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    width: 2px;
+    height: 7px;
+    margin-left: -1px;
+    background: oklch(0.16 0 0 / 0.65);
+  }

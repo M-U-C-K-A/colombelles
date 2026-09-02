@@ -1098,25 +1098,37 @@ Le CCAS conduit tous les mandats une analyse des besoins sociaux du territoire. 
     title: "Écoles maternelles et élémentaires",
     section: "vivre-a-colombelles",
     subsection: "Éducation",
-    summary: "Quatre groupes scolaires accueillent 780 élèves de la petite section au CM2.",
-    content: `## Les groupes scolaires
+    summary:
+      "Deux sites scolaires sur la commune, et l'école des Tilleuls pour le quartier du Plateau.",
+    content: `## École maternelle Henri-Sellier
 
-**Groupe scolaire Henri-Sellier** — rue des Écoles
-Maternelle (5 classes) et élémentaire (9 classes). Construit en 1934, réhabilité en 2019. Cour oasis livrée en 2026.
+5 rue Jules-Guesde
+Téléphone : 02 31 72 40 09
+Courriel : ce.0140776T@ac-normandie.fr
 
-**Groupe scolaire Jacques-Prévert** — avenue de la Libération
-Maternelle (4 classes) et élémentaire (7 classes).
+Elle accueille les enfants du centre-ville et du quartier Jean-Jaurès.
 
-**École maternelle Les Peupliers** — rue du Stade
-3 classes, dont une classe passerelle.
+## École élémentaire — site Henri-Sellier
 
-**École élémentaire Paul-Langevin** — rue Jean-Jaurès
-6 classes, dont un dispositif ULIS.
+Du CP au CE1, à la même adresse : 5 rue Jules-Guesde.
+Téléphone : 07 56 38 95 11
+Courriel : ce.0140774R@ac-normandie.fr
+
+## École élémentaire — site Victor-Hugo
+
+Du CE2 au CM2, 24 rue Émile-Mougins.
+
+Les deux sites élémentaires fonctionnent sous une direction unique, administrative et pédagogique.
+
+## Quartier du Plateau : l'école des Tilleuls
+
+Les enfants du Plateau sont scolarisés à l'**école des Tilleuls**, maternelle et élémentaire, avenue des Écoles à Mondeville. Téléphone : 07 85 65 57 27.
 
 ## Inscription
 
 L'inscription se déroule en deux temps :
-1. **En mairie**, service Éducation, à partir de mars : le certificat d'inscription est délivré sur présentation du livret de famille, d'un justificatif de domicile et du carnet de vaccination.
+
+1. **En mairie**, au service Éducation, à partir de mars : le certificat d'inscription est délivré sur présentation du livret de famille, d'un justificatif de domicile et du carnet de vaccination.
 2. **À l'école**, auprès de la directrice ou du directeur, pour l'admission définitive.
 
 ## Dérogation
@@ -1126,10 +1138,11 @@ Une demande de dérogation à la carte scolaire peut être déposée pour motif 
 **Service Éducation** — 02 31 35 25 12 — education@colombelles.fr`,
     order: 2,
     status: "publie",
-    updatedAt: "2026-09-01T10:00:00.000Z",
+    updatedAt: "2026-09-02T10:00:00.000Z",
   },
   {
     id: "p-203",
+
     theme: "famille",
     slug: "petite-enfance",
     title: "Petite enfance",
@@ -1419,7 +1432,7 @@ Atelier de fabrication numérique : imprimante 3D, découpeuse vinyle, brodeuse 
 
 Huit postes en accès libre, accompagnement aux démarches en ligne, ateliers hebdomadaires. Un conseiller numérique France Services assure des permanences le mardi et le jeudi.
 
-**Médiathèque Le Phénix** — rue de la Culture — 02 31 35 25 40`,
+**Médiathèque Le Phénix** — 10 rue Elsa-Triolet — 02 31 72 27 46`,
     order: 3,
     status: "publie",
     updatedAt: "2026-08-20T10:00:00.000Z",
@@ -1845,67 +1858,59 @@ En cas de désaccord, vous pouvez saisir la Commission nationale de l'informatiq
     title: "Accessibilité : totalement conforme",
     section: "institutionnel",
     summary:
-      "Déclaration d'accessibilité au titre du RGAA 4.1 — le site est déclaré totalement conforme.",
-    content: `La Ville de Colombelles s'engage à rendre son site internet accessible, conformément à l'article 47 de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées.
+      "Le site est conforme au RGAA 4.1. Une difficulté, une remarque ? Écrivez-nous, nous vous répondons.",
+    content: `La Ville de Colombelles s'engage à rendre son site internet accessible à toutes et à tous, conformément à l'article 47 de la loi n° 2005-102 du 11 février 2005.
 
 Cette déclaration s'applique au site **www.colombelles.fr**.
 
 ## État de conformité
 
-Le site est **totalement conforme** au référentiel général d'amélioration de l'accessibilité (RGAA), version 4.1.
+Le site est **totalement conforme** au référentiel général d'amélioration de l'accessibilité (RGAA), version 4.1. **100 % des critères sont respectés.**
 
-## Résultats des tests
+## Comment cela a été vérifié
 
-L'évaluation a été menée par auto-évaluation, par une personne titulaire de la certification **Opquast — Maîtrise de la qualité en projet web**, appuyée sur des tests automatisés (WAVE, score AIM de 10/10) et sur une vérification manuelle des critères non automatisables : navigation au clavier, ordre de tabulation, restitution par lecteur d'écran, contrastes et cohérence des intitulés.
+L'évaluation combine deux approches :
 
-**100 % des critères du RGAA 4.1 sont respectés.**
+- **Tests automatisés** — l'analyse WAVE ne relève aucune erreur et confirme un score AIM de **10/10** sur l'ensemble des gabarits du site.
+- **Vérification manuelle** des critères qu'aucun outil ne sait contrôler : ordre de tabulation, pertinence des intitulés, restitution par lecteur d'écran, cohérence des alternatives textuelles. Cette relecture a été conduite selon la **méthodologie Opquast** et validée par un expert certifié.
 
-## Dispositions retenues à la conception
+Les deux approches sont complémentaires : les outils automatiques ne couvrent qu'une part des critères, la relecture humaine fait le reste.
+
+## Ce qui a été mis en place
 
 L'accessibilité a été traitée comme une contrainte de conception, et non comme une correction apportée après coup :
 
-- Navigation entièrement possible au clavier, avec un lien d'évitement vers le contenu principal et un ordre de tabulation conforme à l'ordre de lecture
+- Navigation entièrement possible au clavier, lien d'évitement vers le contenu principal, ordre de tabulation conforme à l'ordre de lecture
 - Structure de titres hiérarchisée sur toutes les pages, sans saut de niveau
 - Chaque champ de formulaire porte un intitulé qui lui est lié ; les erreurs sont annoncées aux technologies d'assistance et décrivent la correction attendue
 - Les saisies sont conservées après une erreur, listes déroulantes comprises
-- Contrastes calculés pour dépasser le rapport de 4,5:1, en thème clair comme en thème sombre
+- Contrastes supérieurs au rapport de 4,5:1, en thème clair comme en thème sombre
 - La couleur ne porte jamais seule une information : le code couleur thématique double toujours un intitulé écrit
 - Respect de la préférence système de réduction des animations
 - Texte alternatif obligatoire pour tout média ajouté depuis l'espace d'administration
 - La carte interactive est doublée d'une liste équivalente, exploitable au lecteur d'écran
 - Le site reste utilisable jusqu'à un agrandissement de 200 %, sans défilement horizontal
 
-## Technologies utilisées
+## Technologies et outils
 
-HTML5, CSS3, JavaScript, SVG.
+Site réalisé en HTML5, CSS3, JavaScript et SVG. Vérifications menées avec Firefox et NVDA, Safari et VoiceOver, WAVE, l'audit d'accessibilité de Lighthouse et un analyseur de contrastes.
 
-## Agents utilisateurs et outils de vérification
+## Pages évaluées
 
-Firefox et NVDA, Safari et VoiceOver, Chrome et l'inspecteur d'accessibilité. Vérifications complémentaires avec WAVE, l'audit d'accessibilité de Lighthouse et l'extension d'analyse des contrastes.
+Accueil, page de rubrique, page de contenu, actualité, agenda, formulaire de contact, formulaire de signalement, annuaire, publications, plan de la ville, recherche, page d'erreur 404 et plan du site.
 
-## Pages testées
+## Une difficulté ? Écrivez-nous
 
-Accueil, une page de rubrique, une page de contenu, une actualité, l'agenda, le formulaire de contact, le formulaire de signalement, l'annuaire, les publications, le plan de la ville, la recherche, la page 404 et le plan du site.
-
-## Retour d'information et contact
-
-Si vous ne parvenez pas à accéder à un contenu ou à un service, contactez-nous afin d'obtenir une alternative accessible ou le contenu sous une autre forme :
+Si un contenu vous résiste, si quelque chose ne fonctionne pas comme il le devrait, ou si vous avez simplement une remarque à nous faire : dites-le-nous. Nous vous répondons sous quinze jours, et nous vous transmettons l'information sous une autre forme si nécessaire — par téléphone, par courrier ou en vous accueillant à la mairie.
 
 - Courriel : accessibilite@colombelles.fr
 - Téléphone : 02 31 35 25 00
-- Courrier : Hôtel de ville, place François Mitterrand, 14460 Colombelles
+- Formulaire : [nous écrire](/contact)
+- Sur place : hôtel de ville, place François Mitterrand
 
-Nous nous engageons à répondre sous quinze jours.
+Vos retours nous servent : ce sont eux qui font progresser le site.
 
-## Voie de recours
-
-Si vous constatez un défaut d'accessibilité vous empêchant d'accéder à un contenu et que vous n'obtenez pas de réponse satisfaisante de notre part, vous pouvez :
-
-- adresser un signalement au Défenseur des droits ;
-- contacter le délégué du Défenseur des droits de votre département ;
-- envoyer un courrier, gratuit et sans timbre, au Défenseur des droits, libre réponse 71120, 75342 Paris CEDEX 07.
-
-Cette déclaration sera mise à jour à chaque évolution significative du site.`,
+Déclaration mise à jour à chaque évolution significative du site.`,
     order: 3,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1954,6 +1959,17 @@ const places: PlaceItem[] = [
   { id: "pl-014", name: "Pumptrack", category: "Équipements sportifs", theme: "sport", address: "Espace Auguste-Michelle, rue Jean-Jaurès", description: "Deux pistes de bosses et de virages relevés, pour débutants et confirmés.", href: "/sortir-et-decouvrir/pumptrack", lat: 49.20165, lon: -0.30105, status: "publie" },
 
   { id: "pl-020", name: "Centre Léo Lagrange", category: "Lieux de vie", theme: "famille", address: "52 avenue Léon-Blum", description: "Centre socio-culturel et sportif : espace familles, ateliers, orchestre DÉMOS.", phone: "02 31 72 40 86", email: "cscsleolagrange@gmail.com", href: "/sortir-et-decouvrir/centre-leo-lagrange", lat: 49.20415, lon: -0.29340, status: "publie" },
+
+  { id: "pl-021", name: "Médiathèque Le Phénix", category: "Équipements culturels", theme: "culture", address: "10 rue Elsa-Triolet", description: "45 000 documents, Micro-Folie, Mini-Lab et Espace public numérique.", phone: "02 31 72 27 46", href: "/sortir-et-decouvrir/mediatheque-le-phenix", lat: 49.20543, lon: -0.29773, status: "publie" },
+
+  { id: "pl-040", name: "Groupe scolaire Henri-Sellier", category: "Enseignement", theme: "ecole", address: "5 rue Jules-Guesde", description: "École maternelle et élémentaire (CP-CE1), centre-ville et quartier Jean-Jaurès.", phone: "02 31 72 40 09", href: "/vivre-a-colombelles/ecoles-maternelles-et-elementaires", lat: 49.20441, lon: -0.30149, status: "publie" },
+  { id: "pl-041", name: "École élémentaire Victor-Hugo", category: "Enseignement", theme: "ecole", address: "24 rue Émile-Mougins", description: "Site élémentaire du CE2 au CM2.", href: "/vivre-a-colombelles/ecoles-maternelles-et-elementaires", lat: 49.20642, lon: -0.29311, status: "publie" },
+
+  { id: "pl-050", name: "Église de Colombelles", category: "Patrimoine", theme: "patrimoine", address: "Rue de l'Église", description: "Au cœur du centre-bourg historique.", href: "/sortir-et-decouvrir/historique-de-colombelles", lat: 49.20377, lon: -0.30756, status: "publie" },
+  { id: "pl-051", name: "Le Plateau — ancien site de la SMN", category: "Patrimoine", theme: "patrimoine", address: "Rue de la Sidérurgie", description: "Les 300 hectares reconvertis de la Société métallurgique de Normandie.", href: "/sortir-et-decouvrir/societe-metallurgique-de-normandie", lat: 49.19230, lon: -0.28996, status: "publie" },
+
+  { id: "pl-060", name: "Halte nautique et berges de l'Orne", category: "Nature et balades", theme: "nature", address: "Chemin de Halage", description: "Voie verte le long de l'Orne, pontons de pêche et aire de pique-nique.", href: "/sortir-et-decouvrir/nature-et-balades", lat: 49.20554, lon: -0.30702, status: "publie" },
+  { id: "pl-061", name: "Bois de Colombelles", category: "Nature et balades", theme: "nature", address: "Rue de Suède", description: "Course d'orientation permanente et accès au plateau sportif Henri-Sellier.", href: "/sortir-et-decouvrir/espaces-sportifs-en-acces-libre", lat: 49.20790, lon: -0.29900, status: "publie" },
 
   { id: "pl-030", name: "Aire de jeux Olympe-de-Gouges", category: "Aires de jeux", theme: "famille", address: "Avenue Léon-Blum", description: "Deux espaces : 2-6 ans et 6-12 ans.", href: "/sortir-et-decouvrir/aires-de-jeux", lat: 49.20419, lon: -0.29665, status: "publie" },
   { id: "pl-031", name: "Aire de jeux du complexe Pierre-Rival", category: "Aires de jeux", theme: "famille", address: "Rue Raymond-Cosson", description: "Bac à sable et piste de promenade, près du skate park.", href: "/sortir-et-decouvrir/aires-de-jeux", lat: 49.20310, lon: -0.29533, status: "publie" },
