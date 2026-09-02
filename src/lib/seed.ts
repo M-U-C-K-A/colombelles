@@ -38,9 +38,11 @@ const settings: Settings = {
     { day: "Dimanche", value: "Fermé" },
   ],
   social: [
-    { label: "Facebook", url: "https://www.facebook.com/villedecolombelles" },
-    { label: "Instagram", url: "https://www.instagram.com/villedecolombelles" },
-    { label: "YouTube", url: "https://www.youtube.com" },
+    { label: "Facebook", url: "https://www.facebook.com/VilledeColombelles" },
+    {
+      label: "YouTube",
+      url: "https://www.youtube.com/channel/UC0JcpYH0ml3mE_54cHqrtvw",
+    },
   ],
   banner: {
     enabled: true,
@@ -1668,19 +1670,19 @@ Déclaration établie le 20 juin 2026.`,
 ];
 
 const documents: DocumentItem[] = [
-  { id: "d-001", title: "Guide des associations 2026-2027", category: "Vie associative", url: "/documents/guide-associations-2026-2027.pdf", fileType: "PDF", size: "4,2 Mo", publishedAt: "2026-08-25T10:00:00.000Z", status: "publie" },
-  { id: "d-002", title: "Budget primitif 2026 — note de présentation", category: "Finances", url: "/documents/budget-primitif-2026.pdf", fileType: "PDF", size: "1,8 Mo", publishedAt: "2026-03-26T10:00:00.000Z", status: "publie" },
-  { id: "d-003", title: "Procès-verbal du conseil municipal du 24 juin 2026", category: "Conseil municipal", url: "/documents/pv-conseil-2026-06-24.pdf", fileType: "PDF", size: "620 Ko", publishedAt: "2026-07-08T10:00:00.000Z", status: "publie" },
-  { id: "d-004", title: "Procès-verbal du conseil municipal du 25 mars 2026", category: "Conseil municipal", url: "/documents/pv-conseil-2026-03-25.pdf", fileType: "PDF", size: "710 Ko", publishedAt: "2026-04-10T10:00:00.000Z", status: "publie" },
-  { id: "d-005", title: "DICRIM — Document d'information communal sur les risques majeurs", category: "Sécurité", url: "/documents/dicrim-colombelles.pdf", fileType: "PDF", size: "3,1 Mo", publishedAt: "2026-04-10T10:00:00.000Z", status: "publie" },
-  { id: "d-006", title: "Calendrier de collecte des déchets 2026-2027", category: "Environnement", url: "/documents/calendrier-collecte-2026.pdf", fileType: "PDF", size: "890 Ko", publishedAt: "2026-08-18T10:00:00.000Z", status: "publie" },
-  { id: "d-007", title: "Colombelles Magazine — n° 78, été 2026", category: "Journal municipal", url: "/documents/magazine-78.pdf", fileType: "PDF", size: "6,4 Mo", publishedAt: "2026-06-30T10:00:00.000Z", status: "publie" },
-  { id: "d-008", title: "Colombelles Magazine — n° 77, printemps 2026", category: "Journal municipal", url: "/documents/magazine-77.pdf", fileType: "PDF", size: "6,1 Mo", publishedAt: "2026-03-31T10:00:00.000Z", status: "publie" },
-  { id: "d-009", title: "Analyse des besoins sociaux 2025", category: "Solidarité", url: "/documents/abs-2025.pdf", fileType: "PDF", size: "2,7 Mo", publishedAt: "2025-11-20T10:00:00.000Z", status: "publie" },
-  { id: "d-010", title: "Atlas de la biodiversité communale", category: "Environnement", url: "/documents/atlas-biodiversite.pdf", fileType: "PDF", size: "12,3 Mo", publishedAt: "2024-10-15T10:00:00.000Z", status: "publie" },
-  { id: "d-011", title: "Règlement intérieur des salles municipales", category: "Vie municipale", url: "/documents/reglement-salles.pdf", fileType: "PDF", size: "340 Ko", publishedAt: "2026-02-20T10:00:00.000Z", status: "publie" },
-  { id: "d-012", title: "Fiches de randonnée — les trois boucles", category: "Tourisme", url: "/documents/fiches-randonnee.pdf", fileType: "PDF", size: "5,5 Mo", publishedAt: "2026-04-28T10:00:00.000Z", status: "publie" },
-  { id: "d-013", title: "Rapport annuel sur le prix et la qualité de l'eau 2025", category: "Environnement", url: "/documents/rpqs-eau-2025.pdf", fileType: "PDF", size: "1,4 Mo", publishedAt: "2026-09-01T10:00:00.000Z", status: "brouillon" },
+  { id: "d-001", title: "Guide des associations 2026-2027", category: "Vie associative", url: "/documents/guide-associations-2026-2027.pdf", fileType: "PDF", size: "1,1 Ko", publishedAt: "2026-08-25T10:00:00.000Z", status: "publie" },
+  { id: "d-002", title: "Budget primitif 2026 — note de présentation", category: "Finances", url: "/documents/budget-primitif-2026.pdf", fileType: "PDF", size: "1,1 Ko", publishedAt: "2026-03-26T10:00:00.000Z", status: "publie" },
+  { id: "d-003", title: "Procès-verbal du conseil municipal du 24 juin 2026", category: "Conseil municipal", url: "/documents/pv-conseil-2026-06-24.pdf", fileType: "PDF", size: "1,2 Ko", publishedAt: "2026-07-08T10:00:00.000Z", status: "publie" },
+  { id: "d-004", title: "Procès-verbal du conseil municipal du 25 mars 2026", category: "Conseil municipal", url: "/documents/pv-conseil-2026-03-25.pdf", fileType: "PDF", size: "1,2 Ko", publishedAt: "2026-04-10T10:00:00.000Z", status: "publie" },
+  { id: "d-005", title: "DICRIM — Document d'information communal sur les risques majeurs", category: "Sécurité", url: "/documents/dicrim-colombelles.pdf", fileType: "PDF", size: "1,2 Ko", publishedAt: "2026-04-10T10:00:00.000Z", status: "publie" },
+  { id: "d-006", title: "Calendrier de collecte des déchets 2026-2027", category: "Environnement", url: "/documents/calendrier-collecte-2026.pdf", fileType: "PDF", size: "1,1 Ko", publishedAt: "2026-08-18T10:00:00.000Z", status: "publie" },
+  { id: "d-007", title: "Colombelles Magazine — n° 78, été 2026", category: "Journal municipal", url: "/documents/magazine-78.pdf", fileType: "PDF", size: "1,1 Ko", publishedAt: "2026-06-30T10:00:00.000Z", status: "publie" },
+  { id: "d-008", title: "Colombelles Magazine — n° 77, printemps 2026", category: "Journal municipal", url: "/documents/magazine-77.pdf", fileType: "PDF", size: "1,1 Ko", publishedAt: "2026-03-31T10:00:00.000Z", status: "publie" },
+  { id: "d-009", title: "Analyse des besoins sociaux 2025", category: "Solidarité", url: "/documents/abs-2025.pdf", fileType: "PDF", size: "1,1 Ko", publishedAt: "2025-11-20T10:00:00.000Z", status: "publie" },
+  { id: "d-010", title: "Atlas de la biodiversité communale", category: "Environnement", url: "/documents/atlas-biodiversite.pdf", fileType: "PDF", size: "1,1 Ko", publishedAt: "2024-10-15T10:00:00.000Z", status: "publie" },
+  { id: "d-011", title: "Règlement intérieur des salles municipales", category: "Vie municipale", url: "/documents/reglement-salles.pdf", fileType: "PDF", size: "1,1 Ko", publishedAt: "2026-02-20T10:00:00.000Z", status: "publie" },
+  { id: "d-012", title: "Fiches de randonnée — les trois boucles", category: "Tourisme", url: "/documents/fiches-randonnee.pdf", fileType: "PDF", size: "1,1 Ko", publishedAt: "2026-04-28T10:00:00.000Z", status: "publie" },
+  { id: "d-013", title: "Rapport annuel sur le prix et la qualité de l'eau 2025", category: "Environnement", url: "/documents/rpqs-eau-2025.pdf", fileType: "PDF", size: "1,2 Ko", publishedAt: "2026-09-01T10:00:00.000Z", status: "brouillon" },
 ];
 
 const elus: Elu[] = [
@@ -1895,10 +1897,10 @@ export function seedDatabase(): Database {
       },
     ],
     media: [
-      { id: "md-001", name: "Tour de refroidissement de la SMN", url: "/media/tour-smn.jpg", alt: "Silhouette de la tour de refroidissement se détachant sur le ciel", credit: "Ville de Colombelles", uploadedAt: "2026-06-15T10:00:00.000Z" },
-      { id: "md-002", name: "Hôtel de ville", url: "/media/hotel-de-ville.jpg", alt: "Façade de l'hôtel de ville depuis la place François Mitterrand", credit: "Ville de Colombelles", uploadedAt: "2026-02-10T10:00:00.000Z" },
-      { id: "md-003", name: "Berges de l'Orne", url: "/media/berges-orne.jpg", alt: "Voie verte longeant l'Orne au petit matin", credit: "Ville de Colombelles", uploadedAt: "2026-04-28T10:00:00.000Z" },
-      { id: "md-004", name: "Médiathèque Le Phénix", url: "/media/mediatheque.jpg", alt: "Salle de lecture de la médiathèque", credit: "Ville de Colombelles", uploadedAt: "2026-08-20T10:00:00.000Z" },
+      { id: "md-001", name: "Tour de refroidissement de la SMN", url: "/media/tour-smn.svg", alt: "Silhouette de la tour de refroidissement se détachant sur le ciel", credit: "Ville de Colombelles", uploadedAt: "2026-06-15T10:00:00.000Z" },
+      { id: "md-002", name: "Hôtel de ville", url: "/media/hotel-de-ville.svg", alt: "Façade de l'hôtel de ville depuis la place François Mitterrand", credit: "Ville de Colombelles", uploadedAt: "2026-02-10T10:00:00.000Z" },
+      { id: "md-003", name: "Berges de l'Orne", url: "/media/berges-orne.svg", alt: "Voie verte longeant l'Orne au petit matin", credit: "Ville de Colombelles", uploadedAt: "2026-04-28T10:00:00.000Z" },
+      { id: "md-004", name: "Médiathèque Le Phénix", url: "/media/mediatheque.svg", alt: "Salle de lecture de la médiathèque", credit: "Ville de Colombelles", uploadedAt: "2026-08-20T10:00:00.000Z" },
     ],
     users: [
       {

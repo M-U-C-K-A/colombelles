@@ -219,3 +219,18 @@ npm run build   # build de production
 npm start       # serveur de production
 npm run lint    # ESLint
 ```
+
+### Fichiers de démonstration
+
+Les publications et les visuels de la médiathèque pointent vers des fichiers
+réellement présents dans `public/`, afin qu'aucun lien ne casse. Ce sont des
+substituts : PDF d'une page portant l'intitulé de la publication, et aplats
+colorés pour les images. Ils se régénèrent avec :
+
+```bash
+node scripts/generate-placeholder-documents.mjs
+```
+
+Remplacez-les par les vrais documents en déposant les fichiers dans
+`public/documents` et `public/media`, puis en mettant à jour les fiches depuis
+*Administration → Publications* et *Médiathèque*.
