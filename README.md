@@ -241,11 +241,23 @@ Pour une vraie mise en production, deux voies :
 
 ### Contenus et images repris du site municipal
 
-La rubrique **Vivre à Colombelles** (28 pages) et ses photographies sont
-reprises du site de la Ville : le contenu a été relevé page par page, et les
-images redimensionnées et recompressées (`public/media/ville`, 2 Mo au total).
+Les quatre rubriques — **107 pages** — et leurs photographies sont reprises du
+site de la Ville : le contenu a été relevé page par page, et les images
+redimensionnées et recompressées (`public/media/ville`, 2 Mo au total).
+
+| Rubrique | Pages |
+| --- | --- |
+| Votre mairie | 11 |
+| Démarches pratiques | 38 |
+| Vivre à Colombelles | 29 |
+| Sortir et découvrir | 26 |
+| Institutionnel | 3 |
+
 Seules des photographies en paysage ont été retenues comme bandeaux ; les
 affiches et visuels de programme ont été écartés.
+
+Une page est laissée en brouillon : « L'école, ancien château » est vide sur le
+site municipal, et il n'était pas question d'en inventer l'histoire.
 
 Ces contenus et ces images **restent la propriété de la Ville de Colombelles**
 et de leurs auteurs. Leur présence ici relève de la démonstration : ils sont à

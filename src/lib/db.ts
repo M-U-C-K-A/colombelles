@@ -91,6 +91,7 @@ async function persist(): Promise<void> {
   const tmp = `${target}.${process.pid}.tmp`;
   try {
     await fs.mkdir(writeDir, { recursive: true });
+    await purgeTemporaires(writeDir);
     await fs.writeFile(tmp, JSON.stringify(cache, null, 2), "utf8");
     await fs.rename(tmp, target);
   } catch (error) {
@@ -99,6 +100,18 @@ async function persist(): Promise<void> {
     console.error("Écriture impossible, bascule en mémoire :", error);
     writeDir = null;
     mode = "memoire";
+  }
+}
+
+/** Une écriture interrompue laisse un fichier temporaire : on le balaie. */
+async function purgeTemporaires(dir: string): Promise<void> {
+  try {
+    const restes = (await fs.readdir(dir)).filter(
+      (f) => f.startsWith(FILE_NAME) && f.endsWith(".tmp"),
+    );
+    await Promise.all(restes.map((f) => fs.rm(path.join(dir, f), { force: true })));
+  } catch {
+    // Sans conséquence : la persistance ne dépend pas de ce nettoyage.
   }
 }
 

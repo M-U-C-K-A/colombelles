@@ -1,5 +1,14 @@
 import { Skeleton } from "@/components/ui/skeleton";
 
+/**
+ * Squelette de chargement, réservé aux pages sans segment dynamique.
+ *
+ * Placé plus haut dans l'arborescence, il ouvrait une frontière Suspense qui
+ * envoyait l'en-tête de réponse avant que `notFound()` ne soit atteint : toute
+ * adresse inconnue répondait alors 200 avec la page d'erreur — un « soft 404 »,
+ * que les moteurs de recherche indexent.
+ */
+
 export default function Loading() {
   return (
     <div className="swiss-container py-16" aria-busy="true" aria-live="polite">

@@ -24,7 +24,7 @@ export const SECTIONS: SectionMeta[] = [
       { group: "Équipe et instances", label: "Équipe municipale", href: "/votre-mairie/equipe-municipale" },
       { group: "Équipe et instances", label: "Conseil municipal", href: "/votre-mairie/conseil-municipal" },
       { group: "Équipe et instances", label: "Services de la ville", href: "/votre-mairie/services" },
-      { group: "Publications", label: "Journal municipal", href: "/publications?categorie=Journal+municipal" },
+      { group: "Publications", label: "Journal municipal", href: "/votre-mairie/journal-municipal" },
       { group: "Publications", label: "Comptes rendus du conseil", href: "/publications?categorie=Conseil+municipal" },
       { group: "Publications", label: "Toutes les publications", href: "/publications" },
     ],
@@ -82,8 +82,8 @@ export const QUICK_ACCESS: {
   theme: ThemeKey;
 }[] = [
   { label: "Démarches en ligne", href: "/demarches", hint: "État civil, identité, urbanisme", theme: "contact" },
-  { label: "Portail famille", href: "/demarches/portail-famille", hint: "Inscriptions et réservations", theme: "famille" },
-  { label: "Menus scolaires", href: "/demarches/portail-famille", hint: "Restauration scolaire", theme: "famille" },
+  { label: "Restauration scolaire", href: "/vivre-a-colombelles/restauration-scolaire", hint: "Inscription et réservation", theme: "famille" },
+  { label: "Accueil périscolaire", href: "/vivre-a-colombelles/accueil-periscolaire", hint: "Avant et après la classe", theme: "famille" },
   { label: "Écoles et jeunesse", href: "/vivre-a-colombelles/ecoles-maternelles-et-elementaires", hint: "Inscriptions, périscolaire", theme: "ecole" },
   { label: "Déchets et tri", href: "/demarches/dechets-et-proprete", hint: "Calendrier de collecte", theme: "nature" },
   { label: "Offres d'emploi", href: "/emploi", hint: "Recrutement municipal", theme: "emploi" },
