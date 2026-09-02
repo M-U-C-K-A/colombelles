@@ -158,6 +158,7 @@ src/
 | Offres d'emploi | Annonces, date limite de candidature |
 | Élus | Composition du conseil, pôle de délégation, rang protocolaire |
 | Salles à louer | Salles municipales, tarifs, photographies de l'aperçu |
+| Lieux de la carte | Points du plan interactif, catégories et coordonnées |
 | Services | Coordonnées et horaires des services municipaux |
 | Signalements | Suivi des demandes des habitants, notes internes |
 | Messages | Boîte de réception du formulaire de contact |
@@ -252,6 +253,20 @@ npm run build   # build de production
 npm start       # serveur de production
 npm run lint    # ESLint
 ```
+
+### Services externes
+
+Deux appels sortants, tous deux vers des services publics, sans clé ni compte :
+
+- **Base Adresse Nationale** (`api-adresse.data.gouv.fr`) — l'aide à la saisie du
+  formulaire de signalement propose les voies de la commune, restreinte au code
+  INSEE 14167. Le champ reste libre et le formulaire fonctionne si le service
+  est indisponible.
+- **OpenStreetMap** — fond cartographique du plan interactif, sous licence ODbL.
+
+Les coordonnées des lieux ont été relevées une fois via la Base Adresse
+Nationale et sont **figées dans le jeu de données** : aucun géocodage n'a lieu
+au moment du rendu.
 
 ### Fichiers de démonstration
 

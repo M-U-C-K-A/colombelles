@@ -64,6 +64,22 @@ export type SectionKey =
   | "sortir-et-decouvrir"
   | "institutionnel";
 
+/** Point remarquable de la carte interactive. */
+export interface PlaceItem {
+  id: string;
+  name: string;
+  category: string;
+  theme: ThemeKey;
+  address: string;
+  description?: string;
+  phone?: string;
+  email?: string;
+  href?: string;
+  lat: number;
+  lon: number;
+  status: Status;
+}
+
 /** Salle municipale proposée à la location. */
 export interface VenueItem {
   id: string;
@@ -231,6 +247,7 @@ export interface Database {
   pages: PageItem[];
   documents: DocumentItem[];
   venues: VenueItem[];
+  places: PlaceItem[];
   elus: Elu[];
   services: ServiceItem[];
   directory: DirectoryItem[];

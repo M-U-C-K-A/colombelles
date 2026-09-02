@@ -200,6 +200,37 @@ export const PAGE_FIELDS: FieldGroup[] = [
   },
 ];
 
+export const PLACE_FIELDS: FieldGroup[] = [
+  {
+    title: "Lieu",
+    fields: [
+      { name: "name", label: "Nom du lieu", required: true, full: true },
+      { name: "category", label: "Catégorie", required: true, placeholder: "Équipements sportifs", hint: "Les catégories alimentent la légende de la carte." },
+      themeField,
+      { name: "address", label: "Adresse", required: true, full: true },
+      { name: "description", label: "Description", type: "textarea", rows: 3, full: true },
+    ],
+  },
+  {
+    title: "Coordonnées géographiques",
+    description:
+      "Relevées sur la Base Adresse Nationale (adresse.data.gouv.fr) ou en clic droit sur openstreetmap.org.",
+    fields: [
+      { name: "lat", label: "Latitude", required: true, placeholder: "49.20446" },
+      { name: "lon", label: "Longitude", required: true, placeholder: "-0.29692" },
+    ],
+  },
+  {
+    title: "Contact et lien",
+    fields: [
+      { name: "phone", label: "Téléphone" },
+      { name: "email", label: "Courriel", type: "email" },
+      { name: "href", label: "Page du site", placeholder: "/sortir-et-decouvrir/piscine", full: true },
+      { name: "status", label: "Statut", type: "select", options: STATUS_OPTIONS, required: true },
+    ],
+  },
+];
+
 export const VENUE_FIELDS: FieldGroup[] = [
   {
     title: "Salle",

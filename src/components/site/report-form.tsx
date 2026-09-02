@@ -6,6 +6,7 @@ import { toast } from "sonner";
 import { submitReport } from "@/app/actions/public";
 import { initialFormState } from "@/lib/form-state";
 import { Button } from "@/components/ui/button";
+import { AddressField } from "@/components/site/address-field";
 import { Field, FormNotice } from "@/components/site/form-parts";
 
 const CATEGORIES = [
@@ -61,11 +62,10 @@ export function ReportForm() {
         error={state.errors?.category}
       />
 
-      <Field
+      <AddressField
         label="Localisation précise"
         name="location"
         required
-        placeholder="Rue, numéro, point de repère"
         defaultValue={state.values?.location}
         error={state.errors?.location}
       />

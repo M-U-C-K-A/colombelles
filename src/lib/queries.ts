@@ -156,6 +156,11 @@ export async function getDocumentCategories(): Promise<string[]> {
   return [...new Set(items.map((d) => d.category))].sort((a, b) => a.localeCompare(b, "fr"));
 }
 
+export async function getPlaces() {
+  const items = published(await read("places"));
+  return items.sort((a, b) => a.category.localeCompare(b.category, "fr") || a.name.localeCompare(b.name, "fr"));
+}
+
 export async function getVenues() {
   const items = published(await read("venues"));
   return items.sort((a, b) => a.order - b.order);
@@ -194,65 +199,150 @@ export interface SearchResult {
   type: string;
   excerpt: string;
   date?: string;
+  /** Pertinence interne, utilisée pour le classement. */
+  score?: number;
 }
 
-export async function search(query: string): Promise<SearchResult[]> {
-  const q = query
+/**
+ * Pages fixes du site : elles ne vivent pas dans la collection `pages` mais
+ * doivent être trouvables. Sans cela, chercher « signalement » ne renvoyait
+ * rien, alors que la page existe.
+ */
+const STATIC_PAGES: { title: string; href: string; type: string; excerpt: string; keywords: string }[] = [
+  { title: "Signaler un problème", href: "/signalement", type: "Démarche", excerpt: "Voirie, éclairage public, propreté, espaces verts : signalez un dysfonctionnement sur l'espace public.", keywords: "signalement signaler incident dysfonctionnement nid de poule lampadaire dépôt sauvage tag encombrant" },
+  { title: "Contact et horaires", href: "/contact", type: "Démarche", excerpt: "Adresse, téléphone, horaires d'ouverture de la mairie et formulaire de contact des services.", keywords: "contact contacter joindre horaires ouverture téléphone adresse courriel écrire mairie urgence" },
+  { title: "Plan de la ville", href: "/plan", type: "Se repérer", excerpt: "Carte interactive des équipements, aires de jeux, salles et lieux de vie.", keywords: "plan carte interactive localiser situer itinéraire équipements" },
+  { title: "Actualités", href: "/actualites", type: "Rubrique", excerpt: "Toute l'actualité de la vie municipale, des services et des équipements.", keywords: "actualités actualité nouvelles infos informations journal" },
+  { title: "Agenda", href: "/agenda", type: "Rubrique", excerpt: "Les prochains rendez-vous : spectacles, réunions publiques, visites, animations.", keywords: "agenda événements evenements sortir rendez-vous programme animations" },
+  { title: "Publications", href: "/publications", type: "Rubrique", excerpt: "Journal municipal, comptes rendus du conseil, budget, guides et documents réglementaires.", keywords: "publications documents télécharger pdf magazine comptes rendus procès-verbaux budget" },
+  { title: "Annuaire", href: "/annuaire", type: "Rubrique", excerpt: "Associations, commerces et équipements de la commune.", keywords: "annuaire associations commerces équipements coordonnées" },
+  { title: "Offres d'emploi", href: "/emploi", type: "Rubrique", excerpt: "Les postes à pourvoir à la Ville de Colombelles et la candidature spontanée.", keywords: "emploi offres recrutement postuler candidature travail job recrute" },
+  { title: "Équipe municipale", href: "/votre-mairie/equipe-municipale", type: "Votre mairie", excerpt: "Le maire, les adjoints et les conseillers municipaux, par pôle de délégation.", keywords: "élus élu maire adjoints conseillers équipe municipale délégations Pottier" },
+  { title: "Conseil municipal", href: "/votre-mairie/conseil-municipal", type: "Votre mairie", excerpt: "Composition, fonctionnement, séances publiques et procès-verbaux.", keywords: "conseil municipal séance délibération procès-verbal ordre du jour" },
+  { title: "Services de la ville", href: "/votre-mairie/services", type: "Votre mairie", excerpt: "Coordonnées, horaires et missions des services municipaux.", keywords: "services service coordonnées horaires état civil urbanisme technique police" },
+  { title: "Plan du site", href: "/plan-du-site", type: "Institutionnel", excerpt: "L'arborescence complète du site.", keywords: "plan du site arborescence sommaire" },
+  { title: "Mentions légales", href: "/mentions-legales", type: "Institutionnel", excerpt: "Éditeur, directeur de publication, hébergement et propriété intellectuelle.", keywords: "mentions légales éditeur hébergeur copyright" },
+  { title: "Données personnelles", href: "/donnees-personnelles", type: "Institutionnel", excerpt: "Traitements, bases légales, durées de conservation et exercice des droits.", keywords: "données personnelles rgpd cnil cookies vie privée dpo" },
+  { title: "Accessibilité", href: "/accessibilite", type: "Institutionnel", excerpt: "Déclaration d'accessibilité au titre du RGAA.", keywords: "accessibilité rgaa handicap conformité lecteur écran" },
+];
+
+/**
+ * Radical approximatif d'un mot français : on retire les terminaisons les plus
+ * courantes, sans descendre sous quatre caractères. Grossier, mais suffisant
+ * pour que « signaler » retrouve « signalement », ou « inscrire » « inscription ».
+ */
+const SUFFIXES = [
+  "issements", "issement", "ications", "ication", "ations", "ation", "ements", "ement",
+  "atrices", "atrice", "ateurs", "ateur", "ances", "ance", "ences", "ence",
+  "ives", "ive", "aux", "ales", "ale", "ants", "ant", "ents", "ent",
+  "ions", "ion", "ers", "er", "ez", "es", "s", "e",
+];
+
+function stem(word: string): string {
+  for (const suffix of SUFFIXES) {
+    if (word.length - suffix.length >= 4 && word.endsWith(suffix)) {
+      return word.slice(0, -suffix.length);
+    }
+  }
+  return word;
+}
+
+const normalize = (value: string) =>
+  value
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
     .trim();
-  if (q.length < 2) return [];
 
-  const terms = q.split(/\s+/);
-  const normalize = (value: string) =>
-    value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-  const matches = (...fields: string[]) => {
-    const haystack = normalize(fields.join(" "));
-    return terms.every((term) => haystack.includes(term));
+export async function search(query: string): Promise<SearchResult[]> {
+  const terms = normalize(query).split(" ").filter(Boolean);
+  if (terms.length === 0 || normalize(query).length < 2) return [];
+
+  const stems = terms.map(stem);
+
+  /** Un document correspond si chaque terme retrouve un mot de même radical. */
+  const matches = (...fields: (string | undefined)[]) => {
+    const haystack = ` ${normalize(fields.filter(Boolean).join(" "))} `;
+    return stems.every((s) => haystack.includes(` ${s}`));
   };
 
-  const [news, events, pages, documents, directory, jobs] = await Promise.all([
+  /**
+   * Pertinence : un terme trouvé dans le titre pèse bien plus que dans le
+   * corps du texte, sans quoi une page longue qui mentionne le mot une fois
+   * passe devant la page qui porte ce mot en titre.
+   */
+  const score = (title: string, summary?: string, body?: string) => {
+    const inTitle = ` ${normalize(title)} `;
+    const inSummary = ` ${normalize(summary ?? "")} `;
+    let total = 0;
+    for (const s of stems) {
+      if (inTitle.includes(` ${s}`)) total += 100;
+      if (inSummary.includes(` ${s}`)) total += 12;
+      if (body && ` ${normalize(body)} `.includes(` ${s}`)) total += 1;
+    }
+    // Un titre entièrement couvert par la requête passe devant.
+    if (stems.every((s) => inTitle.includes(` ${s}`))) total += 60;
+    return total;
+  };
+
+  const [news, events, pages, documents, directory, jobs, venues, places] = await Promise.all([
     getNews(),
     getEvents(),
     getPages(),
     getDocuments(),
     getDirectory(),
     getJobs(),
+    getVenues(),
+    getPlaces(),
   ]);
 
   const results: SearchResult[] = [];
 
+  for (const item of STATIC_PAGES) {
+    if (matches(item.title, item.excerpt, item.keywords)) {
+      results.push({
+        title: item.title,
+        href: item.href,
+        type: item.type,
+        excerpt: item.excerpt,
+        score: score(item.title, item.excerpt, item.keywords) + 25,
+      });
+    }
+  }
   for (const item of pages) {
-    if (matches(item.title, item.summary, item.content)) {
+    if (matches(item.title, item.summary, item.content, item.subsection)) {
       const base = SECTIONS.find((s) => s.key === item.section);
       results.push({
         title: item.title,
         href: base ? `${base.href}/${item.slug}` : `/${item.slug}`,
         type: base?.label ?? "Page",
         excerpt: item.summary || plainText(item.content, 160),
+        score: score(item.title, item.summary, item.content),
       });
     }
   }
   for (const item of news) {
-    if (matches(item.title, item.excerpt, item.content, item.tags.join(" "))) {
+    if (matches(item.title, item.excerpt, item.content, item.tags.join(" "), item.category)) {
       results.push({
         title: item.title,
         href: `/actualites/${item.slug}`,
         type: "Actualité",
         excerpt: item.excerpt,
         date: item.publishedAt,
+        score: score(item.title, item.excerpt, item.content),
       });
     }
   }
   for (const item of events) {
-    if (matches(item.title, item.excerpt, item.content, item.location)) {
+    if (matches(item.title, item.excerpt, item.content, item.location, item.category)) {
       results.push({
         title: item.title,
         href: `/agenda/${item.slug}`,
         type: "Agenda",
         excerpt: item.excerpt,
         date: item.startsAt,
+        score: score(item.title, item.excerpt, item.content),
       });
     }
   }
@@ -264,6 +354,7 @@ export async function search(query: string): Promise<SearchResult[]> {
         type: "Publication",
         excerpt: `${item.category} · ${item.fileType} · ${item.size}`,
         date: item.publishedAt,
+        score: score(item.title, item.category),
       });
     }
   }
@@ -274,6 +365,7 @@ export async function search(query: string): Promise<SearchResult[]> {
         href: `/annuaire#${item.id}`,
         type: "Annuaire",
         excerpt: item.description,
+        score: score(item.name, item.description, item.category),
       });
     }
   }
@@ -284,9 +376,41 @@ export async function search(query: string): Promise<SearchResult[]> {
         href: `/emploi/${item.slug}`,
         type: "Emploi",
         excerpt: `${item.department} · ${item.contract}`,
+        score: score(item.title, item.department, item.description),
+      });
+    }
+  }
+  for (const item of venues) {
+    if (matches(item.name, item.description, item.address)) {
+      results.push({
+        title: item.name,
+        href: "/demarches/location-de-salles",
+        type: "Salle à louer",
+        excerpt: `${item.capacity} · ${item.address}`,
+        score: score(item.name, item.description, item.address),
+      });
+    }
+  }
+  for (const item of places) {
+    if (matches(item.name, item.category, item.address, item.description)) {
+      results.push({
+        title: item.name,
+        href: item.href ?? "/plan",
+        type: "Lieu",
+        excerpt: `${item.category} · ${item.address}`,
+        score: score(item.name, `${item.category} ${item.address}`, item.description),
       });
     }
   }
 
-  return results;
+  // Dédoublonnage : un lieu peut aussi être une salle ou une page.
+  const seen = new Set<string>();
+  return results
+    .filter((r) => {
+      const key = `${r.href}|${r.title}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    })
+    .sort((a, b) => (b.score ?? 0) - (a.score ?? 0) || a.title.localeCompare(b.title, "fr"));
 }

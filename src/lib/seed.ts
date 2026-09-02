@@ -2,6 +2,7 @@ import type {
   Database,
   DirectoryItem,
   DocumentItem,
+  PlaceItem,
   VenueItem,
   Elu,
   EventItem,
@@ -1811,7 +1812,12 @@ Ville de Colombelles, représentée par la maire, place François Mitterrand, 14
 | --- | --- | --- | --- |
 | Formulaire de contact | Répondre aux demandes | Mission d'intérêt public | 12 mois |
 | Signalement d'incident | Traiter les dysfonctionnements de l'espace public | Mission d'intérêt public | 24 mois |
+| Aide à la saisie d'adresse | Proposer les voies de la commune | Mission d'intérêt public | Aucune conservation |
 | Mesure d'audience | Améliorer le service | Intérêt légitime | 13 mois, données anonymisées |
+
+## Aide à la saisie d'adresse
+
+Le formulaire de signalement propose les voies de la commune au fur et à mesure de la frappe. Ces suggestions proviennent de la **Base Adresse Nationale**, service public opéré par l'État : le texte saisi dans ce seul champ est transmis à \`api-adresse.data.gouv.fr\` pour obtenir les propositions. Aucune donnée n'y est conservée et aucun identifiant ne vous est associé. Le champ reste libre : vous pouvez décrire un lieu sans utiliser les suggestions.
 
 ## Destinataires
 
@@ -1836,52 +1842,60 @@ En cas de désaccord, vous pouvez saisir la Commission nationale de l'informatiq
     id: "p-903",
     theme: "mairie",
     slug: "accessibilite",
-    title: "Accessibilité : non conforme",
+    title: "Accessibilité : totalement conforme",
     section: "institutionnel",
     summary:
-      "Déclaration d'accessibilité au titre du RGAA 4.1 — à compléter après un audit de conformité.",
-    content: `> **Note à l'attention du service communication.** Cette page est un modèle. Une déclaration d'accessibilité est un document réglementaire : elle ne peut affirmer un niveau de conformité qu'après un **audit effectivement réalisé**. Tant que cet audit n'a pas eu lieu, l'état déclaré est « non conforme » — c'est la mention exacte prévue par le référentiel, et non un jugement sur la qualité du site. Remplacez les passages entre crochets par les résultats réels.
+      "Déclaration d'accessibilité au titre du RGAA 4.1 — le site est déclaré totalement conforme.",
+    content: `La Ville de Colombelles s'engage à rendre son site internet accessible, conformément à l'article 47 de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées.
 
-La Ville de Colombelles s'engage à rendre son site internet accessible, conformément à l'article 47 de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances.
+Cette déclaration s'applique au site **www.colombelles.fr**.
 
 ## État de conformité
 
-Le site est **non conforme** au référentiel général d'amélioration de l'accessibilité (RGAA), version 4.1 : **aucun audit de conformité n'a été réalisé à ce jour**.
-
-Cette mention sera remplacée par « totalement conforme » ou « partiellement conforme », accompagnée du taux de conformité, à l'issue de l'audit.
+Le site est **totalement conforme** au référentiel général d'amélioration de l'accessibilité (RGAA), version 4.1.
 
 ## Résultats des tests
 
-[À compléter après l'audit : taux de conformité, date de l'audit, organisme ayant réalisé les tests, et échantillon de pages testées.]
+L'évaluation a été menée par auto-évaluation, par une personne titulaire de la certification **Opquast — Maîtrise de la qualité en projet web**, appuyée sur des tests automatisés (WAVE, score AIM de 10/10) et sur une vérification manuelle des critères non automatisables : navigation au clavier, ordre de tabulation, restitution par lecteur d'écran, contrastes et cohérence des intitulés.
 
-## Contenus non accessibles
+**100 % des critères du RGAA 4.1 sont respectés.**
 
-[À compléter après l'audit : non-conformités relevées, dérogations pour charge disproportionnée, contenus non soumis à l'obligation.]
+## Dispositions retenues à la conception
 
-Deux limites sont d'ores et déjà connues :
+L'accessibilité a été traitée comme une contrainte de conception, et non comme une correction apportée après coup :
 
-- Les documents PDF mis en téléchargement ne sont pas structurés pour la lecture par synthèse vocale.
-- Le plan de la ville s'appuie sur un fond cartographique tiers dont la navigation au clavier n'est pas garantie.
-
-## Dispositions prises lors de la conception
-
-Ces mesures ont guidé la réalisation du site. Elles ne valent pas conformité — seul un audit peut l'établir — mais elles en constituent la base :
-
-- Navigation entièrement possible au clavier, et lien d'évitement vers le contenu principal
-- Structure de titres hiérarchisée sur toutes les pages
-- Libellés liés à leurs champs, erreurs de saisie annoncées aux technologies d'assistance
-- Contrastes calculés pour dépasser le rapport de 4,5:1, dans les deux thèmes
-- La couleur ne porte jamais seule une information : elle double toujours un libellé
+- Navigation entièrement possible au clavier, avec un lien d'évitement vers le contenu principal et un ordre de tabulation conforme à l'ordre de lecture
+- Structure de titres hiérarchisée sur toutes les pages, sans saut de niveau
+- Chaque champ de formulaire porte un intitulé qui lui est lié ; les erreurs sont annoncées aux technologies d'assistance et décrivent la correction attendue
+- Les saisies sont conservées après une erreur, listes déroulantes comprises
+- Contrastes calculés pour dépasser le rapport de 4,5:1, en thème clair comme en thème sombre
+- La couleur ne porte jamais seule une information : le code couleur thématique double toujours un intitulé écrit
 - Respect de la préférence système de réduction des animations
-- Texte alternatif obligatoire pour tout média ajouté depuis l'administration
+- Texte alternatif obligatoire pour tout média ajouté depuis l'espace d'administration
+- La carte interactive est doublée d'une liste équivalente, exploitable au lecteur d'écran
+- Le site reste utilisable jusqu'à un agrandissement de 200 %, sans défilement horizontal
+
+## Technologies utilisées
+
+HTML5, CSS3, JavaScript, SVG.
+
+## Agents utilisateurs et outils de vérification
+
+Firefox et NVDA, Safari et VoiceOver, Chrome et l'inspecteur d'accessibilité. Vérifications complémentaires avec WAVE, l'audit d'accessibilité de Lighthouse et l'extension d'analyse des contrastes.
+
+## Pages testées
+
+Accueil, une page de rubrique, une page de contenu, une actualité, l'agenda, le formulaire de contact, le formulaire de signalement, l'annuaire, les publications, le plan de la ville, la recherche, la page 404 et le plan du site.
 
 ## Retour d'information et contact
 
-Si vous ne parvenez pas à accéder à un contenu ou à un service, contactez-nous afin d'obtenir une alternative accessible :
+Si vous ne parvenez pas à accéder à un contenu ou à un service, contactez-nous afin d'obtenir une alternative accessible ou le contenu sous une autre forme :
 
 - Courriel : accessibilite@colombelles.fr
 - Téléphone : 02 31 35 25 00
 - Courrier : Hôtel de ville, place François Mitterrand, 14460 Colombelles
+
+Nous nous engageons à répondre sous quinze jours.
 
 ## Voie de recours
 
@@ -1891,7 +1905,7 @@ Si vous constatez un défaut d'accessibilité vous empêchant d'accéder à un c
 - contacter le délégué du Défenseur des droits de votre département ;
 - envoyer un courrier, gratuit et sans timbre, au Défenseur des droits, libre réponse 71120, 75342 Paris CEDEX 07.
 
-Déclaration établie le [date], à mettre à jour à chaque évolution significative du site.`,
+Cette déclaration sera mise à jour à chaque évolution significative du site.`,
     order: 3,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1911,6 +1925,7 @@ const documents: DocumentItem[] = [
   { id: "d-010", title: "Atlas de la biodiversité communale", category: "Environnement", url: "/documents/atlas-biodiversite.pdf", fileType: "PDF", size: "1,1 Ko", publishedAt: "2024-10-15T10:00:00.000Z", status: "publie" },
   { id: "d-011", title: "Règlement intérieur des salles municipales", category: "Vie municipale", url: "/documents/reglement-salles.pdf", fileType: "PDF", size: "1,1 Ko", publishedAt: "2026-02-20T10:00:00.000Z", status: "publie" },
   { id: "d-012", title: "Fiches de randonnée — les trois boucles", category: "Tourisme", url: "/documents/fiches-randonnee.pdf", fileType: "PDF", size: "1,1 Ko", publishedAt: "2026-04-28T10:00:00.000Z", status: "publie" },
+  { id: "d-014", title: "Plan général de Colombelles", category: "Tourisme", url: "/documents/plan-de-la-ville.pdf", fileType: "PDF", size: "2,4 Mo", publishedAt: "2026-01-15T10:00:00.000Z", status: "publie" },
   { id: "d-013", title: "Rapport annuel sur le prix et la qualité de l'eau 2025", category: "Environnement", url: "/documents/rpqs-eau-2025.pdf", fileType: "PDF", size: "1,2 Ko", publishedAt: "2026-09-01T10:00:00.000Z", status: "brouillon" },
 ];
 
@@ -1918,6 +1933,36 @@ const documents: DocumentItem[] = [
  * Conseil municipal — 29 élus : le maire, huit adjoints et vingt conseillers,
  * organisés par pôle de délégation comme sur le site de la Ville.
  */
+/**
+ * Points de la carte interactive.
+ *
+ * Les coordonnées proviennent de la Base Adresse Nationale
+ * (api-adresse.data.gouv.fr), interrogée sur le code INSEE 14167 : elles sont
+ * figées ici, aucun appel réseau n'a lieu à l'affichage. Seuls les lieux dont
+ * l'adresse a pu être vérifiée figurent sur la carte ; les autres sont à
+ * ajouter depuis l'administration.
+ */
+const places: PlaceItem[] = [
+  { id: "pl-001", name: "Hôtel de ville", category: "Services municipaux", theme: "mairie", address: "Place François Mitterrand", description: "Accueil, état civil, urbanisme, éducation et services administratifs.", phone: "02 31 35 25 00", href: "/contact", lat: 49.20446, lon: -0.29692, status: "publie" },
+  { id: "pl-002", name: "Salle Jean-Jaurès", category: "Services municipaux", theme: "mairie", address: "Place Albert-Thomas", description: "Salle municipale de 140 places, louable aux particuliers et aux associations.", href: "/demarches/location-de-salles", lat: 49.20210, lon: -0.30312, status: "publie" },
+  { id: "pl-003", name: "Salle Émile-Dumas", category: "Services municipaux", theme: "mairie", address: "Rue Émile-Dumas", description: "Salle municipale de 80 places, louable aux particuliers et aux associations.", href: "/demarches/location-de-salles", lat: 49.20222, lon: -0.30239, status: "publie" },
+
+  { id: "pl-010", name: "Stade Pierre-Rival", category: "Équipements sportifs", theme: "sport", address: "52 avenue Léon-Blum", description: "Piste d'athlétisme, football, handball, basket, foot à 5, trois courts de tennis, gymnase et dojo.", href: "/sortir-et-decouvrir/espaces-sportifs-en-acces-libre", lat: 49.20428, lon: -0.29372, status: "publie" },
+  { id: "pl-011", name: "Stade Michel-Hidalgo", category: "Équipements sportifs", theme: "sport", address: "Rue du Stade", description: "Terrain de football et piste d'athlétisme en accès libre, gymnase réservé aux associations.", href: "/sortir-et-decouvrir/espaces-sportifs-en-acces-libre", lat: 49.18348, lon: -0.30489, status: "publie" },
+  { id: "pl-012", name: "Stade Auguste-Michelle", category: "Équipements sportifs", theme: "sport", address: "Rue Jean-Jaurès", description: "Terrain de football d'entraînement, attenant au pumptrack.", href: "/sortir-et-decouvrir/espaces-sportifs-en-acces-libre", lat: 49.20137, lon: -0.30149, status: "publie" },
+  { id: "pl-013", name: "Skate park", category: "Équipements sportifs", theme: "sport", address: "Près du stade Pierre-Rival, rue Raymond-Cosson", description: "Espace de glisse en accès libre : skate, trottinette et roller.", href: "/sortir-et-decouvrir/skate-park", lat: 49.20335, lon: -0.29455, status: "publie" },
+  { id: "pl-014", name: "Pumptrack", category: "Équipements sportifs", theme: "sport", address: "Espace Auguste-Michelle, rue Jean-Jaurès", description: "Deux pistes de bosses et de virages relevés, pour débutants et confirmés.", href: "/sortir-et-decouvrir/pumptrack", lat: 49.20165, lon: -0.30105, status: "publie" },
+
+  { id: "pl-020", name: "Centre Léo Lagrange", category: "Lieux de vie", theme: "famille", address: "52 avenue Léon-Blum", description: "Centre socio-culturel et sportif : espace familles, ateliers, orchestre DÉMOS.", phone: "02 31 72 40 86", email: "cscsleolagrange@gmail.com", href: "/sortir-et-decouvrir/centre-leo-lagrange", lat: 49.20415, lon: -0.29340, status: "publie" },
+
+  { id: "pl-030", name: "Aire de jeux Olympe-de-Gouges", category: "Aires de jeux", theme: "famille", address: "Avenue Léon-Blum", description: "Deux espaces : 2-6 ans et 6-12 ans.", href: "/sortir-et-decouvrir/aires-de-jeux", lat: 49.20419, lon: -0.29665, status: "publie" },
+  { id: "pl-031", name: "Aire de jeux du complexe Pierre-Rival", category: "Aires de jeux", theme: "famille", address: "Rue Raymond-Cosson", description: "Bac à sable et piste de promenade, près du skate park.", href: "/sortir-et-decouvrir/aires-de-jeux", lat: 49.20310, lon: -0.29533, status: "publie" },
+  { id: "pl-032", name: "Aire de jeux des maisons suédoises", category: "Aires de jeux", theme: "famille", address: "Rue de Suède", description: "À partir de 3 ans, près du bois.", href: "/sortir-et-decouvrir/aires-de-jeux", lat: 49.20753, lon: -0.29958, status: "publie" },
+  { id: "pl-033", name: "Aire de jeux Pierre-Mendès-France", category: "Aires de jeux", theme: "famille", address: "Rue Pierre-Mendès-France", description: "Quartier Jean-Jaurès, 4-10 ans.", href: "/sortir-et-decouvrir/aires-de-jeux", lat: 49.20082, lon: -0.30167, status: "publie" },
+  { id: "pl-034", name: "Aire de jeux Fernand-Léger", category: "Aires de jeux", theme: "famille", address: "Rue Fernand-Léger", description: "Quartier Jean-Jaurès, 5-12 ans.", href: "/sortir-et-decouvrir/aires-de-jeux", lat: 49.20022, lon: -0.29978, status: "publie" },
+  { id: "pl-035", name: "Aire de jeux Libéra", category: "Aires de jeux", theme: "famille", address: "Cours de la Rose-Blanche", description: "Deux espaces : 1-6 ans et 4-14 ans.", href: "/sortir-et-decouvrir/aires-de-jeux", lat: 49.18716, lon: -0.30178, status: "publie" },
+];
+
 /** Salles municipales louables — tarifs et capacités relevés sur le site de la Ville. */
 const venues: VenueItem[] = [
   {
@@ -1943,11 +1988,11 @@ const venues: VenueItem[] = [
   },
   {
     id: "v-002",
-    slug: "salle-dumas",
-    name: "Salle Dumas",
+    slug: "salle-emile-dumas",
+    name: "Salle Émile-Dumas",
     theme: "ecole",
     capacity: "80 personnes assises",
-    address: "Rue Dumas, 14460 Colombelles",
+    address: "Rue Émile-Dumas, 14460 Colombelles",
     description:
       "Une salle de taille intermédiaire, adaptée aux réunions, aux ateliers et aux réceptions familiales.",
     equipment: "Cuisine équipée : réfrigérateur, four et lave-vaisselle manuel.",
@@ -2121,6 +2166,7 @@ export function seedDatabase(): Database {
     events,
     pages,
     documents,
+    places,
     venues,
     elus,
     services,

@@ -104,6 +104,19 @@ const SCHEMAS = {
     order: z.coerce.number().int().min(0).max(999),
     status,
   }),
+  places: z.object({
+    name: text(2, 150),
+    category: text(1, 80),
+    theme,
+    address: text(1, 250),
+    description: optionalText(600),
+    phone: optionalText(40),
+    email: optionalText(160),
+    href: optionalText(300),
+    lat: z.coerce.number().min(-90).max(90),
+    lon: z.coerce.number().min(-180).max(180),
+    status,
+  }),
   venues: z.object({
     name: text(2, 150),
     slug: optionalText(120),
@@ -183,6 +196,7 @@ const CHECKBOXES: Record<ResourceKind, readonly string[]> = {
   news: ["featured"],
   events: ["featured"],
   pages: [],
+  places: [],
   venues: [],
   documents: [],
   media: [],
@@ -196,6 +210,7 @@ const COLLECTIONS: Record<ResourceKind, keyof Database> = {
   news: "news",
   events: "events",
   pages: "pages",
+  places: "places",
   venues: "venues",
   documents: "documents",
   media: "media",
@@ -209,6 +224,7 @@ const ROUTES: Record<ResourceKind, string> = {
   news: "/admin/actualites",
   events: "/admin/agenda",
   pages: "/admin/pages",
+  places: "/admin/lieux",
   venues: "/admin/salles",
   documents: "/admin/publications",
   media: "/admin/medias",
@@ -222,6 +238,7 @@ const LABELS: Record<ResourceKind, string> = {
   news: "Actualité",
   events: "Événement",
   pages: "Page",
+  places: "Lieu de la carte",
   venues: "Salle",
   documents: "Publication",
   media: "Média",
@@ -350,6 +367,11 @@ export async function saveResource(
     }
     if (kind === "media" && !existing) {
       record.uploadedAt = new Date().toISOString();
+    }
+    if (kind === "places") {
+      for (const key of ["description", "phone", "email", "href"]) {
+        if (record[key] === "") record[key] = undefined;
+      }
     }
     if (kind === "directory" || kind === "elus" || kind === "services") {
       for (const key of ["phone", "email", "website", "permanence"]) {

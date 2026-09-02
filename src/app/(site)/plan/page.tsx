@@ -1,74 +1,65 @@
 import type { Metadata } from "next";
-import { MapPin } from "lucide-react";
-import { themeStyle } from "@/lib/themes";
+import { Download } from "lucide-react";
+import { CityMap } from "@/components/site/city-map";
 import { PageHeader } from "@/components/site/page-header";
-import { getDirectory, getSettings } from "@/lib/queries";
+import { getPlaces, getSettings } from "@/lib/queries";
+import { themeStyle } from "@/lib/themes";
 
 export const metadata: Metadata = {
   title: "Plan de la ville",
   description:
-    "Localiser les équipements publics, les commerces et les services de Colombelles.",
+    "Carte interactive des équipements de Colombelles : services municipaux, équipements sportifs, aires de jeux et lieux de vie.",
 };
 
 export default async function Page() {
-  const [settings, directory] = await Promise.all([getSettings(), getDirectory()]);
+  const [places, settings] = await Promise.all([getPlaces(), getSettings()]);
   const address = `${settings.address}, ${settings.postalCode} ${settings.city}`;
-  const equipments = directory.filter((item) => item.type === "equipement");
 
   return (
     <>
       <PageHeader
-        theme={"mairie"}
+        theme="mairie"
         crumbs={[{ label: "Plan de la ville" }]}
         eyebrow="Se repérer"
         title="Plan de la ville"
-        lead="Situer les équipements publics, les colonnes de tri, les aires de jeux et les commerces de la commune."
+        lead="Situer les équipements publics, les aires de jeux, les salles et les lieux de vie de la commune. Filtrez par catégorie depuis la légende."
       />
 
       <div style={themeStyle("mairie")} className="swiss-container py-14 md:py-20">
-        <div className="swiss-grid">
-          <div className="col-span-4 md:col-span-8 lg:col-span-8">
-            <div className="border border-border">
-              <iframe
-                title="Plan de Colombelles"
-                src="https://www.openstreetmap.org/export/embed.html?bbox=-0.3050%2C49.1930%2C-0.2530%2C49.2200&layer=mapnik"
-                className="aspect-[4/3] w-full"
-                loading="lazy"
-                referrerPolicy="no-referrer"
-              />
-            </div>
-            <p className="mt-3 text-xs text-muted-foreground">
-              Fond cartographique © contributeurs OpenStreetMap, sous licence ODbL. Si la carte
-              ne s&apos;affiche pas, consultez l&apos;
-              <a
-                href={`https://www.openstreetmap.org/search?query=${encodeURIComponent(address)}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="link-underline"
-              >
-                itinéraire vers la mairie
-              </a>
-              .
-            </p>
-          </div>
+        <CityMap places={places} />
 
-          <aside className="col-span-4 mt-10 md:col-span-8 lg:col-span-4 lg:mt-0">
-            <p className="eyebrow rule-strong pt-4 pb-4 text-muted-foreground">
-              Équipements publics
+        <section className="mt-16 grid gap-px border-t border-l border-border sm:grid-cols-2">
+          <div className="border-r border-b border-border p-6">
+            <h2 className="text-lg font-medium tracking-[-0.02em]">Le plan papier</h2>
+            <p className="mt-3 max-w-[52ch] text-sm leading-relaxed text-muted-foreground">
+              Le plan général de Colombelles, édité par la Ville, est disponible en
+              téléchargement et à l&apos;accueil de la mairie.
             </p>
-            <ul className="space-y-0">
-              {equipments.map((item) => (
-                <li key={item.id} className="rule-bottom py-4">
-                  <p className="text-sm font-medium">{item.name}</p>
-                  <p className="mt-1.5 flex items-start gap-2 text-sm text-muted-foreground">
-                    <MapPin className="mt-0.5 size-3.5 shrink-0" aria-hidden="true" />
-                    {item.address}
-                  </p>
-                </li>
-              ))}
-            </ul>
-          </aside>
-        </div>
+            <a
+              href="/documents/plan-de-la-ville.pdf"
+              className="mt-6 inline-flex items-center gap-2 border border-foreground px-5 py-3 text-sm font-medium transition-colors hover:bg-foreground hover:text-background"
+            >
+              <Download className="size-4" aria-hidden="true" />
+              Télécharger le plan (PDF)
+            </a>
+          </div>
+          <div className="border-r border-b border-border p-6">
+            <h2 className="text-lg font-medium tracking-[-0.02em]">Venir à la mairie</h2>
+            <address className="mt-3 text-sm leading-relaxed text-muted-foreground not-italic">
+              {settings.address}
+              <br />
+              {settings.postalCode} {settings.city}
+            </address>
+            <a
+              href={`https://www.openstreetmap.org/search?query=${encodeURIComponent(address)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="eyebrow mt-6 inline-block border-b-2 border-foreground pb-1"
+            >
+              Calculer un itinéraire
+            </a>
+          </div>
+        </section>
       </div>
     </>
   );
