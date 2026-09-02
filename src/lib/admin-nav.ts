@@ -32,6 +32,7 @@ export const ADMIN_NAV: AdminNavGroup[] = [
       { label: "Médiathèque", href: "/admin/medias", icon: "Image", countKey: "media" },
       { label: "Annuaire", href: "/admin/annuaire", icon: "BookUser", countKey: "directory" },
       { label: "Offres d'emploi", href: "/admin/emploi", icon: "Briefcase", countKey: "jobs" },
+      { label: "Salles à louer", href: "/admin/salles", icon: "DoorOpen", countKey: "venues" },
     ],
   },
   {

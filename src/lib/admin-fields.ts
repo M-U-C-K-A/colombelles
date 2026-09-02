@@ -174,6 +174,17 @@ export const PAGE_FIELDS: FieldGroup[] = [
       },
       themeField,
       { name: "summary", label: "Résumé", type: "textarea", rows: 3, full: true },
+      {
+        name: "block",
+        label: "Bloc interactif",
+        type: "select",
+        options: [
+          { value: "", label: "Aucun" },
+          { value: "salles", label: "Salles à louer (aperçu au survol)" },
+          { value: "caen-la-mer", label: "Communauté urbaine Caen la mer" },
+        ],
+        hint: "Ajouté sous le texte de la page.",
+      },
     ],
   },
   {
@@ -184,6 +195,45 @@ export const PAGE_FIELDS: FieldGroup[] = [
   {
     title: "Publication",
     fields: [
+      { name: "status", label: "Statut", type: "select", options: STATUS_OPTIONS, required: true },
+    ],
+  },
+];
+
+export const VENUE_FIELDS: FieldGroup[] = [
+  {
+    title: "Salle",
+    fields: [
+      { name: "name", label: "Nom de la salle", required: true, full: true },
+      slugField("Identifiant interne, généré automatiquement si vide."),
+      themeField,
+      { name: "capacity", label: "Capacité", required: true, placeholder: "140 personnes assises" },
+      { name: "order", label: "Ordre d'affichage", type: "number", required: true },
+      { name: "address", label: "Adresse", required: true, full: true },
+      { name: "description", label: "Description", type: "textarea", rows: 3, required: true, full: true },
+      { name: "equipment", label: "Équipement", type: "textarea", rows: 2, required: true, full: true },
+    ],
+  },
+  {
+    title: "Tarifs",
+    fields: [
+      { name: "rateResident", label: "Tarif Colombellois", required: true, placeholder: "332 € les 24 h · 561 € les 48 h" },
+      { name: "rateNonResident", label: "Tarif extérieurs", required: true },
+      { name: "extra", label: "Supplément", full: true, placeholder: "Location de la vaisselle : 111 €" },
+    ],
+  },
+  {
+    title: "Photographies",
+    description: "Elles défilent dans l'aperçu qui s'ouvre au survol de la salle.",
+    fields: [
+      {
+        name: "images",
+        label: "Adresses des images",
+        type: "textarea",
+        rows: 4,
+        full: true,
+        hint: "Une adresse par ligne, par exemple /media/salles/jean-jaures-1.jpg. La première sert de vue principale.",
+      },
       { name: "status", label: "Statut", type: "select", options: STATUS_OPTIONS, required: true },
     ],
   },
@@ -296,8 +346,15 @@ export const ELU_FIELDS: FieldGroup[] = [
     title: "Élu",
     fields: [
       { name: "name", label: "Nom et prénom", required: true },
-      { name: "role", label: "Fonction", required: true, placeholder: "3ᵉ adjoint" },
-      { name: "group", label: "Groupe", required: true, placeholder: "Majorité municipale" },
+      { name: "role", label: "Fonction", required: true, placeholder: "3ᵉ adjoint au maire" },
+      {
+        name: "pole",
+        label: "Pôle de délégation",
+        required: true,
+        placeholder: "Sport et animation",
+        hint: "Regroupe les élus sur la page Équipe municipale.",
+      },
+      themeField,
       {
         name: "order",
         label: "Rang protocolaire",

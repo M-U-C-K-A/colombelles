@@ -16,7 +16,7 @@ export default function Page() {
           groups={ELU_FIELDS}
           cancelHref="/admin/elus"
           submitLabel="Ajouter l'élu"
-          values={{ group: "Majorité municipale", delegation: "—", order: 30 }}
+          values={{ pole: "Sport et animation", theme: "sport", delegation: "—", order: 30 }}
         />
       </AdminBody>
     </>

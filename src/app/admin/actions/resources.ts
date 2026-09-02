@@ -90,6 +90,7 @@ const SCHEMAS = {
     title: text(3, 200),
     slug: optionalText(120),
     theme,
+    block: z.enum(["", "salles", "caen-la-mer"]),
     section: z.enum([
       "votre-mairie",
       "demarches",
@@ -100,6 +101,21 @@ const SCHEMAS = {
     subsection: optionalText(120),
     summary: text(0, 400).or(z.literal("")),
     content: text(1, 60000),
+    order: z.coerce.number().int().min(0).max(999),
+    status,
+  }),
+  venues: z.object({
+    name: text(2, 150),
+    slug: optionalText(120),
+    theme,
+    capacity: text(1, 120),
+    address: text(1, 250),
+    description: text(1, 1000),
+    equipment: text(1, 500),
+    rateResident: text(1, 160),
+    rateNonResident: text(1, 160),
+    extra: optionalText(300),
+    images: z.string().max(2000),
     order: z.coerce.number().int().min(0).max(999),
     status,
   }),
@@ -144,7 +160,8 @@ const SCHEMAS = {
     name: text(2, 150),
     role: text(1, 120),
     delegation: text(1, 400),
-    group: text(1, 120),
+    pole: text(1, 160),
+    theme,
     order: z.coerce.number().int().min(0).max(999),
     email: optionalText(160),
     permanence: optionalText(300),
@@ -166,6 +183,7 @@ const CHECKBOXES: Record<ResourceKind, readonly string[]> = {
   news: ["featured"],
   events: ["featured"],
   pages: [],
+  venues: [],
   documents: [],
   media: [],
   directory: [],
@@ -178,6 +196,7 @@ const COLLECTIONS: Record<ResourceKind, keyof Database> = {
   news: "news",
   events: "events",
   pages: "pages",
+  venues: "venues",
   documents: "documents",
   media: "media",
   directory: "directory",
@@ -190,6 +209,7 @@ const ROUTES: Record<ResourceKind, string> = {
   news: "/admin/actualites",
   events: "/admin/agenda",
   pages: "/admin/pages",
+  venues: "/admin/salles",
   documents: "/admin/publications",
   media: "/admin/medias",
   directory: "/admin/annuaire",
@@ -202,6 +222,7 @@ const LABELS: Record<ResourceKind, string> = {
   news: "Actualité",
   events: "Événement",
   pages: "Page",
+  venues: "Salle",
   documents: "Publication",
   media: "Média",
   directory: "Fiche d'annuaire",
@@ -294,6 +315,18 @@ export async function saveResource(
       record.endsAt = data.endsAt ? toIso(data.endsAt as string) : undefined;
       record.registration = (data.registration as string) || undefined;
     }
+    if (kind === "venues") {
+      record.slug = ensureUniqueSlug(
+        items as { id: string; slug?: string }[],
+        (data.slug as string) || (data.name as string),
+        record.id as string,
+      );
+      record.images = ((data.images as string) ?? "")
+        .split("\n")
+        .map((line) => line.trim())
+        .filter(Boolean);
+      record.extra = (data.extra as string) || undefined;
+    }
     if (kind === "pages") {
       record.slug = ensureUniqueSlug(
         items as { id: string; slug?: string }[],
@@ -301,6 +334,7 @@ export async function saveResource(
         record.id as string,
       );
       record.subsection = (data.subsection as string) || undefined;
+      record.block = (data.block as string) || undefined;
       record.updatedAt = new Date().toISOString();
     }
     if (kind === "jobs") {

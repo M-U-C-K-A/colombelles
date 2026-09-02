@@ -24,7 +24,7 @@ http://localhost:3000/admin
 
 | Compte | Identifiant | Mot de passe | Rôle |
 | --- | --- | --- | --- |
-| Administrateur | `admin` | `colombelle2026` | Accès complet |
+| Administrateur | `admin` | `colombelles2026` | Accès complet |
 | Rédaction | `redaction` | `redaction2026` | Contenus uniquement |
 
 > Ces identifiants sont des valeurs de démonstration présentes dans le jeu de
@@ -156,7 +156,8 @@ src/
 | Médiathèque | Images référencées, avec texte alternatif obligatoire |
 | Annuaire | Associations, commerces, équipements |
 | Offres d'emploi | Annonces, date limite de candidature |
-| Élus | Composition du conseil, délégations, rang protocolaire |
+| Élus | Composition du conseil, pôle de délégation, rang protocolaire |
+| Salles à louer | Salles municipales, tarifs, photographies de l'aperçu |
 | Services | Coordonnées et horaires des services municipaux |
 | Signalements | Suivi des demandes des habitants, notes internes |
 | Messages | Boîte de réception du formulaire de contact |
@@ -226,14 +227,22 @@ Pour une vraie mise en production, deux voies :
 
 ## Contenus
 
-Les informations pratiques — adresse, téléphone, horaires, arborescence des
-rubriques, patrimoine industriel — reprennent celles du site municipal de
-Colombelles, **logo officiel compris** (`public/logo-colombelles.png`, repris du
+Les informations reprises du site municipal sont réelles : adresse, téléphone,
+horaires, arborescence des rubriques, **composition du conseil municipal**,
+équipements sportifs (piscine rénovée, skate park, pumptrack, stades,
+aires de jeux), centre Léo Lagrange, **salles à louer et leurs tarifs**,
+patrimoine industriel et rattachement à la communauté urbaine Caen la mer, **logo officiel compris** (`public/logo-colombelles.png`, repris du
 site municipal ; le favicon en est le pictogramme recadré à la volée par
 `src/app/icon.tsx`). Ce logo reste la propriété de la Ville : son usage ici
-relève de la démonstration. **Les articles, événements, documents, noms d'élus et fiches
-d'annuaire sont des contenus de démonstration**, destinés à être remplacés depuis
-l'espace d'administration. Les noms de personnes sont fictifs.
+relève de la démonstration. En revanche, **les articles, les événements, les documents et les fiches
+d'annuaire restent des contenus de démonstration**, à remplacer depuis l'espace
+d'administration. Les photographies sont des aplats de substitution.
+
+La page [Accessibilité](/accessibilite) est un **modèle** : une déclaration
+RGAA ne peut annoncer un niveau de conformité qu'après un audit réellement
+conduit. Tant qu'il n'a pas eu lieu, l'état déclaré est « non conforme », qui
+est la mention prévue par le référentiel — et non un constat sur la qualité du
+site.
 
 ## Commandes
 

@@ -19,7 +19,7 @@ export default async function Page() {
     getUpcomingEvents(),
   ]);
 
-  const groups = [...new Set(elus.map((e) => e.group))];
+  const poles = [...new Set(elus.map((e) => e.pole))];
   const pv = documents.filter((d) => d.category === "Conseil municipal");
   const nextSession = events.find((e) => e.category === "Vie municipale");
 
@@ -30,7 +30,7 @@ export default async function Page() {
         crumbs={[{ label: "Votre mairie", href: "/votre-mairie" }, { label: "Conseil municipal" }]}
         eyebrow="Instances municipales"
         title="Le conseil municipal"
-        lead="Composé de 27 élus, le conseil municipal règle par ses délibérations les affaires de la commune. Ses séances sont publiques."
+        lead="Composé de 29 élus, le conseil municipal règle par ses délibérations les affaires de la commune. Ses séances sont publiques."
         aside={
           nextSession ? (
             <div className="rule-strong pt-4">
@@ -54,12 +54,12 @@ export default async function Page() {
         <section>
           <SectionTitle index="01" title="Composition" />
           <div className="mt-10 space-y-12">
-            {groups.map((group) => {
-              const members = elus.filter((e) => e.group === group);
+            {poles.map((pole) => {
+              const members = elus.filter((e) => e.pole === pole);
               return (
-                <div key={group} className="swiss-grid">
+                <div key={pole} style={themeStyle(members[0].theme)} className="swiss-grid">
                   <div className="col-span-4 md:col-span-8 lg:col-span-3">
-                    <p className="text-sm font-medium">{group}</p>
+                    <p className="theme-rule pt-3 text-sm font-medium">{pole}</p>
                     <p className="numeral eyebrow mt-2 text-muted-foreground">
                       {members.length} élus
                     </p>
@@ -95,26 +95,24 @@ export default async function Page() {
                   assister depuis les places réservées au public. Les délibérations sont
                   consultables en mairie et les procès-verbaux publiés après approbation.
                 </p>
-                <h2>Les commissions</h2>
+                <h2>Les pôles de délégation</h2>
                 <ul>
-                  <li>Finances, administration générale et ressources humaines</li>
-                  <li>Urbanisme, travaux et cadre de vie</li>
-                  <li>Éducation, enfance et jeunesse</li>
-                  <li>Solidarité, santé et logement</li>
-                  <li>Culture, sport et vie associative</li>
-                  <li>Transition écologique et mobilités</li>
+                  <li>Urbanisme, aménagement et développement durable</li>
+                  <li>Personnel et administration générale</li>
+                  <li>Démocratie participative, santé et prévention des risques</li>
+                  <li>Sport et animation</li>
+                  <li>Solidarité et affaires sociales</li>
+                  <li>Cadre de vie, travaux et commissions de sécurité</li>
+                  <li>Culture</li>
+                  <li>Réussite éducative et jeunesse</li>
+                  <li>Finances</li>
                 </ul>
                 <p>
                   Chaque commission prépare les dossiers soumis au conseil. Elle est présidée
                   par la maire et comprend des élus de chaque groupe, à la représentation
                   proportionnelle.
                 </p>
-                <h2>Expression des groupes</h2>
-                <p>
-                  Conformément au code général des collectivités territoriales, chaque groupe
-                  dispose d&apos;un espace d&apos;expression dans le journal municipal. Les
-                  tribunes sont publiées sans modification de la rédaction.
-                </p>
+
               </div>
             </div>
           </div>

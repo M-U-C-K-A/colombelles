@@ -156,6 +156,11 @@ export async function getDocumentCategories(): Promise<string[]> {
   return [...new Set(items.map((d) => d.category))].sort((a, b) => a.localeCompare(b, "fr"));
 }
 
+export async function getVenues() {
+  const items = published(await read("venues"));
+  return items.sort((a, b) => a.order - b.order);
+}
+
 export async function getDirectory(): Promise<DirectoryItem[]> {
   const items = published(await read("directory"));
   return items.sort((a, b) => a.name.localeCompare(b.name, "fr"));

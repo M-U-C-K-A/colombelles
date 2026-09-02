@@ -47,10 +47,15 @@ export interface PageItem {
   theme: ThemeKey;
   summary: string;
   content: string;
+  /** Bloc interactif ajouté sous le texte (voir PAGE_BLOCKS). */
+  block?: PageBlock;
   order: number;
   status: Status;
   updatedAt: string;
 }
+
+/** Blocs proposés en complément du texte d'une page. */
+export type PageBlock = "salles" | "caen-la-mer";
 
 export type SectionKey =
   | "votre-mairie"
@@ -58,6 +63,24 @@ export type SectionKey =
   | "vivre-a-colombelles"
   | "sortir-et-decouvrir"
   | "institutionnel";
+
+/** Salle municipale proposée à la location. */
+export interface VenueItem {
+  id: string;
+  slug: string;
+  name: string;
+  theme: ThemeKey;
+  capacity: string;
+  address: string;
+  description: string;
+  equipment: string;
+  rateResident: string;
+  rateNonResident: string;
+  extra?: string;
+  images: string[];
+  order: number;
+  status: Status;
+}
 
 export interface DocumentItem {
   id: string;
@@ -75,7 +98,9 @@ export interface Elu {
   name: string;
   role: string;
   delegation: string;
-  group: string;
+  /** Pôle de délégation auquel l'élu est rattaché. */
+  pole: string;
+  theme: ThemeKey;
   order: number;
   email?: string;
   permanence?: string;
@@ -205,6 +230,7 @@ export interface Database {
   events: EventItem[];
   pages: PageItem[];
   documents: DocumentItem[];
+  venues: VenueItem[];
   elus: Elu[];
   services: ServiceItem[];
   directory: DirectoryItem[];

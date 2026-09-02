@@ -2,6 +2,7 @@ import type {
   Database,
   DirectoryItem,
   DocumentItem,
+  VenueItem,
   Elu,
   EventItem,
   JobItem,
@@ -29,12 +30,12 @@ const settings: Settings = {
   phone: "02 31 35 25 00",
   email: "accueil@colombelles.fr",
   hours: [
-    { day: "Lundi", value: "8h30 – 12h30 · 13h30 – 18h00" },
+    { day: "Lundi", value: "8h30 – 12h30 · 13h30 – 17h00" },
     { day: "Mardi", value: "8h30 – 12h30 · 13h30 – 17h00" },
     { day: "Mercredi", value: "8h30 – 12h30 · 13h30 – 17h00" },
     { day: "Jeudi", value: "8h30 – 12h30 · 13h30 – 17h00" },
     { day: "Vendredi", value: "8h30 – 12h30 · 13h30 – 17h00" },
-    { day: "Samedi", value: "9h00 – 12h00 (permanences état civil)" },
+    { day: "Samedi", value: "9h00 – 12h00 · 2ᵉ et 4ᵉ samedis, hors vacances scolaires" },
     { day: "Dimanche", value: "Fermé" },
   ],
   social: [
@@ -554,6 +555,7 @@ Colombelles est membre de la communauté urbaine Caen la mer. Les 300 hectares d
 - Cimetière
 
 Un guichet unique en mairie oriente les habitants vers le bon interlocuteur, quelle que soit la collectivité compétente.`,
+    block: "caen-la-mer",
     order: 2,
     status: "publie",
     updatedAt: "2026-04-02T10:00:00.000Z",
@@ -993,38 +995,34 @@ Le tarif du repas est calculé sur le quotient familial, de 0,85 € à 4,60 €
     id: "p-107",
     theme: "culture",
     slug: "location-de-salles",
-    title: "Location de salles et prêt de matériel",
+    title: "Location de salles",
     section: "demarches",
-    summary: "Salles municipales, tarifs, conditions de réservation et matériel prêté aux associations.",
-    content: `## Les salles disponibles
+    summary:
+      "Deux salles municipales à louer, à tarif préférentiel pour les Colombellois.",
+    content: `La Ville met deux salles à la disposition des particuliers et des associations, à un tarif préférentiel pour les habitants de la commune. Survolez une salle ci-dessous pour en voir l'aperçu, l'adresse et les conditions.
 
-| Salle | Capacité | Tarif habitants | Tarif extérieurs |
-| --- | --- | --- | --- |
-| Salle des fêtes | 250 personnes | 380 € | 620 € |
-| Salle Léo Lagrange | 90 personnes | 180 € | 300 € |
-| Salle du Phénix | 45 personnes | 95 € | 160 € |
-| Salle associative Jean-Jaurès | 30 personnes | 60 € | 110 € |
-
-Tarifs pour un week-end. La location est gratuite pour les associations colombelloises, dans la limite de quatre utilisations par an.
-
-## Conditions
+## Conditions de location
 
 - Réservation au plus tôt un an et au plus tard un mois avant la date
-- Caution de 800 € et attestation d'assurance responsabilité civile obligatoires
+- Caution et attestation d'assurance responsabilité civile obligatoires
 - État des lieux d'entrée et de sortie contradictoire
-- Nuisances sonores limitées après 22h ; fin impérative à 2h
+- Nuisances sonores limitées après 22h
 
-## Prêt de matériel
+## Prêt de matériel aux associations
 
-Tables, bancs, chaises, barrières, grilles d'exposition, sonorisation légère et podium modulaire sont prêtés gratuitement aux associations de la commune. La demande doit être déposée au moins trois semaines à l'avance.
+Tables, bancs, chaises, barrières, grilles d'exposition et sonorisation légère sont prêtés gratuitement aux associations de la commune. La demande doit être déposée au moins trois semaines à l'avance.
 
-**Contact** : reservations@colombelles.fr — 02 31 35 25 18`,
+## Contact
+
+**Accueil de la mairie** — 02 31 35 25 00 — accueil@colombelles.fr`,
+    block: "salles",
     order: 7,
     status: "publie",
-    updatedAt: "2026-02-20T10:00:00.000Z",
+    updatedAt: "2026-08-30T10:00:00.000Z",
   },
   {
     id: "p-108",
+
     theme: "nature",
     slug: "transports-et-deplacements",
     title: "Transports et déplacements",
@@ -1238,37 +1236,34 @@ L'inscription, volontaire et gratuite, permet un suivi téléphonique en cas de 
     title: "Sport et équipements sportifs",
     section: "vivre-a-colombelles",
     subsection: "Sport",
-    summary: "Gymnases, stades, piscine, skate park, pumptrack et parcours d'orientation permanent.",
-    content: `## Les équipements
+    summary:
+      "Trois stades, deux gymnases, une piscine rénovée, un skate park, un pumptrack et des espaces libres dans chaque quartier.",
+    content: `Colombelles est labellisée **Ville active et sportive** (deux lauriers) et **Terre de Jeux 2024**. La commune compte trois stades et deux gymnases, et met à disposition des équipements libres et gratuits dans plusieurs quartiers.
 
-- **Gymnase Marcel-Cerdan** — salle omnisports, mur d'escalade, dojo
-- **Complexe sportif du Plateau** — deux terrains de football, une piste d'athlétisme
-- **Stade Jean-Bouin** — terrain d'honneur en gazon naturel, tribune de 400 places
-- **City-stade** — accès libre, rue du Stade
-- **Skate park** — 900 m², accès libre
-- **Pumptrack** — piste bitumée pour vélos et trottinettes, accès libre
-- **Terrain de pétanque** — douze jeux, accès libre
-- **Piscine intercommunale** — à Hérouville-Saint-Clair, tarif préférentiel pour les Colombellois
+## Les équipements
 
-## Labels
-
-La commune est labellisée **Terre de Jeux 2024** et **Ville active et sportive** (deux lauriers).
+- [La piscine](/sortir-et-decouvrir/piscine) — rouverte après près de deux ans de travaux
+- [Les espaces sportifs en accès libre](/sortir-et-decouvrir/espaces-sportifs-en-acces-libre) — stades Michel-Hidalgo, Auguste-Michelle et Pierre-Rival
+- [Le skate park](/sortir-et-decouvrir/skate-park) — au pied du stade Pierre-Rival
+- [Le pumptrack](/sortir-et-decouvrir/pumptrack) — deux pistes, espace Auguste-Michelle
+- [Les aires de jeux](/sortir-et-decouvrir/aires-de-jeux) — huit espaces répartis dans les quartiers
 
 ## Course d'orientation permanente
 
-Trois parcours balisés de 2, 4 et 7 kilomètres traversent la commune et les berges de l'Orne. Les cartes sont disponibles gratuitement à l'accueil de la mairie et de la médiathèque.
+Un circuit balisé traverse le bois de Colombelles. Cartes et fiches à télécharger gratuitement, praticables en famille comme à l'entraînement.
 
 ## Créneaux associatifs
 
-Les demandes de créneaux sont instruites en juin pour la saison suivante. Elles sont à adresser au service des sports.
+Les gymnases et les dojos sont réservés aux associations et aux écoles. Les demandes de créneaux sont instruites en juin pour la saison suivante, auprès du service des sports.
 
 **Service des sports** — 02 31 35 25 38 — sports@colombelles.fr`,
     order: 6,
     status: "publie",
-    updatedAt: "2026-07-01T10:00:00.000Z",
+    updatedAt: "2026-08-30T10:00:00.000Z",
   },
   {
     id: "p-207",
+
     theme: "nature",
     slug: "environnement-et-biodiversite",
     title: "Environnement et biodiversité",
@@ -1503,35 +1498,254 @@ Les fiches détaillées sont disponibles à l'accueil de la mairie et en téléc
     title: "Lieux de vie",
     section: "sortir-et-decouvrir",
     subsection: "Lieux de vie",
-    summary: "Centre Léo Lagrange, café participatif, espace jeux vidéo, mini-lab et local jeune.",
-    content: `## Centre socio-culturel et sportif Léo Lagrange
-
-Cœur de la vie sociale colombelloise : accueil de loisirs, ateliers, permanences associatives, accompagnement à la scolarité, actions familles. Agréé centre social par la CAF.
-
-Ouvert du lundi au vendredi de 9h à 19h, le samedi de 9h à 17h.
+    summary: "Café participatif, espace jeux vidéo, mini-lab, local jeune et lieu d'accueil enfants-parents.",
+    content: `Au-delà du [centre socio-culturel et sportif Léo Lagrange](/sortir-et-decouvrir/centre-leo-lagrange), qui structure la vie associative de la commune, plusieurs lieux accueillent les habitants au quotidien.
 
 ## Le café participatif
 
-Espace de convivialité géré par un collectif d'habitants. Boissons à prix libre, ateliers de réparation, repas partagés, permanences numériques. Ouvert les mercredis et vendredis après-midi.
+Espace de convivialité géré par un collectif d'habitants : boissons à prix libre, ateliers de réparation, repas partagés, permanences numériques. Ouvert les mercredis et vendredis après-midi.
 
-## Espace jeux vidéo
+## L'espace jeux vidéo
 
-Consoles et postes de jeu en réseau, tournois mensuels, ateliers de création. Ouvert aux 10-25 ans, encadré par un animateur.
+Consoles et postes en réseau, tournois mensuels, ateliers de création. Ouvert aux 10-25 ans, encadré par un animateur.
 
 ## Le Mini-Lab
 
-Fabrication numérique et bricolage à la médiathèque.
+Atelier de fabrication numérique installé à la médiathèque : imprimante 3D, découpeuse vinyle, brodeuse numérique, station de retouche. Accès sur adhésion, après une séance d'initiation.
+
+## L'Espace public numérique
+
+Huit postes en accès libre et un accompagnement aux démarches en ligne, avec un conseiller numérique France Services.
 
 ## Le Local jeune
 
-Accueil des 11-17 ans, projets et sorties.
+Accueil des 11-17 ans : jeux, aide aux devoirs, projets, sorties et séjours. Ouvert les mercredis et samedis de 14h à 18h, et tous les jours pendant les vacances. Adhésion annuelle de 8 €.
 
-## Lieu d'accueil enfants-parents
+## Le lieu d'accueil enfants-parents
 
-Espace de jeu libre pour les moins de 4 ans accompagnés d'un adulte. Gratuit, sans inscription.`,
-    order: 6,
+Espace de jeu libre pour les enfants de moins de 4 ans accompagnés d'un adulte. Les mardis et vendredis de 9h à 12h, au centre Léo Lagrange. Gratuit, anonyme, sans inscription.`,
+    order: 2,
     status: "publie",
-    updatedAt: "2026-03-30T10:00:00.000Z",
+    updatedAt: "2026-08-30T10:00:00.000Z",
+  },
+
+  /* ---------- Sortir et découvrir · activités sportives ---------- */
+  {
+    id: "p-310",
+    theme: "sport",
+    slug: "piscine",
+    title: "La piscine",
+    section: "sortir-et-decouvrir",
+    subsection: "Activités sportives",
+    summary:
+      "Rouverte après près de deux ans de travaux : grand bassin homologué, petit bassin d'apprentissage, isolation renforcée et panneaux solaires.",
+    content: `La piscine a rouvert ses portes après **près de deux ans de travaux**. La rénovation a porté aussi bien sur le confort des usagers que sur la performance énergétique du bâtiment. L'équipement accueille environ 60 000 visiteurs par an.
+
+## Ce que les travaux ont changé
+
+- Reprise complète des sols et des revêtements
+- Homologation du grand bassin pour la compétition, sur cinq couloirs
+- Isolation thermique renforcée
+- Installation de panneaux solaires
+
+## Les bassins
+
+- **Grand bassin** — 25 mètres, pour la nage libre et la pratique sportive.
+- **Petit bassin** — profondeur progressive jusqu'à 1,20 m, pour l'apprentissage et l'aquagym.
+
+## Horaires d'ouverture au public
+
+| Jour | Horaires |
+| --- | --- |
+| Mardi à vendredi | 10h30 – 13h30 · 14h00 – 18h00 |
+| Samedi | 10h00 – 13h30 · 14h00 – 16h30 |
+| Dimanche et lundi | Fermé |
+
+Le bassin est évacué vingt minutes avant la fermeture.
+
+## Règles d'accès
+
+Le **bonnet de bain est obligatoire**. Les shorts et bermudas ne sont pas admis.
+
+## Les activités encadrées
+
+Sport santé, lutte contre l'aquaphobie, perfectionnement adulte, aquagym, aquapalmes et aquabike.
+
+La piscine est gérée par le SIVOM des Trois Vallées, qui publie les tarifs et le calendrier des activités.`,
+    order: 1,
+    status: "publie",
+    updatedAt: "2026-08-30T10:00:00.000Z",
+  },
+  {
+    id: "p-311",
+    theme: "sport",
+    slug: "skate-park",
+    title: "Le skate park",
+    section: "sortir-et-decouvrir",
+    subsection: "Activités sportives",
+    summary:
+      "Un espace de glisse en accès libre pour le skate, la trottinette et le roller, au pied du stade Pierre-Rival.",
+    content: `Le skate park offre un espace de glisse aux amateurs de **skate, de trottinette et de roller**. L'accès est libre et gratuit, tous les jours.
+
+## Où le trouver
+
+Il jouxte le **stade Pierre-Rival**, 52 avenue Léon-Blum. L'implantation permet d'enchaîner facilement avec les équipements voisins : terrain de basket extérieur, terrain de football, piste d'athlétisme.
+
+## À proximité immédiate
+
+- Terrain de basket en accès libre
+- Piste d'athlétisme
+- Terrain de football
+- Aire de jeux et bac à sable, rue Raymond-Cosson
+
+## Bon à savoir
+
+L'équipement n'est pas surveillé : le port des protections est vivement recommandé, en particulier pour les plus jeunes. Pour signaler une dégradation, utilisez le [formulaire de signalement](/signalement).`,
+    order: 2,
+    status: "publie",
+    updatedAt: "2026-08-30T10:00:00.000Z",
+  },
+  {
+    id: "p-312",
+    theme: "sport",
+    slug: "pumptrack",
+    title: "Le pumptrack",
+    section: "sortir-et-decouvrir",
+    subsection: "Activités sportives",
+    summary:
+      "Deux pistes complémentaires, l'une pour débuter et l'autre pour les pratiquants confirmés, espace Auguste-Michelle.",
+    content: `Inauguré au début de l'année 2025, le pumptrack propose **deux pistes complémentaires**, faites de bosses et de virages relevés aux dénivelés adaptés : l'une pensée pour les débutants, l'autre pour les pratiquants confirmés.
+
+## Un espace de glisse sécurisé
+
+L'équipement est en accès libre, tous les jours. Il s'adresse aux jeunes et aux amateurs de pratiques freestyle, à vélo comme en trottinette.
+
+## Accès et aménagements
+
+- **Espace Auguste-Michelle**, rue Jean-Jaurès
+- Accessible en mobilités douces, notamment par la piste cyclable Jean-Jaurès
+- Une vingtaine de places de stationnement à proximité des vestiaires existants
+- Des bancs installés autour des pistes pour les accompagnants et les spectateurs
+
+## Financement
+
+Le projet a été financé à hauteur de 80 % par la Région Normandie, le Département du Calvados, l'État, l'Agence nationale du sport et la Fédération française de football. Le chantier a démarré à l'automne 2024.`,
+    order: 3,
+    status: "publie",
+    updatedAt: "2026-08-30T10:00:00.000Z",
+  },
+  {
+    id: "p-313",
+    theme: "sport",
+    slug: "espaces-sportifs-en-acces-libre",
+    title: "Les espaces sportifs en accès libre",
+    section: "sortir-et-decouvrir",
+    subsection: "Activités sportives",
+    summary:
+      "Trois stades, deux gymnases, des terrains et une course d'orientation permanente : où pratiquer librement, dans chaque quartier.",
+    content: `Colombelles est labellisée **Ville active et sportive** (deux lauriers) et **Terre de Jeux 2024**. La commune compte trois stades et deux gymnases, et met à disposition des espaces libres et gratuits dans plusieurs quartiers, pour pratiquer seul, en club ou entre amis.
+
+## Stade Michel-Hidalgo — rue du Stade
+
+- Terrain de football en accès libre
+- Piste d'athlétisme accessible
+- Gymnase réservé aux associations et aux écoles
+
+## Stade Auguste-Michelle — rue Jean-Jaurès
+
+- Terrain de football d'entraînement
+- Pumptrack attenant
+
+## Stade Pierre-Rival — 52 avenue Léon-Blum
+
+- Piste d'athlétisme
+- Terrains de football, de handball, de basket et de foot à 5
+- Trois courts de tennis, en dehors des cours réservés
+- Gymnase et dojo réservés aux associations et aux écoles
+- Skate park attenant
+
+## Plateau sportif Henri-Sellier
+
+Accessible depuis le bois de Colombelles : une piste, un terrain de handball et des panneaux de basket.
+
+## La course d'orientation permanente
+
+Un circuit praticable par tous traverse le **bois de Colombelles**. Les cartes et les fiches de boussole se téléchargent gratuitement. L'activité mêle effort physique et lecture de carte : elle se pratique en famille comme en entraînement.`,
+    order: 4,
+    status: "publie",
+    updatedAt: "2026-08-30T10:00:00.000Z",
+  },
+  {
+    id: "p-314",
+    theme: "famille",
+    slug: "aires-de-jeux",
+    title: "Les aires de jeux",
+    section: "sortir-et-decouvrir",
+    subsection: "Activités sportives",
+    summary:
+      "Huit espaces aménagés dans les quartiers, avec des équipements adaptés à chaque tranche d'âge.",
+    content: `Des aires de jeux sont aménagées dans chaque quartier, avec des équipements adaptés aux différentes tranches d'âge.
+
+| Quartier | Emplacement | Âges |
+| --- | --- | --- |
+| Centre-ville | Espace Olympe-de-Gouges, avenue Léon-Blum | 2 – 6 ans et 6 – 12 ans |
+| Complexe Pierre-Rival | Rue Raymond-Cosson, près du skate park | Bac à sable et piste de promenade |
+| Bois et maisons suédoises | Rue de Suède | À partir de 3 ans |
+| Jean-Jaurès | Rue Pierre-Mendès-France | 4 – 10 ans |
+| Jean-Jaurès | Rue Fernand-Léger | 5 – 12 ans |
+| Le Plateau | Place des Tilleuls / square Mérel | 4 – 14 ans |
+| Libéra | Cours de la Rose-Blanche | 1 – 6 ans et 4 – 14 ans |
+
+## Sécurité et entretien
+
+Les aires sont contrôlées régulièrement par les services techniques. Pour signaler un jeu dégradé ou un défaut d'entretien, utilisez le [formulaire de signalement](/signalement) : la demande est transmise directement au service compétent.`,
+    order: 5,
+    status: "publie",
+    updatedAt: "2026-08-30T10:00:00.000Z",
+  },
+  {
+    id: "p-320",
+    theme: "famille",
+    slug: "centre-leo-lagrange",
+    title: "Centre socio-culturel et sportif Léo Lagrange",
+    section: "sortir-et-decouvrir",
+    subsection: "Lieux de vie",
+    summary:
+      "Le cœur de la vie associative colombelloise : espace familles, ateliers, sorties, et l'orchestre DÉMOS pour les 7-10 ans.",
+    content: `Le centre socio-culturel et sportif Léo Lagrange développe la vie associative de la commune et propose des activités et des loisirs de qualité, dans les domaines socio-culturel, sportif et familial, à tous les âges.
+
+## L'espace familles et habitants
+
+- Des rendez-vous hebdomadaires parents-enfants, pour les 1 – 10 ans
+- Des cours de français et des ateliers de couture pour les adultes
+- Des sorties culturelles, des ateliers cuisine et des séances de cinéma
+- Une thématique différente chaque mois
+
+## Le projet DÉMOS
+
+Une **éducation musicale gratuite sur trois ans** pour les enfants de 7 à 10 ans :
+
+- Apprentissage collectif au sein d'un orchestre à cordes
+- Deux séances hebdomadaires d'une heure trente
+- Des regroupements mensuels réunissant 105 enfants issus de sept territoires
+
+## Adhésion
+
+**5 € par personne et par an**, de septembre à août. L'inscription à une activité se fait au moins deux jours à l'avance.
+
+## Informations pratiques
+
+52 avenue Léon-Blum, 14460 Colombelles
+Téléphone : 02 31 72 40 86
+Courriel : cscsleolagrange@gmail.com
+
+| Jour | Horaires |
+| --- | --- |
+| Du lundi au vendredi | 8h30 – 12h30 · 13h30 – 17h00 |
+| Samedi | 9h00 – 12h00, les 2ᵉ et 4ᵉ samedis hors vacances scolaires |`,
+    order: 1,
+    status: "publie",
+    updatedAt: "2026-08-30T10:00:00.000Z",
   },
 
   /* ---------- Institutionnel ---------- */
@@ -1622,50 +1836,65 @@ En cas de désaccord, vous pouvez saisir la Commission nationale de l'informatiq
     id: "p-903",
     theme: "mairie",
     slug: "accessibilite",
-    title: "Accessibilité : partiellement conforme",
+    title: "Accessibilité : non conforme",
     section: "institutionnel",
-    summary: "Déclaration d'accessibilité au titre du RGAA 4.1.",
-    content: `La Ville de Colombelles s'engage à rendre son site internet accessible conformément à l'article 47 de la loi n° 2005-102 du 11 février 2005.
+    summary:
+      "Déclaration d'accessibilité au titre du RGAA 4.1 — à compléter après un audit de conformité.",
+    content: `> **Note à l'attention du service communication.** Cette page est un modèle. Une déclaration d'accessibilité est un document réglementaire : elle ne peut affirmer un niveau de conformité qu'après un **audit effectivement réalisé**. Tant que cet audit n'a pas eu lieu, l'état déclaré est « non conforme » — c'est la mention exacte prévue par le référentiel, et non un jugement sur la qualité du site. Remplacez les passages entre crochets par les résultats réels.
+
+La Ville de Colombelles s'engage à rendre son site internet accessible, conformément à l'article 47 de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances.
 
 ## État de conformité
 
-Le site est **partiellement conforme** au référentiel général d'amélioration de l'accessibilité (RGAA), version 4.1, en raison des non-conformités listées ci-dessous.
+Le site est **non conforme** au référentiel général d'amélioration de l'accessibilité (RGAA), version 4.1 : **aucun audit de conformité n'a été réalisé à ce jour**.
+
+Cette mention sera remplacée par « totalement conforme » ou « partiellement conforme », accompagnée du taux de conformité, à l'issue de l'audit.
 
 ## Résultats des tests
 
-L'audit réalisé en juin 2026 révèle que **87 % des critères RGAA sont respectés**.
+[À compléter après l'audit : taux de conformité, date de l'audit, organisme ayant réalisé les tests, et échantillon de pages testées.]
 
 ## Contenus non accessibles
 
-- Certains documents PDF antérieurs à 2024 ne sont pas structurés pour la lecture par synthèse vocale.
-- Le plan interactif fourni par un prestataire tiers n'est pas entièrement navigable au clavier.
-- Quelques images d'archives ne disposent pas d'alternative textuelle détaillée.
+[À compléter après l'audit : non-conformités relevées, dérogations pour charge disproportionnée, contenus non soumis à l'obligation.]
 
-Ces contenus feront l'objet d'une reprise progressive d'ici décembre 2027.
+Deux limites sont d'ores et déjà connues :
 
-## Améliorations apportées
+- Les documents PDF mis en téléchargement ne sont pas structurés pour la lecture par synthèse vocale.
+- Le plan de la ville s'appuie sur un fond cartographique tiers dont la navigation au clavier n'est pas garantie.
 
-- Navigation intégralement possible au clavier
-- Contrastes conformes au niveau AA sur l'ensemble des composants
+## Dispositions prises lors de la conception
+
+Ces mesures ont guidé la réalisation du site. Elles ne valent pas conformité — seul un audit peut l'établir — mais elles en constituent la base :
+
+- Navigation entièrement possible au clavier, et lien d'évitement vers le contenu principal
 - Structure de titres hiérarchisée sur toutes les pages
-- Lien d'évitement vers le contenu principal
+- Libellés liés à leurs champs, erreurs de saisie annoncées aux technologies d'assistance
+- Contrastes calculés pour dépasser le rapport de 4,5:1, dans les deux thèmes
+- La couleur ne porte jamais seule une information : elle double toujours un libellé
 - Respect de la préférence système de réduction des animations
+- Texte alternatif obligatoire pour tout média ajouté depuis l'administration
 
-## Retour d'information
+## Retour d'information et contact
 
-Si vous ne parvenez pas à accéder à un contenu ou à un service, contactez-nous : accessibilite@colombelles.fr ou 02 31 35 25 00. Nous vous indiquerons une alternative.
+Si vous ne parvenez pas à accéder à un contenu ou à un service, contactez-nous afin d'obtenir une alternative accessible :
+
+- Courriel : accessibilite@colombelles.fr
+- Téléphone : 02 31 35 25 00
+- Courrier : Hôtel de ville, place François Mitterrand, 14460 Colombelles
 
 ## Voie de recours
 
-Si vous constatez un défaut d'accessibilité vous empêchant d'accéder à un contenu et que vous n'obtenez pas de réponse satisfaisante, vous pouvez :
-- écrire au Défenseur des droits ;
-- contacter le délégué du Défenseur des droits de votre département ;
-- envoyer un courrier (gratuit, sans timbre) au Défenseur des droits, libre réponse 71120, 75342 Paris CEDEX 07.
+Si vous constatez un défaut d'accessibilité vous empêchant d'accéder à un contenu et que vous n'obtenez pas de réponse satisfaisante de notre part, vous pouvez :
 
-Déclaration établie le 20 juin 2026.`,
+- adresser un signalement au Défenseur des droits ;
+- contacter le délégué du Défenseur des droits de votre département ;
+- envoyer un courrier, gratuit et sans timbre, au Défenseur des droits, libre réponse 71120, 75342 Paris CEDEX 07.
+
+Déclaration établie le [date], à mettre à jour à chaque évolution significative du site.`,
     order: 3,
     status: "publie",
-    updatedAt: "2026-06-20T10:00:00.000Z",
+    updatedAt: "2026-09-02T10:00:00.000Z",
   },
 ];
 
@@ -1685,34 +1914,95 @@ const documents: DocumentItem[] = [
   { id: "d-013", title: "Rapport annuel sur le prix et la qualité de l'eau 2025", category: "Environnement", url: "/documents/rpqs-eau-2025.pdf", fileType: "PDF", size: "1,2 Ko", publishedAt: "2026-09-01T10:00:00.000Z", status: "brouillon" },
 ];
 
+/**
+ * Conseil municipal — 29 élus : le maire, huit adjoints et vingt conseillers,
+ * organisés par pôle de délégation comme sur le site de la Ville.
+ */
+/** Salles municipales louables — tarifs et capacités relevés sur le site de la Ville. */
+const venues: VenueItem[] = [
+  {
+    id: "v-001",
+    slug: "salle-jean-jaures",
+    name: "Salle Jean-Jaurès",
+    theme: "culture",
+    capacity: "140 personnes assises",
+    address: "Place Albert-Thomas, 14460 Colombelles",
+    description:
+      "La plus grande des deux salles municipales. Elle convient aux repas de famille, aux assemblées générales et aux manifestations associatives.",
+    equipment: "Cuisine équipée : réfrigérateur, four et lave-vaisselle manuel.",
+    rateResident: "332 € les 24 h · 561 € les 48 h",
+    rateNonResident: "560 € les 24 h · 817 € les 48 h",
+    extra: "Location de la vaisselle : 111 €, non comprise dans le tarif.",
+    images: [
+      "/media/salles/jean-jaures-1.svg",
+      "/media/salles/jean-jaures-2.svg",
+      "/media/salles/jean-jaures-3.svg",
+    ],
+    order: 1,
+    status: "publie",
+  },
+  {
+    id: "v-002",
+    slug: "salle-dumas",
+    name: "Salle Dumas",
+    theme: "ecole",
+    capacity: "80 personnes assises",
+    address: "Rue Dumas, 14460 Colombelles",
+    description:
+      "Une salle de taille intermédiaire, adaptée aux réunions, aux ateliers et aux réceptions familiales.",
+    equipment: "Cuisine équipée : réfrigérateur, four et lave-vaisselle manuel.",
+    rateResident: "202 € les 24 h · 365 € les 48 h",
+    rateNonResident: "306 € les 24 h · 560 € les 48 h",
+    extra: "Location de la vaisselle : 78 €, non comprise dans le tarif.",
+    images: [
+      "/media/salles/dumas-1.svg",
+      "/media/salles/dumas-2.svg",
+      "/media/salles/dumas-3.svg",
+    ],
+    order: 2,
+    status: "publie",
+  },
+];
+
 const elus: Elu[] = [
-  { id: "el-001", name: "Anne Verdier", role: "Maire", delegation: "Sécurité, ressources humaines, communication", group: "Majorité municipale", order: 1, email: "cabinet@colombelles.fr", permanence: "Sur rendez-vous, le samedi matin" },
-  { id: "el-002", name: "Karim Bellanger", role: "1ᵉʳ adjoint", delegation: "Finances et commande publique", group: "Majorité municipale", order: 2, email: "adjoints@colombelles.fr" },
-  { id: "el-003", name: "Sophie Renouf", role: "2ᵉ adjointe", delegation: "Éducation, enfance et jeunesse", group: "Majorité municipale", order: 3, email: "adjoints@colombelles.fr" },
-  { id: "el-004", name: "Marc Delaunay", role: "3ᵉ adjoint", delegation: "Urbanisme, travaux et grands projets", group: "Majorité municipale", order: 4, email: "adjoints@colombelles.fr" },
-  { id: "el-005", name: "Fatou Diallo", role: "4ᵉ adjointe", delegation: "Solidarité, santé et logement", group: "Majorité municipale", order: 5, email: "adjoints@colombelles.fr" },
-  { id: "el-006", name: "Yannick Leprêtre", role: "5ᵉ adjoint", delegation: "Sports et vie associative", group: "Majorité municipale", order: 6, email: "adjoints@colombelles.fr" },
-  { id: "el-007", name: "Claire Hamon", role: "6ᵉ adjointe", delegation: "Culture et patrimoine", group: "Majorité municipale", order: 7, email: "adjoints@colombelles.fr" },
-  { id: "el-008", name: "Étienne Faucon", role: "7ᵉ adjoint", delegation: "Transition écologique et mobilités", group: "Majorité municipale", order: 8, email: "adjoints@colombelles.fr" },
-  { id: "el-009", name: "Nadia Boucher", role: "Conseillère municipale déléguée", delegation: "Démocratie locale et budget participatif", group: "Majorité municipale", order: 9 },
-  { id: "el-010", name: "Pierre Lemarchand", role: "Conseiller municipal délégué", delegation: "Commerce et attractivité", group: "Majorité municipale", order: 10 },
-  { id: "el-011", name: "Julie Vasseur", role: "Conseillère municipale déléguée", delegation: "Seniors et intergénérationnel", group: "Majorité municipale", order: 11 },
-  { id: "el-012", name: "Thomas Grandin", role: "Conseiller municipal", delegation: "—", group: "Majorité municipale", order: 12 },
-  { id: "el-013", name: "Léa Marchand", role: "Conseillère municipale", delegation: "—", group: "Majorité municipale", order: 13 },
-  { id: "el-014", name: "Olivier Bassin", role: "Conseiller municipal", delegation: "—", group: "Majorité municipale", order: 14 },
-  { id: "el-015", name: "Christelle Aubin", role: "Conseillère municipale", delegation: "—", group: "Majorité municipale", order: 15 },
-  { id: "el-016", name: "Samir Toumi", role: "Conseiller municipal", delegation: "—", group: "Majorité municipale", order: 16 },
-  { id: "el-017", name: "Hélène Prigent", role: "Conseillère municipale", delegation: "—", group: "Majorité municipale", order: 17 },
-  { id: "el-018", name: "Damien Rousseau", role: "Conseiller municipal", delegation: "—", group: "Majorité municipale", order: 18 },
-  { id: "el-019", name: "Valérie Chauvin", role: "Conseillère municipale", delegation: "—", group: "Majorité municipale", order: 19 },
-  { id: "el-020", name: "Bruno Lecoq", role: "Conseiller municipal", delegation: "—", group: "Majorité municipale", order: 20 },
-  { id: "el-021", name: "Amandine Girard", role: "Conseillère municipale", delegation: "—", group: "Majorité municipale", order: 21 },
-  { id: "el-022", name: "Gérard Lefèvre", role: "Conseiller municipal", delegation: "—", group: "Colombelles autrement", order: 22 },
-  { id: "el-023", name: "Sylvie Morin", role: "Conseillère municipale", delegation: "—", group: "Colombelles autrement", order: 23 },
-  { id: "el-024", name: "Antoine Delisle", role: "Conseiller municipal", delegation: "—", group: "Colombelles autrement", order: 24 },
-  { id: "el-025", name: "Marion Quesnel", role: "Conseillère municipale", delegation: "—", group: "Vivre Colombelles", order: 25 },
-  { id: "el-026", name: "Frédéric Auvray", role: "Conseiller municipal", delegation: "—", group: "Vivre Colombelles", order: 26 },
-  { id: "el-027", name: "Inès Ferrand", role: "Conseillère municipale", delegation: "—", group: "Vivre Colombelles", order: 27 },
+  { id: "el-001", name: "Marc Pottier", role: "Maire", delegation: "Urbanisme, aménagement et développement durable", pole: "Urbanisme, aménagement et développement durable", theme: "nature", order: 1, email: "accueil@colombelles.fr", permanence: "Sur rendez-vous" },
+
+  { id: "el-002", name: "Annie Lemarié", role: "1ʳᵉ adjointe au maire", delegation: "Urbanisme, aménagement et développement durable", pole: "Urbanisme, aménagement et développement durable", theme: "nature", order: 2 },
+  { id: "el-003", name: "Virginie Février", role: "Conseillère déléguée", delegation: "Développement économique, relations aux entreprises et aux commerces", pole: "Urbanisme, aménagement et développement durable", theme: "nature", order: 3 },
+  { id: "el-004", name: "Anne Gourvil", role: "Conseillère déléguée", delegation: "Développement durable et économie sociale et solidaire", pole: "Urbanisme, aménagement et développement durable", theme: "nature", order: 4 },
+
+  { id: "el-005", name: "Guy Lecoeur", role: "2ᵉ adjoint au maire", delegation: "Personnel et administration générale", pole: "Personnel et administration générale", theme: "contact", order: 5 },
+  { id: "el-006", name: "Soulé Moustapha", role: "Conseiller délégué", delegation: "Qualité des services publics et relations aux usagers", pole: "Personnel et administration générale", theme: "contact", order: 6 },
+
+  { id: "el-007", name: "Nadine Lefèvre", role: "3ᵉ adjointe au maire", delegation: "Démocratie participative, santé et prévention des risques", pole: "Démocratie participative, santé et prévention des risques", theme: "actu", order: 7 },
+  { id: "el-008", name: "Blandine Demissy", role: "Conseillère déléguée", delegation: "Droit à la santé et ville inclusive", pole: "Démocratie participative, santé et prévention des risques", theme: "actu", order: 8 },
+  { id: "el-009", name: "Mathieu Morin", role: "Conseiller municipal", delegation: "Accès aux droits et lutte contre les discriminations", pole: "Démocratie participative, santé et prévention des risques", theme: "actu", order: 9 },
+  { id: "el-010", name: "Sylvie Blaizot", role: "Conseillère municipale", delegation: "Instances citoyennes", pole: "Démocratie participative, santé et prévention des risques", theme: "actu", order: 10 },
+
+  { id: "el-011", name: "Vincent Ferchaud", role: "4ᵉ adjoint au maire", delegation: "Sport et animation", pole: "Sport et animation", theme: "sport", order: 11 },
+  { id: "el-012", name: "Steve Lechangeur", role: "Conseiller délégué", delegation: "Pratiques sportives", pole: "Sport et animation", theme: "sport", order: 12 },
+  { id: "el-013", name: "Dimitry Forget", role: "Conseiller délégué", delegation: "Vie associative", pole: "Sport et animation", theme: "sport", order: 13 },
+  { id: "el-014", name: "Denis Marie", role: "Conseiller municipal", delegation: "Événements", pole: "Sport et animation", theme: "sport", order: 14 },
+  { id: "el-015", name: "Céline Ragot", role: "Conseillère municipale", delegation: "Inclusion par le sport", pole: "Sport et animation", theme: "sport", order: 15 },
+
+  { id: "el-016", name: "Gabrielle Gilbert", role: "5ᵉ adjointe au maire", delegation: "Solidarité et affaires sociales", pole: "Solidarité et affaires sociales", theme: "solidarite", order: 16 },
+  { id: "el-017", name: "Pascale Varignon", role: "Conseillère déléguée", delegation: "Lien avec les seniors", pole: "Solidarité et affaires sociales", theme: "solidarite", order: 17 },
+  { id: "el-018", name: "Monique Halun", role: "Conseillère municipale", delegation: "Logement pour tous", pole: "Solidarité et affaires sociales", theme: "solidarite", order: 18 },
+
+  { id: "el-019", name: "Jacky Zanovello", role: "6ᵉ adjoint au maire", delegation: "Cadre de vie, travaux et commissions de sécurité", pole: "Cadre de vie, travaux et sécurité", theme: "patrimoine", order: 19 },
+  { id: "el-020", name: "Fabrice Pinthier", role: "Conseiller délégué", delegation: "Mobilités et signalétique urbaine", pole: "Cadre de vie, travaux et sécurité", theme: "patrimoine", order: 20 },
+
+  { id: "el-021", name: "Fanny Marquier", role: "7ᵉ adjointe au maire", delegation: "Culture", pole: "Culture", theme: "culture", order: 21 },
+  { id: "el-022", name: "Marc Binet", role: "Conseiller municipal", delegation: "Devoir de mémoire", pole: "Culture", theme: "culture", order: 22 },
+  { id: "el-023", name: "François Plet", role: "Conseiller municipal", delegation: "Numérique", pole: "Culture", theme: "culture", order: 23 },
+  { id: "el-024", name: "Vincent Marie", role: "Conseiller municipal", delegation: "Animation des quartiers", pole: "Culture", theme: "culture", order: 24 },
+
+  { id: "el-025", name: "Romain Palazzini", role: "8ᵉ adjoint au maire", delegation: "Réussite éducative et jeunesse", pole: "Réussite éducative et jeunesse", theme: "ecole", order: 25 },
+  { id: "el-026", name: "Emilie Blondel", role: "Conseillère déléguée", delegation: "Affaires scolaires", pole: "Réussite éducative et jeunesse", theme: "ecole", order: 26 },
+  { id: "el-027", name: "Émilie Fouquet", role: "Conseillère déléguée", delegation: "Petite enfance", pole: "Réussite éducative et jeunesse", theme: "ecole", order: 27 },
+  { id: "el-028", name: "Florent Lustière", role: "Conseiller municipal", delegation: "Droits de l'enfant et des adolescents", pole: "Réussite éducative et jeunesse", theme: "ecole", order: 28 },
+
+  { id: "el-029", name: "Stéphanie Blanchemain", role: "Conseillère déléguée", delegation: "Finances publiques", pole: "Finances", theme: "mairie", order: 29 },
 ];
 
 const services: ServiceItem[] = [
@@ -1831,6 +2121,7 @@ export function seedDatabase(): Database {
     events,
     pages,
     documents,
+    venues,
     elus,
     services,
     directory,
@@ -1910,7 +2201,7 @@ export function seedDatabase(): Database {
         email: "webmaster@colombelles.fr",
         role: "administrateur" as const,
         passwordHash:
-          "3e6856725a81457f5b6d424590b74b0f:ec6c4ac97657fa8054709f4eebe5b19a344082fe5d1d41738446e4a797bbf8e361f736bdf2c8d43ae75a7aca322ac5955594ac5a8cb56acfcf2f8372b5473687",
+          "b8d506a25bb8f8d1e7b51a5119b22435:68eb8e1391fd298709130326cf3fded2813f52591b865294184042a87496e1defd1e7d990fe3654a845c333e1aca94073e2e9a0ca5e0d2be2e34aa16bb05a5af",
         createdAt: "2026-01-05T09:00:00.000Z",
       },
       {
@@ -1920,7 +2211,7 @@ export function seedDatabase(): Database {
         email: "communication@colombelles.fr",
         role: "editeur" as const,
         passwordHash:
-          "aefbf99efec46132428d7ec010d22c38:c3185054ceea0891a760558fed677c6723b18da1687a7b7d026a14199ef5be797a033e676db08b7f413202b5294509e8e06a54d170a8b9638a1e8e37aae5384d",
+          "943c13387e25c78aedcd8b18c3dc6ff4:f040aba83cc4f1861e593b346064dee3391a243e09b73fb1772af507630acb7763abfef63a67d8cbef92bb9884f3f453711e25213f8c320060fa2962e7cf7cd9",
         createdAt: "2026-01-05T09:05:00.000Z",
       },
     ],

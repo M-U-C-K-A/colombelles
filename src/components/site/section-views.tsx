@@ -5,7 +5,9 @@ import { PageHeader } from "@/components/site/page-header";
 import { Markdown } from "@/lib/markdown";
 import { formatDate } from "@/lib/format";
 import { SECTION_BY_KEY } from "@/lib/navigation";
-import { getPage, getPages, getSectionGroups } from "@/lib/queries";
+import { CaenLaMer } from "@/components/site/caen-la-mer";
+import { Salles } from "@/components/site/salles";
+import { getPage, getPages, getSectionGroups, getVenues } from "@/lib/queries";
 import { themeStyle } from "@/lib/themes";
 import type { SectionKey } from "@/lib/types";
 
@@ -174,6 +176,14 @@ export async function SectionPage({
           {/* Corps */}
           <article className="col-span-4 mt-12 md:col-span-8 lg:col-span-8 lg:col-start-5 lg:mt-0">
             <Markdown content={page.content} className="prose-swiss" />
+
+            {page.block === "salles" && (
+              <div className="mt-12">
+                <Salles venues={await getVenues()} />
+              </div>
+            )}
+
+            {page.block === "caen-la-mer" && <CaenLaMer className="mt-12" />}
 
             <p className="mt-14 rule-top pt-4 text-xs text-muted-foreground">
               Page mise à jour le {formatDate(page.updatedAt)}

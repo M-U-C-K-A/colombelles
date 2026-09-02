@@ -94,7 +94,7 @@ export const QUICK_ACCESS: {
 export const FOOTER_LINKS = [
   { label: "Mentions légales", href: "/mentions-legales" },
   { label: "Données personnelles", href: "/donnees-personnelles" },
-  { label: "Accessibilité : partiellement conforme", href: "/accessibilite" },
+  { label: "Accessibilité : non conforme", href: "/accessibilite" },
   { label: "Plan du site", href: "/plan-du-site" },
   { label: "Contact", href: "/contact" },
 ];

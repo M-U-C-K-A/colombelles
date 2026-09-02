@@ -17,6 +17,7 @@ export default async function DashboardLayout({ children }: LayoutProps<"/admin"
     media: db.media.length,
     directory: db.directory.length,
     jobs: db.jobs.length,
+    venues: db.venues.length,
     elus: db.elus.length,
     services: db.services.length,
     reports: db.reports.filter((r) => r.status === "nouveau").length,

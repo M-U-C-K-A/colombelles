@@ -29,7 +29,7 @@ export default async function Page() {
                   <th className="eyebrow px-3 py-3 text-left text-muted-foreground">Nom</th>
                   <th className="eyebrow px-3 py-3 text-left text-muted-foreground">Fonction</th>
                   <th className="eyebrow px-3 py-3 text-left text-muted-foreground">Délégations</th>
-                  <th className="eyebrow px-3 py-3 text-left text-muted-foreground">Groupe</th>
+                  <th className="eyebrow px-3 py-3 text-left text-muted-foreground">Pôle</th>
                   <th className="eyebrow px-3 py-3 text-right text-muted-foreground">Actions</th>
                 </tr>
               </thead>
@@ -42,7 +42,16 @@ export default async function Page() {
                     <td className="max-w-sm truncate px-3 py-3.5 text-muted-foreground">
                       {item.delegation}
                     </td>
-                    <td className="px-3 py-3.5 text-muted-foreground">{item.group}</td>
+                    <td className="px-3 py-3.5 text-muted-foreground">
+                      <span className="flex items-center gap-2">
+                        <span
+                          className="size-2.5 shrink-0"
+                          style={{ backgroundColor: `var(--t-${item.theme})` }}
+                          aria-hidden="true"
+                        />
+                        {item.pole}
+                      </span>
+                    </td>
                     <td className="px-3 py-2">
                       <RowActions
                         kind="elus"

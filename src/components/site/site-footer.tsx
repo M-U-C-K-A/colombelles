@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { CaenLaMer } from "@/components/site/caen-la-mer";
 import { ColorRule } from "@/components/site/horizon";
 import { SiteLogo } from "@/components/site/logo";
 import { FOOTER_LINKS } from "@/lib/navigation";
@@ -40,6 +41,8 @@ export function SiteFooter({
                 </a>
               </p>
             </div>
+            <CaenLaMer variant="footer" className="mt-8" />
+
             {settings.social.length > 0 && (
               <ul className="mt-8 flex flex-wrap gap-x-5 gap-y-2">
                 {settings.social.map((item) => (
