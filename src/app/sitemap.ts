@@ -1,8 +1,9 @@
 import type { MetadataRoute } from "next";
 import { SECTIONS } from "@/lib/navigation";
 import { getEvents, getJobs, getNews, getPages } from "@/lib/queries";
+import { siteUrl } from "@/lib/site-url";
 
-const BASE = process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.colombelles.fr";
+const BASE = siteUrl();
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const [pages, news, events, jobs] = await Promise.all([

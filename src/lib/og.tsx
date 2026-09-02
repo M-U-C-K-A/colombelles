@@ -1,6 +1,7 @@
 import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { ImageResponse } from "next/og";
+import { siteDomain } from "@/lib/site-url";
 import type { ThemeKey } from "@/lib/themes";
 
 /**
@@ -149,7 +150,7 @@ export async function ogImage({
               color: MUTED,
             }}
           >
-            <div style={{ display: "flex" }}>colombelles.fr</div>
+            <div style={{ display: "flex" }}>{siteDomain()}</div>
             <div style={{ display: "flex" }}>Les couleurs de l&apos;horizon</div>
           </div>
         </div>

@@ -1,8 +1,10 @@
 import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { DemoNotice } from "@/components/site/demo-notice";
 import { ThemeProvider } from "@/components/theme-provider";
 import { Toaster } from "@/components/ui/sonner";
 import "./globals.css";
+import { siteUrl } from "@/lib/site-url";
 
 /**
  * Geist — néo-grotesque distribuée sous licence SIL Open Font License 1.1.
@@ -22,7 +24,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.colombelles.fr"),
+  metadataBase: new URL(siteUrl()),
   title: {
     default: "Ville de Colombelles — site officiel",
     template: "%s · Ville de Colombelles",
@@ -77,7 +79,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body className="flex min-h-full flex-col">
         <ThemeProvider>
           {children}
-          <Toaster position="bottom-right" />
+          <DemoNotice />
+          <Toaster position="top-right" />
         </ThemeProvider>
       </body>
     </html>
