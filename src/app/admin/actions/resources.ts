@@ -101,6 +101,8 @@ const SCHEMAS = {
     subsection: optionalText(120),
     summary: text(0, 400).or(z.literal("")),
     content: text(1, 60000),
+    imageUrl: optionalText(400),
+    imageAlt: optionalText(300),
     order: z.coerce.number().int().min(0).max(999),
     status,
   }),
@@ -352,6 +354,10 @@ export async function saveResource(
       );
       record.subsection = (data.subsection as string) || undefined;
       record.block = (data.block as string) || undefined;
+      const url = (data.imageUrl as string) || "";
+      record.image = url ? { url, alt: (data.imageAlt as string) || "" } : undefined;
+      delete record.imageUrl;
+      delete record.imageAlt;
       record.updatedAt = new Date().toISOString();
     }
     if (kind === "jobs") {

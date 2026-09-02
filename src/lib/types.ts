@@ -47,6 +47,8 @@ export interface PageItem {
   theme: ThemeKey;
   summary: string;
   content: string;
+  /** Illustration d'en-tête. Le texte alternatif est obligatoire avec l'image. */
+  image?: { url: string; alt: string };
   /** Bloc interactif ajouté sous le texte (voir PAGE_BLOCKS). */
   block?: PageBlock;
   order: number;

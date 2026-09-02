@@ -188,6 +188,14 @@ export const PAGE_FIELDS: FieldGroup[] = [
     ],
   },
   {
+    title: "Illustration",
+    description: "Image affichée en tête du contenu. Le texte alternatif est obligatoire dès qu'une image est renseignée.",
+    fields: [
+      { name: "imageUrl", label: "Adresse de l'image", placeholder: "/media/ville/exemple.jpg" },
+      { name: "imageAlt", label: "Texte alternatif", hint: "Ce que montre l'image, pour les lecteurs d'écran." },
+    ],
+  },
+  {
     title: "Contenu",
     description: "Mise en forme Markdown : titres, listes, gras, liens, tableaux et citations.",
     fields: [{ name: "content", label: "Corps de la page", type: "markdown", required: true }],

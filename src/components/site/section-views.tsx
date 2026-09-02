@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowRight, ArrowUpRight } from "lucide-react";
@@ -175,6 +176,19 @@ export async function SectionPage({
 
           {/* Corps */}
           <article className="col-span-4 mt-12 md:col-span-8 lg:col-span-8 lg:col-start-5 lg:mt-0">
+            {page.image && (
+              <figure className="mb-10">
+                <Image
+                  src={page.image.url}
+                  alt={page.image.alt}
+                  width={1400}
+                  height={900}
+                  priority
+                  sizes="(min-width: 1024px) 60vw, 100vw"
+                  className="h-auto w-full object-cover"
+                />
+              </figure>
+            )}
             <Markdown content={page.content} className="prose-swiss" />
 
             {page.block === "salles" && (

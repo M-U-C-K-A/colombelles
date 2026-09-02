@@ -239,6 +239,18 @@ Pour une vraie mise en production, deux voies :
 
 ## Contenus
 
+### Contenus et images repris du site municipal
+
+La rubrique **Vivre à Colombelles** (28 pages) et ses photographies sont
+reprises du site de la Ville : le contenu a été relevé page par page, et les
+images redimensionnées et recompressées (`public/media/ville`, 2 Mo au total).
+Seules des photographies en paysage ont été retenues comme bandeaux ; les
+affiches et visuels de programme ont été écartés.
+
+Ces contenus et ces images **restent la propriété de la Ville de Colombelles**
+et de leurs auteurs. Leur présence ici relève de la démonstration : ils sont à
+retirer ou à remplacer avant tout autre usage.
+
 Les informations reprises du site municipal sont réelles : adresse, téléphone,
 horaires, arborescence des rubriques, **composition du conseil municipal**,
 équipements sportifs (piscine rénovée, skate park, pumptrack, stades,

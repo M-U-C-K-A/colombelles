@@ -10,6 +10,9 @@ export default async function Page({ params }: PageProps<"/admin/pages/[id]">) {
   const item = (await read("pages")).find((p) => p.id === id);
   if (!item) notFound();
 
+  // `image` est un objet ; le formulaire le manipule en deux champs distincts.
+  const { image, ...champs } = item;
+
   const meta = SECTION_BY_KEY[item.section];
 
   return (
@@ -28,7 +31,13 @@ export default async function Page({ params }: PageProps<"/admin/pages/[id]">) {
           recordId={item.id}
           groups={PAGE_FIELDS}
           cancelHref="/admin/pages"
-          values={{ ...item, subsection: item.subsection ?? "" }}
+          values={{
+            ...champs,
+            subsection: item.subsection ?? "",
+            block: item.block ?? "",
+            imageUrl: image?.url ?? "",
+            imageAlt: image?.alt ?? "",
+          }}
         />
       </AdminBody>
     </>
