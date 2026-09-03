@@ -123,7 +123,7 @@ function inline(text: string, keyPrefix = "i"): ReactNode[] {
     const key = `${keyPrefix}-${n++}`;
 
     if (token.startsWith("**") || token.startsWith("__")) {
-      out.push(<strong key={key}>{token.slice(2, -2)}</strong>);
+      out.push(<strong key={key}>{inline(token.slice(2, -2), key)}</strong>);
     } else if (token.startsWith("`")) {
       out.push(
         <code key={key} className="bg-muted px-1.5 py-0.5 font-mono text-[0.9em]">
@@ -141,14 +141,14 @@ function inline(text: string, keyPrefix = "i"): ReactNode[] {
             className="link-underline"
             {...(external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
           >
-            {link[1]}
+            {inline(link[1], key)}
           </a>,
         );
       } else {
         out.push(token);
       }
     } else {
-      out.push(<em key={key}>{token.slice(1, -1)}</em>);
+      out.push(<em key={key}>{inline(token.slice(1, -1), key)}</em>);
     }
     last = match.index + token.length;
   }

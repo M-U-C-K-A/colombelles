@@ -524,96 +524,73 @@ Jumelage et coopération`,
     section: "votre-mairie",
     subsection: "Présentation de la ville",
     summary:
-      "La communauté Urbaine Caen la mer regroupe 276 000 habitants et 48 communes pour gérer des services publics (bus, collecte des déchets, piscines, etc.) mais aussi porter des…",
+      "La communauté Urbaine Caen la mer regroupe 276 000 habitants et 48 communes pour gérer des services publics (bus, collecte des déchets, piscines, etc.) mais aussi porter…",
     content: `La communauté Urbaine Caen la mer regroupe 276 000 habitants et 48 communes pour gérer des services publics (bus, collecte des déchets, piscines, etc.) mais aussi porter des politiques de développement du territoire (zones d’activité, tourisme), de prospective (plan local d’urbanisme, politiques de logement) et de Transition écologique (aide vélo, réseaux de chaleur…).
 
-La communauté urbaine mutualise des services et des équipements pour faciliter le quotidien des habitants : voirie et espaces verts, économie, habitat, tourisme, collecte et traitement des déchets, déchèteries, transports en commun (tram et bus), assainissement, …
+La communauté urbaine mutualise des services et des équipements pour faciliter le quotidien des habitants : voirie et espaces verts, économie, habitat, tourisme, collecte et traitement des déchets, déchèteries, transports en commun (tram et bus), assainissement,…
 
 Colombelles fait partie des 48 communes membres de Caen la mer.
 
-Les compétences de la communauté urbaine (CU) Caen la mer
+[Les compétences de la communauté urbaine (CU) Caen la mer](https://caenlamer.fr/actions-competences)
 
 L’AMÉNAGEMENT DU TERRITOIRE
 
-Définition du
+- Définition du [Plan local d’urbanisme intercommunal](https://www.pluihm-caenlamer.fr/) (PLUI) et du Schéma de cohérence territoriale (SCoT)
+- Gestion de la voirie et entretien des espaces verts
+- Organisation et maîtrise d’ouvrage des opérations d’aménagements
 
-## Plan local d’urbanisme intercommunal
+LE DÉVELOPPEMENT ÉCONOMIQUE
 
-(PLUI) et du Schéma de cohérence territoriale (SCoT)
+- Création et gestion des zones d’activités
+- Mise en œuvre des actions de [développement économique](https://www.caennormandiedeveloppement.fr/)
+- Soutien à la recherche et à l’enseignement supérieur
 
-## Gestion de la voirie et entretien des espaces verts
+LA PROMOTION ET L’ANIMATION DU TERRITOIRE
 
-Organisation et maîtrise d’ouvrage des opérations d’aménagements
+- Gestion de la promotion touristique et de l’attractivité territoriale
+- Construction, aménagement, entretien et gestion d’équipements culturels ou sportifs, déclarés d’intérêt communautaire
 
-## LE DÉVELOPPEMENT ÉCONOMIQUE
+LA GESTION DES SERVICES D’INTÉRÊT COLLECTIF
 
-## Création et gestion des zones d’activités
+- Organisation et [gestion de l’eau potable](https://caenlamer.fr/eau-potable-agglomeration-caennaise) et de l’assainissement
+- Collecte et [gestion des déchets](https://caenlamer.fr/dechets-proprete-urbaine)
+- Lutte contre la pollution de l’air et les nuisances sonores
+- Contribution à la transition énergétique et gestion des réseaux de chaleur et de la concession des réseaux de gaz et d’électricité
+- Création ou extension de cimetières et crématoriums
 
-## Mise en œuvre des actions de développement économique
+L’ORGANISATION DES DÉPLACEMENTS ET DE LA MOBILITÉ
 
-## Soutien à la recherche et à l’enseignement supérieur
+- Définition du plan de déplacements urbains
+- Gestion des transports en commun et des mobilités douces
 
-## LA PROMOTION ET L’ANIMATION DU TERRITOIRE
+LA DÉFINITION DE LA POLITIQUE DE LA VILLE ET DE L’HABITAT
 
-Gestion de la promotion touristique et de l’attractivité territoriale
+- Définition du Programme local de l’habitat (PLH)
+- Promotion des dispositifs d’aides et d’amélioration de l’habitat
+- Gestion de l’accueil des gens du voyage
+- Gestion des dispositifs de développement urbain
+- Définition du Plan Local d’Urbanisme Intercommunal (PLUI)
 
-Construction, aménagement, entretien et gestion d’équipements culturels ou sportifs, déclarés d’intérêt communautaire
+[Les élus de Colombelles à la CU Caen la mer](https://caenlamer.fr/les-elus-communautaires)
 
-## LA GESTION DES SERVICES D’INTÉRÊT COLLECTIF
-
-Organisation et gestion de l’eau potable et de l’assainissement
-
-## Collecte et gestion des déchets
-
-## Lutte contre la pollution de l’air et les nuisances sonores
-
-Contribution à la transition énergétique et gestion des réseaux de chaleur et de la concession des réseaux de gaz et d’électricité
-
-## Création ou extension de cimetières et crématoriums
-
-## L’ORGANISATION DES DÉPLACEMENTS ET DE LA MOBILITÉ
-
-## Définition du plan de déplacements urbains
-
-## Gestion des transports en commun et des mobilités douces
-
-## LA DÉFINITION DE LA POLITIQUE DE LA VILLE ET DE L’HABITAT
-
-Définition du Programme local de l’habitat (PLH)
-
-Promotion des dispositifs d’aides et d’amélioration de l’habitat
-
-## Gestion de l’accueil des gens du voyage
-
-## Gestion des dispositifs de développement urbain
-
-Définition du Plan Local d’Urbanisme Intercommunal (PLUI)
-
-Les élus de Colombelles à la CU Caen la mer
-
-Pourquoi est-ce important pour vous ?
+**Pourquoi est-ce important pour vous ?**
 
 L’intercommunalité permet de mutualiser les moyens et de proposer des services plus performants, tout en développant des projets ambitieux à une échelle plus large que celle de la commune. Concrètement, Caen la mer agit directement sur votre quotidien : déplacements, cadre de vie, logement, environnement ou encore développement économique.
 
-Caen Normandie Développement
+## Caen Normandie Développement
 
-S’installer en tant qu’entrepreneur
+- [S’installer en tant qu’entrepreneur](https://www.caennormandiedeveloppement.fr/)
+- [Tourisme à Caen la mer](https://www.caenlamer-tourisme.fr/)
 
-Tourisme à Caen la mer
+## Informations pratiques
 
-Informations pratiques
-
-Communauté urbaine Caen la mer
-
-## 16 Rue Rosa Parks – 14000 Caen
-
-Du lundi au jeudi : 8h30-12h30 et 13h30-17h30 et le vendredi : 8h30-12h30 et 13h30-16h30
-
-02 31 39 40 00 https://caenlamer.fr/formulaire/contact
-
-Plus d’information
-
-Facebook`,
+- **Contact** — Communauté urbaine Caen la mer
+- **Adresse** — 16 Rue Rosa Parks – 14000 Caen
+- **Téléphone** — 02 31 39 40 00
+- **Courriel** — [caenlamer.fr/formulaire/contact](https://caenlamer.fr/formulaire/contact)
+- **Horaires** — Du lundi au jeudi : 8h30-12h30 et 13h30-17h30 et le vendredi : 8h30-12h30 et 13h30-16h30
+- [Plus d’information](https://caenlamer.fr)
+- [Facebook](https://www.facebook.com/Caenlamer)`,
     block: "caen-la-mer",
     order: 102,
     status: "publie",
@@ -630,37 +607,31 @@ Facebook`,
       "Colombelles est une ville riche de son histoire qui se reflète dans son organisation géographique.",
     content: `Colombelles est une ville riche de son histoire qui se reflète dans son organisation géographique.
 
-## > Le Bas de Colombelles
+**> Le Bas de Colombelles**
 
 Le Bas de Colombelles était le centre historique le long de l’Orne et à proximité du Bois. Maisons de bourg, cours, ruelles sont les témoins de cette époque. À quelques mètres du GR et de la voie verte en direction de Caen ou de la mer, ce quartier est un havre de paix et de calme.
 
-## > Le centre-ville
+**> Le centre-ville**
 
 Le centre-ville de Colombelles est peu dense avec des immeubles de quelques étages seulement, de nombreux pavillons et des commerces de proximité et des infrastructures à disposition (école, centre de loisirs, piscine, médiathèque…). Il va de la route de Cabourg jusqu’au haut du Bois et s’étend jusqu’au rond-point Lazzaro.
 
-## > Jean-Jaurès
+**> Jean-Jaurès**
 
 La fermeture de la SMN a laissé une friche industrielle étendue disponible pour accueillir de nouveaux habitants aux portes de Caen. Maisons individuelles et collectifs sont en limite de la zone d’activités Normandial, du parc des métallos et de l’allée cavalière offrant une balade avec une vue imprenable sur l’agglomération caennaise.
 
-## > Le Plateau – Le Libéra
+**> Le Plateau – Le Libéra**
 
 Séparé du cœur de ville par la D513 et en proximité immédiate de Giberville et de Mondeville, le Plateau était le lieu de vie des salariés de la SMN. Ainsi l’habitat s’en ressent avec des rangées de maisons ouvrières, mais aussi des maisons plus grandes, celles des contremaîtres et responsables.
 
 Le Libéra quant à lui est une extension moderne de ce site avec des logements individuels et collectifs dans des conceptions éco-responsables et novatrices. Un cadre de vie privilégié en lien avec la nature et doté d’équipements sportifs de qualité et du théâtre de la Renaissance.
 
-## Quartier du Libéra | ©Septième Ciel Images
-
-Le Bas de Colombelles | ©Septième Ciel Images
-
-Le Libéra | ©Septième Ciel Images
-
-Les Suédoises | ©Septième Ciel Images
-
-Centre-ville | ©Septième Ciel Images
-
-ZAC Lazzaro  | ©Septième Ciel Images
-
-Colombelles en chiffres`,
+- Quartier du Libéra | ©Septième Ciel Images
+- Le Bas de Colombelles | ©Septième Ciel Images
+- Le Libéra | ©Septième Ciel Images
+- Les Suédoises | ©Septième Ciel Images
+- Centre-ville | ©Septième Ciel Images
+- ZAC Lazzaro | ©Septième Ciel Images
+- Colombelles en chiffres`,
     order: 103,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -676,11 +647,11 @@ Colombelles en chiffres`,
       "Tous les mercredis matin, une demi-douzaine de commerçants vient s’installer sur la place François-Mitterrand et propose des produits variés et de qualité.",
     content: `Tous les mercredis matin, une demi-douzaine de commerçants vient s’installer sur la place François-Mitterrand et propose des produits variés et de qualité.
 
-Informations pratiques
+## Informations pratiques
 
-Place François-Mitterrand
-
-02 31 35 25 00 mairie@colombelles.fr`,
+- **Adresse** — Place François-Mitterrand
+- **Téléphone** — 02 31 35 25 00
+- **Courriel** — mairie@colombelles.fr`,
     order: 104,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -693,34 +664,30 @@ Place François-Mitterrand
     section: "votre-mairie",
     subsection: "Présentation de la ville",
     summary:
-      "Des commerces de proximité",
+      "Tous les quartiers disposent de commerces de proximité. Vous pouvez les retrouver avenue Léon-Blum, route de Cabourg, Grande rue, Zac Lazzaro, sur le Plateau, mais aussi…",
     content: `## Des commerces de proximité
 
 Tous les quartiers disposent de commerces de proximité. Vous pouvez les retrouver avenue Léon-Blum, route de Cabourg, Grande rue, Zac Lazzaro, sur le Plateau, mais aussi rue Jean-Jaurès ou dans le quartier du même nom.
 
 Les zones d’activités sont aussi des lieux pour trouver des artisans et des commerçants pour faciliter votre quotidien.
 
-Des entreprises à Colombelles
+## Des entreprises à Colombelles
 
-## Avec
-
-6 000 emplois sur son territoire, Colombelles est un des principaux pôles d’emplois de l’agglomération caennaise.
+Avec 6 000 emplois sur son territoire, Colombelles est un des principaux pôles d’emplois de l’agglomération caennaise.
 
 Colombelles se présente comme un territoire dynamique fort de trois pôles d’activités, d’un site industriel et de multiples services de proximité en centre-ville :
 
-Centre ville et long de la RD 513 : services et commerces de proximité
+- Centre ville et long de la RD 513 : services et commerces de proximité
 
-Zone industrielle de la Vallée : activité industrielle de fabrication automobile avec Renault Trucks et ses sous-traitants.
+- Zone industrielle de la Vallée : activité industrielle de fabrication automobile avec Renault Trucks et ses sous-traitants.
 
-Zones commerciales et artisanales de Lazzaro 1,2 et 3 et Lazzaro sud : artisans, PME et PMI et activités commerciales.
+- Zones commerciales et artisanales de Lazzaro 1,2 et 3 et Lazzaro sud : artisans, PME et PMI et activités commerciales.
 
-Normandial : entreprises agroalimentaires, PME et PMI.
+- Normandial : entreprises agroalimentaires, PME et PMI.
 
-EffiScience : haute technologie et activités de bureau.
+- EffiScience : haute technologie et activités de bureau.
 
-Pour en savoir plus,
-
-Caen Normandie Développement, agence de développement économique Caen la mer`,
+Pour en savoir plus, [**Caen Normandie Développement, agence de développement économique Caen la mer**](https://www.caennormandiedeveloppement.fr/)`,
     order: 105,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -738,35 +705,24 @@ Caen Normandie Développement, agence de développement économique Caen la mer`
 
 ## EffiScience
 
-Le Plateau de Colombelles était occupé jusqu’en 1993 par la Société Métallurgique de Normandie (SMN). La libération du site et la suppression de nombreux emplois ont conduit la Communauté urbaine Caen la mer à engager la première phase de reconquête et de requalification de ce territoire. En 1997, elle créa la ZAC du Plateau et attribua à
-
-Normandie Aménagement la concession d’aménagement.
+Le Plateau de Colombelles était occupé jusqu’en 1993 par la Société Métallurgique de Normandie (SMN). La libération du site et la suppression de nombreux emplois ont conduit la Communauté urbaine Caen la mer à engager la première phase de reconquête et de requalification de ce territoire. En 1997, elle créa la ZAC du Plateau et attribua à [Normandie Aménagement](https://www.normandie-amenagement.com/) la concession d’aménagement.
 
 La ZAC se compose de deux sites :
 
-NORMANDIAL : développement d’un concept de la filière agro-alimentaire «ultra-frais»
-
-## EFFISCIENCE
-
-: développement d’un parc de recherche et développement des nouvelles technologies
+- NORMANDIAL : développement d’un concept de la filière agro-alimentaire « ultra-frais»
+- [EFFISCIENCE](https://www.normandie-amenagement.com/realisation/campus-technologique-a-colombelles/) : développement d’un parc de recherche et développement des nouvelles technologies
 
 ## Zones d’activités Lazzaro
 
 Située à l’est de l’agglomération caennaise, la zone d’activité économique communautaire du Lazzaro (ZAC 1,2 et3) couvre à ce jour une superficie de 55 hectares, dédiée aux activités industrielles et artisanales. La totalité des terrains est aujourd’hui occupée. Lazzaro 3 et 4, extension de la zone d’activité économique communautaire sont en cours de commercialisation. La serre de production de légumes de 3,6 hectares est chauffée par l’énergie produite par les déchets brûlés au sein de l’usine d’incinération des déchets.
 
-## Sur ce site est également implanté
+Sur ce site est également implanté [NormanTr](https://normantri.fr/)i, centre de tri des emballages ménagers à vocation interdépartementale.
 
-NormanTr i, centre de tri des emballages ménagers à vocation interdépartementale.
-
-Ferme solaire et Normandial  | ©Septième Ciel Images
-
-ZAC Lazzaro  | ©Septième Ciel Images
-
-ZAC Lazzaro  | ©Septième Ciel Images
-
-EffiScience | © Septième Ciel Images
-
-ZAC Lazzaro  | ©Septième Ciel Images`,
+- Ferme solaire et Normandial | ©Septième Ciel Images
+- ZAC Lazzaro | ©Septième Ciel Images
+- ZAC Lazzaro | ©Septième Ciel Images
+- EffiScience | © Septième Ciel Images
+- ZAC Lazzaro | ©Septième Ciel Images`,
     order: 106,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -779,48 +735,46 @@ ZAC Lazzaro  | ©Septième Ciel Images`,
     section: "votre-mairie",
     subsection: "Présentation de la ville",
     summary:
-      "Comité de Jumelage Colombelles-Steinheim",
+      "Cette ville allemande de près de 9000 habitants est située à l’est du Land de Bade-Wurtemberg dans le Jura souabe. Entourée de forêts et de landes, Steinheim, ancien…",
     content: `## Comité de Jumelage Colombelles-Steinheim
 
 Colombelles est jumelée avec Steinheim depuis le 1er novembre 1986.
 
-Cette ville allemande de près de 9000 habitants est située à l’est du Land de Bade-Wurtemberg dans le Jura souabe. Entourée de forêts et de landes,
-
-Steinheim , ancien village de paysans de l’Albuch, est devenue depuis longtemps une commune résidentielle recherchée pour sa vie locale très active dans un paysage magnifique du Jura souabe, ses vallons, ses forêts et ses landes.
+Cette ville allemande de près de 9000 habitants est située à l’est du Land de Bade-Wurtemberg dans le Jura souabe. Entourée de forêts et de landes, [Steinheim](https://www.steinheim.com/startseite), ancien village de paysans de l’Albuch, est devenue depuis longtemps une commune résidentielle recherchée pour sa vie locale très active dans un paysage magnifique du Jura souabe, ses vallons, ses forêts et ses landes.
 
 Le territoire de la commune comprend les villages de Söhnstetten et de Sontheim ainsi que les hameaux de Küpfendorf, Gnannenweiler, Irmannsweiler, Neuselhalden, Dudelhof, Ziegelhütten et de Bibersohl et s’étend sur une surface de 8.400 hectares dont plus de la moitié est couverte de forêts. 420 hectares sont protégés et l’on y rencontre souvent des troupeaux de moutons.
 
 La ville de Steinheim se trouve à 7 km de la ville de Heidenheim, au milieu d’un bassin qui rappelle le cratère d’un volcan. Dans les années 1970, il a été établi de façon certaine que ce bassin de 3.5 km de diamètre n’est pas d’origine volcanique, mais qu’il a été creusé par la chute d’une météorite d’un poids de 900.000 tonnes et d’un diamètre de 80 à 100 mètres. Le site est connu parmi les géologues du monde entier puisqu’on trouve, dans les sables du lac qui s’est formé plus tard, quantité de squelettes d’animaux préhistoriques. Aujourd’hui, nous connaissons 54 espèces de mammifères de cette époque-là ; dont 14 en ont été trouvées pour la première fois à Steinheim. C’est au METEORKRATERMUSEUM à Sontheim/Stubental que vous pourrez les découvrir… Reste à ajouter que les astronautes américains d’Apollo 14 sont venus à Steinheim étudier la structure du cratère pour préparer leur alunissage.
 
-Portrait de Marie-Thérèse Legras, Présidente du Comité de jumelage Colombelles Steinheim
+[**En savoir plus sur le comité de jumelage**](https://www.steinheim.com/gemeinde-info/partnerschaft-mit-colombelles/aktuelles)
 
-ACTUALITÉS
+[Portrait de Marie-Thérèse Legras, Présidente du Comité de jumelage Colombelles Steinheim](https://www.colombelles.fr/wp-content/uploads/2023/03/article-jumelage.pdf)
 
-## AVRIL – MAI 2024
+## ACTUALITÉS
+
+AVRIL – MAI 2024
 
 Une compétition sportive de Français, de Hongrois et d’Allemands
 
 C’était une première qui ne restera pas un évènement occasionnel. C’était, en tout cas, la conviction du maire de Steinheim, Holger Weise, après que les jeunes footballeurs de Steinheim, de la ville jumelée de Colombelles et de Weindorf en Hongrie avaient terminé ce tournoi de trois nations sur les terrains de foot á Steinheim sans blessures graves.
 
-Ce long weekend de l’Ascension au samedi du marché de mai, 120 jeunes se sont rencontrés dans le gymnase « Albuchhalle », dans lequel on avait installé un centre de lits de camp (grâce à la réserve du Croix rouge pour des catastrophes).
+Ce long weekend de l’Ascension au samedi du marché de mai, 120 jeunes se sont rencontrés dans le gymnase « Albuchhalle », dans lequel on avait installé un centre de lits de camp (grâce à la réserve du Croix rouge pour des catastrophes).
 
 Le comité de jumelage Steinheim – Colombelles avec sa présidente Erika Edler ainsi que la section du foot de l’association sportive de Steinheim avec ses responsables de la jeunesse Peter Adler et Guido Rieberger au soutien de l’administration de la commune avaient préparé cette fête du foot avec une précision toute militaire, y inclus un programme culturel. Cet après-midi de l’Ascension, l’orchestre « Kunterbunt » de l’école de musique de Steinheim sous la direction de Christoph Braun a soutenu la bienvenue des sportifs de la compétition en jouant les hymnes nationaux français, hongrois et allemand d’une façon formidable.
 
-C’étaient les footballeurs des équipes de moins de 13 et moins de 15 ans qui se sont fait face sous l’attention de 300 spectateurs. A la fin, il y avait deux premières places : les jeunes de l’association sportive de Steinheim jouaient 13 : 0 dans le premier groupe, dans le deuxième, le résultat était 9 : 2. A la deuxième place, il y avait Colombelles dans les deux groupes, les résultats étaient de 6 : 1 et de 3 : 2 buts. Les jeunes de Weindorf à la troisième place ne pouvaient pas marquer de but mais en encaissaient dans chaque match huit. Monsieur le maire Weise leur a offert les coupes sous de longs applaudissements.
+C’étaient les footballeurs des équipes de moins de 13 et moins de 15 ans qui se sont fait face sous l’attention de 300 spectateurs. A la fin, il y avait deux premières places : les jeunes de l’association sportive de Steinheim jouaient 13 : 0 dans le premier groupe, dans le deuxième, le résultat était 9 : 2. A la deuxième place, il y avait Colombelles dans les deux groupes, les résultats étaient de 6 : 1 et de 3 : 2 buts. Les jeunes de Weindorf à la troisième place ne pouvaient pas marquer de but mais en encaissaient dans chaque match huit. Monsieur le maire Weise leur a offert les coupes sous de longs applaudissements.
 
-A côté des matchs de foot, il y avait un autre point culminant : la visite à Stuttgart du musée Mercedes-Benz. Tandis que les Hongrois découvraient la ville dans la foule de la rue piétonne au centre, « Königsstraße », les jeunes Français se trouvaient dans la « Maison de l’Histoire » apprenant par les explications profondes de Manfred Kauth, ancien professeur d’histoire et de français et témoin en tant que jeune au grand discours de Charles de Gaulle à la jeunesse allemande en 1962 à Ludwigsburg, comment le fondement de la réconciliation franco-allemande après la Seconde Guerre mondiale a été créé. Ensemble, tous ont vu aussi beaucoup de choses intéressantes au marché de mai à Steinheim.
+A côté des matchs de foot, il y avait un autre point culminant : la visite à Stuttgart du musée Mercedes-Benz. Tandis que les Hongrois découvraient la ville dans la foule de la rue piétonne au centre, « Königsstraße », les jeunes Français se trouvaient dans la « Maison de l’Histoire » apprenant par les explications profondes de Manfred Kauth, ancien professeur d’histoire et de français et témoin en tant que jeune au grand discours de Charles de Gaulle à la jeunesse allemande en 1962 à Ludwigsburg, comment le fondement de la réconciliation franco-allemande après la Seconde Guerre mondiale a été créé. Ensemble, tous ont vu aussi beaucoup de choses intéressantes au marché de mai à Steinheim.
 
 A la fin de ses quatre journées, Peter Adler a exprimé ses grands remerciements à sa grande équipe d’assistants et d’assistantes ainsi qu’au comité de jumelage pour cette rencontre si bien réussie. Jérôme Lebon en tant que président du CLC a invité à un revoir sportif en Normandie en 2025.
 
-Du sport mais aussi la transmission du souvenir et du devoir de mémoire
+**Du sport mais aussi la transmission du souvenir et du devoir de mémoire**
 
 En plus de ce séjour, le samedi 27 avril, les jeunes ont visité, le cimetière américain de Colleville-sur-mer et le cimetière allemand de La Cambe avec Marc Pottier, maire de Colombelles et historien, pour un temps d’échanges sur l’histoire du Débarquement.
 
-## DÉCEMBRE 2023
+**DÉCEMBRE 2023**
 
-Le marché de la Saint-Nicolas à Colombelles, ville jumelle de Steinheim, a uni les deux communautés pour une journée de traditions et de convivialité. Organisé par la ville et des associations locales, le marché a accueilli un stand spécial cette année, invitant les visiteurs à pédaler. En effet, on pouvait parcourir la distance de Colombelles à
-
-Steinheim en vélo (grâce au prêt de Decathlon). Plus de 100 kilomètres ont été parcourus sur les 980 km : la suite du parcours l’année prochaine !
+Le marché de la Saint-Nicolas à Colombelles, ville jumelle de Steinheim, a uni les deux communautés pour une journée de traditions et de convivialité. Organisé par la ville et des associations locales, le marché a accueilli un stand spécial cette année, invitant les visiteurs à pédaler. En effet, on pouvait parcourir la distance de Colombelles à Steinheim en vélo (grâce au prêt de Decathlon). Plus de 100 kilomètres ont été parcourus sur les 980 km : la suite du parcours l’année prochaine !
 
 La rencontre avec les amis a été chaleureuse et l’occasion a également été de visiter pendant deux jours l’ancienne abbaye bénédictine de Caen.
 
@@ -828,9 +782,9 @@ Le Maire de Colombelles, Marc Pottier, a partagé des moments amicaux avec les r
 
 2024 marquera le 80e anniversaire du débarquement allié en Normandie.
 
-Le marché de la Saint-Nicolas c’est aussi la mobilisation des associations colombelloises qui vous proposent des crêpes, des gaufres, du vin chaud, des jeux, du maquillage, … un temps de convivialité et de partage en centre-ville.
+Le marché de la Saint-Nicolas c’est aussi la mobilisation des associations colombelloises qui vous proposent des crêpes, des gaufres, du vin chaud, des jeux, du maquillage,… un temps de convivialité et de partage en centre-ville.
 
-## SEPTEMBRE 2023
+**SEPTEMBRE 2023**
 
 Les jeunes footballeurs de Steinheim ont remporté deux matchs amicaux à Colombelles, renforçant les liens entre les deux villes jumelles.
 
@@ -840,11 +794,9 @@ Malgré les défaites, le président colombellois, Jérôme Lebon, se montre sat
 
 Au-delà du football, la semaine a été ponctuée par des visites de sites emblématiques normands, renforçant une amitié vieille de 37 ans entre les deux communautés.
 
-CO
+## COOpération PArtenariat SOLidarité
 
-## Opération PArtenariat SOLidarité
-
-La coo pération décentralisée est l’établissement de relations de long terme entre collectivités territoriales françaises (régions, départements, communes et leurs groupements) et étrangères, formalisées par des conventions.
+La coopération décentralisée est l’établissement de relations de long terme entre collectivités territoriales françaises (régions, départements, communes et leurs groupements) et étrangères, formalisées par des conventions.
 
 ## Historique
 
@@ -852,7 +804,9 @@ Eau Vive Normandie est une association de loi 1901 fondée en 2008 par l’ONG E
 
 Après une phase de lancement de la coopération, trois programmes se sont succédés ces dernières années :
 
-juin 2010 / juin 2013 : programme porté par le Conseil Régional juillet 2013 / juin 2016 : programme porté par la commune d’Ifs juillet 2016 / juin 2019 : programme porté par la commune de Colombelles
+- juin 2010 / juin 2013 : programme porté par le Conseil Régional
+- juillet 2013 / juin 2016 : programme porté par la commune d’Ifs
+- juillet 2016 / juin 2019 : programme porté par la commune de Colombelles
 
 Ainsi après trois ans de collaboration avec Eau Vive et son antenne bas-normande pour le financement du programme d’appui au développement local du canton de Kornaka, le Conseil Régional de Basse-Normandie a souhaité l’évolution de ce partenariat dans le contexte de la décentralisation au Niger, en impulsant la mise en place d’une coopération entre les communes bas-normandes et celles du canton de Kornaka.
 
@@ -860,53 +814,39 @@ L’association est donc chargée d’assurer la maîtrise d’œuvre et l’acc
 
 Quatre communes ont choisi de s’engager dans la démarche dès le lancement, en 2008 : Ifs, Colombelles, Mézidon-Canon (devenue Mézidon Vallée d’Auge) et Castillon-en-Auge. Louvigny et Mondeville ont rejoint la coopération en 2016.
 
-Fonctionnement de la coopération
+## Fonctionnement de la coopération
 
-## 6 communes normandes coopèrent avec
-
-5 communes dans le canton de Kornaka , région de Maradi au Niger. L’association Coopasol Normandie et son partenaire, Coopasol Wash Niger, assurent la maîtrise d’œuvre du programme de coopération.
+[6 communes normandes](https://www.cooperationnormandiekornaka.fr/nos-territoires/normandie/) coopèrent avec [5 communes dans le canton de Kornaka](https://www.cooperationnormandiekornaka.fr/nos-territoires/niger/), région de Maradi au Niger. L’association Coopasol Normandie et son partenaire, Coopasol Wash Niger, assurent la maîtrise d’œuvre du programme de coopération.
 
 Côté normand, un comité de pilotage réunissant des représentants des collectivités et de Coopasol Normandie, se retrouve toutes les 6 semaines environ, pour suivre la mise en œuvre des activités.
 
 Côté Niger, les communes se retrouvent au sein de l’ACCK, l’Association des Communes du Canton de Kornaka.
 
-Les objectifs :
+**Les objectifs :**
 
-L’accompagnement des collectivités normandes dans leur démarche de coopération, notamment avec le canton de Kornaka (Niger)
+- L’accompagnement des collectivités normandes dans leur démarche de coopération, notamment avec le canton de Kornaka (Niger)
+- L’évolution des représentations et des projections des normands sur l’Afrique
+- Le développement de toutes formes d’échanges pour une meilleure connaissance mutuelle avec les pays d’Afrique, principalement de la zone sahélienne
+- Le changement économique et social en Afrique, en soutenant les initiatives locales, dans une perspective de développement durable et intégré
 
-L’évolution des représentations et des projections des normands sur l’Afrique
+**Actions :**
 
-Le développement de toutes formes d’échanges pour une meilleure connaissance mutuelle avec les pays d’Afrique, principalement de la zone sahélienne
-
-Le changement économique et social en Afrique, en soutenant les initiatives locales, dans une perspective de développement durable et intégré
-
-Actions :
-
-## Appui à la coopération décentralisée des collectivités
-
-## Accompagnement et formation à la coopération décentralisée
-
-## Facilitation des échanges et relations avec le partenaire
-
-## Mise en œuvre déléguée de la coopération décentralisée
-
-## Sensibilisation et éducation au développement
-
-Création, mise à disposition d’outils pédagogiques, réalisation d’animations pour des associations, centres culturels, communes, écoles…
-
-## Animation de rencontres autour de diverses thématiques
+- Appui à la coopération décentralisée des collectivités
+- Accompagnement et formation à la coopération décentralisée
+- Facilitation des échanges et relations avec le partenaire
+- Mise en œuvre déléguée de la coopération décentralisée
+- Sensibilisation et éducation au développement
+- Création, mise à disposition d’outils pédagogiques, réalisation d’animations pour des associations, centres culturels, communes, écoles…
+- Animation de rencontres autour de diverses thématiques
 
 Ce programme vise à appuyer le développement local dans le canton de Kornaka, de façon transversale, tout en apportant au territoire normand une ouverture sur le monde et s’articule autour de 4 volets :
 
-## Renforcement des capacités institutionnelles
+- Renforcement des capacités institutionnelles
+- Animation du territoire et ouverture sur le monde
+- Insertion socio-économique de tous les citoyens
+- Adaptation au changement climatique dans le canton de Kornaka
 
-## Animation du territoire et ouverture sur le monde
-
-## Insertion socio-économique de tous les citoyens
-
-Adaptation au changement climatique dans le canton de Kornaka
-
-Plus d’informations`,
+[Plus d’informations](https://www.cooperationnormandiekornaka.fr)`,
     order: 107,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -920,7 +860,7 @@ Plus d’informations`,
     subsection: "Finances et démocratie",
     summary:
       "Chaque année le conseil municipal adopte le budget de la commune : il s’agit du budget primitif.",
-    content: `Chaque année le conseil municipal adopte le budget de la commune  : il s’agit du budget primitif.
+    content: `Chaque année le conseil municipal adopte le budget de la commune : il s’agit du budget primitif.
 
 Des éventuels ajustements peuvent avoir lieu en cours d’année avec le vote de budgets supplémentaires.
 
@@ -939,56 +879,42 @@ Le budget se présente en deux parties, une section de fonctionnement et une sec
     section: "votre-mairie",
     subsection: "Finances et démocratie",
     summary:
-      "Agir ensemble pour améliorer notre cadre de vie.",
+      "Le budget participatif est un outil de démocratie participative qui donne la possibilité aux Colombelloises et Colombellois d’imaginer et de proposer des aménagements…",
     content: `Agir ensemble pour améliorer notre cadre de vie.
 
 Qu’est-ce que le budget participatif ?
 
 Le budget participatif est un outil de démocratie participative qui donne la possibilité aux Colombelloises et Colombellois d’imaginer et de proposer des aménagements pour la ville.
 
-## Une enveloppe de
-
-15 000 € en investissement est dédiée chaque année à la réalisation des projets retenus.
+Une enveloppe de **15 000 € en investissement** est dédiée chaque année à la réalisation des projets retenus.
 
 Pour être sélectionnés, les projets doivent :
 
-être réalisables techniquement, juridiquement et financièrement ;
+- être réalisables techniquement, juridiquement et financièrement ;
+- relever des compétences de la Ville ;
+- répondre à l’intérêt général ;
+- bénéficier au plus grand nombre.
 
-relever des compétences de la Ville ;
+Comme le rappelle **Nadine Lefèvre, Maire adjointe aux affaires intercommunales, à la démocratie participative, à la sécurité et à la prévention** :
 
-répondre à l’intérêt général ;
+*« L’objectif est de réaliser des idées des habitants : ce sont eux qui vivent la ville au quotidien et qui peuvent identifier les points concrets d’amélioration. »*
 
-bénéficier au plus grand nombre.
-
-## Comme le rappelle
-
-Nadine Lefèvre, Maire adjointe aux affaires intercommunales, à la démocratie participative, à la sécurité et à la prévention
-
-:
-
-« L’objectif est de réaliser des idées des habitants : ce sont eux qui vivent la ville au quotidien et qui peuvent identifier les points concrets d’amélioration. »
-
-Qui peut participer ?
+**Qui peut participer ?**
 
 Le dispositif est ouvert :
 
-à toutes les Colombelloises et tous les Colombellois ;
+- à toutes les Colombelloises et tous les Colombellois ;
+- à partir de 6 ans
+- à titre individuel ou collectif (habitants, associations, groupes de jeunes,…)
 
-à partir de 6 ans à titre individuel ou collectif (habitants, associations, groupes de jeunes,…)
+## Les grandes étapes
 
-Les grandes étapes
-
-## Dépôt des idées par les habitants
-
-Analyse de recevabilité et de faisabilité par les services municipaux
-
-Présentation des projets retenus
-
-Vote des habitants
-
-Réalisation par la Ville
-
-## Valorisation des projets lauréats
+- Dépôt des idées par les habitants
+- Analyse de recevabilité et de faisabilité par les services municipaux
+- Présentation des projets retenus
+- Vote des habitants
+- Réalisation par la Ville
+- Valorisation des projets lauréats
 
 Chaque dossier est étudié selon les mêmes critères, dans un souci de transparence et d’équité.
 
@@ -996,31 +922,22 @@ Chaque dossier est étudié selon les mêmes critères, dans un souci de transpa
 
 Grâce à vos propositions et à vos votes, plusieurs projets ont déjà vu le jour sur le territoire communal depuis 2021 :
 
-installation de bancs supplémentaires dans certaines rues ;
-
-mise en place d’une tyrolienne dans le bois ;
-
-création d’agrès sportifs en accès libre à proximité du quartier Jean Jaurès ;
-
-installation de panneaux ludiques place Albert Thomas ;
+- installation de bancs supplémentaires dans certaines rues ;
+- mise en place d’une tyrolienne dans le bois ;
+- création d’agrès sportifs en accès libre à proximité du quartier Jean Jaurès ;
+- installation de panneaux ludiques place Albert Thomas ;
 
 Ces réalisations témoignent de l’impact direct de la participation citoyenne sur l’aménagement de la ville.
 
-La campagne en cours : les projets retenus se concrétisent https://www.colombelles.fr/wp-content/uploads/2025/05/Budget-participatif.mp4 l’issue du vote du budget participatif, les Colombelloises et les Colombellois ont désigné trois projets qui contribueront à améliorer leur cadre de vie :
+## La campagne en cours : les projets retenus se concrétisent
 
-## Bas de Colombelles
+[colombelles.fr/wp-content/uploads/2025/05/Budget-participatif.mp4](https://www.colombelles.fr/wp-content/uploads/2025/05/Budget-participatif.mp4)
 
-: création d’un parcours de street workout dédié aux loisirs et à la pratique sportive.
+l’issue du vote du budget participatif, les Colombelloises et les Colombellois ont désigné trois projets qui contribueront à améliorer leur cadre de vie :
 
-## Centre-ville
-
-: aménagement d’un îlot de fraîcheur et d’un lieu de vie avec assises, terrain de pétanque, espace pique-nique et végétalisation.
-
-Plateau
-
-: réalisation d’une fresque culturelle
-
-.
+- **Bas de Colombelles** : création d’un parcours de **street workout** dédié aux loisirs et à la pratique sportive.
+- **Centre-ville** : aménagement d’un **îlot de fraîcheur et d’un lieu de vie** avec assises, terrain de pétanque, espace pique-nique et végétalisation.
+- **Plateau** : réalisation d’une **fresque culturelle**.
 
 La Ville remercie chaleureusement l’ensemble des habitants qui se sont mobilisés, que ce soit en proposant des idées ou en participant au vote. Cette démarche confirme l’envie des Colombellois de prendre part à la construction de leur ville.
 
@@ -1043,7 +960,7 @@ Les attentes exprimées par les habitants, notamment en matière de végétalisa
     section: "votre-mairie",
     subsection: "Finances et démocratie",
     summary:
-      "Inscription sur les listes électorales",
+      "Pour pouvoir voter, il faut être inscrit sur les listes électorales de la commune.",
     content: `## Inscription sur les listes électorales
 
 Pour pouvoir voter, il faut être inscrit sur les listes électorales de la commune.
@@ -1052,61 +969,51 @@ Seuls les jeunes de 18 ans sont inscrits automatiquement si et seulement si ils 
 
 Dans tous les autres cas : l’inscription sur les listes doit faire l’objet d’une démarche volontaire (changement de commune, déménagement à l’intérieur de la commune, etc.).
 
-## >>
-
-Vous pouvez vérifier votre situation électorale
+>> [Vous pouvez vérifier votre situation électorale](https://www.service-public.fr/particuliers/vosdroits/demarches-et-outils/ISE)
 
 Conditions pour être inscrit :
 
-Avoir la nationalité française. Les citoyens de l’Union européenne qui résident en France peuvent également s’inscrire pour les élections municipales et les élections européennes.
+- Avoir la nationalité française. Les citoyens de l’Union européenne qui résident en France peuvent également s’inscrire pour les élections municipales et les élections européennes.
+- Être domicilié dans la commune, y avoir sa résidence depuis 6 mois ou avoir la qualité de contribuable ou de gérant ou associé majoritaire ou unique d’entreprise.
+- Avoir 18 ans.
+- Jouir de ses droits civiques et politiques.
 
-Être domicilié dans la commune, y avoir sa résidence depuis 6 mois ou avoir la qualité de contribuable ou de gérant ou associé majoritaire ou unique d’entreprise.
-
-Avoir 18 ans.
-
-Jouir de ses droits civiques et politiques.
-
-Délais :
+**Délais :**
 
 L’inscription peut être demandée à tout moment de l’année. Toutefois, si un scrutin est prévu, la date limite pour s’inscrire et voter à ce scrutin est fixée au 6e vendredi précédant le 1er tour.
 
-Pièces à fournir :
+**Pièces à fournir :**
 
-## Carte Nationale d’Identité ou passeport, en cours de validité
+- Carte Nationale d’Identité ou passeport, en cours de validité
+- Justificatif d’adresse de moins de 3 mois
 
-Justificatif d’adresse de moins de 3 mois
+**Formulaire au choix :**
 
-Formulaire au choix :
+- À imprimer et déposer en mairie
+- [En ligne](https://www.service-public.fr/particuliers/vosdroits/R16396)
 
-À imprimer et déposer en mairie
-
-En ligne
-
-Devenir assesseur ?
+**Devenir assesseur ?**
 
 La ville organise les élections sous la responsabilité des services de l’État et vous pouvez y participer en tant qu’assesseur. Vous vivrez de l’intérieur ce moment de démocratie.
 
-Vos missions :
+**Vos missions :**
 
-Après vérification de l’identité de l’électeur par le président, l’assesseur doit rechercher le nom de la personne sur les listes d’émargement, la faire émarger et apposer la date du vote sur la carte électorale.
+- Après vérification de l’identité de l’électeur par le président, l’assesseur doit rechercher le nom de la personne sur les listes d’émargement, la faire émarger et apposer la date du vote sur la carte électorale.
+- Lors de la fermeture du bureau de vote, l’assesseur assiste le président lors du comptage des émargements.
 
-Lors de la fermeture du bureau de vote, l’assesseur assiste le président lors du comptage des émargement s.
+**Déroulement d’un scrutin :**[service-public.fr/particuliers/vosdroits/F16828](https://www.service-public.fr/particuliers/vosdroits/F16828)
 
-Déroulement d’un scrutin :
-
-https://www.service-public.fr/particuliers/vosdroits/F16828
-
-## Vote par procuration
+**Vote par procuration**
 
 En cas d’absence le jour d’une élection, vous pouvez charger un électeur de voter à votre place, dans votre bureau de vote. Pour ce faire vous devez réaliser une procuration de vote.
 
-Résultats des élections à Colombelles
+[Toutes les informations](https://www.service-public.fr/particuliers/vosdroits/F1604)
 
-2nd tour des élections législatives
+## Résultats des élections à Colombelles
 
-## 1er tour des élections législatives
-
-Elections européennes, dimanche 9 juin 2024`,
+- [2nd tour des élections législatives](https://www.colombelles.fr/wp-content/uploads/2024/06/tableau-recap-7-juilet-2024-OK.pdf)
+- [1er tour des élections législatives](https://www.colombelles.fr/wp-content/uploads/2024/07/tableau-recap-1ertourlegistlative-juin2024OK.pdf)
+- [Elections européennes, dimanche 9 juin 2024](https://www.colombelles.fr/wp-content/uploads/2024/06/resultat-des-elections-europeennes.pdf)`,
     order: 203,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1119,56 +1026,56 @@ Elections européennes, dimanche 9 juin 2024`,
     section: "votre-mairie",
     subsection: "Finances et démocratie",
     summary:
-      "Le journal de la Ville de Colombelles",
-    content: `Le journal de la Ville de Colombelles
+      "Journal municipal #52 – Décembre 2025",
+    content: `## Le journal de la Ville de Colombelles
 
-Journal municipal #52 – Décembre 2025
+[Journal municipal #52 – Décembre 2025](https://www.colombelles.fr/wp-content/uploads/2025/11/241125-VF-Imprimeur.pdf)
 
-Journal municipal #51 – Juillet 2025
+[Journal municipal #51 – Juillet 2025](https://www.colombelles.fr/wp-content/uploads/2025/07/230625-Colombelles51_VF.pdf)
 
-Journal municipal #50 – novembre 2024
+[Journal municipal #50 – novembre 2024](https://www.colombelles.fr/wp-content/uploads/2024/11/121124-Colombelles50-web.pdf)
 
-Journal municipal #49 – avril 2024
+[Journal municipal #49 – avril 2024](https://www.colombelles.fr/wp-content/uploads/2024/04/190425-journal-colombelles.pdf)
 
-Journal municipal #48 – novembre 2023
+[Journal municipal #48 – novembre 2023](https://www.colombelles.fr/wp-content/uploads/2023/11/171123-Colombelles48-1.pdf)
 
-Journal municipal #47 – avril 2023
+[Journal municipal #47 – avril 2023](https://www.colombelles.fr/wp-content/uploads/2023/05/050423-Colombelles47.pdf)
 
-Journal municipal #46 – novembre 2022
+[Journal municipal #46 – novembre 2022](https://www.colombelles.fr/wp-content/uploads/2023/03/141122-Colombelles-46.pdf)
 
-Journal municipal #45 – mai 2022
+[Journal municipal #45 – mai 2022](https://www.colombelles.fr/wp-content/uploads/2023/03/180522-Journal-de-Colombelles-45-3.pdf)
 
-Journal municipal #44 – janvier 2022
+[Journal municipal #44 – janvier 2022](https://www.colombelles.fr/wp-content/uploads/2023/03/140122-Journal-de-Colombelles-44.pdf)
 
-Journal municipal #43 – octobre 2021
+[Journal municipal #43 – octobre 2021](https://www.colombelles.fr/wp-content/uploads/2023/03/081021-JournalColombelles43-OK.pdf)
 
-Journal municipal #42 – juin 2021
+[Journal municipal #42 – juin 2021](https://www.colombelles.fr/wp-content/uploads/2023/03/JournalColombelles42_BAT.pdf)
 
-Journal municipal #41 – avril 2021
+[Journal municipal #41 – avril 2021](https://www.colombelles.fr/wp-content/uploads/2023/03/APRIM_1404_JournalColombelles41_BAT.pdf)
 
-Journal municipal #40 – septembre 2020
+[Journal municipal #40 – septembre 2020](https://www.colombelles.fr/wp-content/uploads/2023/03/27112020_ColombellesNouvelles40_BAT_aprim.pdf)
 
-Journal municipal #39 – juillet 2020
+[Journal municipal #39 – juillet 2020](https://www.colombelles.fr/wp-content/uploads/2023/03/ColombellesNouvelles39_web.pdf)
 
-Le Colombellois junior
+## Le Colombellois junior
 
-Colombellois Junior #9 – décembre 2025
+[Colombellois Junior #9 – décembre 2025](https://www.colombelles.fr/wp-content/uploads/2024/11/121124-Colombellois9-web.pdf)
 
-Colombellois Junior #8 – novembre 2024
+[Colombellois Junior #8 – novembre 2024](https://www.colombelles.fr/wp-content/uploads/2024/11/121124-Colombellois9-web.pdf)
 
-Colombellois Junior #7 – avril 2024
+[Colombellois Junior #7 – avril 2024](https://www.colombelles.fr/wp-content/uploads/2024/04/190424-Colombellois8.pdf)
 
-Colombellois Junior #6 – novembre 2023
+[Colombellois Junior #6 – novembre 2023](https://www.colombelles.fr/wp-content/uploads/2023/11/171123-Colombelles-junior.pdf)
 
-Colombellois Junior #5 – avril 2023
+[Colombellois Junior #5 – avril 2023](https://www.colombelles.fr/wp-content/uploads/2023/05/050423-Colombelles-junior.pdf)
 
-Petit Colombellois #4 – novembre 2022
+[Petit Colombellois #4 – novembre 2022](https://www.colombelles.fr/wp-content/uploads/2023/03/141122-Colombelles-jeunesse.pdf)
 
-Petit Colombellois #3 – mai 2022
+[Petit Colombellois #3 – mai 2022](https://www.colombelles.fr/wp-content/uploads/2023/03/180522-Petit-colombellois-4-1-1.pdf)
 
-Petit Colombellois #2 – octobre 2021
+[Petit Colombellois #2 – octobre 2021](https://www.colombelles.fr/wp-content/uploads/2023/03/081021-Colombelles-jeunesse43-1.pdf)
 
-Petit Colombellois #1  – juillet 2021`,
+[Petit Colombellois #1 – juillet 2021](https://www.colombelles.fr/wp-content/uploads/2023/03/081021-Colombelles-jeunesse43-1.pdf)`,
     order: 204,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1192,33 +1099,24 @@ Vous trouverez ici toutes les informations utiles pour accomplir cette démarche
 
 La déclaration doit être effectuée à la Mairie dans les 5 jours qui suivent la naissance.
 
-Cette déclaration peut se faire à l’Hôtel de Ville aux heures d’ouverture du service
-
-.
+Cette déclaration peut se faire à l’Hôtel de Ville aux heures d’ouverture du service.
 
 La naissance est déclarée par la mère, par le père, ou à défaut, par le médecin, la sage-femme ou une autre personne qui aura assisté à l’accouchement.
 
-## ATTENTION
+**ATTENTION** : la déclaration de naissance de votre enfant doit impérativement être faite dans ce délai de 5 jours. Si vous dépassez ce délai, un jugement déclaratif au tribunal de grande instance est nécessaire pour inscrire la déclaration sur les registres. Cela peut prendre plusieurs mois au cours desquels l’enfant sera privé d’état civil. Si le troisième jour est un samedi, un dimanche ou un jour férié, l’expiration du délai est reporté au premier jour ouvrable suivant.
 
-: la déclaration de naissance de votre enfant doit impérativement être faite dans ce délai de 5 jours. Si vous dépassez ce délai, un jugement déclaratif au tribunal de grande instance est nécessaire pour inscrire la déclaration sur les registres. Cela peut prendre plusieurs mois au cours desquels l’enfant sera privé d’état civil. Si le troisième jour est un samedi, un dimanche ou un jour férié, l’expiration du délai est reporté au premier jour ouvrable suivant.
+*Pièces à fournir :*
 
-Pièces à fournir :
+- *Certificat médical de naissance (fiche de maternité)*
+- *Livret de famille*
+- *Pièce d’identité des 2 parents*
+- *Le cas échéant, déclaration conjointe de choix de nom*
 
-Certificat médical de naissance (fiche de maternité)
+**À SAVOIR :**
 
-Livret de famille
-
-## Pièce d’identité des 2 parents
-
-Le cas échéant, déclaration conjointe de choix de nom
-
-À SAVOIR :
-
-Un livret de famille est délivré aux parents non mariés à l’occasion de la naissance de leur premier enfant commun.
-
-Les parents ont la possibilité de choisir le nom de famille de leur premier enfant commun.
-
-Les parents ont la possibilité, sous certaines conditions, de choisir le nom de famille de leur enfant au moment de la déclaration de sa naissance.
+- Un livret de famille est délivré aux parents non mariés à l’occasion de la naissance de leur premier enfant commun.
+- Les parents ont la possibilité de choisir le nom de famille de leur premier enfant commun.
+- Les parents ont la possibilité, sous certaines conditions, de choisir le nom de famille de leur enfant au moment de la déclaration de sa naissance.
 
 ## Le choix de nom
 
@@ -1226,27 +1124,22 @@ Celui-ci peut être le nom du père, de la mère, ou le double nom dans l’ordr
 
 Pour les parents non mariés, la filiation doit être établie à l’égard des deux parents au moment de la déclaration de naissance pour permettre ce choix. Le nom choisi est définitif et sera dévolu aux enfants à naître.
 
-Documents à produire :
+*Documents à produire :*
 
-déclaration conjointe de choix de nom livret de famille (éventuellement)
+- [*déclaration conjointe de choix de nom*](https://www.colombelles.fr/wp-content/uploads/2023/03/cerfa_15286-04-declaration-conjointe-du-nom.pdf)
+- *livret de famille (éventuellement)*
+- *pièces d’identité*
 
-## pièces d’identité
-
-CAS PARTICULIER en cas de désaccord sur le nom
-
-:
-
-Un des parents peut désormais le signaler à l’officier d’état civil de son choix, au plus tard le jour de la déclaration de naissance ou postérieurement au jour de l’établissement simultané de la filiation, en complétant le formulaire suivant.
+**CAS PARTICULIER en cas de désaccord sur le nom** : Un des parents peut désormais le signaler à l’officier d’état civil de son choix, au plus tard le jour de la déclaration de naissance ou postérieurement au jour de l’établissement simultané de la filiation, en complétant le formulaire suivant.
 
 ## Reconnaissance de paternité
 
-Pour les couples mariés , la question de la reconnaissance anticipée ne se pose pas. La filiation des enfants pour les parents mariés est automatique. Ils n’ont pas besoin de procéder à une reconnaissance. Le nom du père et de la mère sera porté sur l’acte de naissance.
+**Pour les couples mariés**, la question de la reconnaissance anticipée ne se pose pas. La filiation des enfants pour les parents mariés est automatique. Ils n’ont pas besoin de procéder à une reconnaissance. Le nom du père et de la mère sera porté sur l’acte de naissance.
 
-Lorsque les parents ne sont pas mariés ou lorsque les parents sont pacsés , la filiation est établie différemment entre le futur père et la future mère.
+**Lorsque les parents ne sont pas mariés ou lorsque les parents sont pacsés**, la filiation est établie différemment entre le futur père et la future mère.
 
-La filiation maternelle est établie par la désignation de la mère dans l’acte de naissance de l’enfant, sans qu’il y ait besoin de faire une démarche de reconnaissance.
-
-La filiation paternelle résulte d’une démarche volontaire : il doit reconnaître son enfant avant la naissance, au moment de la déclaration de naissance ou ultérieurement.
+- La filiation maternelle est établie par la désignation de la mère dans l’acte de naissance de l’enfant, sans qu’il y ait besoin de faire une démarche de reconnaissance.
+- La filiation paternelle résulte d’une démarche volontaire : il doit reconnaître son enfant avant la naissance, au moment de la déclaration de naissance ou ultérieurement.
 
 Vous pouvez pour cette démarche vous adresser à la Mairie de votre choix.
 
@@ -1256,61 +1149,53 @@ Il peut être délivré en cas de perte, de vol, de séparation, de divorce ou d
 
 Adressez vous à la Mairie du lieu de votre domicile qui se chargera de transmettre le livret aux mairies concernées.
 
-Formulaire en ligne
+[Formulaire en ligne](https://www.service-public.fr/particuliers/vosdroits/N31784)
 
 ## Acte de naissance
 
 Besoin d’un acte de naissance pour vos démarches administratives ?
 
-Démarche en ligne
+[Démarche en ligne](https://www.service-public.fr/particuliers/vosdroits/F1427)
 
 ## Changement de nom
 
 Depuis le 1er juillet 2022, toute personne majeure peut modifier son nom de naissance pour choisir un nom issu de sa filiation. Cette procédure simplifiée permet de porter le nom du parent qui n’a pas transmis le sien à la naissance, soit en ajoutant le nom de ce parent à votre nom de famille actuel, dans l’ordre que vous souhaitez, soit en remplaçant votre nom de famille actuel par le nom de ce parent.
 
-Attention, cette procédure ne peut être utilisée qu’une seule fois dans votre vie.
+**Attention, cette procédure ne peut être utilisée qu’une seule fois dans votre vie.**
 
-La demande doit être déposée auprès de la mairie de naissance ou de domicile avec le formulaire.
+La demande doit être déposée auprès de la mairie de naissance ou de domicile avec[le formulaire.](https://www.service-public.fr/particuliers/vosdroits/F36379)
 
-Pièces à fournir :
+*Pièces à fournir :*
 
-## Le formulaire Cerfa 16229-01
+- [*Le formulaire Cerfa 16229-01*](https://www.service-public.fr/particuliers/vosdroits/R62576)
+- *Une pièce d’identité justifiant de votre nationalité*
+- *Une copie intégrale de votre acte de naissance de moins de 3 mois*
+- *Un justificatif de domicile*
+- *Copie des pièces d’identité et des actes de naissance des membres de la famille impactés par votre changement de nom (époux/épouse, enfant(s)).*
 
-## Une pièce d’identité justifiant de votre nationalité
+**Procédures :**
 
-Une copie intégrale de votre acte de naissance de moins de 3 mois
+*Pour un majeur :*
 
-## Un justificatif de domicile
+- Le dossier une fois déposé et complet est conservé pendant un mois minimum par le service compétent.
+- À l’issue de ce délai, l’officier d’état civil contacte le demandeur afin qu’il confirme sa volonté de changer de nom.
+- Puis, le changement de nom est enregistré dans les registres d’état civil et votre acte de naissance est mis à jour.
 
-Copie des pièces d’identité et des actes de naissance des membres de la famille impactés par votre changement de nom (époux/épouse, enfant(s)).
+*Pour les mineurs :*
 
-Procédures :
-
-Pour un majeur :
-
-Le dossier une fois déposé et complet est conservé pendant un mois minimum par le service compétent.
-
-À l’issue de ce délai, l’officier d’état civil contacte le demandeur afin qu’il confirme sa volonté de changer de nom.
-
-Puis, le changement de nom est enregistré dans les registres d’état civil et votre acte de naissance est mis à jour.
-
-Pour les mineurs :
-
-Si votre enfant est né après juin 2006, vous pouvez changer son nom de famille si le père l’a reconnu après la déclaration de naissance.
-
-Si votre enfant est né après juin 2006, cette démarche est possible si l’enfant a été reconnu par les deux parents de manière différée ou si un des parents a reconnu l’enfant après la déclaration de naissance.
+- Si votre enfant est né après juin 2006, vous pouvez changer son nom de famille si le père l’a reconnu après la déclaration de naissance.
+- Si votre enfant est né après juin 2006, cette démarche est possible si l’enfant a été reconnu par les deux parents de manière différée ou si un des parents a reconnu l’enfant après la déclaration de naissance.
 
 Dans tous les cas, les deux parents doivent être présents le jour de la demande. De plus, si le mineur a plus de 13 ans, il doit donner son consentement à la démarche.
 
-Plus d’informations
+[Plus d’informations](https://www.service-public.fr/particuliers/vosdroits/F885)
 
-Informations pratiques
+## Informations pratiques
 
-## Service État civil
-
-## Hôtel de ville – Place François-Mitterrand
-
-02 31 35 25 00 vanessa.catherine@colombelles.fr`,
+- **Contact** — Service État civil
+- **Adresse** — Hôtel de ville – Place François-Mitterrand
+- **Téléphone** — 02 31 35 25 00
+- **Courriel** — vanessa.catherine@colombelles.fr`,
     order: 101,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1323,22 +1208,23 @@ Informations pratiques
     section: "demarches",
     subsection: "État civil",
     summary:
-      "Dossier de préparation au mariage",
+      "Vous trouverez toutes les étapes et les formalités pour mener à bien votre mariage civil dans le dossier de préparation au mariage civil.",
     content: `## Dossier de préparation au mariage
 
-Vous trouverez toutes les étapes et les formalités pour mener à bien votre mariage civil dans le dossier de préparation au mariage civil.
+Vous trouverez toutes les étapes et les formalités pour mener à bien votre mariage civil dans le [**dossier de préparation au mariage civil.**](https://www.colombelles.fr/wp-content/uploads/2023/07/CONSTITUTION-DE-VOTRE-PREPARATION-AU-MARIAGE-CIVIL.pdf)
 
-## Plus d’information
+[Plus d’information](https://www.service-public.fr/particuliers/vosdroits/F930#0)
 
-Obtenir un acte de mariage https://www.service-public.fr/particuliers/vosdroits/F1432
+## Obtenir un acte de mariage
 
-Informations pratiques
+[service-public.fr/particuliers/vosdroits/F1432](https://www.service-public.fr/particuliers/vosdroits/F1432)
 
-## Service État civil
+## Informations pratiques
 
-## Hôtel de ville – Place François-Mitterrand
-
-02 31 35 25 00 vanessa.catherine@colombelles.fr`,
+- **Contact** — Service État civil
+- **Adresse** — Hôtel de ville – Place François-Mitterrand
+- **Téléphone** — 02 31 35 25 00
+- **Courriel** — vanessa.catherine@colombelles.fr`,
     order: 102,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1351,32 +1237,28 @@ Informations pratiques
     section: "demarches",
     subsection: "État civil",
     summary:
-      "Qu’est-ce qu’un pacte civil de solidarité ?",
-    content: `Qu’est-ce qu’un pacte civil de solidarité ?
+      "Deux personnes majeures, de sexes différents ou de même sexe peuvent conclure un Pacte Civil de Solidarité (Pacs). Il peut être conclu en mairie dès lors que les futurs…",
+    content: `**Qu’est-ce qu’un pacte civil de solidarité ?**
 
-https://www.formulaires.service-public.fr/gf/getNotice.do?cerfaNotice=52176&cerfaFormulaire=15789
+[formulaires.service-public.fr/gf/getNotice.do](https://www.formulaires.service-public.fr/gf/getNotice.do?cerfaNotice=52176&cerfaFormulaire=15789)
 
 Deux personnes majeures, de sexes différents ou de même sexe peuvent conclure un Pacte Civil de Solidarité (Pacs). Il peut être conclu en mairie dès lors que les futurs pacsés ont leur résidence commune à Colombelles, sont majeurs et ne sont pas déjà mariés ou pacsés.
 
 Une célébration à l’Hôtel de Ville est possible sur demande, en s’adressant à l’État civil de la Mairie.
 
-Les pièces nécessaires :
+*Les pièces nécessaires :*
 
-Cerfa_15725_03 Déclaration conjointe d’un PACS
+- *[Cerfa_15725_03 Déclaration conjointe d’un PACS](https://www.service-public.fr/particuliers/vosdroits/R48756)*
+- *[Cerfa_15726-02 Convention_type_PACS](https://www.service-public.fr/particuliers/vosdroits/R48755)*
+- *Acte de naissance (copie intégrale ou extrait avec filiation) de moins de 3 mois*
+- *Pièce d’identité en cours de validité*
 
-## Cerfa_15726-02 Convention_type_PACS
+## Informations pratiques
 
-Acte de naissance (copie intégrale ou extrait avec filiation) de moins de 3 mois
-
-Pièce d’identité en cours de validité
-
-Informations pratiques
-
-## Service État civil
-
-## Hôtel de ville – Place François-Mitterrand
-
-02 31 35 25 00 vanessa.catherine@colombelles.fr`,
+- **Contact** — Service État civil
+- **Adresse** — Hôtel de ville – Place François-Mitterrand
+- **Téléphone** — 02 31 35 25 00
+- **Courriel** — vanessa.catherine@colombelles.fr`,
     order: 103,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1394,15 +1276,14 @@ Informations pratiques
 
 Le baptême civil n’est pas inscrit sur les registres de l’état civil et les justificatifs éventuellement délivrés n’ont pas de valeur au regard de la loi.
 
-Le baptême civil se pratique dans certaines mairies, mais elles ne sont pas obligées de le célébrer.
+*Le baptême civil se pratique dans certaines mairies, mais elles ne sont pas obligées de le célébrer.*
 
-Informations pratiques
+## Informations pratiques
 
-## Service État civil
-
-## Hôtel de ville – Place François-Mitterrand
-
-02 31 35 25 00 vanessa.catherine@colombelles.fr`,
+- **Contact** — Service État civil
+- **Adresse** — Hôtel de ville – Place François-Mitterrand
+- **Téléphone** — 02 31 35 25 00
+- **Courriel** — vanessa.catherine@colombelles.fr`,
     order: 104,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1415,40 +1296,38 @@ Informations pratiques
     section: "demarches",
     subsection: "État civil",
     summary:
-      "Déclaration de décès",
+      "La déclaration de décès doit être faite à la Mairie du lieu de décès par un membre de la famille ou un employé de l’entreprise de Pompes Funèbres. Elle doit s’effectuer…",
     content: `## Déclaration de décès
 
 La déclaration de décès doit être faite à la Mairie du lieu de décès par un membre de la famille ou un employé de l’entreprise de Pompes Funèbres. Elle doit s’effectuer dans un délai de 24 heures (non compris les dimanches et les jours fériés).
 
-Pièces à fournir :
+*Pièces à fournir :*
 
-certificat médical constatant le décès livret de famille ou acte de naissance ou pièce d’identité du défunt
+- *certificat médical constatant le décès*
+- *livret de famille ou acte de naissance ou pièce d’identité du défunt*
 
-Plus d’informations
+[Plus d’informations](https://www.service-public.fr/particuliers/vosdroits/F909)
 
-Acte de décès
+## Acte de décès
 
-## Survenu en France
+**Survenu en France**
 
-Démarche à réaliser auprès du service État civil par courrier ou en ligne
+Démarche à réaliser auprès du service État civil par courrier ou [en ligne](https://www.service-public.fr/particuliers/vosdroits/N359)
 
-## Survenu à l’étranger
+**Survenu à l’étranger**
 
-S’adresser au Ministère des Affaires étrangères, Service central d’Etat civil, 11, rue de la Maison Blanche, 44941 NANTES Cedex 09 –
-
-01 41 86 42 47 ou en ligne
+S’adresser au Ministère des Affaires étrangères, Service central d’Etat civil, 11, rue de la Maison Blanche, 44941 NANTES Cedex 09 – [01 41 86 42 47](https://www.google.com/search?q=Minist%C3%A8re+des+Affaires+%C3%A9trang%C3%A8res%2C+Service+central+d%E2%80%99Etat+civil%2C+11%2C+rue+de+la+Maison+Blanche%2C+44941+NANTES&rlz=1C1VDKB_frFR1020FR1020&oq=Minist%C3%A8re+des+Affaires+%C3%A9trang%C3%A8res%2C+Service+central+d%E2%80%99Etat+civil%2C+11%2C+rue+de+la+Maison+Blanche%2C+44941+NANTES&aqs=chrome..69i57.208j0j4&sourceid=chrome&ie=UTF-8#) ou [en ligne](https://www.service-public.fr/particuliers/vosdroits/F911)
 
 ## Recherche de personnes inhumées
 
 Désormais, il vous est possible de consulter le plan du cimetière de Colombelles et d’effectuer une recherche de sépulture d’un défunt.
 
-Informations pratiques
+## Informations pratiques
 
-## Service État civil
-
-## Hôtel de ville – Place François-Mitterrand
-
-02 31 35 25 00 vanessa.catherine@colombelles.fr`,
+- **Contact** — Service État civil
+- **Adresse** — Hôtel de ville – Place François-Mitterrand
+- **Téléphone** — 02 31 35 25 00
+- **Courriel** — vanessa.catherine@colombelles.fr`,
     order: 105,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1461,60 +1340,43 @@ Informations pratiques
     section: "demarches",
     subsection: "Formalités administratives",
     summary:
-      "Refaire sa carte d’identité",
-    content: `Refaire sa carte d’identité
+      "Vous devez effectivement refaire votre carte d’identité : comment faire ?",
+    content: `## Refaire sa carte d’identité
 
-Préalable
+**Préalable** : [Il faut connaître sa date de validité](https://www.service-public.fr/particuliers/vosdroits/F35005#:~:text=La%20carte%20d'identit%C3%A9%20est%20valide%20pendant%2015%20ans.)
 
-:
+**Vous devez effectivement refaire votre carte d’identité : comment faire ?**
 
-## Il faut connaître sa date de validité
+- Prenez rendez-vous en mairie ou [inscrivez-vous en ligne](https://www.rdv360.com/mairie-de-colombelles-14460-colombelles)
+- Faites une [pré-demande en ligne](https://www.service-public.fr/particuliers/vosdroits/R62483) ou venir retirer un formulaire à l’hôtel de ville
+- Pour toute demande payante (passeport, carte d’identité perdue ou volée) : [service-public.fr/particuliers/vosdroits/N358](https://www.service-public.fr/particuliers/vosdroits/N358)
 
-Vous devez effectivement refaire votre carte d’identité : comment faire ?
+## Tout savoir sur le renouvellement de la carte d’identité d’un majeur
 
-## Prenez rendez-vous en mairie ou inscrivez-vous en ligne
-
-Faites une pré-demande en ligne ou venir retirer un formulaire à l’hôtel de ville
-
-Pour toute demande payante (passeport, carte d’identité perdue ou volée) :
-
-## https://timbres.impots.gouv.fr/
-
-Tout savoir sur le renouvellement de la carte d’identité d’un majeur
-
-## Vidéo : Tutoriel
-
-Renouvellement de la carte d’identité d’un majeur :
-
-https://www.service-public.fr/particuliers/vosdroits/F2108
-
-9
+- [Vidéo : Tutoriel](https://www.dailymotion.com/video/x59twuy)
+- Renouvellement de la carte d’identité d’un majeur : [service-public.fr/particuliers/vosdroits/F21089](https://www.service-public.fr/particuliers/vosdroits/F21089)
 
 ## France Identité
 
 France Identité est un nouveau service public permettant de créer son identité numérique régalienne. Cette application pour smartphone a vocation à :
 
-prolonger l’usage de la carte d’identité dans le monde numérique permettre de nouveaux usages (connexion avec FranceConnect+ pour accéder à des services comme MonCompteFormation, MaPrimeRénov’…)
-
-## Faire une procuration de vote 100% dématérialisée
-
-Lutter contre la fraude grâce à une identité sécurisée, issue de la CNIe
+- prolonger l’usage de la carte d’identité dans le monde numérique
+- permettre de nouveaux usages (connexion avec FranceConnect+ pour accéder à des services comme MonCompteFormation, MaPrimeRénov’…)
+- Faire une procuration de vote 100% dématérialisée
+- Lutter contre la fraude grâce à une identité sécurisée, issue de la CNIe
 
 A partir de la mi-mars 2025, l’activation de l’identité numérique pourra se faire dès la remise de la carte d’identité en mairie et ainsi éviter à l’usager de devoir se rendre deux fois en mairie : une fois pour retirer sa CNIe et une autre pour certifier son identité numérique.
 
 Le processus est simple et rapide :
 
-Lorsque votre CNIe sera disponible, vous recevrez un SMS vous indiquant que vous pouvez venir la retirer dans le service qui a enregistré votre demande.
+- Lorsque votre CNIe sera disponible, vous recevrez un SMS vous indiquant que vous pouvez venir la retirer dans le service qui a enregistré votre demande.
+- Via ce SMS, vous serez invité, si vous le souhaitez uniquement, à pouvoir faire certifier votre identité numérique en même temps que le retrait de votre CNIe.
+- Vous aurez un lien pour accéder au site de France Identité pour initier la procédure. Il est impératif de le faire avant de venir retirer votre CNIe.
+- Si vous optez pour faire la certification en même temps que le retrait de votre CNI: via ce lien, il faudra renseigner vos coordonnées ce qui va générer un QR Code sur votre téléphone.
+- Lorsque vous viendrez retirer votre CNI, il faudra vous munir de votre téléphone avec le QR Code qui sera douché par l’agent et de votre ancien titre. Sans ce QR Code, nous ne serons pas en mesure de certifier votre identité numérique.
+- 24h à 48h après le passage en mairie, vous recevrez un SMS de France Identité vous indiquant si la certification de votre identité numérique est validée ou non.
 
-Via ce SMS, vous serez invité, si vous le souhaitez uniquement, à pouvoir faire certifier votre identité numérique en même temps que le retrait de votre CNIe.
-
-Vous aurez un lien pour accéder au site de France Identité pour initier la procédure. Il est impératif de le faire avant de venir retirer votre CNIe.
-
-Si vous optez pour faire la certification en même temps que le retrait de votre CNI: via ce lien, il faudra renseigner vos coordonnées ce qui va générer un QR Code sur votre téléphone.
-
-Lorsque vous viendrez retirer votre CNI, il faudra vous munir de votre téléphone avec le QR Code qui sera douché par l’agent et de votre ancien titre. Sans ce QR Code, nous ne serons pas en mesure de certifier votre identité numérique.
-
-24h à 48h après le passage en mairie, vous recevrez un SMS de France Identité vous indiquant si la certification de votre identité numérique est validée ou non.`,
+[Toutes les informations : France Identité – Fiche Aide-mémoire](https://www.colombelles.fr/wp-content/uploads/2024/06/Compte-certifie-France-Identite-Fiche-Aide-memoire.pdf)`,
     order: 201,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1527,26 +1389,21 @@ Lorsque vous viendrez retirer votre CNI, il faudra vous munir de votre télépho
     section: "demarches",
     subsection: "Formalités administratives",
     summary:
-      "Comment faire ?",
-    content: `Comment faire ?
+      "Les documents à fournir dépendent de la situation : majeur ou mineur, première demande ou renouvellement.",
+    content: `**Comment faire ?**
 
 La demande doit s’effectuer en Mairie.
 
 Les documents à fournir dépendent de la situation : majeur ou mineur, première demande ou renouvellement.
 
-Étapes :
+[**Toutes les étapes en ligne**](https://www.service-public.fr/particuliers/vosdroits/N360)
 
-saisissez votre  pré-demande en ligne :
+**Étapes :**
 
-renouvellement
+- saisissez votre pré-demande en ligne : [renouvellement](https://passeport.ants.gouv.fr/demarches-en-ligne/effectuer-le-renouvellement-de-votre-passeport) / [première demande](https://passeport.ants.gouv.fr/demarches-en-ligne/faire-une-premiere-demande-de-passeport)[/ perte](https://www.demarches.interieur.gouv.fr/particuliers/passeport-majeur-cas-perte)
+- prenez rendez-vous sous 3 mois [en ligne](https://www.rdv360.com/mairie-de-colombelles-14460-colombelles)
 
-/
-
-## première demande
-
-## / perte prenez rendez-vous sous 3 mois en ligne
-
->>> Si vous n’avez pas de rendez-vous dans un délai de 3 mois suite à votre pré-demande, vous devrez renouveler votre pré-demande en ligne.`,
+**>>> Si vous n’avez pas de rendez-vous dans un délai de 3 mois suite à votre pré-demande, vous devrez renouveler votre pré-demande en ligne.**`,
     order: 202,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1559,22 +1416,19 @@ renouvellement
     section: "demarches",
     subsection: "Formalités administratives",
     summary:
-      "La gestion des cartes grises est assurée par la Préfecture : trouvez toutes les démarches à suivre en ligne.",
-    content: `La gestion des cartes grises est assurée par la Préfecture : trouvez toutes les démarches à suivre en ligne.
-
-https://permisdeconduire.ants.gouv.fr/
+      "La gestion des cartes grises est assurée par la Préfecture : trouvez toutes les démarches à suivre en ligne. Toutes les informations sur le permis de conduire…",
+    content: `- La gestion des cartes grises est assurée par la Préfecture : trouvez toutes les [démarches à suivre en ligne.](https://immatriculation.ants.gouv.fr/demarches-en-ligne/refaire-votre-certificat-dimmatriculation)
+- Toutes les informations sur le permis de conduire : [permisdeconduire.ants.gouv.fr](https://permisdeconduire.ants.gouv.fr/)
 
 ## Permis de conduire – nouveauté 2024
 
 Changements 2024 : l’âge minimum abaissé à 17 ans pour l’obtention du Permis de Conduire
 
-Retrouvez toutes les étapes liées au permis de conduire sur la plateforme https://permisdeconduire.ants.gouv.fr/
+Retrouvez toutes les étapes liées au permis de conduire sur la plateforme [permisdeconduire.ants.gouv.fr](https://permisdeconduire.ants.gouv.fr/). Cette plateforme offre une centralisation efficace des nouveautés et démarches, incluant la déclaration de perte ou de vol du permis de conduire, la consultation de l’avancement du dossier, ainsi que la vérification du solde de points etc.
 
-. Cette plateforme offre une centralisation efficace des nouveautés et démarches, incluant la déclaration de perte ou de vol du permis de conduire, la consultation de l’avancement du dossier, ainsi que la vérification du solde de points etc.
+Dès janvier 2024, l’examen du permis de conduire sera accessible dès l’âge de 17 ans en France. L’objectif de cette mesure est de faciliter la mobilité des jeunes, en particulier ceux résidant en zone rurale, pour améliorer leur accès à l’emploi.
 
-Dès janvier 2024, l’examen du permis de conduire sera accessible dès l’âge de 17 ans en France. L’objectif de cette mesure est de faciliter la mobilité des jeunes, en particulier ceux résidant en zone rurale, pour améliorer leur accès à l’emploi.
-
-Cette disposition s’appliquera de manière universelle à tous les candidats au permis de conduire, qu’ils soient inscrits dans une auto-école traditionnelle, qu’ils optent pour le passage en candidat libre, ou qu’ils choisissent une auto-école en ligne, comme celle disponible sur ce site. Dans ce dernier cas, l’auto-école en ligne fournira toutes les informations nécessaires, y compris l’inscription à l’examen au code de la route via le numéro NEPH.
+Cette disposition s’appliquera de manière universelle à tous les candidats au permis de conduire, qu’ils soient inscrits dans une auto-école traditionnelle, qu’ils optent pour le passage en candidat libre, ou qu’ils choisissent une auto-école en ligne, comme celle disponible sur ce site. Dans ce dernier cas, l’auto-école en ligne fournira toutes les informations nécessaires, y compris l’inscription à l’examen au code de la route via le numéro NEPH.
 
 Les jeunes participants à l’apprentissage anticipé de la conduite (AAC), également connu sous le nom de conduite accompagnée, peuvent déjà passer l’épreuve pratique du permis de conduire dès l’âge de 17 ans. Toutefois, la conduite individuelle après la réussite de l’examen n’est autorisée qu’à la majorité. À partir de 2024, cette possibilité sera étendue à tous les candidats au permis de conduire, indépendamment de leur choix de suivre le système de conduite accompagnée ou non.`,
     order: 203,
@@ -1589,10 +1443,8 @@ Les jeunes participants à l’apprentissage anticipé de la conduite (AAC), ég
     section: "demarches",
     subsection: "Formalités administratives",
     summary:
-      "Si vous souhaitez obtenir un extrait de casier judiciaire, veuillez vous rendre sous le lien suivant :",
-    content: `Si vous souhaitez obtenir un extrait de casier judiciaire, veuillez vous rendre sous le lien suivant :
-
-https://www.service-public.fr/particuliers/vosdroits/F1420`,
+      "Si vous souhaitez obtenir un extrait de casier judiciaire, veuillez vous rendre sous le lien suivant : service-public.fr/particuliers/vosdroits/F1420",
+    content: `Si vous souhaitez obtenir un extrait de casier judiciaire, veuillez vous rendre sous le lien suivant : [service-public.fr/particuliers/vosdroits/F1420](https://www.service-public.fr/particuliers/vosdroits/F1420)`,
     order: 204,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1605,18 +1457,15 @@ https://www.service-public.fr/particuliers/vosdroits/F1420`,
     section: "demarches",
     subsection: "Formalités administratives",
     summary:
-      "Recensement de la population",
+      "Le recensement de la population est organisé en partenariat avec l’institut national de la statistique et des études économiques (Insee). L’objectif est de mesurer la…",
     content: `## Recensement de la population
 
 Le recensement de la population est organisé en partenariat avec l’institut national de la statistique et des études économiques (Insee). L’objectif est de mesurer la population vivant en France, pour mieux s’adapter à ses besoins. À Colombelles, le recensement a eu lieu en 2021. Le prochain recensement aura lieu en 2027 et chaque habitant sera recensé.
 
-Les résultats sont consultables sur le site de l’Insee
+Les résultats sont consultables [sur le site de l’Insee.](https://www.insee.fr/fr/statistiques/2011101?geo=COM-14167)
 
-.
-
-Plus d’informations :
-
-https://le-recensement-et-moi.fr https://www.insee.fr/fr/accueil
+- [le-recensement-et-moi.fr](https://le-recensement-et-moi.fr/)
+- [insee.fr/fr/accueil](https://www.insee.fr/fr/accueil)
 
 ## Recensement citoyen
 
@@ -1626,39 +1475,27 @@ Seul le recensement permet la convocation à la JDC (Journées Défense Citoyenn
 
 Alors dès vos 16 ans rendez-vous auprès de votre mairie muni d’une pièce d’identité, du livret de famille et un justificatif de domicile.
 
-Et pour répondre à toutes vos questions sur la JDC, connectez-vous à majdc.fr
+Et pour répondre à toutes vos questions sur la JDC, connectez-vous à **[presaje.sga.defense.gouv.fr](https://presaje.sga.defense.gouv.fr/)**
 
 Vous pourrez ainsi :
 
-Découvrir ce qu’est la JDC ;
+- Découvrir ce qu’est la JDC ;
+- Télécharger votre convocation ;
+- Changer la date de votre JDC ;
+- Etre guidé jusqu’au site de convocation ;
+- Télécharger votre attestation à l’issue de la JDC en cas de perte du certificat remis.
 
-Télécharger votre convocation ;
-
-Changer la date de votre JDC ;
-
-Etre guidé jusqu’au site de convocation ;
-
-Télécharger votre attestation à l’issue de la JDC en cas de perte du certificat remis.
-
-Vous pourrez créer votre compte environ 2 à 4 mois après votre recensement en mairie
-
-: délai pour que vous soyez connu des services du CSN (Centres du service national).
+Vous pourrez créer votre compte **environ 2 à 4 mois après votre recensement en mairie** : délai pour que vous soyez connu des services du CSN (Centres du service national).
 
 Mais pour être automatiquement alerté de cette possibilité il vous suffit de laisser une adresse mail lors de votre venue en mairie.
 
-A compter du 1 er septembre 2025, la JDC s’effectuera sur une journée complète.
+**A compter du 1er septembre 2025, la JDC s’effectuera sur une journée complète.**
 
 Pour tout renseignement contactez le Centre du service national et de la jeunesse de Caen :
 
-09 70 84 51 51
+> 09 70 84 51 51 Lundi au jeudi : 09h à 11h 45 Vendredi : 09h à 12h – 13h30 à 15h30 Pas d’accueil public csnj-caen.contact.fct@intradef.gouv.fr [defense.gouv.fr/sga/au-service-nation-du-public/jeunesse](https://www.defense.gouv.fr/sga/au-service-nation-du-public/jeunesse)
 
-Lundi au jeudi : 09h à 11h 45
-
-## Vendredi : 09h à 12h – 13h30 à 15h30
-
-Pas d’accueil public csnj-caen.contact.fct@intradef.gouv.fr https://www.defense.gouv.fr/sga/au-service-nation-du-public/jeunesse
-
-20210928_NP_CSNJ CAEN_com recensement`,
+- 20210928_NP_CSNJ CAEN_com recensement`,
     order: 205,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1671,58 +1508,42 @@ Pas d’accueil public csnj-caen.contact.fct@intradef.gouv.fr https://www.defens
     section: "demarches",
     subsection: "Formalités administratives",
     summary:
-      "Inscription sur les listes électorales",
-    content: `## Inscription sur les listes électorales
-
-Pour pouvoir voter, il faut être inscrit sur les listes électorales de la commune.
+      "Pour pouvoir voter, il faut être inscrit sur les listes électorales de la commune.",
+    content: `Pour pouvoir voter, il faut être inscrit sur les listes électorales de la commune.
 
 Seuls les jeunes de 18 ans sont inscrits automatiquement si et seulement si ils ont fait leur recensement citoyen obligatoire entre 16 et 18 ans.
 
-Dans tous les autres cas :  l’inscription sur les listes doit faire l’objet d’une démarche volontaire (changement de commune, déménagement à l’intérieur de la commune, etc.).
+Dans tous les autres cas : l’inscription sur les listes doit faire l’objet d’une démarche volontaire (changement de commune, déménagement à l’intérieur de la commune, etc.).
 
-Suis-je inscrit ?
+**Suis-je inscrit ?**
 
-Je vérifie ma situation électorale
+[**Je vérifie ma situation électorale**](https://www.elections.interieur.gouv.fr/mes-demarches/je-verifie-ma-situation-electorale)
 
-S’inscrire sur la liste électorale
+## S’inscrire sur la liste électorale
 
-Conditions pour être inscrit
+**Conditions pour être inscrit**:
 
-:
+- avoir la nationalité française. Les citoyens de l’Union européenne qui résident en France peuvent également s’inscrire pour les élections municipales et les élections européennes.
+- être domicilié dans la commune, y avoir sa résidence depuis 6 mois ou avoir la qualité de contribuable ou de gérant ou associé majoritaire ou unique d’entreprise.
+- avoir 18 ans.
+- jouir de ses droits civiques et politiques.
 
-avoir la nationalité française. Les citoyens de l’Union européenne qui résident en France peuvent également s’inscrire pour les élections municipales et les élections européennes.
+**Pour vous inscrire sur la liste électorale de Colombelles, vous pouvez :**
 
-être domicilié dans la commune, y avoir sa résidence depuis 6 mois ou avoir la qualité de contribuable ou de gérant ou associé majoritaire ou unique d’entreprise.
+- effectuer cette démarche en ligne en cliquant sur [ce lien.](https://www.authentification.service-public.fr/auth/realms/service-public/protocol/openid-connect/auth?client_id=dile&scope=openid&response_type=code&code_challenge=YaVZ2_R4Pl0LqlgTQjRIls5cvdSel1Ij4FnughXaROY&code_challenge_method=S256&response_mode=fragment&redirect_uri=https%3A%2F%2Fwww.inscriptionelectorale.service-public.fr%2Flogin&nonce=test&state=Lw%3D%3D)
+- déposer le formulaire CERFA accompagné des pièces justificatives en mairie.
 
-avoir 18 ans.
+**Pièces justificatives ci-dessous :**
 
-jouir de ses droits civiques et politiques.
+- c**arte nationale d’identité ou passeport** en cours de validité, ou périmé depuis moins de 5 ans.
+- u**n justificatif de domicile de moins de trois mois** (facture eau, gaz, électricité ou téléphone fixe) – Les factures de téléphone portable ne sont pas recevables.
+- [**Un formulaire Cerfa**](https://www.service-public.gouv.fr/particuliers/vosdroits/R16024)
 
-Pour vous inscrire sur la liste électorale de Colombelles, vous pouvez :
-
-effectuer cette démarche en ligne en cliquant sur ce lien.
-
-déposer le formulaire CERFA accompagné des pièces justificatives en mairie.
-
-Pièces justificatives ci-dessous :
-
-## c
-
-arte nationale d’identité ou passeport en cours de validité, ou périmé depuis moins de 5 ans.
-
-## u
-
-## n justificatif de domicile de moins de trois mois
-
-(facture eau, gaz, électricité ou téléphone fixe) – Les factures de téléphone portable ne sont pas recevables.
-
-Un formulaire Cerfa
-
-## Délais
+**Délais**
 
 L’inscription peut être demandée à tout moment de l’année. Toutefois, si un scrutin est prévu, la date limite pour s’inscrire et voter à ce scrutin est fixée au 6e vendredi précédant le 1er tour.
 
-Informations :
+**Informations :**
 
 Pour les électeurs colombellois ayant changé d’adresse à Colombelles, seul le justificatif de domicile est requis.
 
@@ -1734,33 +1555,30 @@ Désormais vous pouvez donner procuration à une personne de confiance inscrite 
 
 Pour réaliser cette démarche, vous devez renseigner votre Numéro National d’électeur (NNE) ainsi que celui de la personne à qui vous accordez procuration.
 
-Les numéros NNE sont indiqués sur vos cartes électorales ou disponibles sur le site www.service-public.fr rubrique interroger sa situation.
+Les numéros NNE sont indiqués sur vos cartes électorales ou disponibles sur le site [service-public.fr](https://www.service-public.fr/) rubrique interroger sa situation.
 
-Modalités :
+**Modalités :**
 
-## Compléter le formulaire
+Compléter le formulaire [Cerfa](https://www.service-public.gouv.fr/particuliers/vosdroits/R12675) avec votre numéro national d’électeur (NNE) et celui de la personne à qui vous accordez la procuration électorale.
 
-Cerfa avec votre numéro national d’électeur (NNE) et celui de la personne à qui vous accordez la procuration électorale.
+Une fois votre mail de confirmation réceptionné, vous devez vous rendre avec votre pièce d’identité soit
 
-Une fois votre mail de confirmation réceptionné, vous devez vous rendre avec votre pièce d’identité soit au Tribunal d’Instance au commissariat de Police à la Gendarmerie
+- au Tribunal d’Instance
+- au commissariat de Police
+- à la Gendarmerie
 
-La démarche est simplifiée avec l’ identité numérique certifiée
+**La démarche est simplifiée avec l’ identité numérique certifiée**.
 
-.
-
-Devenir assesseur ?
+**Devenir assesseur ?**
 
 La ville organise les élections sous la responsabilité des services de l’État et vous pouvez y participer en tant qu’assesseur. Vous vivrez de l’intérieur ce moment de démocratie.
 
-Vos missions :
+**Vos missions :**
 
-après vérification de l’identité de l’électeur par le président, l’assesseur doit rechercher le nom de la personne sur les listes d’émargement, la faire émarger et apposer la date du vote sur la carte électorale.
+- après vérification de l’identité de l’électeur par le président, l’assesseur doit rechercher le nom de la personne sur les listes d’émargement, la faire émarger et apposer la date du vote sur la carte électorale.
+- lors de la fermeture du bureau de vote, l’assesseur assiste le président lors du comptage des émargements.
 
-lors de la fermeture du bureau de vote, l’assesseur assiste le président lors du comptage des émargement s.
-
-Déroulement d’un scrutin :
-
-https://www.service-public.fr/particuliers/vosdroits/F16828`,
+Déroulement d’un scrutin : [service-public.fr/particuliers/vosdroits/F16828](https://www.service-public.fr/particuliers/vosdroits/F16828)`,
     order: 206,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1776,25 +1594,21 @@ https://www.service-public.fr/particuliers/vosdroits/F16828`,
       "Pour obtenir une carte d’électeur, il faut être inscrit sur les listes électorales, cela peut se faire :",
     content: `Pour obtenir une carte d’électeur, il faut être inscrit sur les listes électorales, cela peut se faire :
 
-automatiquement, comme par exemple l’inscription d’office d’un jeune atteignant l’âge de 18 ans de façon volontaire à la suite d’un déménagement à la suite de l’obtention de la nationalité française
+- *automatiquement, comme par exemple [l’inscription d’office](https://www.service-public.fr/particuliers/vosdroits/F1961) d’un jeune atteignant l’âge de 18 ans*
+- *de façon [volontaire](https://www.service-public.fr/particuliers/vosdroits/F1367)*
+- *à la suite d’un [déménagement](https://www.service-public.fr/particuliers/vosdroits/F1372)*
+- *à la suite de [l’obtention de la nationalité française](https://www.service-public.fr/particuliers/vosdroits/F34778).*
 
-.
-
-Vous pouvez vérifier votre inscription électorale et connaître votre bureau de vote à l’aide du lien suivant :
-
-https://www.service-public.fr/particuliers/vosdroits/demarches-et-outils/ISE
+Vous pouvez vérifier votre inscription électorale et connaître votre bureau de vote à l’aide du lien suivant : [service-public.fr/particuliers/vosdroits/demarches-et-outils/ISE](https://www.service-public.fr/particuliers/vosdroits/demarches-et-outils/ISE)
 
 ## En cas de perte
 
-Pour remplacer votre carte, vous pouvez obtenir une attestation d’inscription sur la liste électorale
-
-.
+Pour remplacer votre carte, vous pouvez obtenir une *attestation d’inscription sur la liste électorale*.
 
 Pour cela, vous pouvez :
 
-en faire la demande à la mairie de la commune où vous êtes inscrit ou la télécharger à l’aide de ce téléservice
-
-.
+- en faire la demande à la mairie de la commune où vous êtes inscrit
+- ou la télécharger à l’aide de [ce téléservice](https://www.service-public.fr/particuliers/vosdroits/R51788).
 
 Au moment du vote, vous pourrez présenter cette attestation à votre bureau de vote.
 
@@ -1802,9 +1616,9 @@ Au moment du vote, vous pourrez présenter cette attestation à votre bureau de 
 
 En cas d’absence le jour d’une élection, vous pouvez charger un électeur de voter à votre place, dans votre bureau de vote. Pour ce faire vous devez réaliser une procuration de vote.
 
-Pré-inscription en ligne :
+Pré-inscription en ligne : [maprocuration.gouv.fr](https://www.maprocuration.gouv.fr/)
 
-https://www.maprocuration.gouv.fr/`,
+[Toutes les informations](https://www.service-public.fr/particuliers/vosdroits/F1604)`,
     order: 207,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1817,7 +1631,7 @@ https://www.maprocuration.gouv.fr/`,
     section: "demarches",
     subsection: "Urbanisme",
     summary:
-      "Fermetures exceptionnelles des permanences d’urbanisme",
+      "La permanence du service urbanisme sera fermée du lundi 31 août au 14 septembre inclus.",
     content: `## Fermetures exceptionnelles des permanences d’urbanisme
 
 La permanence du service urbanisme sera fermée du lundi 31 août au 14 septembre inclus.
@@ -1826,51 +1640,40 @@ La permanence du service urbanisme sera fermée du lundi 31 août au 14 septembr
 
 Vous envisagez des travaux extérieurs sur votre propriété (portail, clôture, toiture…), une extension, un aménagement de combles, ou encore l’installation d’un abri de jardin ?
 
-Avant de commencer vos travaux, il est indispensable de vérifier si votre projet nécessite une autorisation d’urbanisme
-
-.
+Avant de commencer vos travaux, il est indispensable de vérifier si votre projet nécessite une **autorisation d’urbanisme**.
 
 ## Déposez votre demande en ligne
 
 Vous pouvez réaliser toutes vos démarches depuis chez vous grâce au service en ligne (permis de construire, permis d’aménager, déclaration préalable, permis de démolir, certificat d’urbanisme).
 
-Avantages de la dématérialisation :
+**Avantages de la dématérialisation :**
 
-Simple et sécurisée
+- Simple et sécurisée
+- Facilite l’instruction des demandes
+- Limite les déplacements et réduit les délais de traitement
 
-## Facilite l’instruction des demandes
+**Pour déposer votre demande en ligne :**[Accéder au guichet unique](https://caenlamer.geosphere.fr/guichet-unique)
 
-Limite les déplacements et réduit les délais de traitement
+- Créez votre compte
+- Remplissez le formulaire en ligne
+- Joignez les documents numériques du dossier
+- Validez le dossier et envoyez le
 
-Pour déposer votre demande en ligne :
-
-Accéder au guichet unique
-
-Créez votre compte
-
-## Remplissez le formulaire en ligne
-
-Joignez les documents numériques du dossier
-
-## Validez le dossier et envoyez le
-
-Le dépôt papier reste possible, mais nous vous encourageons à privilégier la dématérialisation, plus sécurisée et rapide.
+*Le dépôt papier reste possible, mais nous vous encourageons à privilégier la dématérialisation, plus sécurisée et rapide.*
 
 ## Renseignez-vous avant vos travaux
 
 Avant toute réalisation ou commande auprès d’un professionnel, assurez-vous de connaître l’autorisation nécessaire pour votre projet :
 
-## Informations sur Service-Public.fr
+- [Informations sur Service-Public.fr](https://www.service-public.fr/particuliers/vosdroits/N319)
+- Contactez le **service urbanisme de la mairie de Colombelles** pour toute question spécifique.
 
-Contactez le service urbanisme de la mairie de Colombelles pour toute question spécifique.
+## Informations pratiques
 
-Informations pratiques
-
-Service Urbanisme
-
-## Place François Mitterrand, Colombelles
-
-Lundi : 13h30-17h et mercredi : 8h30-12h30/14h-17h urbanisme@colombelles.fr`,
+- **Contact** — Service Urbanisme
+- **Adresse** — Place François Mitterrand, Colombelles
+- **Courriel** — urbanisme@colombelles.fr
+- **Horaires** — Lundi : 13h30-17h et mercredi : 8h30-12h30/14h-17h`,
     order: 301,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1883,56 +1686,37 @@ Lundi : 13h30-17h et mercredi : 8h30-12h30/14h-17h urbanisme@colombelles.fr`,
     section: "demarches",
     subsection: "Urbanisme",
     summary:
-      "Le Plan Local d’Urbanisme de Colombelles",
+      "Le Plan Local d’Urbanisme est un document de planification qui détermine les conditions d’aménagement et d’utilisation des sols. Il a pour objectif d’orienter…",
     content: `## Le Plan Local d’Urbanisme de Colombelles
 
 Le Plan Local d’Urbanisme est un document de planification qui détermine les conditions d’aménagement et d’utilisation des sols. Il a pour objectif d’orienter l’aménagement du territoire et de mettre en cohérence ses différents enjeux (habitat, mobilité, activités économiques, environnement…). Il détermine les droits à construire applicables à chaque parcelle et fixe les normes réglementaires de construction suivant la nature de la zone.
 
-Le Plan Local d’Urbanisme de Colombelles a été approuvé lors du conseil municipal du 24 février 2014.
+Le Plan Local d’Urbanisme de Colombelles a été approuvé lors du conseil municipal du 24 février 2014. Plusieurs modifications sont intervenues pour tenir compte des évolutions du territoire.
 
-Plusieurs modifications sont intervenues pour tenir compte des évolutions du territoire.
-
-Retrouvez les différents éléments réglementaires et des pièces du PLU de Colombelles est accessible sur en ligne :
-
-https://www.geoportail-urbanisme.gouv.fr
+Retrouvez les différents éléments réglementaires et des pièces du PLU de Colombelles est accessible sur en ligne : [geoportail-urbanisme.gouv.fr](https://www.geoportail-urbanisme.gouv.fr/)
 
 ## Modification simplifiée n°2
 
-Une procédure de modification simplifiée soumise à évaluation environnementale n°2 du PLU de Colombelles a été engagée.
+**Une procédure de modification simplifiée soumise à évaluation environnementale n°2 du PLU de Colombelles a été engagée.**
 
-Les habitants sont invités à s’informer et à s’exprimer. Une rubrique « modification simplifiée n°2 » est disponible sous le lien suivant :
-
-https://caenlamer.fr/concertations/modification-simplifiee-2-plu-colombelles pour assurer la consultation des pièces du projet de la procédure. Il sera alimenté au fur et à mesure des études.
+Les habitants sont invités à s’informer et à s’exprimer. Une rubrique « modification simplifiée n°2 » est disponible sous le lien suivant : [caenlamer.fr/plu-communes](https://caenlamer.fr/plu-communes) pour assurer la consultation des pièces du projet de la procédure. Il sera alimenté au fur et à mesure des études.
 
 Des registres d’observations en format papier sont également à disposition dans les lieux suivants :
 
-Mairie de Colombelles (Place François Mitterrand)
+- Mairie de Colombelles (Place François Mitterrand)
+- Siège de Caen la mer (16 rue Rosa Parks à Caen)
 
-Siège de Caen la mer (16 rue Rosa Parks à Caen)
-
-Le
-
-Plan Local d’Urbanisme Intercommunal
-
-## Habitat et Mobilités
+## Le Plan Local d’Urbanisme Intercommunal Habitat et Mobilités
 
 Conformément à l’article L.153-8 du code de l’urbanisme, la communauté urbaine Caen la mer souhaite aujourd’hui s’engager, à son initiative et sous sa responsabilité, dans l’élaboration d’un PLU intercommunal en collaboration avec les 48 communes qui la composent. Un registre d’observations du public est disponible en mairie de Colombelles.
 
-Pour plus d’informations
-
-:
-
-## https://www.pluihm-caenlamer.fr/
+Pour plus d’informations : [pluihm-caenlamer.fr](https://www.pluihm-caenlamer.fr/)
 
 ## Le Projet d’Aménagement et de Développement Durables
 
-Le Projet d’Aménagement et de Développement Durables (PADD) du PLUI-HM de Caen la mer fixe des orientations générales à l’échelle de la communauté urbaine. Il s’agit d’un document stratégique majeur pour l’avenir de notre territoire.
+Le Projet d’Aménagement et de Développement Durables (PADD) du PLUI-HM de Caen la mer fixe **des orientations générales** à l’échelle de la communauté urbaine. Il s’agit d’un document stratégique majeur pour l’avenir de notre territoire.
 
-Pour plus d’informations
-
-:
-
-https://www.pluihm-caenlamer.fr/le-padd/`,
+Pour plus d’informations : [pluihm-caenlamer.fr/le-padd](https://www.pluihm-caenlamer.fr/le-padd/)`,
     order: 302,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1945,12 +1729,12 @@ https://www.pluihm-caenlamer.fr/le-padd/`,
     section: "demarches",
     subsection: "Urbanisme",
     summary:
-      "Le droit de préemption urbain (DPU) offre la possibilité à une personne publique, dans un périmètre prédéfini, de se substituer à l’acquéreur éventuel d’un bien mis en vente…",
+      "Le droit de préemption urbain (DPU) offre la possibilité à une personne publique, dans un périmètre prédéfini, de se substituer à l’acquéreur éventuel d’un bien mis en…",
     content: `Le droit de préemption urbain (DPU) offre la possibilité à une personne publique, dans un périmètre prédéfini, de se substituer à l’acquéreur éventuel d’un bien mis en vente ou faisant l’objet d’une donation (à l’exception de celles réalisées entre personnes d’une même famille) et de l’acquérir en priorité, afin de réaliser une opération d’aménagement ou de constituer des réserves foncières en vue d’une opération d’aménagement.
 
 À Colombelles, le DPU est instauré sur l’ensemble des zones U et AU définies dans le PLU.
 
-Carte du droit de préemption`,
+[**Carte du droit de préemption**](https://www.calameo.com/read/00284098057c1df1bef45)`,
     order: 303,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1963,14 +1747,11 @@ Carte du droit de préemption`,
     section: "demarches",
     subsection: "Propreté",
     summary:
-      "Consultez les calendriers de collecte du 1er avril 2026 au 31 mars 2027",
-    content: `Consultez les calendriers de collecte du 1er avril 2026 au 31 mars 2027
+      "Consultez les calendriers de collecte du 1er avril 2026 au 31 mars 2027 :",
+    content: `Consultez les calendriers de collecte **du 1er avril 2026 au 31 mars 2027** :
 
-:
-
-Calendrier de collecte de Colombelles centre-ville
-
-Calendrier de collecte du Plateau`,
+- [Calendrier de collecte de Colombelles centre-ville](https://www.colombelles.fr/wp-content/uploads/2026/02/colombelles.pdf)
+- [Calendrier de collecte du Plateau](https://www.colombelles.fr/wp-content/uploads/2026/02/plateau-mondeville-colombelles-giberville.pdf)`,
     order: 401,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -1983,23 +1764,17 @@ Calendrier de collecte du Plateau`,
     section: "demarches",
     subsection: "Propreté",
     summary:
-      "Tous les emballages se trient !",
-    content: `Tous les emballages se trient !
+      "La collecte des emballages recyclables et des papiers se fait exclusivement au moyen de bacs jaunes. Les emballages et papiers doivent être déposés en vrac directement…",
+    content: `**Tous les emballages se trient !**
 
 La collecte des emballages recyclables et des papiers se fait exclusivement au moyen de bacs jaunes. Les emballages et papiers doivent être déposés en vrac directement dans le bac.
 
-Bon à savoir :
-
-un emballage, c’est ce qui protège un aliment ou un objet. Sont donc exclus les objets en plastique tels que les jouets, brosses à dents, stylos etc…
+**Bon à savoir :** un emballage, c’est ce qui protège un aliment ou un objet. Sont donc exclus les objets en plastique tels que les jouets, brosses à dents, stylos etc…
 
 Ainsi, vous pouvez déposer les pots et barquettes en plastique et polystyrène, les sacs et films (café, biscuits apéritifs, fromage râpé…) et les tubes (dentifrices, crème de soin…) sans exception dans la poubelle jaune.
 
-Pour tout connaître des nouvelles consignes de tri, consultez le site www.consignedetri.fr
-- 02 31 30 43 04
-
-Plus d’informations :
-
-https://caenlamer.fr/ramassage-des-dechets
+- Pour tout connaître des nouvelles consignes de tri, consultez le site [on-ne-lache-rien.citeo.com](https://on-ne-lache-rien.citeo.com/#open-modal-guide-du-tri/)**– 02 31 30 43 04**
+- Plus d’informations : [caenlamer.fr/ramassage-des-dechets](https://caenlamer.fr/ramassage-des-dechets)
 
 ## Calendrier de collectes
 
@@ -2007,87 +1782,61 @@ Pour la collecte des déchets ménagers, la Ville de Colombelles est divisée en
 
 Attention : Les calendriers de collecte sont destinés aux habitants de logements individuels. Si vous habitez en habitat collectif, contactez votre bailleur ou votre syndic de copropriété, qui a reçu par courrier la liste des jours de collecte relative aux logements collectifs.
 
-CALENDRIER AVRIL 2025 / MARS 2026
+**CALENDRIER AVRIL 2025 / MARS 2026**
 
-Colombelles Centre
+- [Colombelles Centre](https://www.colombelles.fr/wp-content/uploads/2025/03/colombelles.pdf)
+- [Colombelles Plateau](https://www.colombelles.fr/wp-content/uploads/2025/03/plateau-mondeville-colombelles-giberville.pdf)
 
-## Colombelles Plateau
-
-> À partir du 1er avril 2024, sur le Plateau, les ordures ménagères seront collectées l’après-midi, et non plus le matin.
+**> À partir du 1er avril 2024, sur le Plateau, les ordures ménagères seront collectées l’après-midi, et non plus le matin.**
 
 ## Déchèteries
 
 7 déchèteries sont à votre disposition sur le territoire de la Communauté urbaine Caen la mer. La déchèterie est un espace gardienné qui permet le réemploi et le dépôt des déchets ne pouvant être collectés en porte à porte en raison de leur nature, poids ou volume. C’est un centre d’apport volontaire ouvert aux particuliers et professionnels (artisans, commerçants, associations, etc.).
 
-## Les conditions d’accès
+### Les conditions d’accès
 
-L’accès est gratuit aux habitants de la communauté urbaine.
+- L’accès est gratuit aux habitants de la communauté urbaine.
+- C’est une aire aménagée et gardiennée où il est possible de déposer leurs déchets dans des conteneurs ou des bennes spécifiques.
+- L’accès est limité aux véhicules de tourisme, aux véhicules attelés d’une remorque et aux camionnettes de moins de 3,5 tonnes.
+- Le dépôt le samedi est réservé aux particuliers
+- La déchèterie est fermée les jours fériés
 
-C’est une aire aménagée et gardiennée où il est possible de déposer leurs déchets dans des conteneurs ou des bennes spécifiques.
-
-L’accès est limité aux véhicules de tourisme, aux véhicules attelés d’une remorque et aux camionnettes de moins de 3,5 tonnes.
-
-## Le dépôt le samedi est réservé aux particuliers
-
-## La déchèterie est fermée les jours fériés
-
-Caen la mer modernise les accès en déchèteries.
+**Caen la mer modernise les accès en déchèteries.**
 
 Le nouveau système simplifiera et fluidifiera le passage en déchèterie grâce notamment à la reconnaissance de plaques d’immatriculation. Ce contrôle d’accès combinera deux modes d’accès possibles : la reconnaissance par plaque d’immatriculation et l’accès par QR code. Ce dernier permettra notamment de se rendre en déchèteries avec un autre véhicule, de location par exemple.
 
 La mise en place de ce nouveau système sera progressive, afin de permettre aux usagers d’effectuer les démarches d’inscription nécessaires sur le site internet de Caen la mer. En cas de difficulté, il sera toujours possible de joindre nos services au 02 31 304 304.
 
-BON A SAVOIR !
+**BON A SAVOIR !**
 
-1er octobre 2025 : possibilité de créer son compte en ligne en saisissant sa plaque d’immatriculation et obtenir son QR code.
+- 1er octobre 2025 : possibilité de créer son compte en ligne en saisissant sa plaque d’immatriculation et obtenir son QR code. [Rendez-vous sur caenlamer.fr](https://caenlamer.fr/dechets-proprete-urbaine)
+- 1er décembre 2025 : mise en place du nouveau contrôle d’accès en déchèteries : lecture de plaque et de QR code. Possibilité d’accéder via les modalités actuelles (pièce d’identité et justificatif de domicile).
+- 1er septembre 2026 : accès obligatoire via le nouveau dispositif.
 
-## Rendez-vous sur caenlamer.fr
+**La nouvelle déchèterie de Colombelles se situe 1 rue Novaci.**
 
-1er décembre 2025 : mise en place du nouveau contrôle d’accès en déchèteries : lecture de plaque et de QR code. Possibilité d’accéder via les modalités actuelles (pièce d’identité et justificatif de domicile).
+Un équipement « nouvelle génération » conçue pour simplifier vos dépôts de déchets :
 
-1er septembre 2026 : accès obligatoire via le nouveau dispositif.
+- Accès facile : Avec un accès direct au sol, elle facilite vos manœuvres de déchargement.
+- Adaptabilité : Prête à accueillir tous les nouveaux types de déchets conformément aux réglementations en vigueur.
+- Solutions environnementales : Elle offre des solutions innovantes pour réduire notre impact environnemental. *-> Réemploi* : Un grand espace dédié permet de donner une seconde vie à vos objets. -> *Compactage* : Des équipements de compactage optimisent le stockage et le transport des déchets.
+- Sensibilisation au tri des déchets : Profitez de votre visite pour en apprendre davantage sur le tri des déchets. Un espace pédagogique, ouvert à tous, vise particulièrement à sensibiliser les plus jeunes à cette pratique essentielle pour préserver notre environnement.
 
-## La
+### Informations pratiques
 
-nouvelle déchèterie de Colombelles se situe 1 rue Novaci.
+- **Contact** — Déchèterie de Colombelles
+- **Adresse** — 1 rue de Novaci, 14460 Colombelles
+- **Courriel** — [caenlamer.fr/annuaire-equipement/decheterie-colombelles](https://caenlamer.fr/annuaire-equipement/decheterie-colombelles) – 02 31 304 304
 
-Un équipement  « nouvelle génération » conçue pour simplifier vos dépôts de déchets :
+### Service de collecte à domicile
 
-Accès facile : Avec un accès direct au sol, elle facilite vos manœuvres de déchargement.
+Vous pourrez solliciter le service de collecte d’encombrants sur appel, à partir du 1er avril au 02 31 95 69 09 (tarif unique de 10 € par collecte) dans la limite de 2m3 par collecte..
 
-Adaptabilité : Prête à accueillir tous les nouveaux types de déchets conformément aux réglementations en vigueur.
-
-Solutions environnementales : Elle offre des solutions innovantes pour réduire notre impact environnemental.
-- > Réemploi
-
-: Un grand espace dédié permet de donner une seconde vie à vos objets.
-- >
-
-## Compactage
-
-: Des équipements de compactage optimisent le stockage et le transport des déchets.
-
-Sensibilisation au tri des déchets : Profitez de votre visite pour en apprendre davantage sur le tri des déchets. Un espace pédagogique, ouvert à tous, vise particulièrement à sensibiliser les plus jeunes à cette pratique essentielle pour préserver notre environnement.
-
-Informations pratiques
-
-## Déchèterie de Colombelles
-
-1 rue de Novaci, 14460 Colombelles https://caenlamer.fr/annuaire-equipement/decheterie-colombelles – 02 31 304 304
-
-## Service de collecte à domicile
-
-Vous pourrez solliciter le service de collecte d’encombrants sur appel, à partir du 1er avril au 02 31 95 69 09 (tarif unique de 10 € par collecte)
-
-dans la limite de 2m3 par collecte.
-
-.
-
-En complément de ce service, une collecte annuelle est maintenue et vous disposez de l’accès gratuit aux 7 déchèteries de Caen la mer toute l’année.
+En complément de ce service, **une collecte annuelle est maintenue** et vous disposez de l’accès gratuit aux 7 déchèteries de Caen la mer toute l’année.
 
 ## Le tri des déchets alimentaires
 
-Depuis le 1er janvier 2024, les collectivités territoriales chargées de la gestion des déchets sont dans l’obligation de proposer des solutions de tri des déchets alimentaires à tous les usagers.
+Depuis le 1er janvier 2024, les collectivités territoriales chargées de la gestion des déchets sont dans l’obligation de proposer des solutions de tri des déchets alimentaires à tous les usagers.
 
 Depuis 2005, la Communauté urbaine de Caen la mer a initié une démarche en ce sens, en proposant des composteurs individuels et en accompagnant l’installation de sites de compostage partagé pour habitations collectives. Au total, 23 217 composteurs individuels ont été distribués. Aujourd’hui, 36,60% des foyers concernés en sont équipés. 60 sites de compostage en pied d’immeuble, 11 sites de compostage de quartier et 25 sites en restauration collective ont été installés. L’évolution de la réglementation va donc intensifier la pratique du compostage sur le territoire.
 
@@ -2095,61 +1844,47 @@ Pour développer et promouvoir le tri des déchets alimentaires des ambassadeurs
 
 À chaque habitat sa solution. Des points d’apport volontaire sont déployés pour proposer aux habitants une collecte des déchets alimentaires. Les points d’apport volontaire se présentent sous forme d’abris bacs avec une trappe d’ouverture sur le dessus pour le dépôt des déchets alimentaires. Une fois collectés, ils seront acheminés vers une plateforme de compostage industrielle. Le compost produit est utilisé en amendement principalement pour l’exploitation agricole.
 
-Concrètement :
+### Concrètement :
 
 Ainsi à Colombelles, 5 points d’apport volontaire pour les déchets alimentaires sont disponibles :
 
-Rue Jules Guesde (parking du cimetière)
+- Rue Jules Guesde (parking du cimetière)
+- Place François Mitterrand
+- Rue Pierre Mendès France
+- Rue François Mourier
+- Rue des Arcades
 
-Place François Mitterrand
-
-Rue Pierre Mendès France
-
-Rue François Mourier
-
-Rue des Arcades
-
-Plus d’informations :
-
-rubrique compostage  propose différentes solutions pour le tri des déchets alimentaires :
-
-Déchets et propreté urbaine | Caen la mer cartographie des points d’apport volontaire disponible en ligne :
-
-Les points d’apport volontaire de déchets ménagers | Caen la mer
+- rubrique compostage propose différentes solutions pour le tri des déchets alimentaires : [Déchets et propreté urbaine | Caen la mer](https://caenlamer.fr/dechets-proprete-urbaine)
+- cartographie des points d’apport volontaire disponible en ligne : [Les points d’apport volontaire de déchets ménagers | Caen la mer](https://caenlamer.fr/points-apport-volontaire-dechets-menagers)
 
 Les services de Caen la mer se tiennent également à votre disposition au 02 31 304 304 et par mail à contact.dm@caenlamer.fr
 
-Recyclage, collecte et tri
+## Recyclage, collecte et tri
 
-## Collecte de tissu
+**Collecte de tissu**
 
-## Caen la mer avec les acteurs solidaires locaux
-
-(la Chiffo, Itinéraires et la participation d’Emmaüs), permet via des points de collectes de tissu permanent de concilier la protection de l’environnement, l’insertion professionnelle et le développement économique.
+Caen la mer avec les acteurs solidaires locaux (la Chiffo, Itinéraires et la participation d’Emmaüs), permet via des points de collectes de tissu permanent de concilier la protection de l’environnement, l’insertion professionnelle et le développement économique.
 
 Textiles autorisés : tous les vêtements, le linge de maison, les chaussures et la maroquinerie peuvent être déposés dans une borne à textiles. Il suffit de les placer propres et secs dans un sac et les chaussures liées par paire.
 
-## Collecte du petits électroménagers
+**Collecte du petits électroménagers**
 
 Il est possible de donner une 2e vie à votre petit électroménager (grilles, pains, radio réveil, sèche-cheveux, etc…). 2 points de collectes sont présents à Colombelles :
 
-dans l’entrée du Super U et à la Boîte à idées, place François Mitterrand
+- dans l’entrée du Super U et
+- à la Boîte à idées, place François Mitterrand
 
 L’objectif est à la fois de recycler plutôt que de jeter, voire de réparer, de donner une 2e vie et aussi une activité professionnelle dans le cadre de dispositifs de réinsertion.
 
-## Collecte du verre
+**Collecte du verre**
 
 Partout dans la ville, des bornes de collecte de verres sont à votre disposition
 
-FAQ biodéchets
-
-FAQ biodéchets
-
-FAQ biodéchets
-
-FAQ biodéchets
-
-FAQ biodéchets`,
+- FAQ biodéchets
+- FAQ biodéchets
+- FAQ biodéchets
+- FAQ biodéchets
+- FAQ biodéchets`,
     order: 402,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2162,44 +1897,33 @@ FAQ biodéchets`,
     section: "demarches",
     subsection: "Prévention et sécurité",
     summary:
-      "Sous l’autorité du Maire, les policiers municipaux assurent, sur le territoire communal, des missions en matière de prévention et de surveillance du bon ordre, d’assistance,…",
+      "Sous l’autorité du Maire, les policiers municipaux assurent, sur le territoire communal, des missions en matière de prévention et de surveillance du bon ordre…",
     content: `Sous l’autorité du Maire, les policiers municipaux assurent, sur le territoire communal, des missions en matière de prévention et de surveillance du bon ordre, d’assistance, de la tranquillité, de la sécurité et salubrité publiques.
 
-Informations pratiques
+## Informations pratiques
 
-Police municipale
-
-## 5 rue Jules Guesde
-
-Lundi > vendredi : 8h30-12h / 14h-18h Samedi : 9h-16h30 –
-
-## EN CAS D’URGENCE COMPOSEZ LE 17
-
-## 02 31 35 25 04 police.municipale@colombelles.fr
+- **Contact** — Police municipale
+- **Adresse** — 5 rue Jules Guesde
+- **Téléphone** — 02 31 35 25 04
+- **Courriel** — police.municipale@colombelles.fr
+- **Horaires** — Lundi > vendredi : 8h30-12h / 14h-18h Samedi : 9h-16h30 – **EN CAS D’URGENCE COMPOSEZ LE 17**
 
 Les policiers municipaux sont notamment chargés d’assurer l’exécution des arrêtés de police du Maire. Ils ont la compétence pour constater par procès-verbaux les contraventions à la plupart des dispositions du Code de la Route.
 
-Bon à savoir :
+**Bon à savoir :**
 
-dans le cadre de stationnements anarchiques de véhicules (trottoirs, gênants, …), vous encourez une amende de 35 à 135 € un stationnement abusif excédant 7 jours sur la voie publique engendre une mise en fourrière
+- dans le cadre de stationnements anarchiques de véhicules (trottoirs, gênants,…), vous encourez une amende de 35 à 135 €
+- un stationnement abusif excédant 7 jours sur la voie publique engendre une mise en fourrière
 
-Mises en fourrière
+## Mises en fourrière
 
-## Véhicules
-
-: Suite à une infraction, votre véhicule a été mis en fourrière par la police municipale. Vous devez vous présenter au service muni des documents (carte grise/certificat de cession, attestation d’assurance en cours de validité, permis de conduire) afin d’obtenir la mainlevée de mise en fourrière. Cette démarche peut aussi être faite à l’hôtel de police de Caen.
+**Véhicules** : Suite à une infraction, votre véhicule a été mis en fourrière par la police municipale. Vous devez vous présenter au service muni des documents (carte grise/certificat de cession, attestation d’assurance en cours de validité, permis de conduire) afin d’obtenir la mainlevée de mise en fourrière. Cette démarche peut aussi être faite à l’hôtel de police de Caen.
 
 Hôtel de police de Caen, 10 rue Thiboult de la Fresnaye, 14000 Caen – 02 31 29 22 00
 
-## Animaux
+**Animaux** : Votre animal errant sur la voie publique a été pris en charge par la fourrière animale de Verson. Vous devez vous rendre à la fourrière et vous acquitter des frais.
 
-: Votre animal errant sur la voie publique a été pris en charge par la fourrière animale de Verson. Vous devez vous rendre à la fourrière et vous acquitter des frais.
-
-Fourrière animal de Caen la mer,
-
-Route de Saint-Manvieu-Norrey, 14790 Verson –
-
-## 02 31 80 73 03
+Fourrière animal de Caen la mer, Route de Saint-Manvieu-Norrey, 14790 Verson – 02 31 80 73 03
 
 ## Règlementation concernant les chiens dangereux
 
@@ -2207,11 +1931,12 @@ Vous devez prendre contact avec la police municipale afin de transmettre votre d
 
 Après instruction de votre dossier par Monsieur le Maire, et si la décision est positive, vous pourrez retirer le permis de détention à la police municipale, muni du passeport européen pour animal de compagnie de votre chien.
 
-plus d’infos https://www.service-public.fr/particuliers/vosdroits/F1839 demande de délivrance de permis de détention d’un chien catégorisé
+- **plus d’infos**[service-public.fr/particuliers/vosdroits/F1839](https://www.service-public.fr/particuliers/vosdroits/F1839)
+- [demande de délivrance de permis de détention d’un chien catégorisé](https://www.nord.gouv.fr/Demarches/Autres-demarches/Chiens-dangereux/Le-permis-de-detention-de-chiens-dangereux-delivre-par-les-maires#:~:text=Le%20permis%20de%20d%C3%A9tention%20remplace%20la%20d%C3%A9claration%20en%20mairie&text=Ce%20permis%20de%20d%C3%A9tention%20est,d%C3%A9livr%C3%A9e%20par%20un%20formateur%20agr%C3%A9%C3%A9.)
 
 ## ACTUALITES
 
-La mise en place d’un Conseil Local de Sécurité et de Prévention de la Délinquance
+**La mise en place d’un Conseil Local de Sécurité et de Prévention de la Délinquance**
 
 En janvier 2023, Marc Pottier, Maire de Colombelles, a lancé le Conseil Local de Sécurité et de Prévention de la Délinquance (CLSPD) en présence de Philémon Perrot, directeur de Cabinet du Préfet du Calvados et de Patrice Lemonnier, avocat général, délégué du procureur et des représentants de l’éducation nationale, du Conseil départemental du Calvados, de la Communauté urbaine de Caen la mer, de la police nationale, des bailleurs sociaux, de partenaires issus du secteur de la jeunesse, du social ou encore du monde économique.
 
@@ -2230,46 +1955,17 @@ L’objectif de cette instance est de mieux faire connaître le travail de chacu
     section: "demarches",
     subsection: "Prévention et sécurité",
     summary:
-      "Samu >",
-    content: `Samu >
-
-15
-
-Pompiers >
-
-18
-
-Police secours >
-
-17
-
-Numéro d’appel d’urgence européen >
-
-112
-
-Enfance en danger >
-
-119
-
-Violence Femmes Info >
-
-39 19
-
-SOS Médecins >
-
-36 24
-
-Centre anti-poison >
-
-02 41 48 21 21
-
-Mairie >
-
-02 31 35 25 00
-
-Police Municipale >
-
-02 31 35 25 04`,
+      "Samu > 15 Pompiers > 18 Police secours > 17 Numéro d’appel d’urgence européen > 112 Enfance en danger > 119 Violence Femmes Info > 39 19 SOS Médecins > 36 24 Centre…",
+    content: `- Samu > **15**
+- Pompiers > **18**
+- Police secours > **17**
+- Numéro d’appel d’urgence européen > **112**
+- Enfance en danger > **119**
+- Violence Femmes Info > **39 19**
+- SOS Médecins > **36 24**
+- Centre anti-poison > **02 41 48 21 21**
+- Mairie > **02 31 35 25 00**
+- Police Municipale > **02 31 35 25 04**`,
     order: 502,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2282,86 +1978,66 @@ Police Municipale >
     section: "demarches",
     subsection: "Prévention et sécurité",
     summary:
-      "Plan communal de sauvegarde",
+      "La sécurité des habitants de Colombelles est l’une des préoccupations du Maire et de son équipe municipale, notamment au niveau des risques météorologiques, inondations…",
     content: `## Plan communal de sauvegarde
 
 La sécurité des habitants de Colombelles est l’une des préoccupations du Maire et de son équipe municipale, notamment au niveau des risques météorologiques, inondations, transport de matières dangereuses.
 
-Aussi, c’est dans un souci d’information et de prévention qu’a été élaboré le Dossier d’Information Communales sur les Risques Majeurs (DICRIM). En complément de ce travail d’information, la commune de Colombelles a également élaboré un Plan Communal de Sauvegarde (P.C.S.) qui a pour objectif de mettre en œuvre une organisation en cas de survenance d’évènements graves (inondations, tempête, séisme, risques sanitaires et technologiques …). Le Plan Communal de Sauvegarde permet aussi d’assurer l’alerte, la protection, la prévention, l’information, l’accompagnement et le soutien de la population.
+Aussi, c’est dans un souci d’information et de prévention qu’a été élaboré le Dossier d’Information Communales sur les Risques Majeurs (DICRIM). En complément de ce travail d’information, la commune de Colombelles a également élaboré un Plan Communal de Sauvegarde (P.C.S.) qui a pour objectif de mettre en œuvre une organisation en cas de survenance d’évènements graves (inondations, tempête, séisme, risques sanitaires et technologiques…). Le Plan Communal de Sauvegarde permet aussi d’assurer l’alerte, la protection, la prévention, l’information, l’accompagnement et le soutien de la population.
 
-Dossier Départemental des Risques Majeurs (DDRM)
+- [Dossier Départemental des Risques Majeurs (DDRM)](https://www.calvados.gouv.fr/contenu/telechargement/15422/126498/file/ddrm_calvados_bd2.pdf)
+- [Plan Communal de Sauvegarde Simplifié (PCS)](https://www.colombelles.fr/wp-content/uploads/2023/07/2-A-Plan-de-sauvagarde-simplifie-2023.pdf)
+- Dossier d’Information Communales sur les Risques Majeurs (DICRIM)
+- [Conduite à tenir face aux risques majeurs](https://www.colombelles.fr/wp-content/uploads/2024/11/MEMO-DES-CONDUITES-A-TENIR-FACE-AUX-RISQUES-MAJEURS-2.pdf)
 
-Plan Communal de Sauvegarde Simplifié (PCS)
-
-Dossier d’Information Communales sur les Risques Majeurs (DICRIM)
-
-## Conduite à tenir face aux risques majeurs
-
-Document d’Information Communal sur les RIsques Majeurs – DICRIM
+[Document d’Information Communal sur les RIsques Majeurs – DICRIM](https://www.colombelles.fr/wp-content/uploads/2024/11/Dicrim-2023-15x21_BD2.pdf)
 
 Orages, inondations, vents violents, canicule sont des phénomènes climatiques parfois rapides et intenses qui peuvent se produire. L’idée n’est pas d’être alarmiste, mais réaliste. Plus on est informés et plus ces situations exceptionnelles sont gérées sereinement.
 
-Saviez-vous qu’à Colombelles 6 risques naturels sont potentiellement existants, tout comme 3 risques technologiques et industriels ? On parle en effet de risques majeurs, c’est-à-dire que la fréquence des risques est faible, mais leur gravité est conséquente. Malgré la rareté de ces phénomènes, un document réglementaire communal existe pour recenser les comportements à adopter et sensibiliser les habitants,  il s’agit du Document d’Information Communal sur les RIsques Majeurs : le DICRIM. Vous devez l’avoir reçu dans votre boîte aux lettres. Sinon sachez qu’il est disponible sur le site Internet de la ville et à l’accueil de l’hôtel de ville sur simple demande.
+Saviez-vous qu’à Colombelles 6 risques naturels sont potentiellement existants, tout comme 3 risques technologiques et industriels ? On parle en effet de risques majeurs, c’est-à-dire que la fréquence des risques est faible, mais leur gravité est conséquente. Malgré la rareté de ces phénomènes, un document réglementaire communal existe pour recenser les comportements à adopter et sensibiliser les habitants, il s’agit du Document d’Information Communal sur les RIsques Majeurs : le DICRIM. Vous devez l’avoir reçu dans votre boîte aux lettres. Sinon sachez qu’il est disponible sur le site Internet de la ville et à l’accueil de l’hôtel de ville sur simple demande.
 
-Quelles informations contient le DICRIM de Colombelles ?
+**Quelles informations contient le DICRIM de Colombelles ?**
 
 Le DICRIM reprend les informations transmises par le préfet dans le cadre du dossier départemental des risques majeurs (DDRM), dont :
 
-## la
+- la **liste des risques majeurs**auxquels la commune est exposée ;
+- la **description de chacun de ces risques et de leurs conséquences prévisibles**pour les personnes, les biens et l’environnement ;
+- les **mesures de prévention, de protection et de sauvegarde**pour chacun de ces risques ;
+- les **consignes de sécurité individuelles**à mettre en œuvre.
 
-liste des risques majeurs auxquels la commune est exposée ;
+A lire et à conserver : [Le DICRIM de Colombelles](https://www.colombelles.fr/wp-content/uploads/2024/11/Dicrim-2023-15x21_BD2.pdf)
 
-## la
+Comment se préparer en cas de risques ?
 
-description de chacun de ces risques et de leurs conséquences prévisibles pour les personnes, les biens et l’environnement ;
+> « *La peur et l’urgence sont mauvaises conseillères. Ainsi, la lecture préventive du DICRIM est indispensable pour se préparer à bien réagir en cas de crise. Il contribue aussi à responsabiliser chaque citoyen pour sa propre mise en sécurité et renforce l’efficacité des mesures mises en œuvre par la collectivité dans le cadre de son plan communal de sauvegarde* », exprime Nadine Lefevre, Adjointe au Maire aux affaires intercommunales, à la démocratie participative, à la sécurité et à la prévention.
 
-les mesures de prévention, de protection et de sauvegarde pour chacun de ces risques ;
+[VIDEO :](https://www.youtube.com/watch?v=oM7SRcj_Utg) [Qu’est-ce qu’un risque majeur ?](https://www.youtube.com/watch?v=oM7SRcj_Utg)
 
-les consignes de sécurité individuelles à mettre en œuvre.
+**Connaître les 9 risques majeurs et les signaux d’alerte**
 
-A lire et à conserver :
+Une lecture attentive de ce document peut permettre de gagner un temps précieux en cas de situations à risques. Savoir reconnaître le signal d’alerte du Système d’Alerte et d’Information à la Population dont des tests sont réalisés tous les premiers mercredis de chaque mois et se tenir informé en temps réel via les radios locales, le site et les réseaux sociaux de la Préfecture et de la Ville sont primordiaux : mettez ces sites dans vos favoris. Et sont faits pour le signal d’alerte.
 
-Le DICRIM de Colombelles
+[VIDEO ; Comment reconnaitre le signal d’alerte](https://www.facebook.com/watch/?v=111377304333729)
 
-Comment se préparer en cas de risques ?
+**Avoir de bons réflexes**
 
-## «
+Une situation de danger ou de risques peut vous inquiéter mais des professionnels expérimentés (force de l’ordre, Préfecture, collectivités) coordonnent et gèrent la situation. Pour les aider, adoptez de bonnes attitudes : limitez l’usage de votre téléphone sauf urgence pour ne pas encombrer le réseau. De même, limitez vos déplacements pour aller chercher vos enfants à l’école. Les structures d’accueil de l’enfance disposent d’un Protocole de Mise en Sureté (PMS) pour les mettre en sécurité. (il s’agit d’un PPMS pour les établissements
 
-La peur et l’urgence sont mauvaises conseillères. Ainsi, la lecture préventive du DICRIM est indispensable pour se préparer à bien réagir en cas de crise. Il contribue aussi à responsabiliser chaque citoyen pour sa propre mise en sécurité et renforce l’efficacité des mesures mises en œuvre par la collectivité dans le cadre de son plan communal de sauvegarde
+scolaires : Plan Particulier de Mise en Sécurité)
 
-», exprime Nadine Lefevre, Adjointe au Maire aux affaires intercommunales, à la démocratie participative, à la sécurité et à la prévention.
-
-VIDEO :
-
-Qu’est-ce qu’un risque majeur ?
-
-## Connaître les 9 risques majeurs et les signaux d’alerte
-
-Une lecture attentive de ce document peut permettre de gagner un temps précieux en cas de situations à risques. Savoir reconnaître le signal d’alerte du Système d’Alerte et d’Information à la Population dont des tests sont réalisés tous les premiers mercredis de chaque mois et se tenir informé en temps réel via les radios locales, le site et les réseaux sociaux de la Préfecture et de la Ville sont primordiaux : mettez ces sites dans vos favoris. Et sont faits pour le signal d’alerte.
-
-VIDEO ; Comment reconnaitre le signal d’alerte
-
-## Avoir de bons réflexes
-
-Une situation de danger ou de risques peut vous inquiéter mais des professionnels expérimentés (force de l’ordre, Préfecture, collectivités) coordonnent et gèrent la situation. Pour les aider, adoptez de bonnes attitudes : limitez l’usage de votre téléphone sauf urgence pour ne pas encombrer le réseau. De même, limitez vos déplacements pour aller chercher vos enfants à l’école. Les structures d’accueil de l’enfance disposent d’un Protocole de Mise en Sureté (PMS) pour les mettre en sécurité. (il s’agit d’un PPMS pour les établissements scolaires : Plan Particulier de Mise en Sécurité)
-
-Votre kit d’urgence est prêt ?
+**[Votre kit d’urgence est prêt ?](https://www.colombelles.fr/wp-content/uploads/2024/11/8.png)**
 
 Ce kit est un sac à dos de première nécessité pour être prêt si une situation de crise arrive. Il est recommandé de disposer d’un kit d’urgence déjà prêt dans vos placards pour gérer un départ précipité ou l’attente des secours.
 
-MÉMO DES CONDUITES À TENIR FACE AUX RISQUES MAJEURS connaitre-le-signal-dalerte heula1.
-
-heula2.
-
-heula3.
-
-heula4.
-
-heula5.
-
-heula6.
-
-heula7.`,
+- MÉMO DES CONDUITES À TENIR FACE AUX RISQUES MAJEURS
+- connaitre-le-signal-dalerte
+- heula1.
+- heula2.
+- heula3.
+- heula4.
+- heula5.
+- heula6.
+- heula7.`,
     order: 503,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2374,32 +2050,29 @@ heula7.`,
     section: "demarches",
     subsection: "Prévention et sécurité",
     summary:
-      "Plan de prévention des risques de la Basse Vallée de l’Orne",
+      "Le Plan de Prévention Multi Risques de la Basse Vallée de l’Orne est approuvé par arrêté préfectoral du 10 août 2021. Il abroge le PPR inondation de la basse vallée de…",
     content: `## Plan de prévention des risques de la Basse Vallée de l’Orne
 
-Le Plan de Prévention Multi Risques de la Basse Vallée de l’Orne est approuvé par arrêté préfectoral du 10 août 2021
-
-. Il abroge le PPR inondation de la basse vallée de l’Orne, approuvé le 10 juillet 2008.
+Le Plan de Prévention Multi Risques de la Basse Vallée de l’Orne est approuvé par [arrêté préfectoral du 10 août 2021](https://www.colombelles.fr/wp-content/uploads/2023/07/20210810_ap_approbation_bvo-prevention.pdf). Il abroge le PPR inondation de la basse vallée de l’Orne, approuvé le 10 juillet 2008.
 
 Il réglemente l’urbanisme au regard des risques naturels suivants :
 
-inondation par submersion marine (submersion marine, chocs mécaniques) avec prise en compte des conséquences du changement climatique, inondation par débordement de cours d’eau, érosion, migration dunaire.
+- inondation par submersion marine (submersion marine, chocs mécaniques) avec prise en compte des conséquences du changement climatique,
+- inondation par débordement de cours d’eau,
+- érosion,
+- migration dunaire.
 
 Il concerne les communes de : Amfreville, Ranville, Bénouville, Blainville-sur-Orne, Colombelles, Hérouville-Saint-Clair, Mondeville, Caen, Fleury-sur-Orne, Louvigny, Bretteville-sur-Odon, Eterville, Verson, Fontaine-Etoupefour, Saint-André-sur-Orne, Feuguerolles-Bully et May-sur-Orne, Lion-sur-mer, Hermanville-sur-mer, Colleville-Montgomery, Ouistreham, Merville-Franceville-plage, Sallenelles.
 
 Le plan de prévention des risques vaut servitude d’utilité publique.
 
-Le plan de prévention multi-risques de la Basse Vallée de l’Orne
-
-## Le dossier départemental des risques majeurs
-
-Le dossier de prévention des risques littoraux du Bessin
+- [Le plan de prévention multi-risques de la Basse Vallée de l’Orne](https://www.calvados.gouv.fr/Actions-de-l-Etat/Environnement.-risques-naturels-et-technologiques/Prevention-des-risques/Plans-de-Prevention-des-risques/Accedez-aux-plans-de-prevention-des-risques-du-Calvados/Le-plan-de-prevention-multi-risques-de-la-Basse-Vallee-de-l-Orne)
+- [Le dossier départemental des risques majeurs](https://www.calvados.gouv.fr/contenu/telechargement/15422/126498/file/ddrm_calvados_bd2.pdf)
+- [Le dossier de prévention des risques littoraux du Bessin](https://www.calvados.gouv.fr/Actions-de-l-Etat/Environnement.-risques-naturels-et-technologiques/Prevention-des-risques/Plans-de-Prevention-des-risques/Accedez-aux-plans-de-prevention-des-risques-du-Calvados/Plan-de-prevention-des-risques-littoraux-du-Bessin)
 
 ## Risques industriels majeurs
 
-Une partie du site de Normandial et du Plateau est à proximité du dépôt pétrolier DPC
-
-(classé Seveso Seuil Haut).
+Une partie du site de Normandial et du Plateau est à proximité du [dépôt pétrolier DPC](https://www.css-littoralnpdc.fr/les-sites-industriels/depots-de-petrole-cotiers-dpc/) (classé Seveso Seuil Haut).
 
 Conformément à la législation française et européenne (en particulier la loi n°2003-699 du 30 juillet 2003 et ses décrets d’application), les pouvoirs publics et les industriels prennent des mesures pour prévenir les accidents et en limiter les effets.
 
@@ -2407,31 +2080,25 @@ Le risque zéro n’existe pas, mais une information partagée est un moyen de m
 
 La Préfecture du Calvados et Dépôts de Pétrole Côtiers ont, en lien avec les mairies de Caen, Mondeville, Colombelles et Hérouville-Saint-Clair, élaboré un document pour vous informer sur les risques existants mais aussi sur les actions de prévention menées. Vous y trouvez également les consignes à appliquer en cas d’alerte. Ceci vous aidera à agir en acteur responsable.
 
-## plaquette de présentation zonage concerné
-
-: un rayon de 1415 m autour des Dépôts Pétroliers Côtiers
+- [**plaquette de présentation**](https://www.colombelles.fr/wp-content/uploads/2023/03/Plaquette-PPI-DPC-Caen-VF1.pdf)
+- [**zonage concerné**](https://www.colombelles.fr/wp-content/uploads/2023/03/zonage-DPCok.jpg) : un rayon de 1415 m autour des Dépôts Pétroliers Côtiers
 
 ## Plan communal de sauvegarde
 
 La sécurité des habitants de Colombelles est l’une des préoccupations du Maire et de son équipe municipale, notamment au niveau des risques météorologiques, inondations, transport de matières dangereuses.
 
-Aussi, c’est dans un souci d’information et de prévention qu’a été élaboré le Dossier d’Information Communales sur les Risques Majeurs (DICRIM). En complément de ce travail d’information, la commune de Colombelles a également élaboré un Plan Communal de Sauvegarde (P.C.S.) qui a pour objectif de mettre en œuvre une organisation en cas de survenance d’évènements graves (inondations, tempête, séisme, risques sanitaires et technologiques …). Le Plan Communal de Sauvegarde permet aussi d’assurer l’alerte, la protection, la prévention, l’information, l’accompagnement et le soutien de la population.
+Aussi, c’est dans un souci d’information et de prévention qu’a été élaboré le Dossier d’Information Communales sur les Risques Majeurs (DICRIM). En complément de ce travail d’information, la commune de Colombelles a également élaboré un Plan Communal de Sauvegarde (P.C.S.) qui a pour objectif de mettre en œuvre une organisation en cas de survenance d’évènements graves (inondations, tempête, séisme, risques sanitaires et technologiques…). Le Plan Communal de Sauvegarde permet aussi d’assurer l’alerte, la protection, la prévention, l’information, l’accompagnement et le soutien de la population.
 
-Dossier Départemental des Risques Majeurs (DDRM)
+- [Dossier Départemental des Risques Majeurs (DDRM)](https://www.calvados.gouv.fr/contenu/telechargement/15422/126498/file/ddrm_calvados_bd2.pdf)
+- [Plan Communal de Sauvegarde Simplifié (PCS)](https://www.colombelles.fr/wp-content/uploads/2023/07/2-A-Plan-de-sauvagarde-simplifie-2023.pdf)
+- [Dossier d’Information Communales sur les Risques Majeurs (DICRIM)](https://www.colombelles.fr/wp-content/uploads/2023/03/DICRIM-modifie-2016-valide-Pref.12.2016.pdf)
+- [Conduite à tenir face au risque majeur](https://www.colombelles.fr/wp-content/uploads/2023/03/plaquette-CAT-Risques-majeurs.pdf)
 
-Plan Communal de Sauvegarde Simplifié (PCS)
-
-Dossier d’Information Communales sur les Risques Majeurs (DICRIM)
-
-## Conduite à tenir face au risque majeur
-
-Plan de Prévention du Bruit dans l’Environnement (PPBE)
+## Plan de Prévention du Bruit dans l’Environnement (PPBE)
 
 Caen la mer a établi une cartographie et un projet de plan de prévention du bruit. L’objectif est de protéger les concitoyens, de préserver les zones calmes et de limiter l’apparition de nouvelles zones de bruit.
 
-Plus d’informations :
-
-https://caenlamer.fr/cartographie-bruit`,
+Plus d’informations : [caenlamer.fr/cartographie-bruit-ppbe](https://caenlamer.fr/cartographie-bruit-ppbe)`,
     order: 504,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2447,11 +2114,10 @@ https://caenlamer.fr/cartographie-bruit`,
       "Pendant toute absence prolongée de votre domicile, vous pouvez vous inscrire à l’opération tranquillité vacances. Les services de police se chargent alors de surveiller…",
     content: `Pendant toute absence prolongée de votre domicile, vous pouvez vous inscrire à l’opération tranquillité vacances. Les services de police se chargent alors de surveiller votre logement. Des patrouilles sont organisées pour passer aux abords de votre domicile.
 
-Inscription en ligne :
+**Inscription en ligne :**
 
-formulaire de la police municipale > formulaire à télécharger et à retourner à la police municipale formulaire de la police nationale > formulaire à télécharger.
-
-Nous ne réceptionnons pas les formulaires de la Police Nationale, les formulaires sont transmis via le portail service public vers la Police Nationale`,
+- formulaire de la police municipale > [formulaire à télécharger](https://www.colombelles.fr/wp-content/uploads/2023/03/modele-Fiche-tranquilite-vacances-demande-OTV-06-2021-1.pdf) et à retourner à la police municipale
+- formulaire de la police nationale > [formulaire à télécharger.](https://www.service-public.fr/particuliers/vosdroits/R43241)Nous ne réceptionnons pas les formulaires de la Police Nationale, les formulaires sont transmis via le portail service public vers la Police Nationale`,
     order: 505,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2464,24 +2130,22 @@ Nous ne réceptionnons pas les formulaires de la Police Nationale, les formulair
     section: "demarches",
     subsection: "Prévention et sécurité",
     summary:
-      "Vous avez perdu un objet ?",
-    content: `Vous avez perdu un objet ?
+      "une pièce d’identité ou tout document justifiant que vous êtes le propriétaire de l’objet perdu afin de réaliser la restitution.",
+    content: `**Vous avez perdu un objet ?**
 
-Vous pouvez contacter la police municipale au
-
-02 31 35 25 04.
+Vous pouvez contacter la police municipale au **02 31 35 25 04.**
 
 Afin de récupérer l’objet perdu, il vous sera demandé :
 
-une pièce d’identité ou tout document justifiant q ue vous êtes le propriétaire de l’objet perdu afin de réaliser la restitution.
+- une pièce d’identité ou
+- tout document justifiant que vous êtes le propriétaire de l’objet perdu afin de réaliser la restitution.
 
-Informations pratiques
+## Informations pratiques
 
-Police municipale
-
-## 5 rue Jules Guesde
-
-02 31 35 25 04 police.municipale@colombelles.fr`,
+- **Contact** — Police municipale
+- **Adresse** — 5 rue Jules Guesde
+- **Téléphone** — 02 31 35 25 04
+- **Courriel** — police.municipale@colombelles.fr`,
     order: 506,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2499,9 +2163,7 @@ Police municipale
 
 Ce système permet de verbaliser certaines infractions aux règles de circulation et de stationnement ainsi que l’abandon d’ordures, de déchets, de matériaux ou d’autres objets.
 
-Pour toute information relative au droit d’accès aux images, merci d’’adresser un courrier à l’attention de Monsieur le Maire, Mairie de Colombelles – Police Municipale en utilisant comme modèle le lien ci-après :
-
-https://www.cnil.fr/fr/modele/courrier/acceder-des-images-video-vous-concernant`,
+Pour toute information relative au droit d’accès aux images, merci d’’adresser un courrier à l’attention de Monsieur le Maire, Mairie de Colombelles – Police Municipale en utilisant comme modèle le lien ci-après : [cnil.fr/fr/modele/courrier/acceder-des-images-video-vous-concernant](https://www.cnil.fr/fr/modele/courrier/acceder-des-images-video-vous-concernant)`,
     order: 507,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2514,24 +2176,21 @@ https://www.cnil.fr/fr/modele/courrier/acceder-des-images-video-vous-concernant`
     section: "demarches",
     subsection: "Transports et déplacements",
     summary:
-      "Caen la mer met en œuvre la politique globale de déplacements en lien avec le Plan de Déplacements Urbains. Le rôle de la Communauté urbaine est de partager l’espace public…",
+      "Caen la mer met en œuvre la politique globale de déplacements en lien avec le Plan de Déplacements Urbains. Le rôle de la Communauté urbaine est de partager l’espace…",
     content: `Caen la mer met en œuvre la politique globale de déplacements en lien avec le Plan de Déplacements Urbains. Le rôle de la Communauté urbaine est de partager l’espace public en prenant en compte tous les modes de déplacements et en privilégiant la qualité de vie et l’espace urbain de son territoire.
 
-Ainsi la Communauté urbaine Caen la mer est l’autorité organisatrice des transports publics urbains. Elle délègue l’exploitation du réseau Twisto à un prestataire unique privé :
+Ainsi la Communauté urbaine Caen la mer est l’autorité organisatrice des transports publics urbains. Elle délègue l’exploitation du réseau Twisto à un prestataire unique privé : [Keolis](http://www.keolis.com/), opérateur majeur du transport public urbain de voyageurs, dont Keolis Caen Mobilités est une filiale.
 
-Keolis , opérateur majeur du transport public urbain de voyageurs, dont Keolis Caen Mobilités est une filiale.
+[Retrouvez les horaires et lignes de bus à Colombelles](https://www.colombelles.fr/wp-content/uploads/2025/11/Colombelles-2025-web.pdf)
 
-Retrouvez les horaires et lignes de bus à Colombelles
+## Informations pratiques
 
-Informations pratiques
-
-## Agence Mobilité Twisto
-
-51 rue de l’Oratoire, Caen lundi > vendredi 8h30-18h30 / samedi 10h-17h
-
-02 31 15 55 55 clients@twisto.fr
-
-Plus d’informations`,
+- **Contact** — Agence Mobilité Twisto
+- **Adresse** — 51 rue de l’Oratoire, Caen
+- **Téléphone** — 02 31 15 55 55
+- **Courriel** — clients@twisto.fr
+- **Horaires** — lundi > vendredi 8h30-18h30 / samedi 10h-17h
+- [Plus d’informations](https://twisto.fr)`,
     order: 601,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2545,33 +2204,24 @@ Plus d’informations`,
     subsection: "Transports et déplacements",
     summary:
       "Prise en charge des frais de transport scolaire des collégiens des établissements publics de secteur",
-    content: `Prise en charge des frais de transport scolaire des collégiens des établissements publics de secteur
+    content: `**Prise en charge des frais de transport scolaire des collégiens des établissements publics de secteur**
 
 Le coût de la carte du transport scolaire donnant droit à un aller/retour par jour d’école, d’une valeur de 86€, est intégralement pris en charge par la Ville pour les collégiens colombellois fréquentant le collège Gisèle Guillemot et le collège Henri Brunet en 2026/2027.
 
 Cette prise en charge est étendue aux élèves orientés en section d’enseignement général et professionnel adapté (SEGPA), aux élèves en situation de handicap ou avec des problèmes de santé pour lesquels une orientation hors secteur est impérative. Pour tout renseignement, merci de contacter le service Education : 02 31 35 57 07 – veronique.drieu@colombelles.fr
 
-## >
-
-## Formulaire d’abonnement de transport scolaire de Twisto
+> [Formulaire d’abonnement de transport scolaire de Twisto](https://www.colombelles.fr/wp-content/uploads/2026/09/formulaire-Twisto-et-courrier-du-Maire_2026.pdf)
 
 ## Lignes de bus desservant les collèges de secteur
 
-Au total, 5 lignes directes scolaires desservent la commune de Colombelles vers des collèges et lycées de l’agglomération caennaise. L’ensemble de ces lignes sont ouvertes à tous ( aux tarifs habituels
+Au total, 5 lignes directes scolaires desservent la commune de Colombelles vers des collèges et lycées de l’agglomération caennaise. L’ensemble de ces lignes sont ouvertes à tous ([aux tarifs habituels](https://www.twisto.fr/tarifs/tickets.html)Twisto).
 
-Twisto ).
+- *[Colombelles plateau < — > Collège Gisèle Guillemot et Lycée Jules Verne – ligne 111](https://www.colombelles.fr/wp-content/uploads/2023/03/2192_Ligne-111-sept-2022.pdf)*
+- *[Colombelles hors plateau < — > Collège Gisèle Guillemot – ligne 121](https://www.colombelles.fr/wp-content/uploads/2023/03/2201_Ligne-121-sept-2022.pdf)*
+- *[Colombelles < — > Lycées Rostand et Fresnel – ligne 110](https://www.colombelles.fr/wp-content/uploads/2023/03/2191_Ligne-110-sept-2022.pdf)*
+- *[Colombelles < — > Lycée Allende – ligne 120](https://www.colombelles.fr/wp-content/uploads/2023/03/1010_Ligne-120-sept-2022.pdf)*
 
-Colombelles plateau < — > Collège Gisèle Guillemot et Lycée Jules Verne – ligne 111
-
-Colombelles hors plateau < — > Collège Gisèle Guillemot – ligne 121
-
-## Colombelles < — > Lycées Rostand et Fresnel – ligne 110
-
-Colombelles < — > Lycée Allende – ligne 120
-
-## >
-
-Lien vers l’ensemble des lignes complémentaires desservant les établissements scolaires de l’agglomération caennaise`,
+> [**Lien vers l’ensemble des lignes complémentaires desservant les établissements scolaires de l’agglomération caennaise**](https://www.twisto.fr/reseau-twisto/nos-mobilites/reseau-complementaire.html)`,
     order: 602,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2585,7 +2235,7 @@ Lien vers l’ensemble des lignes complémentaires desservant les établissement
     subsection: "Transports et déplacements",
     summary:
       "Saviez-vous qu’à Colombelles, en 2025, il y avait 13,4 km de pistes cyclables ? Et ce n’est pas terminé !",
-    content: `Saviez-vous qu’à Colombelles, en 2025, il y avait 13,4 km de pistes cyclables ? Et ce n’est pas terminé !
+    content: `**Saviez-vous qu’à Colombelles, en 2025, il y avait 13,4 km de pistes cyclables ? Et ce n’est pas terminé !**
 
 Votre Commune vous encourage à un usage du vélo au quotidien, que ce soit pour vos déplacements personnels et aussi professionnels. Cette pratique participe directement au bien-être et à la santé des usagers et à l’amélioration de la qualité de l’air pour tous. Elle contribue à la transition écologique du territoire.
 
@@ -2595,59 +2245,40 @@ Un dispositif d’aide à l’acquisition de vélos à hauteur de 50 € a été
 
 Vous devrez fournir :
 
-un justificatif de domicile (attention, une seule aide est accordée par foyer) ;
+- un justificatif de domicile (attention, une seule aide est accordée par foyer) ;
+- une preuve d’achat.
 
-une preuve d’achat.
+Cette aide peut être attribuée aussi bien pour l’achat d’un vélo d’occasion chez un professionnel que pour l’achat d’un vélo adulte neuf, de type vélo de ville, VTC et VTT, acheté à une date ultérieure au 15 juin 2021, date d’ouverture du dispositif. >> [Formulaire de demande téléchargeable](https://www.colombelles.fr/wp-content/uploads/2023/08/formulaire-et-reglement-aide-velo-OK.pdf)
 
-Cette aide peut être attribuée aussi bien pour l’achat d’un vélo d’occasion chez un professionnel que pour l’achat d’un vélo adulte neuf, de type vélo de ville, VTC et VTT, acheté à une date ultérieure au 15 juin 2021, date d’ouverture du dispositif. >>
+**Vous achetez un vélo électrique ?**
 
-Formulaire de demande téléchargeable
+Un complément forfaitaire de 50 € est proposé par la **Communauté Urbaine Caen la mer** pour accompagner et amplifier cette pratique du vélo au quotidien.
 
-Vous achetez un vélo électrique ?
-
-## Un complément forfaitaire de 50 € est proposé par la
-
-Communauté Urbaine Caen la mer pour accompagner et amplifier cette pratique du vélo au quotidien.
-
->> Détail de l’aide pour l’achat d’un vélo à assistance électrique par Caen la mer
+[>> Détail de l’aide pour l’achat d’un vélo à assistance électrique par Caen la mer](https://caenlamer.fr/actualites/aide-caen-mer-lachat-velo-assistance-electrique)
 
 ## Votre service de location de vélos
 
 Vous n’utilisez le vélo que de manière ponctuelle ? La location est faite pour vous !
 
-Avec le service Vélolib, vous pourrez prendre un vélo dans une station et le déposer dans une autre, des vélos partagés simples à utiliser et en libre-service, disponibles 24h sur 24 et 7 jours sur 7.
+Avec le service Vélolib, vous pourrez prendre un vélo dans une station et le déposer dans une autre, des vélos partagés simples à utiliser et en libre-service, disponibles 24h sur 24 et 7 jours sur 7.[Vélolib, comment ça marche ?](https://www.twisto.fr/se-deplacer/velolib)
 
-Vélolib, comment ça marche ?
+[Consulter le plan des Vélolib](https://www.twisto.fr/?%20id=184)
 
-## Consulter le plan des Vélolib
+- Deux stations sont sur le territoire : en centre-ville, à côté de l’Hôtel de Ville et l’autre sur Effiscience.
 
-Deux stations sont sur le territoire : en centre-ville, à côté de l’Hôtel de Ville et l’autre sur Effiscience.
-
-Géovélo : roulez sécurisé !
+[Géovélo : roulez sécurisé !](https://caenlamer.fr/pistes-cyclables-periphvelo-chemins-ruraux)
 
 Il existe sur le territoire de Caen la mer de nombreux aménagements cyclables.
 
-Le site Géovélo vous permet de trouver les meilleurs itinéraires à vélo : ils privilégient les pistes cyclables, évitent les zones dangereuses et s’adaptent à votre type de vélo (classique, électrique, cargo, etc.) :
-
-Géovélo
-
-.
+Le site Géovélo vous permet de trouver les meilleurs itinéraires à vélo : ils privilégient les pistes cyclables, évitent les zones dangereuses et s’adaptent à votre type de vélo (classique, électrique, cargo, etc.) : [**Géovélo**](https://geovelo.app/fr/route/?e-bike=false&bike-type=own&c=1.500550%2C47.008249&z=5.05).
 
 Pensez à télécharger l’application !
 
-Un nouveau plan vélo départemental pour 2023-2028
+## Un nouveau plan vélo départemental pour 2023-2028
 
-## Doté d’un budget de
+Doté d’un budget de **38 M€**, dont 10 M€ réservés aux projets des collectivités, l’objectif de ce nouveau plan est d’être au rendez-vous des **enjeux sociétaux de demain** : des enjeux environnementaux pour limiter notre empreinte carbone et des enjeux de santé publique pour l’ensemble de la population. Le Département du Calvados s’engage donc sur deux axes de développement : **aménagement, entretien et qualité des infrastructures**, d’une part, et **encourager à la pratique du vélo au quotidien**, d’autre part. Des actions en matière d’aménagements, d’équipements, d’appui aux collectivités, de sensibilisation et d’accompagnement de différents publics seront proposées. Ce nouveau plan départemental de mobilité à vélo s’inscrit dans une volonté publique de **redonner du sens à nos déplacements**, privés ou professionnels. Lutter contre la pollution, désengorger les villes, limiter les frais de carburant, permettre la pratique d’une activité saine pour notre santé… Autant d’arguments en faveur du vélo sous toutes ses formes.
 
-38 M€ , dont 10 M€ réservés aux projets des collectivités, l’objectif de ce nouveau plan est d’être au rendez-vous des enjeux sociétaux de demain
-
-: des enjeux environnementaux pour limiter notre empreinte carbone et des enjeux de santé publique pour l’ensemble de la population. Le Département du Calvados s’engage donc sur deux axes de développement :
-
-aménagement, entretien et qualité des infrastructures , d’une part, et encourager à la pratique du vélo au quotidien , d’autre part. Des actions en matière d’aménagements, d’équipements, d’appui aux collectivités, de sensibilisation et d’accompagnement de différents publics seront proposées. Ce nouveau plan départemental de mobilité à vélo s’inscrit dans une volonté publique de redonner du sens à nos déplacements , privés ou professionnels. Lutter contre la pollution, désengorger les villes, limiter les frais de carburant, permettre la pratique d’une activité saine pour notre santé… Autant d’arguments en faveur du vélo sous toutes ses formes.
-
-Pour le découvrir, c’est par ici :
-
-plan vélo départemental 2023 – 2028.`,
+Pour le découvrir, c’est par ici : [plan vélo départemental 2023 – 2028.](https://www.calvados.fr/actu/nouveau-plan-velo-departemental-pour-2023-2028)`,
     order: 603,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2660,10 +2291,10 @@ plan vélo départemental 2023 – 2028.`,
     section: "demarches",
     subsection: "Transports et déplacements",
     summary:
-      "Une aire de covoiturage est présente au niveau du rond-point Lazzaro. Mise en place et gérée par le Conseil départemental du Calvados, elle permet de laisser votre voiture…",
+      "Une aire de covoiturage est présente au niveau du rond-point Lazzaro. Mise en place et gérée par le Conseil départemental du Calvados, elle permet de laisser votre…",
     content: `Une aire de covoiturage est présente au niveau du rond-point Lazzaro. Mise en place et gérée par le Conseil départemental du Calvados, elle permet de laisser votre voiture et de faire du partage de véhicules.
 
-Plus d’informations`,
+[Plus d’informations](https://www.calvados.fr/accueil/le-departement/routes-environnement--territoire/se-deplacer-autrement/covoiturage/corps/les-aires-de-covoiturage-dans-le.html)`,
     order: 604,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2676,14 +2307,15 @@ Plus d’informations`,
     section: "demarches",
     subsection: "Demandes légales",
     summary:
-      "Pour les professionnels, les associations ou les particuliers dans le cadre de la vente boissons dans votre établissement, à emporter, temporaire ou occasionnelle, il est…",
+      "Pour les professionnels, les associations ou les particuliers dans le cadre de la vente boissons dans votre établissement, à emporter, temporaire ou occasionnelle, il…",
     content: `Pour les professionnels, les associations ou les particuliers dans le cadre de la vente boissons dans votre établissement, à emporter, temporaire ou occasionnelle, il est obligatoire de faire une déclaration en amont.
 
 Merci de bien vouloir remplir le CERFA correspondant à votre situation et de le retourner à accueil@colombelles.fr (hôtel de ville, service accueil, place François-Mitterrand, 14460 Colombelles)
 
 CERFA :
 
-pour les manifestations et événements temporaires sur le territoire de Colombelles pour les professionnels`,
+- [pour les manifestations et événements temporaires sur le territoire de Colombelles](https://www.colombelles.fr/wp-content/uploads/2026/01/2026_FDAB_Demat.pdf)
+- [pour les professionnels](https://entreprendre.service-public.fr/vosdroits/R15902)`,
     order: 701,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2703,11 +2335,10 @@ Son tarif est fixé par délibération du conseil municipal et est uniforme sur 
 
 Chaque paiement (à la régie de la mairie ou auprès du placier) fait l’objet d’un reçu de droit de place.
 
-CONTACT
+## Informations pratiques
 
-Place François Mitterrand
-
-07 57 49 81 33`,
+- **Adresse** — Place François Mitterrand
+- **Téléphone** — 07 57 49 81 33`,
     order: 702,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2720,36 +2351,29 @@ Place François Mitterrand
     section: "demarches",
     subsection: "Demandes légales",
     summary:
-      "Occupation du domaine public par un commerce",
+      "Vous êtes commerçant et vous souhaitez occuper une partie de l’espace public (trottoir, places) pour votre activité ?",
     content: `## Occupation du domaine public par un commerce
 
-Vous êtes commerçant et vous souhaitez occuper une partie de l’espace public (trottoir, places)
-
-pour votre activité ?
+Vous êtes commerçant et vous souhaitez **occuper une partie de l’espace public (trottoir, places)** pour votre activité ?
 
 Il convient de préciser que toute occupation privative du domaine public est soumise à autorisation préalable (nécessairement écrite) délivrée par le Maire ou son représentant. Elle est subordonnée à la présentation d’une demande écrite établie par le demandeur.
 
-Pour l’occupation du domaine public sans emprise au sol (terrasses, vente au déballage, etc.) : 10 € par m²/an.
-
-Pour l’occupation du domaine public avec emprise au sol : 20 € par m²/an.
+- Pour l’occupation du domaine public sans emprise au sol (terrasses, vente au déballage, etc.) : 10 € par m²/an.
+- Pour l’occupation du domaine public avec emprise au sol : 20 € par m²/an.
 
 La demande d’occupation du domaine public avec emprise au sol doit être soumise aux services compétents de la Communauté Urbaine de Caen la mer.
 
-Pour l’installation de chevalets, de porte-menus, d’oriflammes : forfait de 15 €/an par unité installée.
+- Pour l’installation de chevalets, de porte-menus, d’oriflammes : forfait de 15 €/an par unité installée.
+- Pour les occupations illégales, c’est-à-dire sans autorisation préalable écrite de l’autorité municipale : 10 € par m² et par jour d’occupation illégale.
+- Pour les commerçants ambulants : 3 € par m² et par mois d’occupation. La redevance est fixée au prorata du temps d’occupation exprimé par le demandeur en nombre entier de mois, tout mois commencé étant facturé, soit : R (redevance) = 3 € x nombre de m² x nombre de mois d’occupation dans l’année.
 
-Pour les occupations illégales, c’est-à-dire sans autorisation préalable écrite de l’autorité municipale : 10 € par m² et par jour d’occupation illégale.
+[Plus d’informations](https://entreprendre.service-public.fr/vosdroits/F10003)
 
-Pour les commerçants ambulants : 3 € par m² et par mois d’occupation. La redevance est fixée au prorata du temps d’occupation exprimé par le demandeur en nombre entier de mois, tout mois commencé étant facturé, soit : R (redevance) = 3 € x nombre de m² x nombre de mois d’occupation dans l’année.
+[> Délibération du conseil municipal relative à la redevance d’occupation du domaine public](https://www.colombelles.fr/wp-content/uploads/2023/07/DL-2023-03-27-06-REDEVANCE-ODP.pdf)
 
-## Plus d’informations
+[> Formulaire de demande pour installation de commerces ambulants – foodtrucks](https://www.colombelles.fr/wp-content/uploads/2023/07/FORMULAIRE-DE-DEMANDE-COMMERCES.pdf)
 
-> Délibération du conseil municipal relative à la redevance d’occupation du domaine public
-
-> Formulaire de demande pour installation de commerces ambulants – foodtrucks
-
->
-
-Cerfa à remplir`,
+> [Cerfa à remplir](https://entreprendre.service-public.fr/vosdroits/R17000)`,
     order: 703,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2762,20 +2386,13 @@ Cerfa à remplir`,
     section: "demarches",
     subsection: "Demandes légales",
     summary:
-      "La vente au déballage consiste à vendre ou racheter des marchandises dans des locaux ou sur des emplacements non destinés à la vente au public , ainsi qu’à partir de…",
-    content: `La vente au déballage consiste à vendre ou racheter des marchandises dans des locaux ou sur des emplacements non destinés à la vente au public , ainsi qu’à partir de véhicules spécialement aménagés. La vente au déballage est soumise à une réglementation spécifique
-
-.
+      "La vente au déballage consiste à vendre ou racheter des marchandises dans des locaux ou sur des emplacements non destinés à la vente au public, ainsi qu’à partir de…",
+    content: `La vente au déballage consiste à vendre ou racheter des marchandises dans des locaux ou sur des emplacements **non destinés à la vente au public**, ainsi qu’à partir de véhicules spécialement aménagés. La vente au déballage est soumise à une **réglementation spécifique**.
 
 La demande d’autorisation doit être effectuée dans un délai de 15 jours.
 
-Plus d’informations :
-
-https://www.demarches.interieur.gouv.fr/professionnels/vente-deballage
-
-Formulaire de demande :
-
-https://entreprendre.service-public.fr/vosdroits/R18906`,
+- Plus d’informations : [entreprendre.service-public.fr/vosdroits/F22397](https://entreprendre.service-public.fr/vosdroits/F22397#:~:text=Pour%20les%20ventes%20au%20d%C3%A9ballage,conforme%20%C3%A0%20un%20mod%C3%A8le%20obligatoire.)
+- Formulaire de demande : [entreprendre.service-public.fr/vosdroits/R18906](https://entreprendre.service-public.fr/vosdroits/R18906)`,
     order: 704,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2788,34 +2405,24 @@ https://entreprendre.service-public.fr/vosdroits/R18906`,
     section: "demarches",
     subsection: "Demandes légales",
     summary:
-      "La taxe sur la publicité extérieure (TLPE), qu’est-ce que c’est ?",
-    content: `La taxe sur la publicité extérieure (TLPE), qu’est-ce que c’est ?
+      "La taxe sur la publicité extérieure est une taxe créée par la loi du 4 août 2008 pour la modernisation de l’économie. Elle concerne toutes les entreprises qui exploitent…",
+    content: `**La taxe sur la publicité extérieure (TLPE), qu’est-ce que c’est ?**
 
 La taxe sur la publicité extérieure est une taxe créée par la loi du 4 août 2008 pour la modernisation de l’économie. Elle concerne toutes les entreprises qui exploitent des supports publicitaires fixes, visibles et implantés sur une voie ouverte à la circulation. On considère par publicité des supports faisant apparaitre des éléments textuels ou graphiques ayant pour vocation d’informer le public ou d’attirer son attention.
 
-La Taxe Locale sur la Publicité Extérieure est définie par l’article L.2333-7 du Code Général des Collectivités Territoriales « Cette taxe frape les supports publicitaires fixes suivants définis à l’article L.581-3 du code de l’environnement, visibles de toute voie ouverte à la circulation publique, au sens de l’article R.581-1 du même code, à l’exception de ceux situés à l’intérieur d’un local au sens de l’article L.581-2 dudit code :
+La Taxe Locale sur la Publicité Extérieure est définie par l’article L.2333-7 du Code Général des Collectivités Territoriales « Cette taxe frape les supports publicitaires fixes suivants définis à l’article L.581-3 du code de l’environnement, visibles de toute voie ouverte à la circulation publique, au sens de l’article R.581-1 du même code, à l’exception de ceux situés à l’intérieur d’un local au sens de l’article L.581-2 dudit code :
 
-Les dispositifs publicitaires au sens du 1° de l’article L.581-3 du code de l’environnement,
+- Les dispositifs publicitaires au sens du 1° de l’article L.581-3 du code de l’environnement,
+- Les enseignes,
+- Les pré-enseignes, y compris celles visées par les deuxièmes et troisièmes alinéas de l’article L.581-19 du code de l’environnement ».
 
-Les enseignes,
-
-Les pré-enseignes, y compris celles visées par les deuxièmes et troisièmes alinéas de l’article L.581-19 du code de l’environnement ».
-
-Quels sont les supports taxés ?
+**Quels sont les supports taxés ?**
 
 Il y a trois types de supports taxés :
 
-## Les enseignes
-
-: Constitue une enseigne toute inscription, forme ou image apposée sur un immeuble et relative à une activité qui s’y exerce (Article L.581-3 2° du code de l’environnement).
-
-## Les pré-enseignes
-
-: Constitue une pré-enseigne, toute inscription, forme ou image indiquant la proximité où s’exerce une activité déterminée (Article L.581-3 3° du code de l’environnement).
-
-## Les dispositifs publicitaires
-
-: Constitue une publicité, toute inscription destinée à informer ou attirer le public.
+- **Les enseignes** : Constitue une enseigne toute inscription, forme ou image apposée sur un immeuble et relative à une activité qui s’y exerce (Article L.581-3 2° du code de l’environnement).
+- **Les pré-enseignes** : Constitue une pré-enseigne, toute inscription, forme ou image indiquant la proximité où s’exerce une activité déterminée (Article L.581-3 3° du code de l’environnement).
+- **Les dispositifs publicitaires** : Constitue une publicité, toute inscription destinée à informer ou attirer le public.
 
 Quelles sont les exonérations ?
 
@@ -2823,47 +2430,41 @@ Pour plus de renseignement, contactez la Ville de Colombelles au 02 31 35 25 00
 
 Quelle est la procédure TLPE ?
 
-La création ou la suppression d’un support publicitaire fait l’objet d’une déclaration, au moyen d’un formulaire
-
-. Cette déclaration doit être déposée à la Mairie de Colombelles, dans les deux mois suivant la création ou la suppression du support.
+La création ou la suppression d’un support publicitaire fait l’objet d’une déclaration, au moyen [d’un formulaire](https://entreprendre.service-public.fr/vosdroits/R49305). Cette déclaration doit être déposée à la Mairie de Colombelles, dans les deux mois suivant la création ou la suppression du support.
 
 Cette déclaration doit mentionner les superficies et dates de création de tous les supports publicitaires exploités, y compris ceux qui bénéficient d’une exonération (partielle ou totale).
 
-## https://entreprendre.service-public.fr/vosdroits/R49305
-
-## Déclaration des supports publicitaires pour la TLPE
+- [entreprendre.service-public.fr/vosdroits/R49305](https://entreprendre.service-public.fr/vosdroits/R49305)
+- [Déclaration des supports publicitaires pour la TLPE](https://entreprendre.service-public.fr/vosdroits/R49305)
 
 La taxe est due sur les supports publicitaires existants au 1er janvier de l’année d’imposition. La taxe doit être réglée par l’exploitant du support ou par le propriétaire ou, à défaut, par celui dans l’intérêt duquel le support a été réalisé.
 
 Lorsque le support est créé après le 1er janvier, la taxe est due à compter du premier jour du mois suivant celui de la création du support. Le calcul de la taxe se fait au protata temporis. Lorsque le support est supprimé en cours d’année, la taxe n’est pas due pour les mois restant à courir à compter de la suppression du support.
 
-Règlement local de publicité (RLP)
+## Règlement local de publicité (RLP)
 
 Le règlement local de publicité, le cas échéant intercommunal, permet aux collectivités territoriales d’adapter la réglementation nationale en matière de publicité extérieure aux enjeux locaux et à la réalité des territoires. Il s’agit ainsi de trouver un équilibre entre des objectifs de préservation des paysages et du cadre de vie et des objectifs de développement économique des territoires.
 
 Actuellement, l’existence d’un règlement local de publicité sur le territoire communal ou intercommunal détermine l’autorité compétente en matière de police de la publicité :
 
-seuls les préfets de département sont compétents lorsque la commune n’est pas couverte par un RLP (exception pour les autorisations concernant les bâches et dispositifs publicitaires de dimensions exceptionnelles liés à des manifestations temporaires dont la compétence appartient au maire) ;
+- seuls les préfets de département sont compétents lorsque la commune n’est pas couverte par un RLP (exception pour les autorisations concernant les bâches et dispositifs publicitaires de dimensions exceptionnelles liés à des manifestations temporaires dont la compétence appartient au maire) ;
+- lorsque la commune est couverte par un RLP, cette compétence est dévolue aux maires au nom de la commune.
 
-lorsque la commune est couverte par un RLP, cette compétence est dévolue aux maires au nom de la commune.
+A compter du 1er janvier 2024, les maires seront compétents pour assurer la police de la publicité sur leur territoire que leur commune soit ou non couverte par un RLP.
 
-A compter du 1 er janvier 2024, les maires seront compétents pour assurer la police de la publicité sur leur territoire que leur commune soit ou non couverte par un RLP.
-
-https://caenlamer.fr/reglement-local-publicite-intercommunal
+- [caenlamer.fr/reglement-local-publicite-intercommunal](https://caenlamer.fr/reglement-local-publicite-intercommunal)
 
 ## La demande d’autorisation
 
-Vous devez demander l’autorisation d’installation d’une publicité, d’une enseigne ou d’une pré enseigne au moins 2 mois avant le début des travaux.
+Vous devez demander l’autorisation d’installation d’une publicité, d’une enseigne ou d’une pré enseigne**au moins 2 mois avant le début des travaux.**
 
-Retrouvez la déclaration des supports publicitaires pour la TLPE
+- [Retrouvez la déclaration des supports publicitaires pour la TLPE](https://entreprendre.service-public.fr/vosdroits/R49305)
 
 Ce document, ainsi que les pièces constitutives du dossier doivent être déposés en Mairie.
 
-L’éclairage nocturne : quelle réglementation ?
+**L’éclairage nocturne : quelle réglementation ?**
 
-Eclairage nocturne :
-
-https://entreprendre.service-public.fr/vosdroits/F24396`,
+- Eclairage nocturne : [entreprendre.service-public.fr/vosdroits/F24396](https://entreprendre.service-public.fr/vosdroits/F24396)`,
     order: 705,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2876,78 +2477,43 @@ https://entreprendre.service-public.fr/vosdroits/F24396`,
     section: "demarches",
     subsection: "Demandes légales",
     summary:
-      "Qu’est-ce qu’un établissement recevant du public (ERP) ?",
-    content: `Qu’est-ce qu’un établissement recevant du public (ERP) ?
+      "Les établissements recevant du public (ERP) sont des bâtiments, locaux et enceintes dans lesquels des personnes extérieures sont admises. Par exemple, une école, un…",
+    content: `**Qu’est-ce qu’un établissement recevant du public (ERP) ?**
 
 Les établissements recevant du public (ERP) sont des bâtiments, locaux et enceintes dans lesquels des personnes extérieures sont admises. Par exemple, une école, un commerce, un parc d’attraction sont des ERP.
 
 L’accès est payant ou gratuit, libre, restreint ou sur invitation.
 
-À noter :
+**À noter :** une entreprise non ouverte au public, mais seulement au personnel, n’est pas un ERP.
 
-une entreprise non ouverte au public, mais seulement au personnel, n’est pas un ERP.
+Pour l’application du règlement de sécurité incendie, les ERP sont **classés par catégorie** et par type.
 
-Pour l’application du règlement de sécurité incendie, les ERP sont classés par catégorie et par type.
+Le classement proposé par le maître d’ouvrage : Personne publique ou privée pour le compte de laquelle des travaux ou un ouvrage immobilier sont réalisés est validé par la commission départementale de sécurité.
 
-## Le classement proposé par le maître d’ouvrage
+Les ERP sont classés en **5 catégories en fonction de leur capacité d’accueil**. Les salariés sont comptés avec le public admis dans l’établissement sauf pour la 5e catégorie.
 
-: Personne publique ou privée pour le compte de laquelle des travaux ou un ouvrage immobilier sont réalisés est validé par la commission départementale de sécurité.
+Pour plus de renseignements : [Qu’est-ce qu’un établissement recevant du public (ERP) ?](https://entreprendre.service-public.fr/vosdroits/F32351)
 
-## Les ERP sont classés en
+## Vos démarches en amont de l’ouverture de votre établissement :
 
-## 5 catégories en fonction de leur capacité d’accueil
+**La création, l’aménagement ou la modification d’un établissement recevant du public (ERP) sont soumis à autorisation.**
 
-. Les salariés sont comptés avec le public admis dans l’établissement sauf pour la 5 e catégorie.
+L’exploitant d’un ERP doit demander une autorisation avant l’ouverture de l’établissement. De même, si l’établissement a été fermé plus de 10 mois, il doit demander une autorisation avant sa réouverture.
 
-Pour plus de renseignements :
+Il en fait la **demande plus d’un mois avant la date prévue de l’ouverture au public.**Il effectue cette démarche auprès de la mairie.
 
-Qu’est-ce qu’un établissement recevant du public (ERP) ?
+L’autorisation de construire, d’aménager ou de modifier un établissement recevant du public (ERP) doit être demandée pour les travaux suivants :
 
-Vos démarches en amont de l’ouverture de votre établissement :
+- Modification interne d’une surface ouverte au public.
+- Changement de commerce (épicerie remplacée par une boucherie, fleuriste par un autre fleuriste…) sans changement de destination. *Il existe 5 types de destinations : exploitation agricole et forestière, habitation, commerce et activités de service, équipements d’intérêt collectif et services publics, autres activités des secteurs secondaire ou tertiaire. Il y a changement de destination lorsque l’on passe d’une catégorie à une autre, des locaux et sans modification de l’aspect extérieur, sinon vous devez déposer [une demande de permis de construire](https://www.colombelles.fr/demarches-pratiques/urbanisme/)*. *Soyez donc vigilant à l’activité antérieure à la vôtre si vous reprenez un local !*
+- Rénovation intérieure (déplacement de cloisons internes, création ou remplacement de faux plafonds, changement de revêtement, pose d’une rampe,…).
+- Travaux sur des installations techniques (électricité, désenfumage, alarme,…).
+- Travaux d’aménagement interne sans changement de destination des locaux effectués lors de l’implantation de nouvelles boutiques en remplacement de boutiques dans une galerie marchande.
+- Travaux d’aménagement interne sans changement de destination des locaux effectués lors de l’implantation d’un nouveau commerce dans un bâtiment existant.
 
-La création, l’aménagement ou la modification d’un établissement recevant du public (ERP) sont soumis à autorisation.
+>> Le délai d’instruction de la demande est de **4 mois** à compter du dépôt du dossier en mairie ou de la réception des pièces manquantes.
 
-L’exploitant d’un ERP doit demander une autorisation avant l’ouverture de l’établissement
-
-. De même, si l’établissement a été fermé plus de 10 mois , il doit demander une autorisation avant sa réouverture
-
-.
-
-Il en fait la demande plus d’un mois avant la date prévue de l’ouverture au public.
-
-Il effectue cette démarche auprès de la mairie.
-
-L’autorisation de construire, d’aménager ou de modifier un établissement recevant du public (ERP) doit être demandée pour les travau x suivants
-
-:
-
-Modification interne d’une surface ouverte au public.
-
-Changement de commerce (épicerie remplacée par une boucherie, fleuriste par un autre fleuriste…) sans changement de destination
-
-.
-
-Il existe 5 types de destinations : exploitation agricole et forestière, habitation, commerce et activités de service, équipements d’intérêt collectif et services publics, autres activités des secteurs secondaire ou tertiaire. Il y a changement de destination lorsque l’on passe d’une catégorie à une autre, d es locaux et sans modification de l’aspect extérieur, sinon vous devez déposer une demande de permis de construire
-
-.
-
-Soyez donc vigilant à l’activité antérieure à la vôtre si vous reprenez un local !
-
-Rénovation intérieure (déplacement de cloisons internes, création ou remplacement de faux plafonds, changement de revêtement, pose d’une rampe, …).
-
-Travaux sur des installations techniques (électricité, désenfumage, alarme, …).
-
-Travaux d’aménagement interne sans changement de destination des locaux effectués lors de l’implantation de nouvelles boutiques en remplacement de boutiques dans une galerie marchande.
-
-Travaux d’aménagement interne sans changement de destination des locaux effectués lors de l’implantation d’un nouveau commerce dans un bâtiment existant.
-
-## >> Le délai d’instruction de la demande est de
-
-4 mois à compter du dépôt du dossier en mairie ou de la réception des pièces manquantes.
-
-Pour vos démarches :
-
-Demande d’autorisation de construire, d’aménager ou de modifier un établissement recevant du public (ERP) (Formulaire 13824*04)`,
+Pour vos démarches : [Demande d’autorisation de construire, d’aménager ou de modifier un établissement recevant du public (ERP) (Formulaire 1382404)](https://entreprendre.service-public.fr/vosdroits/R10190)`,
     order: 706,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -2965,59 +2531,43 @@ Demande d’autorisation de construire, d’aménager ou de modifier un établis
 
 ## Horaires d’été
 
-La Cellule emploi de Colombelles sera fermée du 13 au 30 juillet inclus
+- La Cellule emploi de Colombelles sera fermée du 13 au 30 juillet inclus **En cas d’urgence, vous pouvez vous présenter au CCAS de Colombelles au 7 Rue Jules Guesde ou les contacter au 02 31 35 57 00**
+- **Réception du public du 3 au 20 aout dans LES LOCAUX du CCAS (Horaires et jours d’ouverture identiques)**
+- Réouverture au public le 24 août au Quartier Jean Jaurès
 
-En cas d’urgence, vous pouvez vous présenter au CCAS de Colombelles au 7 Rue Jules Guesde ou les contacter au 02 31 35 57 00
-
-Réception du public du 3 au 20 aout dans LES LOCAUX du CCAS (Horaires et jours d’ouverture identiques)
-
-Réouverture au public le 24 août au Quartier Jean Jaurès
-
-C’est quoi la Cellule Emploi ?
+**C’est quoi la Cellule Emploi ?**
 
 Il s’agit d’un service municipal qui assure les missions suivantes :
 
-Aide à la construction du projet professionnel ou de formation
-
-Relais auprès des partenaires en fonction de la situation de la personne
-
-Aide à la rédaction de CV et de lettres de motivation
-
-## Préparation à l’entretien de recrutement
-
-Mise en place d’ateliers adaptés aux problématiques rencontrées
-
-Proposition d’offres d’emploi (CDD – CDI – Intérim) et mise en relation auprès des employeurs
-
-Mise en œuvre et développement de partenariats avec les entreprises de l’agglomération pour faciliter le recrutement
-
-Intégration sur le dispositif Territoire Zéro Chômeur de Longue durée
+- Aide à la construction du projet professionnel ou de formation
+- Relais auprès des partenaires en fonction de la situation de la personne
+- Aide à la rédaction de CV et de lettres de motivation
+- Préparation à l’entretien de recrutement
+- Mise en place d’ateliers adaptés aux problématiques rencontrées
+- Proposition d’offres d’emploi (CDD – CDI – Intérim) et mise en relation auprès des employeurs
+- Mise en œuvre et développement de partenariats avec les entreprises de l’agglomération pour faciliter le recrutement
+- Intégration sur le dispositif Territoire Zéro Chômeur de Longue durée
 
 N’hésitez pas à la contacter !
 
-Des permanences de structures partenaires sont disponibles sur rendez-vous :
+**Des permanences de structures partenaires sont disponibles sur rendez-vous :**
 
-Mission Locale : orientation pour les 16-25 ans la Mission Locale assurera ses permanences pour recevoir les jeunes au CCAS à compter du lundi 30 mars 202
+- Mission Locale : orientation pour les 16-25 ans
+- la Mission Locale assurera ses permanences pour recevoir les jeunes au CCAS à compter du lundi 30 mars 2026 sur les créneaux suivants :
+- le lundi après-midi avec Medhi BECHAOUCH de 13h30 à 17h00
+- le jeudi matin par Emmanuelle RETOUT de 8h30 à 12h30
+- Plans locaux pluriannuels pour l’insertion et l’emploi (PLIE) tous les mardis après-midis (sur rendez-vous) de 14h à 17h >> 07 77 90 19 12
 
-6 sur les créneaux suivants :
+## Informations pratiques
 
-le lundi après-midi avec Medhi BECHAOUCH de 13h30 à 17h00 le jeudi matin par Emmanuelle RETOUT de 8h30 à 12h30
+- **Contact** — Cellule Emploi
+- **Adresse** — Place Mendès France (Quartier Jaurès)
+- **Téléphone** — 02 31 83 13 59
+- **Courriel** — cellule.emploi@colombelles.fr
+- **Horaires** — Lundi, mardi et jeudi de 9h à 12h30 et de 14h à 17h
 
-Plans locaux pluriannuels pour l’insertion et l’emploi (PLIE) tous les mardis après-midis (sur rendez-vous) de 14h à 17h >> 07 77 90 19 12
-
-Informations pratiques
-
-Cellule Emploi
-
-Place Mendès France (Quartier Jaurès)
-
-## Lundi, mardi et jeudi de 9h à 12h30 et de 14h à 17h
-
-02 31 83 13 59 cellule.emploi@colombelles.fr
-
-CELLULE EMPLOI_Page 1_VF
-
-2026 (2)`,
+- CELLULE EMPLOI_Page 1_VF
+- 2026 (2)`,
     order: 801,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -3033,9 +2583,7 @@ CELLULE EMPLOI_Page 1_VF
       "Pour effectuer ses achats de fournitures, des services et travaux répondant à ses besoins, la Ville de Colombelles lance des appels d’offres dans un cadre réglementaire…",
     content: `Pour effectuer ses achats de fournitures, des services et travaux répondant à ses besoins, la Ville de Colombelles lance des appels d’offres dans un cadre réglementaire défini par le code des marchés publics.
 
-Retrouvez les marchés publics de la Ville de Colombelles sous le lien suivant :
-
-https://centraledesmarches.com`,
+Retrouvez les marchés publics de la Ville de Colombelles sous le lien suivant : [centraledesmarches.com](https://centraledesmarches.com)`,
     order: 802,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -3048,26 +2596,18 @@ https://centraledesmarches.com`,
     section: "demarches",
     subsection: "Salles et matériel",
     summary:
-      "Demande de prêt de matériel",
-    content: `Demande de prêt de matériel
+      "Contact — Contact administratif : Marie LEHOUX / Contact logistique (pour retrait du matériel) : Sybil LEFRERE Adresse — Pour retirer le matériel : Services techniques…",
+    content: `## Informations pratiques
 
-Contact administratif
+- **Contact** — **Contact administratif** : Marie LEHOUX / **Contact logistique (pour retrait du matériel)** : Sybil LEFRERE
+- **Adresse** — **Pour retirer le matériel** : Services techniques, Passage Léon Blum, Colombelles / 02 31 72 46 74
+- **Courriel** — marie.lehoux@colombelles.fr / sybil.lefrere@colombelles.fr
 
-## : Marie LEHOUX  /
-
-Contact logistique (pour retrait du matériel)
-
-: Sybil LEFRERE
-
-## Pour retirer le matériel
-
-: Services techniques, Passage Léon Blum, Colombelles / 02 31 72 46 74 marie.lehoux@colombelles.fr / sybil.lefrere@colombelles.fr
-
-La Ville propose du matériel à disposition des associations.
+**La Ville propose du matériel à disposition des associations.**
 
 Toute demande doit être effectuée au moyen du formulaire ci-dessous et doit être adressée au service logistique, sous réserve de la disponibilité du matériel.
 
-La demande doit être adressée au moins 15 jours avant la date de la manifestation.`,
+La demande doit être adressée **au moins 15 jours** avant la date de la manifestation.`,
     order: 902,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -3083,20 +2623,80 @@ La demande doit être adressée au moins 15 jours avant la date de la manifestat
       "Deux salles municipales à louer, à tarif préférentiel pour les Colombellois.",
     content: `La Ville met deux salles à la disposition des particuliers et des associations, à un tarif préférentiel pour les habitants de la commune. Survolez une salle ci-dessous pour en voir l'aperçu, l'adresse et les conditions.
 
-## Conditions de location
+## Informations pratiques
 
-- Réservation au plus tôt un an et au plus tard un mois avant la date
-- Caution et attestation d'assurance responsabilité civile obligatoires
-- État des lieux d'entrée et de sortie contradictoire
-- Nuisances sonores limitées après 22h
+- **Contact** — Location de salles municipales
+- **Adresse** — Hôtel de Ville, place François Mitterrand, Colombelles
+- **Téléphone** — 02 31 35 25 00
+- **Horaires** — **En raison d’une réorganisation temporaire du service, l’accueil dédié à la location des salles municipales est momentanément fermé au public**.
 
-## Prêt de matériel aux associations
+## Les salles :
 
-Tables, bancs, chaises, barrières, grilles d'exposition et sonorisation légère sont prêtés gratuitement aux associations de la commune. La demande doit être déposée au moins trois semaines à l'avance.
+**Salle Jean-Jaurès**
 
-## Contact
+- 140 places assises
+- Cuisine avec : frigo, four, lave-vaisselle manuel
+- Vaisselle non comprise (suppl. 111€)
+- adresse : Place Albert-Thomas
+- tarifs pour les Colombellois : 332 € pour 24h / 561 € pour 48h
+- tarifs hors commune: 560 € pour 24h / 817 € pour 48h
+- [*Règlement intérieur*](https://www.colombelles.fr/wp-content/uploads/2023/10/REGLEMENT-DES-SALLES-OK.pdf)
 
-**Accueil de la mairie** — 02 31 35 25 00 — accueil@colombelles.fr`,
+**Salle Dumas**
+
+- 80 places assises
+- Cuisine avec : frigo, four, lave-vaisselle manuel
+- Vaisselle non comprise (suppl. 78€)
+- adresse : Rue Dumas
+- tarifs pour les Colombellois : 202 € pour 24h / 365€ pour 48h
+- tarifs hors commune: 306 € pour 24h / 560 € pour 48h
+- [*Règlement intérieur*](https://www.colombelles.fr/wp-content/uploads/2023/10/REGLEMENT-DES-SALLES-OK.pdf)
+
+## Modalités de réservation
+
+En raison d’une réorganisation temporaire du service, **l’accueil dédié à la location des salles municipales est momentanément fermé au public**.
+
+Pendant cette période :
+
+- aucune permanence ne sera assurée
+- **aucune nouvelle demande de réservation de salle ne pourra être enregistrée ou traitée**
+
+Les réservations déjà confirmées restent maintenues.
+
+**La date de réouverture du service sera communiquée prochainement sur le site internet de la Ville.**
+
+Nous vous remercions de votre compréhension.
+
+Différentes salles sont proposées à la location avec des tarifs préférentiels pour les Colombellois.
+
+Si le créneau est libre, une option sera posée sur cette date, mais elle ne vaut pas validation.
+
+- Rendez-vous pour signature du contrat et versement de :
+- un acompte de 30% par chèque à l’ordre du Trésor Public pour confirmer la réservation. Suite à la signature du contrat, l’acompte sera encaissé.
+- une caution (non encaissée) par chèque à l’ordre du Trésor Public de 557 € pour les Colombellois et de 606 € pour les personnes hors commune.
+
+*Pièces nécessaires lors du rendez-vous :*
+
+- une pièce d’identité
+- un justificatif de domicile
+- une attestation responsabilité civile
+
+**15 jours avant la date de la location :**
+
+Règlement du solde et définition des jours et heures de rendez-vous pour les états des lieux d’entrée et de sortie.
+
+**En cas d’annulation :**
+
+- Toute annulation se fait par écrit
+- Toute annulation moins de 30 jours avant la date de réservation fera l’objet d’un règlement complet par le locataire.
+
+Location de vaisselle possible :
+
+Tarif spécifique « obsèques » demi-journée (4h) vaisselle incluse : 48 €
+
+- salle Dumas
+- espace vert de la salle Dumas
+- Salle Jean-Jaurès`,
     block: "salles",
     order: 901,
     status: "publie",
@@ -3112,32 +2712,34 @@ Tables, bancs, chaises, barrières, grilles d'exposition et sonorisation légèr
     section: "vivre-a-colombelles",
     subsection: "Solidarité",
     summary:
-      "Aide sociale légale et facultative, accompagnement, domiciliation et registre des personnes vulnérables.",
+      "Dans le cadre de ses missions de service public, la ville de Colombelles propose différentes aides à la personne.",
     content: `Dans le cadre de ses missions de service public, la ville de Colombelles propose différentes aides à la personne.
 
 Le centre communal d’action sociale est un lieu :
 
-d’écoute d’accompagnement dans les démarches administratives liées à des difficultés budgétaires d’accès à vos droits
+- d’écoute
+- d’accompagnement dans les démarches administratives liées à des difficultés budgétaires
+- d’accès à vos droits
 
-Missions du centre communal d’action sociale domiciliation aide alimentaire aides financières (difficultés financières passagères)
+## Missions du centre communal d’action sociale
 
-aides à la recherche de logement accompagnement de la vie quotidienne des séniors
-
-(colis et banquet, résidence autonomie, visiteurs de convivialité…)
+- domiciliation
+- aide alimentaire
+- aides financières (difficultés financières passagères)
+- aides à la recherche de logement
+- [accompagnement de la vie quotidienne des séniors](https://www.colombelles.fr/vivre-a-colombelles/seniors/) (colis et banquet, résidence autonomie, visiteurs de convivialité…)
 
 ## Organisation
 
 Le Centre communal d’action sociale est un service de la ville, présidé par le Maire et composé d’élus municipaux.
 
-Informations pratiques
+## Informations pratiques
 
-CCAS
-
-## 7, rue Jules-Guesde
-
-Lundi, mardi, jeudi et vendredi de 8h30 à 12h30 et de 13h30 à 17h et le mercredi de 13h30 à 17h.
-
-02 31 35 57 00 ccas@colombelles.fr`,
+- **Contact** — CCAS
+- **Adresse** — 7, rue Jules-Guesde
+- **Téléphone** — 02 31 35 57 00
+- **Courriel** — ccas@colombelles.fr
+- **Horaires** — Lundi, mardi, jeudi et vendredi de 8h30 à 12h30 et de 13h30 à 17h et le mercredi de 13h30 à 17h.`,
     order: 101,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -3150,48 +2752,32 @@ Lundi, mardi, jeudi et vendredi de 8h30 à 12h30 et de 13h30 à 17h et le mercre
     section: "vivre-a-colombelles",
     subsection: "Solidarité",
     summary:
-      "Une épicerie solidaire itinérante, au plus près des habitants.",
-    content: `Dans le cadre de sa politique de solidarité et de lutte contre la précarité, la Ville accueillera prochainement le
-
-Solidaribus du 14 , une antenne itinérante mise en place par le
-
-Secours populaire du Calvados
-
-.
+      "Dans le cadre de sa politique de solidarité et de lutte contre la précarité, la Ville accueillera prochainement le Solidaribus du 14, une antenne itinérante mise en…",
+    content: `Dans le cadre de sa politique de solidarité et de lutte contre la précarité, la Ville accueillera prochainement le **Solidaribus du 14**, une antenne itinérante mise en place par le **Secours populaire du Calvados**.
 
 ## Un dispositif mobile pour aller au plus près des besoins
 
-Face aux situations de pauvreté et de précarité, notamment dans les zones où les associations sont moins présentes, le Secours populaire du Calvados a développé un dispositif innovant : une antenne mobile , surnommée le
+Face aux situations de pauvreté et de précarité, notamment dans les zones où les associations sont moins présentes, le Secours populaire du Calvados a développé un dispositif innovant : une **antenne mobile**, surnommée le *Solidaribus du 14*.
 
-Solidaribus du 14
+À son bord, des équipes de **2 à 3 bénévoles**, formées et polyvalentes, assurent :
 
-.
-
-## À son bord, des équipes de
-
-2 à 3 bénévoles , formées et polyvalentes, assurent :
-
-l’
-
-,
-
-un accès aux droits un accès à la culture et aux loisirs l’ orientation vers les dispositifs adaptés , et la distribution de denrées alimentaires , lorsque cela est nécessaire.
+- l’**accueil et l’écoute des personnes**,
+- un accès aux droits
+- un accès à la culture et aux loisirs
+- l’**orientation vers les dispositifs adaptés**,
+- et la **distribution de denrées alimentaires**, lorsque cela est nécessaire.
 
 ## Une implantation pertinente à Colombelles
 
-Au regard des besoins identifiés sur le territoire colombellois, la venue du Solidaribus constitue un renfort précieux aux actions existantes
-
-. Ce dispositif s’inscrit en complémentarité avec les services municipaux, le CCAS et le tissu associatif local , afin de proposer une réponse globale et coordonnée aux situations de précarité.
+Au regard des besoins identifiés sur le territoire colombellois, la venue du Solidaribus constitue un **renfort précieux aux actions existantes**. Ce dispositif s’inscrit en **complémentarité avec les services municipaux, le CCAS et le tissu associatif local**, afin de proposer une réponse globale et coordonnée aux situations de précarité.
 
 ## Informations pratiques
 
-La présence du Solidaribus à Colombelles sera périodique : 1 mardi sur 2 (semaine paire)
-
-## de 10h à 12h
+La présence du Solidaribus à Colombelles sera **périodique : 1 mardi sur 2 (semaine paire)**de 10h à 12h
 
 Lieu : parking de la salle Dumas, rue Emile Dumas à Colombelles
 
-Solidaribus Colombelles | affiche solidaribus`,
+- Solidaribus Colombelles | affiche solidaribus`,
     order: 102,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -3204,30 +2790,28 @@ Solidaribus Colombelles | affiche solidaribus`,
     section: "vivre-a-colombelles",
     subsection: "Solidarité",
     summary:
-      "Permanences juridiques, écrivain public et accompagnement dans les démarches.",
+      "Plusieurs permanences sont à votre disposition au sein de la commune soit au centre communal d’action sociale, soit en mairie.",
     content: `## PERMANENCES D’ACCÈS AUX DROITS
 
 Plusieurs permanences sont à votre disposition au sein de la commune soit au centre communal d’action sociale, soit en mairie.
 
 ## > Information sur vos droits
 
-Le conseil départemental de l’accès au droit (CDAD) assure une permanence le 1er mercredi de chaque mois au sein des locaux du centre communal d’action sociale.
+Le conseil départemental de l’accès au droit (CDAD) assure une permanence **le 1er mercredi de chaque mois** au sein des locaux du centre communal d’action sociale.
 
 Le juriste peut vous conseiller dans les domaines du droit :
 
-de la famille (séparation, garde d’enfants, divorce…)
+- de la famille (séparation, garde d’enfants, divorce…)
+- du travail (lien avec les employeurs…)
+- de la consommation (litige avec une enseigne, une assurance…)
 
-du travail (lien avec les employeurs…)
-
-de la consommation (litige avec une enseigne, une assurance…)
-
-Plus d’informations
+[Plus d’informations](https://cdad14.fr/le-cdad/quest-ce-que-le-cdad/)
 
 ## > Permanence conseil handicap
 
 De 14h à 17h, chaque vendredi des semaines impaires, une permanence conseil handicap est à votre disposition.
 
-Information, conseil, orientation, aide au montage des dossiers MDPH, Cap Emploi, …
+Information, conseil, orientation, aide au montage des dossiers MDPH, Cap Emploi,…
 
 N’hésitez pas à prendre rendez-vous.
 
@@ -3235,39 +2819,42 @@ N’hésitez pas à prendre rendez-vous.
 
 Un espace de parole, d’écoute en cas de conflits, un espace de prévention, de communication, d’écoute. N’hésitez pas à les contacter
 
-37 rue des boutiques, Caen, 02 61 45 17 24 – poleparentalité@aajb.asso.fr
+*37 rue des boutiques, Caen, 02 61 45 17 24 – poleparentalité@aajb.asso.fr*
 
-Plaquette de présentation
+[Plaquette de présentation](https://www.colombelles.fr/wp-content/uploads/2024/09/Plaquette-Mediation-familiale.pdf)
 
-Informations pratiques
+## Informations pratiques
 
-## Centre communal d’action sociale
-
-Localisation de la permanence : 7, rue Jules-Guesde
-
-02 31 35 57 00 ccas@colombelles.fr
+- **Contact** — Centre communal d’action sociale
+- **Adresse** — Localisation de la permanence : 7, rue Jules-Guesde
+- **Téléphone** — 02 31 35 57 00
+- **Courriel** — ccas@colombelles.fr
 
 ## > Litiges – informations juridiques
 
 Pour toutes questions juridiques vous pouvez vous renseigner auprès de :
 
-la Maison de la justice et du droit de Mondeville : 15 bis rue Pasteur, 14120 Mondeville, 02 61 10 31 50, mjd-mondeville@justice.fr le Tribunal de Caen : 11 Rue Dumont d’Urville, 02 50 10 13 00
+- la Maison de la justice et du droit de Mondeville : 15 bis rue Pasteur, 14120 Mondeville, 02 61 10 31 50,
+- le Tribunal de Caen : 11 Rue Dumont d’Urville, 02 50 10 13 00
 
-Informations pratiques
+## Informations pratiques
 
-## Service Accueil
+- **Contact** — Service Accueil
+- **Adresse** — Localisation de la permanence : Place François-Mitterrand
+- **Téléphone** — 02 31 35 25 00
+- **Courriel** — accueil@colombelles.fr
 
-Localisation de la permanence : Place François-Mitterrand
-
-02 31 35 25 00
-
-> L’Espace Public Numérique (EPN)
+## > L’Espace Public Numérique (EPN)
 
 En venant dans la salle informatique de la médiathèque vous trouverez des conseils personnalisés, des ateliers mais aussi du temps libre d’accès aux ordinateurs si vous en avez besoin pour vos démarches administratives en ligne. Ce service est gratuit.
 
 Horaires :
 
-En accès libre, au sein de la Médiathèque Le Phénix, 10 rue Elsa Triolet les m ardi, jeudi, vendredi 9h-12h et 16h-18h mercredi 10h-18h samedi 10h-12h et 14h-18h`,
+En accès libre, au sein de la Médiathèque Le Phénix, 10 rue Elsa Triolet
+
+- les mardi, jeudi, vendredi 9h-12h et 16h-18h
+- mercredi 10h-18h
+- samedi 10h-12h et 14h-18h`,
     order: 103,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -3280,46 +2867,31 @@ En accès libre, au sein de la Médiathèque Le Phénix, 10 rue Elsa Triolet les
     section: "vivre-a-colombelles",
     subsection: "Solidarité",
     summary:
-      "Demande de logement social, accompagnement et interlocuteurs.",
+      "Le Centre communal d’action sociale vous accompagne dans votre recherche de logement social sur la commune.",
     content: `Le Centre communal d’action sociale vous accompagne dans votre recherche de logement social sur la commune.
 
-Toute personne souhaitant un logement social doit d’abord faire une demande en ligne sur le site « Demande logement 14 ».
+Toute personne souhaitant un logement social doit d’abord faire [une demande en ligne](https://www.demandelogement14.fr/imhowebGP14/pages/14/14.html/#demande) sur le site « Demande logement 14 ».
 
 La Maison de l’Habitat peut vous aider à constituer votre dossier de demande de logement, à améliorer votre logement ou à accéder à la propriété.
 
-Bailleurs sociaux
+## Bailleurs sociaux
 
-Les Foyers Normands
-- 
+- [Les Foyers Normands](http://lesfoyersnormands.fr) – 02 31 72 41 52
+- [Inolya](https://www.inolya.fr) – 02 31 30 36 36
+- [CDC Habitat](https://www.cdc-habitat.fr/)
+- [Caen la mer Habitat](https://www.caenlamerhabitat.fr/)
+- [Logéo Seine](https://www.logeo-seine.fr/)
 
-02 31 72 41 52
+## La résidence séniors
 
-Inolya
-- 
+La **résidence autonomie « Jean Goueslard »**, située au 5 et 9 rue Lucien Mangematin (à 50 m du centre-ville), est une résidence accueillant des retraités autonomes comprenant 34 logements T1 bis d’une superficie de 33 m².
 
-02 31 30 36 36
+## Informations pratiques
 
-CDC Habitat
-
-Caen la mer Habitat
-
-Logéo Seine
-
-La résidence séniors
-
-La
-
-résidence autonomie  « Jean Goueslard »
-
-, située au 5 et 9 rue Lucien Mangematin (à 50 m du centre-ville), est une résidence accueillant des retraités autonomes comprenant 34 logements T1 bis d’une superficie de 33 m².
-
-Informations pratiques
-
-CCAS
-
-7, rue Jules-Guesde
-
-02 31 35 57 00 ccas@colombelles.fr`,
+- **Contact** — CCAS
+- **Adresse** — 7, rue Jules-Guesde
+- **Téléphone** — 02 31 35 57 00
+- **Courriel** — ccas@colombelles.fr`,
     order: 104,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -3332,20 +2904,22 @@ CCAS
     section: "vivre-a-colombelles",
     subsection: "Petite enfance",
     summary:
-      "Le relais petite enfance accompagne gratuitement les familles dans leur recherche.",
+      "choisir un mode de garde en fonction de vos besoins obtenir une aide pour financer la garde être informé sur le droit du travail et les obligations du parent employeur…",
     content: `Le point info Petite Enfance vous soutient dans vos démarches :
 
-choisir un mode de garde en fonction de vos besoins obtenir une aide pour financer la garde être informé sur le droit du travail et les obligations du parent employeur d’une assistante maternelle ou d’une garde d’enfant à domicile préparer son enfant à la séparation…
+- choisir un mode de garde en fonction de vos besoins
+- obtenir une aide pour financer la garde
+- être informé sur le droit du travail et les obligations du parent employeur d’une assistante maternelle ou d’une garde d’enfant à domicile
+- préparer son enfant à la séparation…
 
 Permanence d’accueil le lundi de 14h15 à 18h15 et le mardi de 13h15 à 16h15 ou sur rendez-vous.
 
-Informations pratiques
+## Informations pratiques
 
-Point Info – Relais Petite Enfance
-
-## 20 place François Mitterrand
-
-02 31 52 04 48 – 07 57 08 30 73 rpe@colombelles.fr`,
+- **Contact** — Point Info – Relais Petite Enfance
+- **Adresse** — 20 place François Mitterrand
+- **Téléphone** — 02 31 52 04 48 – 07 57 08 30 73
+- **Courriel** — rpe@colombelles.fr`,
     image: { url: "/media/ville/petite-enfance-trouver-un-mode-de-garde-1.jpg", alt: "Trouver un mode de garde" },
     order: 201,
     status: "publie",
@@ -3359,12 +2933,15 @@ Point Info – Relais Petite Enfance
     section: "vivre-a-colombelles",
     subsection: "Petite enfance",
     summary:
-      "Le multi-accueil et les places disponibles sur la commune.",
+      "choisir un mode de garde en fonction de vos besoins obtenir une aide pour financer la garde être informé sur le droit du travail et les obligations du parent employeur…",
     content: `## Point info Petite Enfance
 
 Le point info Petite Enfance vous soutient dans vos démarches :
 
-choisir un mode de garde en fonction de vos besoins obtenir une aide pour financer la garde être informé sur le droit du travail et les obligations du parent employeur d’une assistante maternelle ou d’une garde d’enfant à domicile préparer son enfant à la séparation…
+- choisir un mode de garde en fonction de vos besoins
+- obtenir une aide pour financer la garde
+- être informé sur le droit du travail et les obligations du parent employeur d’une assistante maternelle ou d’une garde d’enfant à domicile
+- préparer son enfant à la séparation…
 
 Permanence d’accueil le lundi de 14h15 à 18h15 et le mardi de 13h15 à 16h15 ou sur rendez-vous.
 
@@ -3372,31 +2949,23 @@ Permanence d’accueil le lundi de 14h15 à 18h15 et le mardi de 13h15 à 16h15 
 
 30 enfants de 10 semaines à 3 ans sont accueillis par une équipe de professionnels qui les accompagnent dans leur développement, en favorisant leur autonomie et le respect de l’autre. Des activités variées et adaptées à chaque âge dans un espace chaleureux permettent l’épanouissement de chacun au sein du groupe des tout-petits ou des plus grands.
 
-30 places
+- 30 places
+- Enfants âgés de 10 semaines à 3 ans
+- Accueil du lundi au vendredi de 8h à 18h
+- Fermeture 1 semaine pendant les vacances scolaires du printemps, 3 semaines en août et 1 semaine entre Noël et le jour de l’An
+- Tarif calculé en fonction des revenus du foyer et du nombre d’enfants à charge, selon le barème de la CAF
 
-## Enfants âgés de 10 semaines à 3 ans
+Une commission d’attribution des places se réunit (à minima 1 fois par an) afin de sélectionner les dossiers selon des critères définis dans le règlement de fonctionnement de la structure.
 
-Fermeture 1 semaine pendant les vacances scolaires du printemps, 3 semaines en août et 1 semaine entre Noël et le jour de l’An
-
-Tarif calculé en fonction des revenus du foyer et du nombre d’enfants à charge, selon le barème de la CAF
-
-Une commission d’attribution des places se réunit (à minima 1 fois par an) afin de sélectionner les dossiers selon des critères définis dans le règlement de fonctionnement de la structure.
-
-PRÉ-INSCR
-
-IPTION :
-
-Bulletin de pré-inscription à télécharger et à retourner par mail à rpe@colombelles.f r qui reprendra contact avec vous.
+**PRÉ-INSCR IPTION :**[Bulletin de pré-inscription à télécharger](https://www.colombelles.fr/wp-content/uploads/2026/08/2026-preinscription-multi-accueil.pdf) et à retourner par mail à rpe@colombelles.fr qui reprendra contact avec vous.
 
 ## Informations pratiques
 
-Point Info – Relais Petite Enfance et Multi-accueil Lisa Lind
-
-## 20 place François Mitterrand
-
-Permanences d’accueil le lundi de 14h15 à 18h15, le mardi de 13h15 à 16h15 et sur rendez-vous.
-
-02 31 52 04 48 – 07 57 08 30 73 rpe@colombelles.fr
+- **Contact** — Point Info – Relais Petite Enfance et Multi-accueil Lisa Lind
+- **Adresse** — 20 place François Mitterrand
+- **Téléphone** — 02 31 52 04 48 – 07 57 08 30 73
+- **Courriel** — rpe@colombelles.fr
+- **Horaires** — Permanences d’accueil le lundi de 14h15 à 18h15, le mardi de 13h15 à 16h15 et sur rendez-vous.
 
 ## La crèche Les P’tits Pots Rouges
 
@@ -3406,21 +2975,19 @@ La structure accueille les enfants sur une surface de 850 m².
 
 La crèche bénéficie d’un grand espace extérieur. Les enfants peuvent profiter des jeux en plein air.
 
-Capacité d’accueil : 60 enfants
+- Capacité d’accueil : 60 enfants
+- Accueil du lundi au vendredi de 7h à 19h30
+- Superficie : 807m²
+- 300 m² d‘espace extérieur
 
-Superficie : 807m²
+*Crèche Les petits pots rouges – Chemin de Mondeville à Giberville- ZAC du Libéra- 14460 Colombelles*
 
-## 300 m² d‘espace extérieur
+[Plus d’informations](https://www.leaetleo.com/creche/les-ptits-pots-rouges-colombelles/)
 
-Crèche Les petits pots rouges – Chemin de Mondeville à Giberville- ZAC du Libéra- 14460 Colombelles
-
-## Plus d’informations
-
-## Section des grands du multi-accueil Lisa Lind
-
-## Dortoir des grands du multi-accueil Lisa Lind
-
-Dortoir des petits du multi-accueil Lisa Lind`,
+- Accueil du multi-accueil Lisa Lind
+- Section des grands du multi-accueil Lisa Lind
+- Dortoir des grands du multi-accueil Lisa Lind
+- Dortoir des petits du multi-accueil Lisa Lind`,
     image: { url: "/media/ville/petite-enfance-modes-de-garde-2.jpg", alt: "Accueil collectif" },
     order: 202,
     status: "publie",
@@ -3434,39 +3001,32 @@ Dortoir des petits du multi-accueil Lisa Lind`,
     section: "vivre-a-colombelles",
     subsection: "Petite enfance",
     summary:
-      "Assistantes maternelles agréées et garde à domicile.",
-    content: `Relais Petite Enfance
-- RPE –
-
-## Colombine
+      "Le Relais Petite Enfance (RPE) soutient les parents dans leurs démarches :",
+    content: `## Relais Petite Enfance – RPE – Colombine
 
 Le Relais Petite Enfance (RPE) soutient les parents dans leurs démarches :
 
-Choisir un mode de garde
-
-Trouver une assistante maternelle
-
-## Obtenir une aide pour financer la garde
-
-Être informé sur le droit du travail et les obligations du parent employeur
-
-## Préparer son enfant à la séparation…
+- Choisir un mode de garde
+- Trouver une assistante maternelle
+- Obtenir une aide pour financer la garde
+- Être informé sur le droit du travail et les obligations du parent employeur
+- Préparer son enfant à la séparation…
 
 Le Relais Petite Enfance accompagne également les assistantes maternelles et les gardes d’enfants à domicile, et favorise leur professionnalisation.
 
 Il propose des animations pour contribuer à la socialisation des enfants de 0 à 6 ans accompagnés de leur « nounou » ou du parent employeur.
 
-Programme des mois de AOUT-SEPTEMBRE-OCTOBRE 2026_RPE-Colombine
+**Accueil sur rendez-vous, réunions à thèmes, ateliers d’éveil, sorties et évènements festifs sont également proposés.**
 
-Informations pratiques
+[Programme des mois de AOUT-SEPTEMBRE-OCTOBRE 2026_RPE-Colombine](https://www.colombelles.fr/wp-content/uploads/2026/08/2026-08-programme-RPE-PE.pdf)
 
-Relais Petite Enfance
+## Informations pratiques
 
-## 20 place François Mitterrand
-
-Permanences d’accueil le lundi de 14h15 à 18h15, le mardi de 13h15 à 16h15 et sur rendez-vous.
-
-02 31 52 04 48 – 07 57 08 30 73 rpe@colombelles.fr`,
+- **Contact** — Relais Petite Enfance
+- **Adresse** — 20 place François Mitterrand
+- **Téléphone** — 02 31 52 04 48 – 07 57 08 30 73
+- **Courriel** — rpe@colombelles.fr
+- **Horaires** — Permanences d’accueil le lundi de 14h15 à 18h15, le mardi de 13h15 à 16h15 et sur rendez-vous.`,
     image: { url: "/media/ville/petite-enfance-accueil-individuel-1.jpg", alt: "Accueil individuel" },
     order: 203,
     status: "publie",
@@ -3480,30 +3040,27 @@ Permanences d’accueil le lundi de 14h15 à 18h15, le mardi de 13h15 à 16h15 e
     section: "vivre-a-colombelles",
     subsection: "Petite enfance",
     summary:
-      "Un espace de jeu libre pour les tout-petits accompagnés d'un adulte.",
+      "Le Lieu d’Accueil Enfants Parents « L’Esperluette » est un service municipal ouvert à tous les futurs parents et aux enfants de moins de 6 ans accompagnés de leur(s)…",
     content: `Le Lieu d’Accueil Enfants Parents « L’Esperluette » est un service municipal ouvert à tous les futurs parents et aux enfants de moins de 6 ans accompagnés de leur(s) parent(s).
 
 Votre tout-petit profitera d’un espace de jeu adapté pour y rencontrer d’autres enfants. Vous pourrez faire une pause dans votre quotidien et discuter de vos préoccupations avec d’autres parents.
 
-## Gratuit et sans inscription
+- Gratuit et sans inscription
+- Ouvert le lundi matin de 9h à 12h, pendant les périodes scolaires
+- Horaire d’arrivée et de départ libre
+- Présence de deux accueillants
 
-Ouvert le lundi matin de 9h à 12h, pendant les périodes scolaires
-
-Horaire d’arrivée et de départ libre
-
-## Présence de deux accueillants
-
-Découvrez le film de la CAF consacré aux Lieux d’Accueil Enfants-Parents (LAEP)
+## Découvrez le film de la CAF consacré aux Lieux d’Accueil Enfants-Parents (LAEP)
 
 La Caisse d’Allocations Familiales (CAF) a réalisé un film destiné à faire connaître les Lieux d’Accueil Enfants-Parents (LAEP) auprès des parents et futurs parents.
 
 Une partie de ce tournage a eu lieu au LAEP de Colombelles.
 
-CONTACT PÔLE PETITE ENFANCE
+## Informations pratiques
 
-## 20 place F. Mitterrand
-
-02 31 52 04 48 – 07 57 08 30 73 rpe@colombelles.fr`,
+- **Adresse** — 20 place F. Mitterrand
+- **Téléphone** — 02 31 52 04 48 – 07 57 08 30 73
+- **Courriel** — rpe@colombelles.fr`,
     image: { url: "/media/ville/petite-enfance-lieux-daccueil-1.jpg", alt: "Lieu d'accueil enfants-parents" },
     order: 204,
     status: "publie",
@@ -3517,7 +3074,7 @@ CONTACT PÔLE PETITE ENFANCE
     section: "vivre-a-colombelles",
     subsection: "Éducation",
     summary:
-      "Les groupes scolaires de la commune et les modalités d'inscription.",
+      "5 rue Jules Guesde, Colombelles, 02 31 72 40 09 – ce.0140776T@ac.normandie.fr",
     content: `## ÉCOLE MATERNELLE
 
 5 rue Jules Guesde, Colombelles, 02 31 72 40 09 – ce.0140776T@ac.normandie.fr
@@ -3528,55 +3085,34 @@ Vous habitez le centre-ville ou le quartier Jean Jaurès, votre enfant va avoir 
 
 Votre enfant va avoir 3 ans avant le 31 décembre. Il entrera à l’école maternelle de votre secteur dès septembre, même s’il n’a pas encore fêté son troisième anniversaire.
 
-Priorité aux enfants des quartiers centre-ville et Jean-Jaurès
-
-Réunion d’information en avril-mai
-
-## Inscription à la mairie en mai-juin
-
-Rentrée échelonnée après le 2e anniversaire
-
-Horaires aménagés
+- Priorité aux enfants des quartiers centre-ville et Jean-Jaurès
+- Réunion d’information en avril-mai
+- Inscription à la mairie en mai-juin
+- Rentrée échelonnée après le 2e anniversaire
+- Accueil à temps partiel
+- Horaires aménagés
 
 ## La petite section de maternelle
 
 Votre enfant va avoir 3 ans avant le 31 décembre. Il entrera à l’école maternelle de votre secteur dès septembre, même s’il n’a pas encore fêté son troisième anniversaire.
 
-## Quartiers du centre-ville et Jean-Jaurès >>
+- **Quartiers du centre-ville et Jean-Jaurès >>**École maternelle Henri Sellier – 5, rue Jules Guesde – Colombelles
+- **Inscription :**Mairie de Colombelles – Service Éducation – place F. Mitterrand – 02 31 35 57 07 – veronique.drieu@colombelles.fr
+- **Quartiers du Plateau et Libéra >>**École maternelle des Tilleuls – Avenue des Écoles – Mondeville
+- **Inscription :**Mairie de Mondeville – Service Scolaire – 5, rue Chapron – Mondeville – 02 31 35 52 00 – direction.education@mondeville.fr
 
-École maternelle Henri Sellier – 5, rue Jules Guesde – Colombelles
+## ÉCOLES ÉLEMENTAIRES Pour les enfants du centre-ville
 
-Inscription :
-
-Mairie de Colombelles – Service Éducation – place F. Mitterrand –
-
-02 31 35 57 07 – veronique.drieu@colombelles.fr
-
-## Quartiers du Plateau et Libéra >>
-
-École maternelle des Tilleuls – Avenue des Écoles – Mondeville
-
-Inscription :
-
-Mairie de Mondeville – Service Scolaire – 5, rue Chapron – Mondeville –
-
-02 31 35 52 00 – direction.education@mondeville.fr
-
-ÉCOLES ÉLEMENTAIRES
-
-## Pour les enfants du centre-ville
-
-CP –  CE1 – site Henri Sellier, 5 rue Jules Guesde, Colombelles, 07 56 38 95 11 – ce.0140774R@ac-normandie.fr
-
-CE2 – CM2 – site Victor Hugo, 24 rue Emile Mougins, Colombelles
+- CP – CE1 – site Henri Sellier, 5 rue Jules Guesde, Colombelles, 07 56 38 95 11 – ce.0140774R@ac-normandie.fr
+- CE2 – CM2 – site Victor Hugo, 24 rue Emile Mougins, Colombelles
 
 Dans le cadre du projet éducatif territorial de la ville, les écoles élémentaires Victor Hugo et Henri Sellier ont été fusionnées d’un point de vue administratif et pédagogique. Ce rapprochement permet notamment aux enseignants et aux enfants de disposer de davantage de moyens.
 
-Un seul directeur dirige les deux sites scolaire à temps plein, il s’agit de Madame Colin, joignable au 07 56 38 95 11
+Un seul directeur dirige les deux sites scolaire à temps plein, il s’agit de Madame Colin, joignable au 07 56 38 95 11
 
 ## Pour les enfants du Plateau
 
-Les habitants des quartiers du Plateau et de Libéra dépendent de l’école des Tilleuls. Cette école est gérée par sous la forme d’une convention d’entente entre les communes de Colombelles, Mondeville et Giberville pour les enfants de l’école maternelle et élémentaire.
+Les habitants des quartiers du Plateau et de Libéra dépendent de l’école des Tilleuls. Cette école est gérée par sous la forme d’une convention d’entente entre les communes de Colombelles, Mondeville et Giberville pour les enfants de l’école maternelle et élémentaire.
 
 Écoles de Tilleuls, avenue des écoles, 14120 Mondeville, 07 85 65 57 27`,
     image: { url: "/media/ville/education-ecoles-2.jpg", alt: "Écoles maternelles et élémentaires" },
@@ -3592,74 +3128,61 @@ Les habitants des quartiers du Plateau et de Libéra dépendent de l’école de
     section: "vivre-a-colombelles",
     subsection: "Éducation",
     summary:
-      "Inscription annuelle obligatoire, tarifs, réservation et menus.",
-    content: `Inscription au restaurant scolaire et temps méridien à effectuer tous les ans
+      "Pour les enfants qui fréquenteront la restauration scolaire au cours de l’année scolaire 2026-2027, une inscription est",
+    content: `## Inscription au restaurant scolaire et temps méridien à effectuer tous les ans
 
 Pour les enfants qui fréquenteront la restauration scolaire au cours de l’année scolaire 2026-2027, une inscription est
 
-OBLIGATOIRE , même en cas de renouvellement.
+**OBLIGATOIRE**
+
+, même en cas de renouvellement.
 
 ## Renouvellement et nouvelle inscription
 
-Formulaire d'inscription Restauration scolaire et temps méridien
+- **Formulaire d'inscription Restauration scolaire et temps méridien**2026 - 2027
+- [Le dossier d’inscription complet](https://www.colombelles.fr/wp-content/uploads/2026/03/Inscription-temps-meridien_restauration-scolaire_2026-2027_autoVF.pdf) doit être retourné en Mairie **avant le 31 mai**.
+- Pièces à joindre obligatoires : **RIB / attestation de quotient familial (-2 mois)**
+- Pour déposer le dossier ou vous aider à le compléter, l’accueil de la Mairie est ouverte du lundi au vendredi de 8h30 à 12h30 et de 13h30 à 17h. Une permanence sera également assurée le samedi 13 juin de 9h à 12h.
+- [**Tarifs du restaurant scolaire**](https://www.colombelles.fr/wp-content/uploads/2025/05/2025_2026_TARIFICATION.pdf) **applicable au 1er septembre 2025**
+- [**Règlement intérieur**](https://www.colombelles.fr/wp-content/uploads/2025/05/RI_TEMPS-MERIDIEN-ET-RESTAURATION-SCOLAIRE_VF.pdf) **applicable au 1er septembre 2025**
+- [Une notice pas à pas](https://www.colombelles.fr/wp-content/uploads/2026/03/pas-a-pas_RS2026.pdf) pour vous aider à remplir et à envoyer le dossier en version PDF
 
-## 2026 - 2027
-
-Le dossier d’inscription complet doit être retourné en Mairie avant le 31 mai
-
-.
-
-Pièces à joindre obligatoires :
-
-RIB / attestation de quotient familial (-2 mois)
-
-Pour déposer le dossier ou vous aider à le compléter, l’accueil de la Mairie est ouverte du lundi au vendredi de 8h30 à 12h30 et de 13h30 à 17h. Une permanence sera également assurée le samedi 13 juin de 9h à 12h.
-
-Tarifs du restaurant scolaire applicable au 1er septembre 2025
-
-## Règlement intérieur applicable au 1er septembre 2025
-
-Une notice pas à pas pour vous aider à remplir et à envoyer le dossier en version PDF
-
-## Attention
+Attention
 
 : les enfants sans dossier d’inscription ne seront pas accueillis à la restauration scolaire à la rentrée 2026.
 
-Menu de la semaine du 1er au 4 septembre le groupe scolaire Henri-Sellier l'école Les Tilleuls de Mondeville
+## Menu de la semaine du 1er au 4 septembre
 
-Nous vous rappelons qu' il est obligatoire de réserver ou d'annuler les jours de repas de vos enfants
+- [le groupe scolaire Henri-Sellier](https://www.colombelles.fr/wp-content/uploads/2026/08/Menu_S36_01-au-04092026_v2.pdf)
+- [l'école Les Tilleuls de Mondeville](https://www.mondeville.fr/pdf-reader/?pdf=10860)
 
-## 5 jours ouvrés avant la date
+Nous vous rappelons qu'**il est obligatoire de réserver ou d'annuler les jours de repas de vos enfants 5 jours ouvrés avant la date**. À défaut les repas non pris seront facturés. Nous vous remercions d'y procéder au plus vite, par mail à facturationcantine@colombelles.fr
 
-. À défaut les repas non pris seront facturés. Nous vous remercions d'y procéder au plus vite, par mail à facturationcantine@colombelles.fr
+## Menu de la semaine du 7 au 11 septembre
 
-Menu de la semaine du 7 au 11 septembre le groupe scolaire Henri-Sellier
+- [le groupe scolaire Henri-Sellier](https://www.colombelles.fr/wp-content/uploads/2026/09/Menu_S37_07-au-11092026.pdf)
 
 ## La pause méridienne
 
-La  pause méridienne est un moment de détente dans la journée des 400 enfants demi-pensionnaires. L’équipe municipale souhaite offrir des repas de qualité et équilibrés.
+La pause méridienne est un moment de détente dans la journée des 400 enfants demi-pensionnaires. L’équipe municipale souhaite offrir des repas de qualité et équilibrés.
 
 ## Côté cuisine
 
 Les menus servis dans les restaurants scolaires sont élaborés par un chef cuisinier et son équipe et ce tenant compte de règles transmises par le ministère de la Santé. Des menus équilibrés et variés avec, en majorité, des produits frais issus de circuits courts et de saison sont privilégiés pour la composition des menus. Lors de journées à thèmes, les cuisiniers proposent des menus spécifiques avec de nouvelles saveurs ou recettes pour le plaisir des jeunes gourmands et gourmets en devenir.
 
-Où en sommes-nous dans notre transition alimentaire ?
+**Où en sommes-nous dans notre transition alimentaire ?**
 
-L'objectif de cet affichage (obligatoire depuis la
+L'objectif de cet affichage (obligatoire depuis la Loi EGAlim) est de rendre plus transparentes l'origine et la qualité des produits composant les menus et de soutenir l'objectif d'une alimentation plus saine et plus durable dans les restaurants.
 
-Loi EGAlim)
-
-est de rendre plus transparentes l'origine et la qualité des produits composant les menus et de soutenir l'objectif d'une alimentation plus saine et plus durable dans les restaurants.
-
-Données d'approvisionnement de denrées alimentaires 2024 :
-
-consultez lès ici
+Données d'approvisionnement de denrées alimentaires 2024 : [consultez lès ici](https://www.colombelles.fr/wp-content/uploads/2025/05/Affiche_RESULTAT-EGAlim_2024-scaled.png)
 
 ## Antigaspi
 
-## Depuis 2017, le RÉGAL Normandie organise les
+Depuis 2017, le RÉGAL Normandie organise les
 
-Défi Assiettes Vides pour lutter contre le gaspillage alimentaire. L’équipe du restaurant scolaire avec les écoliers participent et sensibilisent aux bonnes habitudes à table.`,
+[Défi Assiettes Vides](https://www.regal-normandie.fr/defi-assiettes-vides/)
+
+pour lutter contre le gaspillage alimentaire. L’équipe du restaurant scolaire avec les écoliers participent et sensibilisent aux bonnes habitudes à table.`,
     image: { url: "/media/ville/education-restauration-scolaire-1.jpg", alt: "Restauration scolaire" },
     order: 302,
     status: "publie",
@@ -3673,18 +3196,16 @@ Défi Assiettes Vides pour lutter contre le gaspillage alimentaire. L’équipe
     section: "vivre-a-colombelles",
     subsection: "Éducation",
     summary:
-      "Avant et après la classe, les temps d'accueil encadrés.",
+      "Les accueils périscolaires (matin et soir) sont à destination des enfants scolarisés au sein du groupe scolaire Henri-Sellier.",
     content: `Les accueils périscolaires (matin et soir) sont à destination des enfants scolarisés au sein du groupe scolaire Henri-Sellier.
 
 La gestion de cet accueil est déléguée par la Ville aux Francas du Calvados, association depuis le 1er septembre 2021.
 
-Pour les petits Colombellois du Libéra et du Plateau, ils sont rattachés à l’école de Mondeville
-
-.
+Pour les petits Colombellois du Libéra et du Plateau, ils sont rattachés à [l’école de Mondeville](https://www.mondeville.fr/grandir/pendant-lecole/accueil-du-matin-et-du-soir/).
 
 ## Le matin
 
-Les enfants sont accueillis directement dans les écoles dès 7h30 jusqu’au début de l’école  sur les sites Henri-Sellier maternelle, Henri-Sellier élémentaire et Victor-Hugo.
+Les enfants sont accueillis directement dans les écoles dès 7h30 jusqu’au début de l’école sur les sites Henri-Sellier maternelle, Henri-Sellier élémentaire et Victor-Hugo.
 
 Des activités sont proposées aux enfants pour leur permettre un réveil en douceur afin d’être prêt aux apprentissages de l’école.
 
@@ -3692,77 +3213,52 @@ Des activités sont proposées aux enfants pour leur permettre un réveil en dou
 
 Des animateurs interviennent sur le temps méridien.
 
-Henri-Sellier Maternelle : Pendant le temps de restauration deux animatrices interviennent (une avec les grandes sections et une avec les moyennes sections). Sur le temps d’activités après le repas les deux animatrices proposent des activités qu’au grandes sections.
-
-Henri-Sellier Élémentaire (CP et CE1) : Deux animatrices interviennent auprès des enfants en leur proposant une activité manuelle, culturelle, sportive ou d’expression avant le repas et les accompagnent durant tout le repas.
-
-Site Victor-Hugo (CE2, CM1 et CM2) :  Six animateurs interviennent (5 animateurs + 1 référent).
+- Henri-Sellier Maternelle : Pendant le temps de restauration deux animatrices interviennent (une avec les grandes sections et une avec les moyennes sections). Sur le temps d’activités après le repas les deux animatrices proposent des activités qu’au grandes sections.
+- Henri-Sellier Élémentaire (CP et CE1) : Deux animatrices interviennent auprès des enfants en leur proposant une activité manuelle, culturelle, sportive ou d’expression avant le repas et les accompagnent durant tout le repas.
+- Site Victor-Hugo (CE2, CM1 et CM2) : Six animateurs interviennent (5 animateurs + 1 référent).
 
 ## Le soir
 
-Le soir, l’Accueil Cartable se déroule au sein des écoles sur le site Henri-Sellier jusqu’à 18h30. Les enfants du site Victor-Hugo seront récupérés par les animateurs à la sortie des classes et seront accompagnés jusqu’au site Henri-Sellier.
-
-Des activités seront proposées aux enfants.
+Le soir, l’Accueil Cartable se déroule au sein des écoles sur le site Henri-Sellier jusqu’à 18h30. Les enfants du site Victor-Hugo seront récupérés par les animateurs à la sortie des classes et seront accompagnés jusqu’au site Henri-Sellier. Des activités seront proposées aux enfants.
 
 ## Mercredi Loisirs
 
-Des sorties sont prévues et les activités sont proposées aux enfants en fonction de leurs souhaits, envies et besoins. Les enfants sont accueillis au centre de 7h30 à 18h30.
+Des sorties sont prévues et les activités sont proposées aux enfants en fonction de leurs souhaits, envies et besoins. Les enfants sont accueillis au centre de 7h30 à 18h30.
 
 En pratique :
 
-L’inscription est à la journée ou demi-journée, avec ou sans repas.
+- L’inscription est à la journée ou demi-journée, avec ou sans repas.
+- Les inscriptions ou annulations sont à faire le mercredi précédent avant 18h
 
-Les inscriptions ou annulations sont à faire le mercredi précédent avant 18h
+**Inscription :** [francascalvados.portail-familles.app](https://francascalvados.portail-familles.app/)
 
-Inscription :
+- [La fiche sanitaire](https://www.colombelles.fr/wp-content/uploads/2026/03/Fiche-sanitaire-2025-2026.pdf) (1 par enfant)
+- [Bulletin d’adhésion](https://www.colombelles.fr/wp-content/uploads/2026/03/Dossier-dinscription-en-francais-facile-Colombelles-2025-2026.pdf)
+- [Adhésion Francas14](https://www.colombelles.fr/wp-content/uploads/2023/08/adhesion_francas14.pdf)
+- [Guide mémo](https://www.colombelles.fr/wp-content/uploads/2026/03/Memo-2526.pdf)
 
-https://francascalvados.portail-familles.app
+[Plus d’informations sur le site des Francas du Calvados](https://www.francas-calvados.fr/2023/08/24/dossiers-dinscription-2023-2024/?fbclid=IwAR3azbwP9brwbgoSs8C7tQi9qNQZYnkGmq1EKdxK294Arhdr2OFywEW9lrY)
 
-La fiche sanitaire
+## Dossier d’inscription
 
-(1 par enfant)
+- **Inscription :** [francascalvados.portail-familles.app](https://francascalvados.portail-familles.app/)
 
-Bulletin d’adhésion
-
-Adhésion Francas14
-
-## Guide mémo
-
-Plus d’informations sur le site des Francas du Calvados
-
-Dossier d’inscription
-
-Inscription :
-
-https://francascalvados.portail-familles.app
-
-Le dossier d’inscription
-
-(1 par famille par an)
-
-La fiche sanitaire
-
-(1 par enfant)
-
-Bulletin d’adhésion
-
-Adhésion Francas14
-
-## Guide mémo
+- [Le dossier d’inscription](https://www.colombelles.fr/wp-content/uploads/2026/03/Dossier-dinscription-en-francais-facile-Colombelles-2025-2026.pdf) (1 par famille par an)
+- [La fiche sanitaire](https://www.colombelles.fr/wp-content/uploads/2026/03/Fiche-sanitaire-2025-2026.pdf) (1 par enfant)
+- [Bulletin d’adhésion](https://www.colombelles.fr/wp-content/uploads/2024/06/juste-le-bulletin.pdf)
+- [Adhésion Francas14](https://www.colombelles.fr/wp-content/uploads/2023/08/adhesion_francas14.pdf)
+- [Guide mémo](https://www.colombelles.fr/wp-content/uploads/2026/03/Memo-2526.pdf)
 
 Inscription possible en scannant le QRCode
 
-CONTACT
+## Informations pratiques
 
-Les Francas
-
-## 52 avenue Léon Blum
-
-## Du lundi au vendredi : 10h – 12h / 13h30 – 18h30
-
-02 31 84 93 48 colombelles@francas-calvados.fr
-
-Facebook`,
+- **Contact** — Les Francas
+- **Adresse** — 52 avenue Léon Blum
+- **Téléphone** — 02 31 84 93 48
+- **Courriel** — colombelles@francas-calvados.fr
+- **Horaires** — Du lundi au vendredi : 10h – 12h / 13h30 – 18h30
+- [Facebook](http://facebook.com/FrancasColombelles)`,
     order: 303,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -3775,46 +3271,29 @@ Facebook`,
     section: "vivre-a-colombelles",
     subsection: "Éducation",
     summary:
-      "Mercredis et vacances scolaires.",
-    content: `L’accueil extrascolaire est géré par délégation de service public à l’association les Francas du Calvados
-
-.
+      "L’accueil extrascolaire est géré par délégation de service public à l’association les Francas du Calvados.",
+    content: `L’accueil extrascolaire est géré par délégation de service public à l’association [les Francas du Calvados](https://www.francas-calvados.fr).
 
 ## Pendant les vacances scolaires
 
-Le centre de loisirs est ouvert de 7h30 à 18h30.
+Le centre de loisirs est ouvert de 7h30 à 18h30. Un programme d’animations est prévu et adapté en fonction du souhait, des envies et des besoins des enfants.
 
-Un programme d’animations est prévu et adapté en fonction du souhait, des envies et des besoins des enfants.
+En pratique :
 
-En pratique
+- Inscription à la journée ou à la demi-journée, avec ou sans repas.
+- Inscription à faire au secrétariat au plus tard 8 jours avant
+- Les imprimés ci-dessous sont à remplir en plus de ceux liés à l’activité choisie.
+- Ils sont à compléter sont à déposer directement auprès du Centre de Loisirs Les Francas, 52 avenue Léon Blum, ou à envoyer à : colombelles@francasnormandie.fr
+- La tarification 2024-2025 figure dans le document « [**CGV Colombelles**](https://www.colombelles.fr/wp-content/uploads/2024/06/CGV_Colombelles-2024-2025.pdf) », dont la lecture est nécessaire.
 
-:
+[Plus d’informations sur le site des Francas du Calvados](https://www.francas-calvados.fr/)
 
-Inscription à la journée ou à la demi-journée, avec ou sans repas.
+## Informations pratiques
 
-## Inscription à faire au secrétariat au plus tard 8 jours avant
-
-Les imprimés ci-dessous sont à remplir en plus de ceux liés à l’activité choisie.
-
-Ils sont à compléter sont à déposer directement auprès du Centre de Loisirs Les Francas, 52 avenue Léon Blum, ou à envoyer à : colombelles@francasnormandie.fr
-
-La tarification 2024-2025 figure dans le document
-
-«
-
-CGV Colombelles
-
-», dont la lecture est nécessaire.
-
-Plus d’informations sur le site des Francas du Calvados
-
-Informations pratiques
-
-Les Francas
-
-## 52 avenue Léon Blum
-
-02 31 84 93 48 colombelles@francas-calvados.fr`,
+- **Contact** — Les Francas
+- **Adresse** — 52 avenue Léon Blum
+- **Téléphone** — 02 31 84 93 48
+- **Courriel** — colombelles@francas-calvados.fr`,
     order: 304,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -3827,128 +3306,72 @@ Les Francas
     section: "vivre-a-colombelles",
     subsection: "Éducation",
     summary:
-      "Établissements de rattachement et transport scolaire.",
-    content: `Collèges Gisèle Guillemot (Mondeville) et Henri Brunet (Caen)
+      "Les collèges Gisèle Guillemot à Mondeville et Henri Brunet à Caen sont les établissements publics d’enseignement secondaire des Colombellois.",
+    content: `## Collèges Gisèle Guillemot (Mondeville) et Henri Brunet (Caen)
 
-## Les collèges Gisèle Guillemot à Mondeville et
+Les [collèges Gisèle Guillemot à Mondeville](https://gisele-guillemot.college.ac-normandie.fr/) et [Henri Brunet à Caen](https://brunet.college.ac-normandie.fr/) sont les établissements publics d’enseignement secondaire des Colombellois.
 
-Henri Brunet à Caen sont les établi ssements publics d’enseignement secondaire des Colombellois.
+En complément des bourses touchées par les familles de collégiens, la ville abonde d’une aide de 20 €.
 
-En complément des bourses touchées par les familles de collégiens, la ville abonde d’une aide de
-
-20 €.
-
-Les collèges sont une compétence du
-
-Département du Calvados
-
-.
+Les collèges sont une compétence du [Département du Calvados](https://www.calvados.fr/accueil/le-departement/jeunesse--colleges.html).
 
 ## Bourse collégiens et lycéens
 
 La Ville soutient la scolarité des collégiens et lycéens. Ce dispositif communal consiste à accorder une bourse complémentaire aux familles déjà bénéficiaires d’une bourse nationale, pour leur enfant scolarisé au collège ou au lycée.
 
-Retrouvez toutes les infos ici
+[Retrouvez toutes les infos ici](/vivre-a-colombelles/bourses-collegiens-et-lyceens)
 
-COLLEGE GISELE GUILLEMOT
+## Informations pratiques
 
-Collège Gisèle Guillemot
+- **Contact** — Collège Gisèle Guillemot
+- **Adresse** — 2 rue Gisèle Guillemot, Mondeville
+- **Téléphone** — 02 50 22 15 86
+- **Courriel** — ce.0141256p@ac-caen.fr
+- [Plus d’informations](https://gisele-guillemot.college.ac-normandie.fr/)
 
-2 rue Gisèle Guillemot, Mondeville
+## Informations pratiques
 
-02 50 22 15 86 ce.0141256p@ac-caen.fr
-
-Plus d’informations
-
-COLLEGE HENRI BRUNET
-
-Collège Henri Brunet
-
-## 9 bis avenue du Six Juin, Caen
-
-02 31 85 17 58 ce.0141313b@ac-normandie.fr
+- **Contact** — Collège Henri Brunet
+- **Adresse** — 9 bis avenue du Six Juin, Caen
+- **Téléphone** — 02 31 85 17 58
+- **Courriel** — ce.0141313b@ac-normandie.fr
 
 ## Lignes de bus pour accéder aux collèges
 
-Lignes de bus complémentaires desservant le collège Guillemot
+**Lignes de bus complémentaires desservant le collège Guillemot**
 
-## Ligne 111
+- [Ligne 111](https://www.colombelles.fr/wp-content/uploads/2025/09/Ligne-111-sept-2025.pdf) : COLOMBELLES Mandela → MONDEVILLE Collège Guillemot
+- [Ligne 121a et 121b](https://www.colombelles.fr/wp-content/uploads/2025/09/Ligne-121-sept-2025.pdf) : COLOMBELLES Lazzaro ou Mairie → MONDEVILLE Collège Guillemot
 
-: COLOMBELLES Mandela → MONDEVILLE Collège Guillemot
+**Lignes de bus desservant le collège Henri Brunet : [twisto.fr](https://www.twisto.fr/)**
 
-Ligne 121a et 121b
+## Transport scolaire : la Ville reconduit son aide pour les collégiens
 
-: COLOMBELLES Lazzaro ou Mairie
-
-→
-
-## MONDEVILLE Collège Guillemot
-
-Lignes de bus desservant le collège Henri Brunet :
-
-## https://www.twisto.fr/
-
-Transport scolaire : la Ville reconduit son aide pour les collégiens
-
-Afin de garantir l’égalité d’accès à l’éducation et de soutenir les familles, la Ville de Colombelles renouvelle pour l’année scolaire
-
-2026-2027 la prise en charge de la carte de transport scolaire Twisto pour les élèves domiciliés à Colombelles et scolarisés aux collèges
-
-Gisèle Guillemot ou
-
-Henri Brunet
-
-.
+Afin de garantir l’égalité d’accès à l’éducation et de soutenir les familles, la Ville de Colombelles renouvelle pour l’année scolaire **2026-2027** la prise en charge de la carte de transport scolaire Twisto pour les élèves domiciliés à Colombelles et scolarisés aux collèges **Gisèle Guillemot** ou **Henri Brunet**.
 
 Cette aide permet aux collégiens concernés de bénéficier gratuitement d’un aller-retour quotidien les jours de classe.
 
-Les familles doivent compléter le formulaire d’inscription Twisto et le transmettre directement à Twisto, accompagné des pièces justificatives demandées. La carte nominative sera ensuite envoyée à domicile.
+Les familles doivent compléter [le formulaire d’inscription Twisto](https://www.colombelles.fr/wp-content/uploads/2026/06/formulaire-Twisto-et-courrier-du-Maire_2026.pdf) et le transmettre directement à Twisto, accompagné des pièces justificatives demandées. La carte nominative sera ensuite envoyée à domicile.
 
 Pour faciliter les démarches, une permanence de l’agence mobile Twisto sera organisée à Colombelles :
 
-Mercredi 17 juin 2026 , de 11h à 17h
+- **Mercredi 17 juin 2026**, de 11h à 17h
+- **Samedi 8 août 2026**, de 11h à 17h
+- Place François-Mitterrand
 
-Samedi 8 août 2026 , de 11h à 17h
+Par ailleurs, une aide complémentaire de **20 €** est proposée aux élèves boursiers. Les dossiers de demande seront disponibles en mairie à partir du **2 novembre 2026**.
 
-Place François-Mitterrand
-
-## Par ailleurs, une aide complémentaire de
-
-20 € est proposée aux élèves boursiers. Les dossiers de demande seront disponibles en mairie à partir du
-
-2 novembre 2026
-
-.
-
-Pour tout renseignement complémentaire, contactez le Service Jeunesse et Sport de la Ville au
-
-02 31 35 25 03
-
-.
+Pour tout renseignement complémentaire, contactez le Service Jeunesse et Sport de la Ville au **02 31 35 25 03**.
 
 ## Lycées
 
-Les lycées sont une compétence de la région Normandie.
+Les lycées sont une compétence de [la région Normandie.](https://www.normandie.fr/jeunesse-education-citoyennete)
 
-Transport scolaire des lycéens : pensez à vous inscrire avant le 16 juillet.
+**Transport scolaire des lycéens : pensez à vous inscrire avant le 16 juillet.**
 
-Les inscriptions au transport scolaire
+Les inscriptions au transport scolaire [« pass scolaire **NOMAD »**](https://www.colombelles.fr/wp-content/uploads/2026/06/WEB_Depliant_Transports-scolaire_Nomad_2026.pdf) pour l’année scolaire **2026-2027** sont ouvertes du **16 juin au 16 juillet 2026**. Elles concernent les **lycéens colombellois dont l’établissement scolaire est situé hors de l’agglomération Caen la Mer**.
 
-« pass scolaire
-
-NOMAD »
-
-pour l’année scolaire
-
-2026-2027 sont ouvertes du
-
-## 16 juin au 16 juillet 2026
-
-. Elles concernent les lycéens colombellois dont l’établissement scolaire est situé hors de l’agglomération Caen la Mer
-
-.
-
-L’inscription s’effectue directement en ligne sur le portail NOMAD. Plusieurs dispositifs d’aide peuvent être mobilisés par les familles : demi-tarif sous conditions de ressources, paiement en 4 fois sans frais ou encore fonds social régional pour les lycéens.
+L’inscription s’effectue directement en ligne sur le portail NOMAD. Plusieurs dispositifs d’aide peuvent être mobilisés par les familles : demi-tarif sous conditions de ressources, paiement en 4 fois sans frais ou encore fonds social régional pour les lycéens.
 
 Les familles sont invitées à effectuer leurs démarches dès à présent afin de garantir la prise en compte du dossier pour la rentrée de septembre.
 
@@ -3965,50 +3388,34 @@ Les familles sont invitées à effectuer leurs démarches dès à présent afin 
     section: "vivre-a-colombelles",
     subsection: "Éducation",
     summary:
-      "Dispositifs de soutien à la scolarité et à la parentalité.",
-    content: `Pour les 0 – 3 ans
+      "Le Lieu Accueil Enfants Parents, l’Esperluetteoffre un espace de rencontres pour les enfants non scolarisés et leurs parents ou pour les futur parents. Un espace de…",
+    content: `## Pour les 0 – 3 ans
 
-## Le
+Le [Lieu Accueil Enfants Parents, *l’Esperluette*](/vivre-a-colombelles/lieu-d-accueil-enfants-parents)offre un espace de rencontres pour les enfants non scolarisés et leurs parents ou pour les futur parents. Un espace de partage autour de la parentalité pour échanger et apprendre les uns des autres.
 
-Lieu Accueil Enfants Parents, l’Esperluette offre un espace de rencontres pour les enfants non scolarisés et leurs parents ou pour les futur parents. Un espace de partage autour de la parentalité pour échanger et apprendre les uns des autres.
+## Pour les 2 – 16 ans
 
-Pour les 2 – 16 ans
-
-Le Programme de Réussite Éducative (PRE)
+**Le Programme de Réussite Éducative (PRE)**
 
 Le Programme de Réussite Éducative (PRE) s’adresse aux enfants de 2 à 16 ans qui rencontrent des difficultés ou qui sont fragilisés. Il offre gratuitement un lieu d’accueil et d’écoute, un accompagnement personnalisé, une aide concrète, un soutien dans l’amélioration de la situation.
 
-Le programme de réussite éducative, qu’est-ce que c’est ?
+**Le programme de réussite éducative, qu’est-ce que c’est ?**
 
 Un lieu d’accueil et d’écoute pour favoriser la réussite éducative des enfants et des adolescents.
 
-Pour qui ?
+- **Pour qui ?** Les 2 – 16 ans : tous les enfants et adolescents qui ont besoin d’un soutien dans le cadre de leur vie quotidienne (école, collège, famille, santé,…).
+- **Objectif :** Donner toutes les chances aux enfants et adolescents de réussir en unissant les compétences de tous les acteurs.
+- **Comment ?**
+- En mettant en place un parcours personnalisé adapté aux besoins de chaque enfant
+- En associant les parents au projet de leur enfant
+- En travaillant avec une équipe pluridisciplinaire en respectant les règles de confidentialité
+- Les parents sont au cœur du dispositif. L’accord des parents est indispensable pour que l’enfant bénéficie du PRE.
+- Les étapes d’un accompagnement avec le PRE
+- Un professionnel vous a proposé d’orienter votre enfant vers le PRE
+- Un parent vous a parlé de ce dispositif
+- Vous pouvez aussi contacter directement l’équipe du PRE ou vous adresser à l’enseignant(e) de votre enfant ou au directeur(trice) de l’école.
 
-Les 2 – 16 ans : tous les enfants et adolescents qui ont besoin d’un soutien dans le cadre de leur vie quotidienne (école, collège, famille, santé, …).
-
-Objectif :
-
-Donner toutes les chances aux enfants et adolescents de réussir en unissant les compétences de tous les acteurs.
-
-Comment ?
-
-En mettant en place un parcours personnalisé adapté aux besoins de chaque enfant
-
-## En associant les parents au projet de leur enfant
-
-En travaillant avec une équipe pluridisciplinaire en respectant les règles de confidentialité
-
-Les parents sont au cœur du dispositif. L’accord des parents est indispensable pour que l’enfant bénéficie du PRE.
-
-## Les étapes d’un accompagnement avec le PRE
-
-Un professionnel vous a proposé d’orienter votre enfant vers le PRE
-
-## Un parent vous a parlé de ce dispositif
-
-Vous pouvez aussi contacter directement l’équipe du PRE ou vous adresser à l’enseignant(e) de votre enfant ou au directeur(trice) de l’école.
-
-3 phases :
+**3 phases :**
 
 1/ Une rencontre : La famille rencontre l’équipe du PRE. Avec son accord, la situation de l’enfant est étudiée en équipe pluridisciplinaire.
 
@@ -4016,51 +3423,46 @@ Vous pouvez aussi contacter directement l’équipe du PRE ou vous adresser à l
 
 3/ Les actions : Avec votre accord, les actions proposées sont mises en place. L’équipe du PRE assure un suivi régulier avec l’enfant. Les actions menées peuvent concerner les domaines suivants : scolarité, santé, ouverture vers l’extérieur, accès au sport, à la culture et aux loisirs
 
-Plaquette d’information contact
+[Plaquette d’information](https://www.colombelles.fr/wp-content/uploads/2023/08/Programme_Reussite_Educative_BDOK-1.pdf)
 
-Programme de Réussite Éducative
+## Informations pratiques
 
-2 rue Victor-Hugo
-
-02 31 52 23 92 pre@colombelles.fr
+- **Contact** — Programme de Réussite Éducative
+- **Adresse** — 2 rue Victor-Hugo
+- **Téléphone** — 02 31 52 23 92
+- **Courriel** — pre@colombelles.fr
 
 ## Centre de loisirs les Francas
 
 L’association départementale des Francas du Calvados est une association d’Education Populaire organisatrice d’accueils collectifs avec et sans hébergement et une fédération d’organisateurs locaux. Les Francas du Calvados œuvrent à promouvoir les Droits de l’Enfant et à développer la réflexion et l’action autour des loisirs éducatifs pour tous les enfants. L’organisation des Accueils de Loisirs à Colombelles par les Francas du Calvados fait l’objet d’une Délégation de Service Public pour la Ville de Colombelles.
 
-Ils assurent donc la gestion de l’accueil périscolaire et extra-scolaire
+Ils assurent donc la gestion de l’accueil [périscolaire](/vivre-a-colombelles/accueil-periscolaire) et [extra-scolaire](/vivre-a-colombelles/accueil-extrascolaire).
 
-.
-
-Plus d’informations
-
-Informations pratiques
-
-## Centre de loisirs les Francas
-
-## 52 avenue Léon Blum de 10h à 12h et de 13h30 à 18h30
-
-02 31 84 93 48 colombelles@francas-calvados.fr
-
-## Facebook
-
-## Centre socio-culturel et sportif Léo Lagrange
-
-Affilié à la fédération Léo Lagrange, association d’éducation populaire reconnue d’utilité publique, le
-
-CSCS Léo Lagrange a pour objectif de développer la vie associative, en prenant en compte les besoins des usagers et des habitants, en favorisant les échanges et les rencontres intergénérationnelles en proposant aux publics de tous âges des activités et des loisirs de qualité dans des domaines différents : activités socio culturelles ou sportives, loisirs pour la jeunesse, projets et ateliers avec le secteur Familles/Habitants, etc…
-
-Le CSCS Léo Lagrange dispose d’un programme trimestriel et des activités sportives et de loisirs.
-
-Plus d’informations
+[Plus d’informations](https://www.francas-calvados.fr/colombelles/)
 
 ## Informations pratiques
 
-Centre socio-culturel et de loisirs Léo Lagrange
+- **Contact** — Centre de loisirs les Francas
+- **Adresse** — 52 avenue Léon Blum
+- **Téléphone** — 02 31 84 93 48
+- **Courriel** — colombelles@francas-calvados.fr
+- **Horaires** — de 10h à 12h et de 13h30 à 18h30
+- [Facebook](https://www.facebook.com/FrancasColombelles)
 
-52 avenue Léon Blum, Colombelles
+## Centre socio-culturel et sportif Léo Lagrange
 
-02 31 72 40 86 cscsleolagrange@gmail.com`,
+Affilié à la fédération Léo Lagrange, association d’éducation populaire reconnue d’utilité publique, le **CSCS Léo Lagrange** a pour objectif de développer la vie associative, en prenant en compte les besoins des usagers et des habitants, en favorisant les échanges et les rencontres intergénérationnelles en proposant **aux publics de tous âges** des activités et des loisirs de qualité dans des domaines différents : activités socio culturelles ou sportives, loisirs pour la jeunesse, projets et ateliers avec le secteur Familles/Habitants, etc…
+
+Le CSCS Léo Lagrange dispose d’un programme trimestriel et des activités sportives et de loisirs.
+
+[Plus d’informations](https://www.leolagrange-colombelles.com/index.html)
+
+## Informations pratiques
+
+- **Contact** — Centre socio-culturel et de loisirs Léo Lagrange
+- **Adresse** — 52 avenue Léon Blum, Colombelles
+- **Téléphone** — 02 31 72 40 86
+- **Courriel** — cscsleolagrange@gmail.com`,
     order: 306,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -4073,30 +3475,30 @@ Centre socio-culturel et de loisirs Léo Lagrange
     section: "vivre-a-colombelles",
     subsection: "Jeunesse",
     summary:
-      "La Ruche, lieu de rencontres et de projets pour les 11-17 ans.",
-    content: `La Ruche est le local jeunes des 11 – 17 ans à Colombelles. Un lieu de rencontres, de partage, d’activités et de projets pour les jeunes qui le souhaitent.
+      "La Ruche est le local jeunes des 11 – 17 ans à Colombelles. Un lieu de rencontres, de partage, d’activités et de projets pour les jeunes qui le souhaitent.",
+    content: `La Ruche est le local jeunes des 11 – 17 ans à Colombelles. Un lieu de rencontres, de partage, d’activités et de projets pour les jeunes qui le souhaitent.
 
-Mardi, jeudi et vendredi  : 16h-18h30 et jusqu’à 19h en période estivale
+**Accueil**
 
-Mercredi et samedi  : 14h-18h30 et jusqu’à 19h en période estivale
+- Mardi, jeudi et vendredi : 16h-18h30 et jusqu’à 19h en période estivale
+- Mercredi et samedi : 14h-18h30 et jusqu’à 19h en période estivale
+- Vacances scolaires : 10h-12h / 14h-18h30 et jusqu’à 19h en période estivale
+- Des veillées sont proposées régulièrement de 18h30 à 22h : calendrier sur demande
 
-Vacances scolaires  : 10h-12h / 14h-18h30 et jusqu’à 19h en période estivale
+**Pour les conditions d’inscription**
 
-Des veillées sont proposées régulièrement de 18h30 à 22h : calendrier sur demande
+- Dossier à retirer au local jeunes ou demander à un animateur du local jeunes au secrétariat.
+- Pour que l’inscription soit définitive, le dossier doit être dûment rempli et une adhésion à l’année de 35€ est obligatoire (15€ d’adhésion à l’association des Francas et 10€ au local).
 
-## Pour les conditions d’inscription
+**Programme des activités du mois de juillet 2026**
 
-Dossier à retirer au local jeunes ou demander à un animateur du local jeunes au secrétariat.
+## Informations pratiques
 
-Pour que l’inscription soit définitive, le dossier doit être dûment rempli et une adhésion à l’année de 35€ est obligatoire (15€ d’adhésion à l’association des Francas et 10€ au local).
+- **Contact** — Local jeune de Colombelle – La Ruche
+- **Adresse** — 52 avenue Léon Blum
+- **Téléphone** — localjeune.colombelles@gmail.com
 
-Programme des activités du mois de juillet 2026
-
-Informations pratiques
-
-## Local jeune de Colombelle – La Ruche
-
-52 avenue Léon Blum localjeune.colombelles@gmail.com local jeune`,
+- local jeune`,
     image: { url: "/media/ville/jeunesse-local-jeunes-3.jpg", alt: "Local jeune" },
     order: 401,
     status: "publie",
@@ -4110,32 +3512,30 @@ Informations pratiques
     section: "vivre-a-colombelles",
     subsection: "Jeunesse",
     summary:
-      "Une aide annuelle aux familles colombelloises.",
+      "La Ville accompagne la scolarité de ses lycéens et collégiens. Ce dispositif communal consiste en l’octroi d’une bourse aux familles déjà bénéficiaires d’une bourse…",
     content: `La Ville accompagne la scolarité de ses lycéens et collégiens. Ce dispositif communal consiste en l’octroi d’une bourse aux familles déjà bénéficiaires d’une bourse nationale pour leur enfant scolarisé au lycée et au collège.
 
 ## DOSSIER DE DEMANDE 2025-2026
 
 Le dossier de demande de bourse est constitué de deux parties obligatoires, à retourner au plus tard le lundi 1er décembre 2025 :
 
-Une seule fiche de renseignements valable pour toute la famille : version en ligne la fiche familiale de renseignements / version imprimable
+- Une seule fiche de renseignements valable pour toute la famille : version en ligne [la fiche familiale de renseignements / version imprimable](https://www.colombelles.fr/wp-content/uploads/2025/10/Fiche-de-renseignements-familiaux_2025.pdf)
 
-Une fiche individuelle à remplir pour chaque enfant demandeur d’une bourse :
-
-la fiche individuelle
+- Une fiche individuelle à remplir pour chaque enfant demandeur d’une bourse : [la fiche individuelle](https://www.colombelles.fr/wp-content/uploads/2025/10/Fiche-eleves-2025.pdf)
 
 Les fiches peuvent être :
 
-complétées en ligne et adressées par email à mairie@colombelles.fr déposer à la mairie de Colombelles.
+- complétées en ligne et adressées par email à mairie@colombelles.fr
+- déposer à la mairie de Colombelles.
 
 En cas de dossier incomplet, la commission d’attribution ne pourra instruire le dossier de demande de bourse.
 
-## CONTACT
+## Informations pratiques
 
-Direction Enfance Éducation Jeunesse Sport
-
-Place F. Mitterrand
-
-02 31 35 57 07 mairie@colombelles.fr`,
+- **Contact** — Direction Enfance Éducation Jeunesse Sport
+- **Adresse** — Place F. Mitterrand
+- **Téléphone** — 02 31 35 57 07
+- **Courriel** — mairie@colombelles.fr`,
     order: 402,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -4148,14 +3548,13 @@ Place F. Mitterrand
     section: "vivre-a-colombelles",
     subsection: "Jeunesse",
     summary:
-      "Une présence de proximité sur l'espace public.",
+      "Deux médiateurs ont été recrutés par la Ville, depuis 2021, pour faciliter le lien avec les habitants. Ils sont sur le terrain pour être à votre écoute. L’objectif est…",
     content: `Deux médiateurs ont été recrutés par la Ville, depuis 2021, pour faciliter le lien avec les habitants. Ils sont sur le terrain pour être à votre écoute. L’objectif est de favoriser le lien social au quotidien sur la commune auprès de toutes les générations et de tous les habitants.
 
 CONTACTS :
 
-Médiateur : 07 57 09 66 30
-
-Médiateur jeunesse : 06 86 49 95 52`,
+- Médiateur : 07 57 09 66 30
+- Médiateur jeunesse : 06 86 49 95 52`,
     order: 403,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -4168,28 +3567,32 @@ Médiateur jeunesse : 06 86 49 95 52`,
     section: "vivre-a-colombelles",
     subsection: "Sport",
     summary:
-      "Stades, gymnases, dojo et espaces en accès libre.",
-    content: `La Ville de Colombelles dispose de 3 structures sportives :
+      "un gymnase un dojo une piste d’athlétisme un terrain de football un terrain de basket extérieur un skatepark",
+    content: `## La Ville de Colombelles dispose de 3 structures sportives :
 
-Le stade Pierre-Rival,
+**Le stade Pierre-Rival,** 52 avenue Léon Blum, composé de :
 
-52 avenue Léon Blum, composé de :
+- un gymnase
+- un dojo
+- une piste d’athlétisme
+- un terrain de football
+- un terrain de basket extérieur
+- un skatepark
 
-un gymnase un dojo une piste d’athlétisme un terrain de football un terrain de basket extérieur un skatepark
+**Le stade Michel-Hidalgo,** rue du stade, quartier le Plateau, composé de :
 
-Le stade Michel-Hidalgo, rue du stade, quartier le Plateau, composé de :
+- un gymnase avec 604 places en tribune dont 13 PMR
+- un terrain de football extérieur
 
-un gymnase avec 604 places en tribune dont 13 PMR un terrain de football extérieur
-
-## Le Stade Auguste-Michelle, rue Jean-Jaurès
+**Le Stade Auguste-Michelle, rue Jean-Jaurès**
 
 Un stade en entrée de ville accueillant les entrainements de l’école de football
 
-## Les terrains de tennis
+**Les terrains de tennis**
 
-Situés sur le complexe Rival, 3 terrains en accès libre  en dehors des créneaux réservés pour le Centre socio-culturel et sportif Léo Lagrange
+Situés sur le complexe Rival, 3 terrains en accès libre en dehors des créneaux réservés pour le Centre socio-culturel et sportif Léo Lagrange
 
-## La piscine du SIVOM des Trois Vallées
+[La piscine du SIVOM des Trois Vallées](http://www.sivomdes3vallees.fr/index.php/la-piscine-de-colombelles/)
 
 Situé au cœur de Colombelles, notre Établissement public a à la fois une vocation ludique et sportive, puisqu’il accueille chaque jour de nombreux usagers, établissements scolaires, clubs et associations, représentant près de 60 000 visiteurs par an.
 
@@ -4201,13 +3604,10 @@ L’autre de 25 m en profondeur constante est plus adapté à la nage libre et s
 
 Cette vidéo valorise la diversité des disciplines, les équipements ainsi que l’implication des clubs et la passion des licenciés.
 
-Stade Rival
-
-## Stade Hildalgo
-
-Piscine du SIVOM des 3 Vallées à  Colombelles
-
-Tennis, stade Rival`,
+- Stade Rival
+- Stade Hildalgo
+- Piscine du SIVOM des 3 Vallées à Colombelles
+- Tennis, stade Rival`,
     image: { url: "/media/ville/sport-les-structures-3.jpg", alt: "Les équipements sportifs" },
     order: 501,
     status: "publie",
@@ -4221,24 +3621,20 @@ Tennis, stade Rival`,
     section: "vivre-a-colombelles",
     subsection: "Sport",
     summary:
-      "Terre de Jeux et Ville active et sportive.",
+      "La 9e cérémonie nationale dulabel Ville Active et Sportive qui s’est déroulée à Nice le 30 octobre 2025 a réuni plus de 700 élus et directeurs de services des sports…",
     content: `## Ville active et sportive
 
-La 9 e cérémonie nationale du label Ville Active et Sportive qui s’est déroulée à Nice le 30 octobre 2025 a réuni plus de 700 élus et directeurs de services des sports pour un record : 480 communes lauréates.
+La 9e cérémonie nationale du**label Ville Active et Sportive** qui s’est déroulée à Nice le 30 octobre 2025 a réuni plus de 700 élus et directeurs de services des sports pour un record : 480 communes lauréates.
 
-La Ville a reçu, pour la deuxième fois de suite, le label
-
-« Ville Active et Sportive »
-
-pour une durée de trois ans, distinguant ainsi la qualité et la continuité de son action en faveur du sport pour tous.
+La Ville a reçu, pour la deuxième fois de suite, le label **« Ville Active et Sportive »** pour une durée de trois ans, distinguant ainsi la qualité et la continuité de son action en faveur du sport pour tous.
 
 En lien étroit avec le tissu associatif, la Ville développe et modernise ses équipements, soutient la diversité des pratiques, favorise l’inclusion et encourage les initiatives Sport-Santé.
 
-Cette reconnaissance nationale souligne l’engagement de Colombelles pour proposer une offre accessible, innovante et contribuer au dynamisme et à la qualité de vie de l’ensemble des habitants. Une Ville où le sport rime avec plaisir et bien-être !
+Cette reconnaissance nationale souligne l’engagement de Colombelles pour proposer une offre accessible, innovante et contribuer au dynamisme et à la qualité de vie de l’ensemble des habitants. Une Ville où le sport rime avec plaisir et bien-être !
 
 Cette année encore, Colombelles est valorisée de 2 lauriers sur les 4 pouvant être obtenus.
 
-Plus d’informations
+[Plus d’informations](https://ville-active-et-sportive.com/villes/colombelles)
 
 ## #TerredeJeux2024
 
@@ -4246,21 +3642,15 @@ Plus d’informations
 
 Ainsi depuis 2021, la Ville est labellisée Terre de Jeux 2024.
 
-Être labellisé Terre de Jeux 2024 permet d’impulser une dynamique locale en amont de cet événement international.
+Être labellisé Terre de Jeux 2024 permet d’impulser une dynamique locale en amont de cet événement international. Ainsi avec les écoles, des rendez-vous ont lieu :
 
-Ainsi avec les écoles, des rendez-vous ont lieu :
+- semaine olympique et paralympique avec :
+- une course symbolique de 230 kilomètres qui séparent Colombelles de Paris, lieu des Jeux Olympiques en 2024, sous forme de relais
+- des challenges interclasses
+- la conception d’une flamme olympique et le transfert de la flamme du site scolaire Henri-Sellier à celui de Victor-Hugo comme un emblème des actions sur le territoire
+- rencontres avec des sportifs de haut niveau
 
-semaine olympique et paralympique avec :
-
-une course symbolique de 230 kilomètres qui séparent Colombelles de Paris, lieu des Jeux Olympiques en 2024, sous forme de relais des challenges interclasses la conception d’une flamme olympique et le transfert de la flamme du site scolaire Henri-Sellier à celui de Victor-Hugo comme un emblème des actions sur le territoire rencontres avec des sportifs de haut niveau
-
-Plus d’information :
-
-https://terredejeux.paris2024.org
-
-## /
-
-https://www.paris2024.org/fr/label-terre-de-jeux-2024/`,
+Plus d’information : [paris2024.org/fr/label-terre-de-jeux-2024](https://www.paris2024.org/fr/label-terre-de-jeux-2024/)`,
     image: { url: "/media/ville/sport-les-labellisations-2.jpg", alt: "Les labellisations" },
     order: 502,
     status: "publie",
@@ -4274,18 +3664,18 @@ https://www.paris2024.org/fr/label-terre-de-jeux-2024/`,
     section: "vivre-a-colombelles",
     subsection: "Sport",
     summary:
-      "Un parcours balisé dans le bois de Colombelles.",
+      "Un circuit de course d’orientation est à votre disposition dans le Bois de Colombelles.",
     content: `Un circuit de course d’orientation est à votre disposition dans le Bois de Colombelles.
 
 Entre amis ou en famille, tentez l’expérience : plaisir, partage et échange garantis !
 
-Comment ça fonctionne ?
+**Comment ça fonctionne ?**
 
 Une carte spéciale d’orientation, une boussole et c’est parti pour une activité sportive de plein air praticable par tous ! La course d’orientation est à la fois une activité physique et de réflexion.
 
 Seul ou en famille, jeunes ou moins jeunes, tout le monde y trouve un intérêt : celui de se promener en pleine nature ou en milieu urbain, découvrir un espace, trouver les balises, ou courir. À Colombelles, le parcours est installé dans le Bois de Colombelles.
 
-Pour tenter l’expérience, veuillez télécharger la carte et le carton de contrôle`,
+Pour tenter l’expérience, veuillez télécharger [la carte](https://www.colombelles.fr/wp-content/uploads/2023/04/3pages-parcours-orientation-Colombelles.pdf)et [le carton de contrôle](https://www.colombelles.fr/wp-content/uploads/2023/04/Carton-de-controle-Colombelles.pdf)`,
     order: 503,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -4298,7 +3688,7 @@ Pour tenter l’expérience, veuillez télécharger la carte et le carton de con
     section: "vivre-a-colombelles",
     subsection: "Séniors",
     summary:
-      "Visites de convivialité, transport solidaire, banquet et colis.",
+      "Pour une promenade, aller faire quelques courses, partager des moments de convivialité et de discussions à domicile, vous accompagner à un rendez-vous médical, les…",
     content: `## Visites de convivialité
 
 Pour une promenade, aller faire quelques courses, partager des moments de convivialité et de discussions à domicile, vous accompagner à un rendez-vous médical, les services à la personne sont là pour vous simplifier la vie et la rendre plus facile et agréable.
@@ -4311,25 +3701,24 @@ CONTACTS : ccas@colombelles.fr / concierjeris@gmail.com : 02 31 35 57 00 / 02 31
 
 Ce service, réservé aux habitants de Colombelles adhérents à Atipic, vous permet d’être accompagné pour faire une course, aller à un rendez-vous médical ou au cinéma. Un conducteur vient vous chercher à votre domicile, vous dépose où vous le souhaitez et vient vous rechercher à l’heure convenue ensemble. Un service est également proposé aux personnes souhaitant se rendre à l’EHPAD de Colombelles pour un accueil de jour. Tarifs : consulter Atipic.
 
-Renseignements et tarifs auprès d’Atipic, 02 31 83 21 30 – concierjeris@gmail.com
+*Renseignements et tarifs auprès d’Atipic, 02 31 83 21 30 – concierjeris@gmail.com*
 
 ## Transports urbain
 
-Twisto dispose d’un tarif solidaire destiné aux personnes fragiles qui offre des réductions plus importantes ou la gratuité des déplacements en bus et en tramway.
+[Twisto dispose d’un tarif solidaire](https://www.twisto.fr/tarifs/tarification-solidaire.html) destiné aux personnes fragiles qui offre des réductions plus importantes ou la gratuité des déplacements en bus et en tramway.
 
 ## Banquet et colis aux ainés
 
 À l’occasion des vœux du nouvel an, le CCAS de Colombelles offre aux personnes âgées de 68 et plus un repas dansant. Les personnes ne souhaitant y participer reçoivent un colis au domicile remis par l’équipe municipale.
 
-Renseignements auprès du CCAS, 7 rue Jules Guesde – Tél : 02 31 35 57 00
+*Renseignements auprès du CCAS, 7 rue Jules Guesde – Tél : 02 31 35 57 00*
 
 ## Loisirs séniors
 
 Pour sortir, échanger, rencontrer du monde, plusieurs associations sont présentes sur le territoire pour des activités :
 
-le Club Le Nagard,  3 rue Jules Guesde > Georgette Delannoy, Présidente – georgetteanne14@gmail.com – 06 12 68 46 06 / 06 85 73 59 78
-
-Loisirs Solidarité Retraités, avenue Léon Blum > Président Saïd Achaboub – 15 avenue Léon-Blum – achaboub.sahid@orange.fr – 06 32 89 58 27 / 06 33 80 11 85
+- le Club Le Nagard, 3 rue Jules Guesde > Georgette Delannoy, Présidente – georgetteanne14@gmail.com – 06 12 68 46 06 / 06 85 73 59 78
+- Loisirs Solidarité Retraités, avenue Léon Blum > Président Saïd Achaboub – 15 avenue Léon-Blum – achaboub.sahid@orange.fr – 06 32 89 58 27 / 06 33 80 11 85
 
 ## Sports séniors
 
@@ -4341,7 +3730,7 @@ Information : Centre socio-culturel Léo Lagrange : 02 31 72 40 86 – 07 67 49 
 
 Le CCAS propose à tous les Colombellois (actifs et non actifs) relevant du régime général de bénéficier d’un accès à une complémentaire santé à moindre coût
 
-Renseignements auprès du CCAS, 7 rue Jules Guesde – Tél : 02 31 35 57 00`,
+*Renseignements auprès du CCAS, 7 rue Jules Guesde – Tél : 02 31 35 57 00*`,
     image: { url: "/media/ville/seniors-les-aides-3.jpg", alt: "Accompagnement au quotidien" },
     order: 601,
     status: "publie",
@@ -4355,42 +3744,29 @@ Renseignements auprès du CCAS, 7 rue Jules Guesde – Tél : 02 31 35 57 00`,
     section: "vivre-a-colombelles",
     subsection: "Séniors",
     summary:
-      "La résidence autonomie de la commune.",
-    content: `## Le résidence
+      "Le résidence Jean Goueslard, situé au 5 et 9 rue Lucien Mangematin (à 50 m du centre-ville), est une résidence accueillant des retraités autonomes comprenant 34…",
+    content: `Le résidence *Jean Goueslard*, situé au 5 et 9 rue Lucien Mangematin (à 50 m du centre-ville), est une résidence accueillant des retraités autonomes comprenant 34 logements T1 Bis d’une superficie de 33 m².
 
-Jean Goueslard , situé au 5 et 9 rue Lucien Mangematin (à 50 m du centre-ville), est une résidence accueillant des retraités autonomes comprenant 34 logements T1 Bis d’une superficie de 33 m².
-
-## À la résidence
-
-Jean Goueslard , chacun vit à son rythme tout en conservant ses droits et devoirs de locataire et en bénéficiant d’une surveillance.
+À la résidence *Jean Goueslard*, chacun vit à son rythme tout en conservant ses droits et devoirs de locataire et en bénéficiant d’une surveillance.
 
 Des espaces collectifs permettent de se réunir autour de jeux de société, d’activités de loisirs ou de manifestations festives pour ceux qui le souhaitent.
 
-## La résidence
+La résidence *Jean Goueslard* est un lieu d’hébergement non-médicalisé pour personnes autonomes.
 
-Jean Goueslard est un lieu d’hébergement non-médicalisé pour personnes autonomes.
+## Informations pratiques
 
-CONTACT
+- **Contact** — Résidence Jean Goueslard
+- **Adresse** — 5 et 9, rue Lucien Mangematin
+- **Téléphone** — 02 31 35 57 00
+- **Courriel** — residence.goueslard@colombelles.fr
 
-Résidence Jean Goueslard
-
-## 5 et 9, rue Lucien Mangematin
-
-02 31 35 57 00 residence.goueslard@colombelles.fr
-
-Appartement de la Résidence Goueslard
-
-Appartement de la Résidence Goueslard
-
-Appartement de la Résidence Goueslard
-
-Animation musicale
-
-Sortie
-
-Repas en commun
-
-Salon commun`,
+- Appartement de la Résidence Goueslard
+- Appartement de la Résidence Goueslard
+- Appartement de la Résidence Goueslard
+- Animation musicale
+- Sortie
+- Repas en commun
+- Salon commun`,
     image: { url: "/media/ville/seniors-foyer-residence-goueslard-6.jpg", alt: "Résidence Jean-Goueslard" },
     order: 602,
     status: "publie",
@@ -4404,36 +3780,31 @@ Salon commun`,
     section: "vivre-a-colombelles",
     subsection: "Séniors",
     summary:
-      "EHPAD et services aux personnes âgées à proximité.",
-    content: `Établissement d’hébergement pour personnes âgées dépendantes
-
-## Belle Colombe
+      "L’établissement EHPAD Belle Colombe est un EHPAD, maison de retraite médicalisée pour personnes âgées dépendantes. Cet établissement dispose de 82 lits.",
+    content: `## Établissement d’hébergement pour personnes âgées dépendantes Belle Colombe
 
 L’établissement EHPAD Belle Colombe est un EHPAD, maison de retraite médicalisée pour personnes âgées dépendantes. Cet établissement dispose de 82 lits.
 
-Plus d’informations
+[Plus d’informations](https://www.pour-les-personnes-agees.gouv.fr/annuaire-ehpad-et-maisons-de-retraite/EHPAD/CALVADOS-14/colombelles-14460/ehpad-belle-colombe/140001066)
 
-Contact
+**Contact**
 
-Informations pratiques
+## Informations pratiques
 
-EHPAD Belle Colombe
-
-1 rue Victor Hugo
-
-02 31 35 87 87
+- **Contact** — EHPAD Belle Colombe
+- **Adresse** — 1 rue Victor Hugo
+- **Téléphone** — 02 31 35 87 87
 
 ## Associations seniors
 
-Envie de partager des activités, des repas, des sorties, l’association Le Nagard vous offre la possibilité
+**Envie de partager des activités, des repas, des sorties, l’association Le Nagard vous offre la possibilité**
 
-Informations pratiques
+## Informations pratiques
 
-Club le Nagard
-
-## 3 rue Jules Guesde
-
-06 12 68 46 06 / 06 85 73 59 78 georgetteanne14@gmail.com`,
+- **Contact** — Club le Nagard
+- **Adresse** — 3 rue Jules Guesde
+- **Téléphone** — 06 12 68 46 06 / 06 85 73 59 78
+- **Courriel** — georgetteanne14@gmail.com`,
     order: 603,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -4446,38 +3817,30 @@ Club le Nagard
     section: "vivre-a-colombelles",
     subsection: "Associations",
     summary:
-      "Le tissu associatif colombellois et l'accompagnement de la Ville.",
+      "Au-delà des aides en nature telles que la mise à disposition de salles ou d’équipements dans l’organisation du fonctionnement ou des manifestations des associations, la…",
     content: `## DOSSIER DE DEMANDE DE SUBVENTION 2026
 
 Au-delà des aides en nature telles que la mise à disposition de salles ou d’équipements dans l’organisation du fonctionnement ou des manifestations des associations, la Commune de Colombelles, sous certaines conditions, peut aider financièrement votre association.
 
-Pour ce faire, veuillez télécharger ci-dessous le dossier de demande de subvention pour l’année 2026 ou le demander à l’adresse elise.ruaud@colombelles.fr
+Pour ce faire, veuillez télécharger ci-dessous le**dossier de demande de subvention pour l’année 2026** ou le demander à l’adresse elise.ruaud@colombelles.fr
 
-Le dossier de demande de subvention ainsi que le contrat d’engagement républicain sont à retourner à l’hôtel de ville, place François Mitterrand au plus tard le 3 décembre 2025.
+Le dossier de demande de subvention ainsi que le contrat d’engagement républicain sont à retourner à l’hôtel de ville, place François Mitterrand **au plus tard le 3 décembre 2025.**
 
-Dossier demande de subvention associations 2026 pour les associations sportives (format PDF)
+- [Dossier demande de subvention associations 2026 pour les associations sportives (format PDF)](https://www.colombelles.fr/wp-content/uploads/2025/10/Dossier-demande-de-subvention-associations-Colombelles-2026-SPORT.pdf)
+- [Dossier demande de subvention associations 2026 pour les autres associations (format PDF)](https://www.colombelles.fr/wp-content/uploads/2025/10/Dossier-demande-de-subvention-associations-Colombelles-2026.pdf)
+- [Contrat d’engagement républicain à retourner signé](https://www.colombelles.fr/wp-content/uploads/2024/10/CONTRAT-ENGAGEMENT-REPUBLICAIN.pdf)
 
-Dossier demande de subvention associations 2026 pour les autres associations (format PDF)
+## Afin de répondre à vos besoins, nous rappelons que deux types de subventions existent :
 
-## Contrat d’engagement républicain à retourner signé
+- **La subvention de fonctionnement :** pour l’activité usuelle de l’association (achat de matériel, développer une activité, etc.)
+- **La subvention de projet** : qui concerne le financement d’une action spécifique qu’une association souhaiterait mettre en place (événement exceptionnel, etc.).
 
-Afin de répondre à vos besoins, nous rappelons que deux types de subventions existent :
+## Informations pratiques
 
-La subvention de fonctionnement :
-
-pour l’activité usuelle de l’association (achat de matériel, développer une activité, etc.)
-
-## La subvention de projet
-
-: qui concerne le financement d’une action spécifique qu’une association souhaiterait mettre en place (événement exceptionnel, etc.).
-
-Informations pratiques
-
-Mairie de Colombelles
-
-Place François-Mitterrand
-
-02 56 27 50 82 compta@colombelles.fr
+- **Contact** — Mairie de Colombelles
+- **Adresse** — Place François-Mitterrand
+- **Téléphone** — 02 56 27 50 82
+- **Courriel** — compta@colombelles.fr
 
 ## FORUM DES ASSOCIATIONS
 
@@ -4485,9 +3848,7 @@ Le forum des associations est organisé le 1er samedi du mois de septembre au st
 
 C’est l’occasion de rencontrer les associations du territoire, de vous renseigner et de vous inscrire pour l’année scolaire pour vous ou vos enfants.
 
-Les actions et l’implication des équipes de bénévoles des associations ont permis d’obtenir le label ville active et sportive
-
-.
+Les actions et l’implication des équipes de bénévoles des associations ont permis d’obtenir [le label ville active et sportive](/vivre-a-colombelles/les-labellisations).
 
 ## GUIDE DES ASSOCIATIONS
 
@@ -4505,22 +3866,20 @@ Des dizaines d’activités sportives, culturelles ou de loisirs vous attendent 
     section: "vivre-a-colombelles",
     subsection: "Environnement",
     summary:
-      "Vingt-deux hectares entretenus sans produit phytosanitaire.",
-    content: `Tous les espaces verts à Colombelles
+      "Rendez-vous dans la rubrique Nature pour découvrir le Bois, les parcs, les squares avec des aires de jeux… à Colombelles.",
+    content: `## Tous les espaces verts à Colombelles
 
-## Rendez-vous dans la rubrique
+Rendez-vous dans la rubrique [Nature](/sortir-et-decouvrir/cote-vert) pour découvrir le Bois, les parcs, les squares avec des aires de jeux… à Colombelles.
 
-Nature pour découvrir le Bois, les parcs, les squares avec des aires de jeux… à Colombelles.
-
-L’entretien des espaces verts est une compétence de la communauté urbaine Caen la mer.
+**L’entretien des espaces verts est une compétence de la communauté urbaine Caen la mer.**
 
 Une équipe est en charge spécifiquement des espaces verts, mais aussi de la voirie. Ils travaillent au sein des locaux de la Ville mais sont employés par Caen la mer. La qualité de vie des habitants est au cœur de leur travail quotidien.
 
-Les espaces verts sont entretenus de façon adaptée selon les caractéristiques des espaces verts, les types de fréquentation et  leurs usages : on parle de gestion différenciée.
+Les espaces verts sont entretenus de façon adaptée selon les caractéristiques des espaces verts, les types de fréquentation et leurs usages : on parle de gestion différenciée.
 
-Plus d’informations
+[Plus d’informations](https://caenlamer.fr/voirie-espaces-verts)
 
-Plan de la ville`,
+- Plan de la ville`,
     order: 801,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -4533,7 +3892,7 @@ Plan de la ville`,
     section: "vivre-a-colombelles",
     subsection: "Environnement",
     summary:
-      "Atlas de la biodiversité, éco-pâturage et gestion différenciée.",
+      "Le programme « Territoires engagés pour la nature » vise à faire émerger, reconnaître et valoriser des plans d’actions en faveur de la biodiversité.",
     content: `## Colombelles, territoire engagé pour la nature
 
 Le programme « Territoires engagés pour la nature » vise à faire émerger, reconnaître et valoriser des plans d’actions en faveur de la biodiversité.
@@ -4542,31 +3901,24 @@ Colombelles est un des 200 territoires nationaux et un des 11 territoires norman
 
 Colombelles s’engage ainsi dans un plan d’actions sur 3 ans via 4 actions principales :
 
-la mise en place de jardins comestibles en centre-ville avec le concours de l’entreprise Atipic le boisement expérimental à proximité de la Grande Halle et le renforcement de la trame verte et bleue (avec un plan de renaturation des berges de l’Orne)
+- la mise en place de jardins comestibles en centre-ville avec le concours de l’entreprise Atipic
+- le boisement expérimental à proximité de la Grande Halle et le renforcement de la trame verte et bleue (avec un plan de renaturation des berges de l’Orne)
+- la déminéralisation du cimetière
+- la création d’un atlas de la biodiversité
 
-la déminéralisation du cimetière la création d’un atlas de la biodiversité
-
-L’opération « une naissance – un arbre »
+## L’opération « une naissance – un arbre »
 
 intègre le programme « Territoire engagé pour la nature ». Ce dispositif contribue à la création d’un micro boisement dans la ville. Depuis 2015, 550 arbres ont été plantés sur la commune.
 
 ## Piqu’En Ville : un hérisson dans mon jardin
 
-Sur l’exemple de la démarche mise en œuvre en Angleterre, le
+Sur l’exemple de la démarche mise en œuvre en Angleterre, le [Groupe Mammalogique Normand](https://new.gmn.asso.fr/) (GMN) propose de mettre en place un programme participatif de reconnexion des jardins et autres espaces verts en faveur de la petite faune terrestre.
 
-## Groupe Mammalogique Normand
-
-(GMN) propose de mettre en place un programme participatif de reconnexion des jardins et autres espaces verts en faveur de la petite faune terrestre.
-
-L’objectif principal de ce programme est simple : recréer, avec l’aide des habitants de la région Normandie, des passages entre les propriétés privées et publiques pour permettre le déplacement de ces espèces, dont le Hérisson d’Europe. Pour cela, le GMN se propose de créer des passages de jardin en jardin et de sensibiliser le publique sur le respect de la faune sauvage
-
-.
+L’objectif principal de ce programme est simple : recréer, avec l’aide des habitants de la région Normandie, des passages entre les propriétés privées et publiques pour permettre le déplacement de ces espèces, dont le Hérisson d’Europe. Pour cela, le GMN se propose**de créer des passages de jardin en jardin et de sensibiliser le publique sur le respect de la faune sauvage**.
 
 Pourquoi le Hérisson d’Europe ? Car ce mammifère a besoin d’un domaine vital de plusieurs hectares par individu, se déplaçant de 1 à 4 km chaque nuit pour trouver de la nourriture (coléoptères, vers de terre, escargots, limaces), des abris et des partenaires… sans se faire écraser !
 
-Colombelles a été une des premières villes à s’inscrire dans le programme
-
-. Elle a commencé en 2024 avec un passage pour la faune qui a été inauguré le 9 avril au niveau du stade Hidalgo à Colombelles. Le même jour, un passage au sein de l’école des Tilleuls a été créé avec une sensibilisation des scolaires par le Groupe Mammalogique Normand
+**Colombelles a été une des premières villes à s’inscrire dans le programme**. Elle a commencé en 2024 avec un passage pour la faune qui a été inauguré le 9 avril au niveau du stade Hidalgo à Colombelles. Le même jour, un passage au sein de l’école des Tilleuls a été créé avec une sensibilisation des scolaires par le Groupe Mammalogique Normand
 
 La Ville poursuit en 2025 avec le choix du site du cimetière qui peut accueillir ce projet, dans la mesure ou il est bordé en limites séparatives de dalles de béton.
 
@@ -4574,21 +3926,17 @@ Au total, 31 passages à hérissons ont vu le jour partagés entre les jardins p
 
 ## Création de 2 mares écologiques dans le Bois de Colombelles
 
-En mars dernier, la Ville a engagé des travaux de création de deux mares écologiques au cœur du Bois de Colombelles. Ce projet s’inscrit dans une démarche globale de préservation et de valorisation des milieux naturels.
+En mars dernier, la Ville a engagé des travaux de création de **deux mares écologiques** au cœur du Bois de Colombelles. Ce projet s’inscrit dans une démarche globale de préservation et de valorisation des milieux naturels.
 
-Véritables écosystèmes à part entière , ces mares constituent un habitat favorable pour de nombreuses espèces. Elles accueilleront notamment la grenouille rousse , espèce emblématique et essentielle des zones humides, ainsi qu’une grande diversité de plantes et d’animaux aquatiques.
+Véritables **écosystèmes à part entière**, ces mares constituent un habitat favorable pour de nombreuses espèces. Elles accueilleront notamment la **grenouille rousse**, espèce emblématique et essentielle des zones humides, ainsi qu’une grande diversité de plantes et d’animaux aquatiques.
 
-Cette réalisation est le fruit d’un engagement collectif en faveur de l’environnement et s’inscrit pleinement dans le cadre du label
-
-Territoire Engagé pour la Nature , porté par la collectivité.
+Cette réalisation est le fruit d’un **engagement collectif** en faveur de l’environnement et s’inscrit pleinement dans le cadre du label **Territoire Engagé pour la Nature**, porté par la collectivité.
 
 Pourquoi ces mares sont-elles essentielles ?
 
-Elles recréent des écosystèmes favorables à la faune et à la flore locales
-
-Elles contribuent activement à la préservation de la biodiversité
-
-Elles offrent aux habitants un espace naturel à découvrir, à comprendre et à protéger
+- Elles recréent des écosystèmes favorables à la faune et à la flore locales
+- Elles contribuent activement à la préservation de la biodiversité
+- Elles offrent aux habitants un espace naturel à découvrir, à comprendre et à protéger
 
 À travers ce projet, la commune affirme sa volonté d’agir concrètement pour la protection des milieux naturels et la transmission de ces enjeux aux générations futures.
 
@@ -4596,31 +3944,32 @@ Elles offrent aux habitants un espace naturel à découvrir, à comprendre et à
 
 Vous aimeriez végétaliser sur votre trottoir devant chez vous ou vous êtes en appartement et vous manquez d’espace pour un petit jardin…. Vous pouvez faire une demande de permis de végétaliser pour un espace à proximité de votre logement.
 
-Comment faire ?
+**Comment faire ?**
 
-Prenez d’abord connaissance de la charte de végétalisation qui est à signer et remplissez la demande de permis de végétalisation qui précisera l’emplacement, les plantes et éventuels matériaux souhaités. Une fois validée par le comité de végétalisation, l’espace public sera votre jardin !
+Prenez d’abord connaissance de la [**charte de végétalisation**](https://www.colombelles.fr/wp-content/uploads/2023/04/charte-de-vegetalisation.pdf) qui est à signer et remplissez [**la demande de permis de végétalisation**](https://www.colombelles.fr/wp-content/uploads/2023/11/permis-de-vegetaliser.pdf) qui précisera l’emplacement, les plantes et éventuels matériaux souhaités. Une fois validée par le comité de végétalisation, l’espace public sera votre jardin !
 
-Information : S ervice urbanisme : urbanisme@colombelles.fr – 02 31 35 25 00
+Information : Service urbanisme : urbanisme@colombelles.fr – 02 31 35 25 00
 
-## Plus d’information dans l e guide  la végétalisation
+Plus d’information dans l[e guide la végétalisation](https://www.colombelles.fr/wp-content/uploads/2026/08/guide-de-vegetalisation-BD_2026.pdf)
 
 ## Atlas de la biodiversité communale 2021 – 2023
 
-En Normandie, 25% des espèces sauvages évaluées par les scientifiques sont menacées d’extinction !
+**En Normandie, 25% des espèces sauvages évaluées par les scientifiques sont menacées d’extinction !**
 
 Mobilisées de longue date sur le sujet, les communes de Colombelles et de Giberville ont lancé la réalisation d’un Atlas de la Biodiversité Communale (ABC) jusqu’en juin 2023 en partenariat avec le CPIE Vallée de l’Orne.
 
-AVEC VOUS, NOUS AVONS RÉALISÉ L’ATLAS DE LA BIODIVERSITÉ COMMUNALE son principe : faire un état des lieux des espèces sauvages du territoire, en impliquant les habitants et autres acteurs, sur la question de la sauvegarde de cette biodiversité.
+**AVEC VOUS, NOUS AVONS RÉALISÉ L’ATLAS DE LA BIODIVERSITÉ COMMUNALE**
 
-ses objectifs : protéger ce patrimoine commun, aussi bien dans le cadre des grands projets d’aménagement du territoire comme des petits gestes du quotidien.
+- son principe : faire un état des lieux des espèces sauvages du territoire, en impliquant les habitants et autres acteurs, sur la question de la sauvegarde de cette biodiversité.
+- ses objectifs : protéger ce patrimoine commun, aussi bien dans le cadre des grands projets d’aménagement du territoire comme des petits gestes du quotidien.
 
 Le rapport final sera prochainement publié sur cette page.
 
-CONTACT
+## Informations pratiques
 
-## CPIE Vallée de l’Orne
-
-06 49 98 00 84 abc.colombelles.giberville@gmail.com`,
+- **Contact** — CPIE Vallée de l’Orne
+- **Téléphone** — 06 49 98 00 84
+- **Courriel** — abc.colombelles.giberville@gmail.com`,
     image: { url: "/media/ville/environnement-biodiversite-10.jpg", alt: "Biodiversité" },
     order: 802,
     status: "publie",
@@ -4634,36 +3983,23 @@ CONTACT
     section: "vivre-a-colombelles",
     subsection: "Grands projets",
     summary:
-      "Les chantiers en cours sur la commune.",
+      "La rue Jean Jaurès fait l’objet de travaux importants pour des réfections et mise en séparatif des réseaux eaux usées, pluviales et potables, d’effacement des réseaux et…",
     content: `## Requalification de la Rue Jean Jaurès
 
 La rue Jean Jaurès fait l’objet de travaux importants pour des réfections et mise en séparatif des réseaux eaux usées, pluviales et potables, d’effacement des réseaux et d’aménagements urbains.
 
 Différentes de travaux sont à prévoir :
 
-Septembre 2023 – juillet 204 :
-
-Réfection et mise en séparatif des réseaux eaux usées et des eaux pluviales et potables
-
-## Juillet – décembre 2024
-
-: Effacement des réseaux de distribution d’électricité, d’éclairage et de télécommunication
-
-## 2025
-
-: Aménagement de la nouvelle rue (piste cyclable, carrefour apaisé, paysagement…)
-
-## 2026
-
-: Aménagement du tronçon Pumptrack > Rond-point Lazzaro
+- **Septembre 2023 – juillet 204 :**Réfection et mise en séparatif des réseaux eaux usées et des eaux pluviales et potables
+- **Juillet – décembre 2024** : Effacement des réseaux de distribution d’électricité, d’éclairage et de télécommunication
+- **2025** : Aménagement de la nouvelle rue (piste cyclable, carrefour apaisé, paysagement…)
+- **2026** : Aménagement du tronçon Pumptrack > Rond-point Lazzaro
 
 ## Déminéralisation du cimetière
 
-Cette opération vise à redonner une place plus importante au végétal. Elle comprend l’engazonnement des allées et des espaces inter-tombes , la plantation de bosquets boisés sur les pelouses , ainsi que la mise en place d’arbres isolés au sein des haies horticoles existantes
+Cette opération vise à redonner une place plus importante au végétal. Elle comprend **l’engazonnement des allées et des espaces inter-tombes**, la **plantation de bosquets boisés sur les pelouses**, ainsi que la **mise en place d’arbres isolés au sein des haies horticoles existantes**. Par ailleurs, les carrés en attente feront l’objet d’une **gestion en fauche tardive**, favorable au développement de la biodiversité.
 
-. Par ailleurs, les carrés en attente feront l’objet d’une gestion en fauche tardive , favorable au développement de la biodiversité.
-
-Cette action rentre dans le cadre du label « territoire engagé pour la nature » .
+Cette action rentre dans le cadre du label « territoire engagé pour la nature ».
 
 ## Nouveau pont de Colombelles
 
@@ -4673,7 +4009,9 @@ Son remplacement prochain offrira des bénéfices durables : une circulation plu
 
 Le chantier du nouveau pont a débuté en novembre 2025 pour une durée prévisionnelle d’environ 22 mois. Il se déroule en plusieurs phases successives, accompagnées d’une information régulière des riverains et des usagers.
 
-Les principales étapes comprennent : l’adaptation du réseau de chauffage urbain (déjà achevée), les travaux préparatoires et la sécurisation du site à l’automne 2025, les terrassements au printemps 2026, puis la construction du nouveau pont et de ses équipements à l’été 2026. Le raccordement de la voirie et la mise en service interviendront entre l’été 2026 et début 2027, avant la déconstruction de l’ancien pont et les aménagements paysagers au premier semestre 2027.`,
+Les principales étapes comprennent : l’adaptation du réseau de chauffage urbain (déjà achevée), les travaux préparatoires et la sécurisation du site à l’automne 2025, les terrassements au printemps 2026, puis la construction du nouveau pont et de ses équipements à l’été 2026. Le raccordement de la voirie et la mise en service interviendront entre l’été 2026 et début 2027, avant la déconstruction de l’ancien pont et les aménagements paysagers au premier semestre 2027.
+
+[En savoir plus](https://www.colombelles.fr/actualite/nouveau-pont-de-colombelles-une-etape-structurante-pour-le-territoire/)`,
     image: { url: "/media/ville/projets-sur-le-territoire-travaux-2.jpg", alt: "Travaux" },
     order: 901,
     status: "publie",
@@ -4687,81 +4025,69 @@ Les principales étapes comprennent : l’adaptation du réseau de chauffage urb
     section: "vivre-a-colombelles",
     subsection: "Grands projets",
     summary:
-      "Les projets urbains qui dessinent la ville de demain.",
-    content: `## NOUVELLES SERRES DE CULTURE
+      "Synthèse de la consultation dans le cadre de la participation par voie électronique du public 2024",
+    content: `### NOUVELLES SERRES DE CULTURE
 
-Synthèse de la consultation dans le cadre de la participation par voie électronique du public 2024
+[Synthèse de la consultation dans le cadre de la participation par voie électronique du public 2024](https://www.colombelles.fr/wp-content/uploads/2024/11/Synthese-signee-de-la-mise-a-disposition-du-public-par-voie-electronique.pdf)
 
-Du vendredi 18 juillet au mercredi 20 août 2025 , une nouvelle procédure de participation du public par voie électronique sera ouverte pour recueillir vos avis ou poser vos questions sur la modification de la construction d’une serre de culture et de l’extension de la serre existante par la réalisation d’un local de conditionnement avec toitures dotées de panneaux photovoltaïques et la création d’une réserve d’eau supplémentaire d’un diamètre de 14,58 mètres.
+**Du vendredi 18 juillet au mercredi 20 août 2025**, une nouvelle procédure de participation du public par voie électronique sera ouverte pour recueillir vos avis ou poser vos questions sur la modification de la construction d’une serre de culture et de l’extension de la serre existante par la réalisation d’un local de conditionnement avec toitures dotées de panneaux photovoltaïques et la création d’une réserve d’eau supplémentaire d’un diamètre de 14,58 mètres.
 
-Nouvelle procédure de participation du public :
+Nouvelle procédure de participation du public : modification du permis de construire d’une nouvelle serre de culture et l’extension de la serre existante
 
-modification du permis de construire d’une nouvelle serre de culture et l’extension de la serre existante
+Du vendredi 18 juillet au mercredi 20 août 2025, une procédure de participation du public par voie électronique sera ouverte pour recueillir vos avis ou poser vos questions sur sur la modification de la construction d’une serre de culture et de l’extension de la serre existante par la réalisation d’un local de conditionnement avec toitures dotées de panneaux photovoltaïques et la création d’une réserve d’eau supplémentaire d’un diamètre de 14,58 mètres située 5 rue du Four à Chaux à Colombelles.
 
-Du vendredi 18 juillet au mercredi 20 août 2025 , une procédure de participation du public par voie électronique sera ouverte pour recueillir vos avis ou poser vos questions sur sur la modification de la construction d’une serre de culture et de l’extension de la serre existante par la réalisation d’un local de conditionnement avec toitures dotées de panneaux photovoltaïques et la création d’une réserve d’eau supplémentaire d’un diamètre de 14,58 mètres située 5 rue du Four à Chaux à Colombelles.
-
-Vous pourrez faire part de vos observations ou propositions, sous forme électronique, à l’adresse électronique suivante:
-
-urbanisme@colombelles.fr du vendredi 18 juillet 2025 à 12h00 au mercredi 20 août 2025 à 12h00 inclus.
+Vous pourrez faire part de vos observations ou propositions, sous forme électronique, à l’adresse électronique suivante: urbanisme@colombelles.fr du vendredi 18 juillet 2025 à 12h00 au mercredi 20 août 2025 à 12h00 inclus.
 
 Consultez le dossier complet :
 
-## pièces constitutives de la demande de permis de construire
-
-(en raison d’un poids importants de fichiers, le permis de construire est consultable sur demande à urbanisme@colombelles.fr)
-
-études d’impact > fichier 1
-- 
-
-fichier 2 avis de la Missions régionales d’autorité environnementale (MRAe)
+- pièces constitutives de la demande de permis de construire *(en raison d’un poids importants de fichiers, le permis de construire est consultable sur demande à urbanisme@colombelles.fr)*
+- études d’impact > [fichier 1](https://www.colombelles.fr/wp-content/uploads/2025/07/Etude-dimpact-actualisee.pdf) – [fichier 2](https://www.colombelles.fr/wp-content/uploads/2025/07/Memoire-et-resume-non-technique.pdf)
+- [avis de la Missions régionales d’autorité environnementale (MRAe)](https://www.colombelles.fr/wp-content/uploads/2025/07/Avis-MRae-PC-24-P0006-M01-17.06.2025.pdf)
 
 A l’issue de la présente procédure de participation du public et du délai d’instruction de la demande de permis de construire, le Maire de Colombelles statuera sur ladite demande.
 
 La synthèse des observations et propositions du public sera consultable sur le site Internet au plus tard à la date de publication de la décision du Maire de Colombelles.
 
-Documents
+**Documents** :
 
-:
+- [Arrêté municipal portant avis d’ouverture de la procédure de participation du public par voie électronique sur un projet de construction d’une serre de culture et d’extension de la serre existante situé 5 rue du Four à Chaux à Colombelles](https://www.colombelles.fr/wp-content/uploads/2025/07/AM-procedure-consultation-du-public-signe-PC-014-167-24-P-0006.pdf)
+- [Affiche portant avis d’ouverture de la procédure de participation du public par voie électronique sur un projet de construction d’une serre de culture et d’extension de la serre existante situé 5 rue du Four à Chaux à Colombelles](https://www.colombelles.fr/wp-content/uploads/2025/06/Avis-douverture.pdf)
 
-Arrêté municipal portant avis d’ouverture de la procédure de participation du public par voie électronique sur un projet de construction d’une serre de culture et d’extension de la serre existante situé 5 rue du Four à Chaux à Colombelles
+## ÉCOQUARTIER
 
-Affiche portant avis d’ouverture de la procédure de participation du public par voie électronique sur un projet de construction d’une serre de culture et d’extension de la serre existante situé 5 rue du Four à Chaux à Colombelles
+### En lisière du Bois
 
-ÉCOQUARTIER
-
-## En lisière du Bois
-
-Depuis la fermeture du collège Henri-Sellier de Colombelles en 2018, votée par le Conseil Départemental du Calvados, l’emprise de l’établissement laisse une friche d’environ 1,8 hectare que la commune de Colombelles souhaite remobiliser.
+Depuis la fermeture du collège Henri-Sellier de Colombelles en 2018, votée par le Conseil Départemental du Calvados, l’emprise de l’établissement laisse une friche d’environ 1,8 hectare que la commune de Colombelles souhaite remobiliser.
 
 La réflexion autour du site a permis d’aboutir à un projet de quartier d’habitat, dans l’esprit d’un parc habité, laissant toute sa place à la nature.
 
 Situé dans un lieu stratégique de la ville, entre le bois, le groupe scolaire, la cité suédoise et le centre-ville, ce projet est une opportunité d’offrir aux habitants du futur quartier un cadre de vie de qualité mais aussi de permettre aux Colombellois un accès direct et plus aisé au bois et aux bords de l’Orne.
 
-## La démarche ÉcoQuartier
+### La démarche ÉcoQuartier
 
 Portée par le Ministère de la Transition écologique, la démarche ÉcoQuartier favorise de nouvelles façons de concevoir, construire et gérer la ville durablement.
 
 Cette charte repose sur 4 objectifs :
 
-encourager la sobriété dans la consommation des ressources naturelles et de l’énergie ;
-
-penser le bien-être des habitants et la qualité du cadre de vie comme des leviers de la résilience du quartier ;
-
-proposer une offre de logement pour tous, de qualité (énergétique, environnementale et d’usage) adaptée, diversifiée et des espaces publics favorables à la rencontre et aux activités physiques ;
-
-diversifier l’offre de services et d’équipements et intensifier les usages de la ville.
+- encourager la sobriété dans la consommation des ressources naturelles et de l’énergie ;
+- penser le bien-être des habitants et la qualité du cadre de vie comme des leviers de la résilience du quartier ;
+- proposer une offre de logement pour tous, de qualité (énergétique, environnementale et d’usage) adaptée, diversifiée et des espaces publics favorables à la rencontre et aux activités physiques ;
+- diversifier l’offre de services et d’équipements et intensifier les usages de la ville.
 
 Un projet qui amène la nature en ville :
 
-création d’un corridor écologique renfort de la trame paysagère maintien sur site et valorisation des arbres remarquables création d’une voie douce paysagère desservant le quartier au centre-ville et au bois de Colombelles désenclavement du bois de Colombelles gestion des eaux pluviales par des systèmes alternatifs (noues, bassins paysagers ouverts)
+- création d’un corridor écologique
+- renfort de la trame paysagère
+- maintien sur site et valorisation des arbres remarquables
+- création d’une voie douce paysagère desservant le quartier au centre-ville et au bois de Colombelles
+- désenclavement du bois de Colombelles
+- gestion des eaux pluviales par des systèmes alternatifs (noues, bassins paysagers ouverts)
 
-Présentation Réunion Publique décembre 2023 20231214
+[Présentation Réunion Publique décembre 2023 20231214](https://www.colombelles.fr/wp-content/uploads/2023/12/Presentation-Reunion-Publique-decembre-2023-20231214.pdf)[Dossier de presse du projet](https://www.colombelles.fr/wp-content/uploads/2023/09/Dossier-de-presse-signature-ecoquartier.pdf)
 
-## Dossier de presse du projet
+[Réunion publique d’information du 20 décembre 2023 : dossier de présentation](https://www.colombelles.fr/wp-content/uploads/2023/12/Presentation-Reunion-Publique-decembre-2023-20231214.pdf)
 
-Réunion publique d’information du 20 décembre 2023 : dossier de présentation
-
-Projection du quartier - droits réservés`,
+- Projection du quartier - droits réservés`,
     image: { url: "/media/ville/projets-sur-le-territoire-operations-damenagement-2.jpg", alt: "Opérations d'aménagement" },
     order: 902,
     status: "publie",
@@ -4776,26 +4102,22 @@ Projection du quartier - droits réservés`,
     section: "vivre-a-colombelles",
     subsection: "Éducation",
     summary:
-      "L'association délégataire des accueils périscolaires et extrascolaires de la commune.",
-    content: `## Accueil périscolaire
+      "Les accueils périscolaires (matin et soir) sont à destination des enfants scolarisés au sein du groupe scolaire Henri-Sellier. La gestion de cet accueil est déléguée par…",
+    content: `## ACCUEIL PÉRISCOLAIRE
 
-Les accueils périscolaires (matin et soir) sont à destination des enfants scolarisés au sein du groupe scolaire Henri-Sellier. La gestion de cet accueil est déléguée par la Ville aux Francas du Calvados, association depuis le 1er septembre 2021. Pour les petits Colombellois du Libéra et du Plateau, ils sont rattachés à l’école de Mondeville
-
-.
+Les accueils périscolaires (matin et soir) sont à destination des enfants scolarisés au sein du groupe scolaire Henri-Sellier. La gestion de cet accueil est déléguée par la Ville aux Francas du Calvados, association depuis le 1er septembre 2021. Pour les petits Colombellois du Libéra et du Plateau, ils sont rattachés à [l’école de Mondeville](https://www.mondeville.fr/grandir/pendant-lecole/accueil-du-matin-et-du-soir/).
 
 ## Le matin
 
-Les enfants sont accueillis directement dans les écoles dès 7h30 jusqu’au début de l’école  sur les sites Henri-Sellier maternelle, Henri-Sellier élémentaire et Victor-Hugo. Des activités sont proposées aux enfants pour leur permettre un réveil en douceur afin d’être prêt aux apprentissages de l’école.
+Les enfants sont accueillis directement dans les écoles dès 7h30 jusqu’au début de l’école sur les sites Henri-Sellier maternelle, Henri-Sellier élémentaire et Victor-Hugo. Des activités sont proposées aux enfants pour leur permettre un réveil en douceur afin d’être prêt aux apprentissages de l’école.
 
 ## Le temps méridien
 
 Les animateurs interviennent sur le temps méridien des Grandes Sections de la maternelle et des élémentaires (CP-CM2) du groupe scolaire Henri Sellier.
 
-Henri-Sellier Maternelle : Pendant le temps de restauration deux animatrices interviennent (une avec les grandes sections et une avec les moyennes sections). Sur le temps d’activités après le repas les deux animatrices proposent des activités qu’au grandes sections.
-
-Henri-Sellier Élémentaire (CP et CE1) : Deux animatrices interviennent auprès des enfants en leur proposant une activité manuelle, culturelle, sportive ou d’expression avant le repas et les accompagnent durant tout le repas.
-
-Site Victor-Hugo (CE2, CM1 et CM2) : Six animateurs interviennent (5 animateurs + 1 référent).
+- Henri-Sellier Maternelle : Pendant le temps de restauration deux animatrices interviennent (une avec les grandes sections et une avec les moyennes sections). Sur le temps d’activités après le repas les deux animatrices proposent des activités qu’au grandes sections.
+- Henri-Sellier Élémentaire (CP et CE1) : Deux animatrices interviennent auprès des enfants en leur proposant une activité manuelle, culturelle, sportive ou d’expression avant le repas et les accompagnent durant tout le repas.
+- Site Victor-Hugo (CE2, CM1 et CM2) : Six animateurs interviennent (5 animateurs + 1 référent).
 
 ## Le soir
 
@@ -4803,9 +4125,7 @@ Le soir, l’Accueil Cartable se déroule au sein des écoles sur le site Henri-
 
 Des activités seront proposées aux enfants.
 
-Inscription :
-
-https://francascalvados.portail-familles.app
+**Inscription :** [francascalvados.portail-familles.app](https://francascalvados.portail-familles.app)
 
 ## Mercredi loisirs
 
@@ -4815,63 +4135,41 @@ Les enfants sont accueillis au centre de 7h30 à 18h30.
 
 En pratique :
 
-L’inscription est à la journée ou demi-journée, avec ou sans repas.
+- L’inscription est à la journée ou demi-journée, avec ou sans repas.
+- Les inscriptions ou annulations sont à faire le mercredi précédent avant 18h
 
-Les inscriptions ou annulations sont à faire le mercredi précédent avant 18h
+**Inscription accueil périscolaire :** [francascalvados.portail-familles.app](https://francascalvados.portail-familles.app)
 
-Inscription accueil périscolaire
+- [Dossier d’inscription 2024-2025](https://www.colombelles.fr/wp-content/uploads/2024/06/Dossier-dinscription-en-francais-facile-Colombelles-2024-2025.pdf)
+- [**La fiche sanitaire**](https://www.colombelles.fr/wp-content/uploads/2024/06/Fiche-sanitaire-2024-2025.pdf) (1 par enfant)
+- [**Bulletin d’adhésion**](https://www.colombelles.fr/wp-content/uploads/2024/06/juste-le-bulletin.pdf)
+- [La tarification 2024-2025](https://www.colombelles.fr/wp-content/uploads/2024/06/CGV_Colombelles-2024-2025-1.pdf), dont la lecture est nécessaire.
+- [**Plaquette de présentation**](https://www.colombelles.fr/wp-content/uploads/2024/06/Bulletin-adhesion-2024-Francas.pdf)
 
-:
-
-https://francascalvados.portail-familles.app
-
-Dossier d’inscription 2024-2025
-
-La fiche sanitaire
-
-(1 par enfant)
-
-## Bulletin d’adhésion
-
-La tarification 2024-2025 , dont la lecture est nécessaire.
-
-Plaquette de présentation
-
-## Accueil extrascolaire
-
-## Pendant les vacances scolaires
+## ACCUEIL EXTRASCOLAIRE Pendant les vacances scolaires
 
 Le centre de loisirs est ouvert de 7h30 à 18h30.
 
 Un programme d’animations est prévu et adapté en fonction du souhait, des envies et des besoins des enfants.
 
-Inscription extrascolaire
+**Inscription extrascolaire** :
 
-:
+- Inscription à la journée ou à la demi-journée, avec ou sans repas.
+- Inscription à faire au secrétariat au plus tard 8 jours avant
+- Les imprimés ci-dessous sont à remplir en plus de ceux liés à l’activité choisie.
+- Ils sont à compléter sont à déposer directement auprès du Centre de Loisirs Les Francas, 52 avenue Léon Blum, ou à envoyer à : colombelles@francasnormandie.fr
+- [La tarification 2024-2025](https://www.colombelles.fr/wp-content/uploads/2024/06/CGV_Colombelles-2024-2025-1.pdf), dont la lecture est nécessaire.
 
-Inscription à la journée ou à la demi-journée, avec ou sans repas.
+[Plus d’informations sur le site des Francas du Calvados](https://www.francas-calvados.fr/)
 
-## Inscription à faire au secrétariat au plus tard 8 jours avant
+## Informations pratiques
 
-Les imprimés ci-dessous sont à remplir en plus de ceux liés à l’activité choisie.
-
-Ils sont à compléter sont à déposer directement auprès du Centre de Loisirs Les Francas, 52 avenue Léon Blum, ou à envoyer à : colombelles@francasnormandie.fr
-
-La tarification 2024-2025 , dont la lecture est nécessaire.
-
-Plus d’informations sur le site des Francas du Calvados
-
-## Contact
-
-Les Francas
-
-## 52 avenue Léon Blum
-
-## Du lundi au vendredi : 10h – 12h30 / 14h – 18h30
-
-02 31 84 93 48 colombelles@francasnormandie.fr
-
-Facebook`,
+- **Contact** — Les Francas
+- **Adresse** — 52 avenue Léon Blum
+- **Téléphone** — 02 31 84 93 48
+- **Courriel** — colombelles@francasnormandie.fr
+- **Horaires** — Du lundi au vendredi : 10h – 12h30 / 14h – 18h30
+- [Facebook](http://facebook.com/FrancasColombelles)`,
     order: 307,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -4885,7 +4183,7 @@ Facebook`,
     section: "sortir-et-decouvrir",
     subsection: "Patrimoine",
     summary:
-      "Les origines de Colombelles",
+      "Suite à des fouilles dans la ZAC Lazzaro, on sait que des hommes habitaient déjà là il y a 5000 ans avant notre ère. Mais le nom de Colombelles n’apparaît véritablement…",
     content: `## Les origines de Colombelles
 
 Suite à des fouilles dans la ZAC Lazzaro, on sait que des hommes habitaient déjà là il y a 5000 ans avant notre ère. Mais le nom de Colombelles n’apparaît véritablement qu’au XIe siècle.
@@ -4894,7 +4192,7 @@ C’est de cette époque que date la construction de l’église Saint Martin, �
 
 A l’époque, le village était localisé autour de l’église et du bac permettant de franchir l’Orne. Plus de trois cent cinquante habitants vivaient au XXème siècle à Colombelles, et seulement quatre vingt six en 1911. L’activité économique était essentiellement agricole et maritime grâce à la proximité de la rivière alors navigable.
 
-Mais c’est la construction de l’usine métallurgique en 1913 qui va transformer radicalement le paysage de la commune.`,
+Mais c’est la [construction de l’usine métallurgique](/sortir-et-decouvrir/societe-metallurgique-de-normandie) en 1913 qui va transformer radicalement le paysage de la commune.`,
     order: 101,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -4944,39 +4242,22 @@ Elle s’adapte cependant au nouvel environnement économique mais la production
 
 ## Territoire en transition
 
-Donner à voir, à faire, à vivre et à revivre est primordial pour la ville.
+**Donner à voir, à faire, à vivre et à revivre est primordial pour la ville.**
 
 Son développement et son rebond s’articulent autour de projets résilients, solidaires, innovants qui, près de 30 ans après, sont toujours le leitmotiv de la dynamique territoriale.
 
 Ces projets collectifs et participatifs font de Colombelles aujourd’hui une ville attractive et novatrice. La démarche entamée depuis plusieurs années marque les fondements d’une action sociale, environnementale et culturelle forte.
 
-Les axes de développement :
+Les axes de développement :
 
-Le renouvellement urbain de son centre-ville et la création de 2 quartiers nouveaux d’habitats : Jean-Jaurès, sur l’ancien site de la SMN et Le Libéra. Ils comportent des formes d’habitats souples adaptés aux réalités quotidiennes incluant des qualités environnementales. Le cadre de vie, le respect de la nature et de la biodiversité, la végétalisation, les circuits courts et l’optimisation du recyclage des déchets ont été inclus dans les projets.
-
-Territoire d’expérimentation et d’innovation sociale avec, depuis 2016, l’expérimentation Territoire Zéro Chômeur de longue durée et la municipalisation de la cellule Emploi, service dédié aux Colombellois en recherche d’emploi.
-
-## Territoire culturel et ouvert sur le monde
-
-: la réhabilitation du patrimoine industriel (la Grande Halle et le Réfrigérant) et aussi l’ouverture de la Médiathèque Le Phénix en 2001 et du musée numérique et Mini Lab de la Micro-Folie en 2019.
-
-La Communauté urbaine Caen la mer a également engagé une phase de reconquête et de requalification sur le site de la SMN.
-
-En 1997, la ZAC du Plateau est créée et la concession d’aménagement est attribuée à Normandie Aménagement. Deux pôles d’activité sont alors créés : Normandial et EffiScience. À ces espaces s’ajoutent 3 zones d’activités, deux composées de plus de 450 entreprises et une encore en cours de commercialisation. De par la diversité de ses secteurs d’emplois et de ses niveaux de compétences et de spécialisation, Colombelles est aujourd’hui une ville très active et attractive, tant en termes d’emploi qu’en termes de projets d’implantations d’entreprises
-
-.
+- **Le renouvellement urbain** de son centre-ville et la création de 2 quartiers nouveaux d’habitats : Jean-Jaurès, sur l’ancien site de la SMN et Le Libéra. Ils comportent des formes d’habitats souples adaptés aux réalités quotidiennes incluant des qualités environnementales. Le cadre de vie, le respect de la nature et de la biodiversité, la végétalisation, les circuits courts et l’optimisation du recyclage des déchets ont été inclus dans les projets.
+- **Territoire d’expérimentation et d’innovation sociale** avec, depuis 2016, l’expérimentation Territoire Zéro Chômeur de longue durée et la municipalisation de la cellule Emploi, service dédié aux Colombellois en recherche d’emploi.
+- **Territoire culturel et ouvert sur le monde**: la réhabilitation du patrimoine industriel (la Grande Halle et le Réfrigérant) et aussi l’ouverture de la Médiathèque Le Phénix en 2001 et du musée numérique et Mini Lab de la Micro-Folie en 2019.
+- La Communauté urbaine Caen la mer a également engagé une phase de**reconquête et de requalification sur le site de la SMN.**En 1997, la ZAC du Plateau est créée et la concession d’aménagement est attribuée à Normandie Aménagement. Deux pôles d’activité sont alors créés : Normandial et EffiScience. À ces espaces s’ajoutent 3 zones d’activités, deux composées de plus de 450 entreprises et une encore en cours de commercialisation. De par la diversité de ses secteurs d’emplois et de ses niveaux de compétences et de spécialisation, Colombelles est aujourd’hui une ville très active et attractive, tant en termes d’emploi qu’en termes de projets d’implantations d’entreprises*.*
 
 ## Livret jeu ludique pour découvrir le passé ouvrier de la SMN
 
-Plongez dans l’histoire à l’époque où la Société métallurgique de Normandie (SMN) animait la région. Vous découvrirez comment la SMN a marqué le territoire, laissant encore aujourd’hui des traces de son riche passé. L’Office de tourisme de
-
-Caen la mer a lancé un mini-livret touristique , pédagogique et illustré par Chris Lécuyer, graphiste, illustrateur et bédéiste et grâce à la contribution de l’association
-
-SMN :
-
-Mémoire et Patrimoine SMN
-
-.`,
+Plongez dans l’histoire à l’époque où la Société métallurgique de Normandie (SMN) animait la région. Vous découvrirez comment la SMN a marqué le territoire, laissant encore aujourd’hui des traces de son riche passé. L’Office de tourisme de Caen la mer a lancé un [mini-livret touristique](https://www.colombelles.fr/wp-content/uploads/2024/07/livret-SMN-Pages.pdf), pédagogique et illustré par Chris Lécuyer, graphiste, illustrateur et bédéiste et grâce à la contribution de l’association SMN : [Mémoire et Patrimoine SMN](https://memoirepatrimoinesmn.wordpress.com/).`,
     order: 102,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -4989,17 +4270,12 @@ Mémoire et Patrimoine SMN
     section: "sortir-et-decouvrir",
     subsection: "Patrimoine",
     summary:
-      "La Tour de Colombelles",
-    content: `## La Tour de Colombelles
-
-La Tour de Colombelles constitue un vestige de l’ancien mur d’enceinte du château de Colombelles. Elle porte une inscription en partie effacée : 1665. L’architecture du bâtiment et cette appartenance probable au XVIIe siècle évoquent plus une destination ornementale que défensive.
+      "La Tour de Colombelles constitue un vestige de l’ancien mur d’enceinte du château de Colombelles. Elle porte une inscription en partie effacée : 1665. L’architecture du…",
+    content: `La Tour de Colombelles constitue un vestige de l’ancien mur d’enceinte du château de Colombelles. Elle porte une inscription en partie effacée : 1665. L’architecture du bâtiment et cette appartenance probable au XVIIe siècle évoquent plus une destination ornementale que défensive.
 
 Fortement remaniée au cours des siècles, on peut supposer qu’elle servait de logement de gardien pour le château, un édifice de style Empire incendié pendant les combats de juillet 1944. Il avait lui-même succédé à un château plus ancien dont il ne reste rien si ce n’est une mention sur le plan Colbert de 1681.
 
-La Tour de Colombelles – Place Aristide Briand – 14460 Colombelles –
-
-Les Amis de la Tour
-- 02 31 72 19 03`,
+**La Tour de Colombelles – Place Aristide Briand – 14460 Colombelles – [Les Amis de la Tour](http://lesamisdelatour-colombelles.eklablog.fr/) – 02 31 72 19 03**`,
     order: 103,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -5012,17 +4288,14 @@ Les Amis de la Tour
     section: "sortir-et-decouvrir",
     subsection: "Patrimoine",
     summary:
-      "L’église Saint-Martin de Colombelles",
+      "L’existence du village de Colombelles est liée à la présence de l’Orne : un bac situé non loin de l’église permettait de franchir la rivière à cet endroit. Une église a…",
     content: `## L’église Saint-Martin de Colombelles
 
 L’existence du village de Colombelles est liée à la présence de l’Orne : un bac situé non loin de l’église permettait de franchir la rivière à cet endroit. Une église a pu exister depuis le haut Moyen- Âge : la dédicace à Saint-Martin est souvent un indice de très grande ancienneté. L’édifice actuel date, pour ses parties les plus anciennes, du XIIe siècle, à la fin de l’époque romane. L’église appartenait alors à l’abbaye du Plessis-Grimoult.
 
 C’est une église simple, mais au décor très soigné. Elle comporte une nef simple à charpente apparente, suivie d’une tour qui abrite une travée sous clocher voûtée, puis un chœur à chevet plat, voûté également. À l’Ouest se trouve la façade principale avec le grand portail ; sur le côté nord, une porte secondaire soigneusement ornée ouvrait autrefois dans la nef. Des églises du même type se rencontrent dans la plaine de Caen, à Notre-Dame des Prés de Mondeville, à Cintheaux…
 
-Église Saint Martin de Colombelles – Rue de l’église – 14460 Colombelles –
-
-Les Amis de la Tour
-- 02 31 72 19 03
+**Église Saint Martin de Colombelles – Rue de l’église – 14460 Colombelles – [Les Amis de la Tour](http://lesamisdelatour-colombelles.eklablog.fr/) – 02 31 72 19 03**
 
 ## L’église orthodoxe Saint-Serge de Colombelles
 
@@ -5042,9 +4315,7 @@ Des offices y sont célébrés régulièrement à l’intention de la communaut�
 
 Pour tout renseignement, vous pouvez vous adresser à l’association Saint-Serge
 
-Église Saint-Serge – Rue Raspail – 14460 Colombelles –
-
-02 31 78 38 02`,
+**Église Saint-Serge – Rue Raspail – 14460 Colombelles – 02 31 78 38 02**`,
     order: 104,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -5075,52 +4346,43 @@ En attendant, l'histoire du bourg est retracée dans [Historique de Colombelles]
     section: "sortir-et-decouvrir",
     subsection: "Équipements culturels",
     summary:
-      "La Médiathèque",
-    content: `## La Médiathèque
-
-Le Phénix est un espace convivial, gratuit et accessible à tous.
+      "La MédiathèqueLe Phénix est un espace convivial, gratuit et accessible à tous.",
+    content: `La Médiathèque*Le Phénix* est un espace convivial, gratuit et accessible à tous.
 
 Vous y trouverez plus de 33 000 documents (romans, BD, magazines, musique…) en libre accès et empruntables avec votre carte du réseau des bibliothèques de Caen la mer (jusqu’à 30 documents pour une durée de 28 jours).
 
 L’inscription est gratuite sur présentation d’une pièce d’identité.
 
-ACTUALITÉS
+## ACTUALITÉS
 
-L’agenda d’été 2026
+- [L’agenda d’été 2026](https://www.colombelles.fr/wp-content/uploads/2026/06/Agenda_ete_2026_VF_web.pdf)
 
 ## L’équipe
 
-Une équipe de 7 personnes est à votre disposition pour vous accueillir.
+**Une équipe de 7 personnes est à votre disposition pour vous accueillir.**
 
-Horaires de la Médiathèque (de septembre à juin)
+## Horaires de la Médiathèque (de septembre à juin)
 
-Mardi : 9h-12h et 16h-18h
+- Mardi : 9h-12h et 16h-18h
+- Mercredi : 10h-18h
+- Jeudi : 9h-12h
+- Vendredi : 9h-12h et 16h-18h
+- Samedi : 10h-12h et 14h-18h
+- Dimanche (de novembre à mars) : 14h-18h
 
-Mercredi : 10h-18h
+## Horaires d’été (du 1er juillet au 31 août)
 
-Jeudi : 9h-12h
-
-Vendredi : 9h-12h et 16h-18h
-
-Samedi : 10h-12h et 14h-18h
-
-## Dimanche (de novembre à mars) : 14h-18h
-
-Horaires d’été ( du 1er juillet au 31 août)
-
-Mardi 9h-12h / 16h-18h
-
-Mercredi 10h-12h / 14h-18h
-
-Vendredi 9h-12h / 16h-18h
-
-Samedi 10h-12h / 14h-18
+- Mardi 9h-12h / 16h-18h
+- Mercredi 10h-12h / 14h-18h
+- Vendredi 9h-12h / 16h-18h
+- Samedi 10h-12h / 14h-18
 
 ## Fermetures exceptionnelles été 2026
 
-Mardi 14 juillet du 28 juillet au 1er août du mercredi 12 aout après-midi au jeudi 13 aout inclus
-
-Samedi 15 août
+- Mardi 14 juillet
+- du 28 juillet au 1er août
+- du mercredi 12 aout après-midi au jeudi 13 aout inclus
+- Samedi 15 août
 
 ## Les espaces
 
@@ -5137,18 +4399,24 @@ Pour plus de convivialité, vous pouvez apporter ce que vous aimez à partager (
 ## L’espace jeux vidéo
 
 Notre espace jeux vidéo vous accueille pour des moments entre amis ou en famille.
-- Sur présentation de votre carte de bibliothèque.
-- Ouvert en accès libre (sauf en cas d’animations).
 
-L’espace
+– Sur présentation de votre carte de bibliothèque.
 
-« Lire autrement »
+– Ouvert en accès libre (sauf en cas d’animations).
+
+## L’espace « Lire autrement »
 
 À la médiathèque, nous nous efforçons de proposer des lectures qui conviennent à tous les lecteurs et lectrices.
 
-Notre espace « Lire autrement » propose :
+Notre espace « Lire autrement » propose :
 
-des livres CD, des livres lus, des livres en braille, des romans en gros caractères, des livres adaptés aux troubles dys, des livres en Français Langue Étrangère (FLE), un espace « Facile à lire ».
+- des livres CD,
+- des livres lus,
+- des livres en braille,
+- des romans en gros caractères,
+- des livres adaptés aux troubles dys,
+- des livres en Français Langue Étrangère (FLE),
+- un espace « Facile à lire ».
 
 Vous pouvez aussi utiliser le poste d’écoute mis à votre disposition.
 
@@ -5156,7 +4424,9 @@ Vous pouvez aussi utiliser le poste d’écoute mis à votre disposition.
 
 La médiathèque propose un service de portage de livres à domicile
 
-Si vous êtes dans l’impossibilité, même temporaire, de vous déplacer jusqu’à la médiathèque pour emprunter des documents, ce service est pour vous !
+Si vous êtes dans l’impossibilité, même temporaire, de vous déplacer jusqu’à la
+
+médiathèque pour emprunter des documents, ce service est pour vous !
 
 Contactez l’équipe de la médiathèque pour faire part de vos envies et nous vous apporterons livres, revues et CD.
 
@@ -5168,45 +4438,31 @@ Ce service de contenus en ligne est accessible 24h sur 24, sur ordinateurs, tabl
 
 Ce service est financé par le Département du Calvados, la communauté urbaine Caen la Mer et les communes et EPCI partenaires de la Bibliothèque du Calvados, dont Colombelles.
 
-Biblio-retours
+[En savoir plus sur La Boîte Numérique](https://laboitenumerique.calvados.fr/accueil-portal.aspx?_lg=fr-FR)
 
-## Dans le cadre de son projet de
+## Biblio-retours
 
-## Lecture publique sur le territoire , la communauté urbaine
+Dans le cadre de son projet de **Lecture publique sur le territoire**, la communauté urbaine **Caen la mer** lance un service innovant baptisé **Biblio-Retours**.
 
-Caen la mer lance un service innovant baptisé
+Ce nouveau dispositif permet désormais aux usagers de **rendre leurs documents dans l’une des 34 bibliothèques** partenaires du réseau intercommunal, quelle que soit la bibliothèque d’origine du prêt. Les documents sont ensuite **triés à la bibliothèque Alexis de Tocqueville**, puis **réacheminés par navette** vers leur établissement d’origine.
 
-Biblio-Retours
-
-.
-
-Ce nouveau dispositif permet désormais aux usagers de rendre leurs documents dans l’une des 34 bibliothèques partenaires du réseau intercommunal, quelle que soit la bibliothèque d’origine du prêt. Les documents sont ensuite triés à la bibliothèque Alexis de Tocqueville , puis réacheminés par navette vers leur établissement d’origine.
-
-Objectif :
-
-simplifier le quotidien des lecteurs en rendant les services de la médiathèque toujours plus accessibles et fluides.
+**Objectif :** simplifier le quotidien des lecteurs en rendant les services de la médiathèque toujours plus accessibles et fluides.
 
 Biblio-Retours vient compléter les services déjà en place, tels que :
 
-## le
-
-## portail commun des bibliothèques, les ressources numériques
-
-(livres, presse, formations, VOD…), ou encore la carte unique , valable sur l’ensemble du territoire.
+- le **portail commun** des bibliothèques,
+- les **ressources numériques** (livres, presse, formations, VOD…),
+- ou encore la **carte unique**, valable sur l’ensemble du territoire.
 
 Avec Biblio-Retours, vos livres voyagent pour vous, et la lecture devient plus libre que jamais !
 
-Informations pratiques
+## Informations pratiques
 
-Médiathèque le Phénix
-
-## 10, rue Elsa Triolet, Colombelles
-
-02 31 72 27 46 mediatheque@colombelles.fr
-
-Facebook
-
-Bus 6 ou bus 9 arrêt Colombelles mairie`,
+- **Contact** — Médiathèque le Phénix
+- **Adresse** — 10, rue Elsa Triolet, Colombelles
+- **Téléphone** — 02 31 72 27 46
+- **Courriel** — mediatheque@colombelles.fr
+- **Accès** — Bus 6 ou bus 9 arrêt Colombelles mairie`,
     order: 201,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -5219,66 +4475,46 @@ Bus 6 ou bus 9 arrêt Colombelles mairie`,
     section: "sortir-et-decouvrir",
     subsection: "Équipements culturels",
     summary:
-      "Théâtre, musique, danse, arts du cirque et de la rue… Chaque saison, La Renaissance propose une programmation pluridisciplinaire en direction du tout public, du jeune public…",
+      "Théâtre, musique, danse, arts du cirque et de la rue… Chaque saison, La Renaissance propose une programmation pluridisciplinaire en direction du tout public, du jeune…",
     content: `Théâtre, musique, danse, arts du cirque et de la rue… Chaque saison, La Renaissance propose une programmation pluridisciplinaire en direction du tout public, du jeune public et des scolaires.
 
-## Deux temps forts viennent ponctuer la saison : le festival
-
-À partir du réel , qui met à l’honneur les écritures du réel et
-
-Plateaux Éphémères , un weekend dédié aux spectacles de rue proposé gratuitement sur la place des Tilleuls.
+Deux temps forts viennent ponctuer la saison : le festival *À partir du réel*, qui met à l’honneur les écritures du réel et *Plateaux Éphémères*, un weekend dédié aux spectacles de rue proposé gratuitement sur la place des Tilleuls.
 
 En plus de la programmation de spectacles, La Renaissance accueille des résidences d’artistes et propose des actions de sensibilisation et de médiation culturelle.
 
-## Programme 2025-2026
+[Programme 2025-2026](https://www.colombelles.fr/wp-content/uploads/2023/09/Plaquette_La_Renaissance_23_24_WEB.pdf)
 
 Le fonctionnement de La Renaissance est associatif, avec plus de cent trente adhérent·e·s.
 
 Situé sur le Plateau, un des quartiers de Colombelles à cheval avec Mondeville, vous trouverez forcément votre bonheur !
 
-En pratique :
+**En pratique :**
 
-## Tarifs des spectacles : de 8 à 16 € / Adhésion : 10 €
+- Tarifs des spectacles : de 8 à 16 € / Adhésion : 10 €
+- Responsables : Katell BIDON, directrice / Gérard JARDIN, président
+- [En savoir plus](https://www.larenaissance-mondeville.fr/)
 
-Responsables : Katell BIDON, directrice / Gérard JARDIN, président
+## Informations pratiques
 
-CONTACT
+- **Contact** — Théâtre La Renaissance
+- **Adresse** — Rue de l’hôtellerie, 14120 Mondeville
+- **Téléphone** — 02 31 35 65 94
+- [Plus d’informations](https://www.larenaissance-mondeville.fr/)
+- [Facebook](https://www.facebook.com/larenaissancemondeville)
 
-Théâtre La Renaissance
-
-Rue de l’hôtellerie, 14120 Mondeville
-
-02 31 35 65 94
-
-Plus d’informations
-
-Facebook
-
-Plateaux_Éphémères©VirginieMeigné-31
-
-Lac_des_cygnes©albanne photographe
-
-Alexis_Le_Rossignol©Kobayashi
-
-Odeur_de_la_Terre©DR
-
-Selene_Saint_Aimé©Nicolas_Derne
-
-Ca_me_fait_penser©DR
-
-Déformation_professionelle©DR
-
-La_Veillée©Nicolas_Joubard
-
-Sempé©D.Daguier
-
-A_la_ligne©ArnaudBertereau
-
-## Plateaux_Éphémères©VirginieMeigné-118
-
-Action culturelle avec l'IME (1) (Personnalisé)
-
-Action culturelle avec l'IME`,
+- Plateaux_Éphémères©VirginieMeigné-31
+- Lac_des_cygnes©albanne photographe
+- Alexis_Le_Rossignol©Kobayashi
+- Odeur_de_la_Terre©DR
+- Selene_Saint_Aimé©Nicolas_Derne
+- Ca_me_fait_penser©DR
+- Déformation_professionelle©DR
+- La_Veillée©Nicolas_Joubard
+- Sempé©D.Daguier
+- A_la_ligne©ArnaudBertereau
+- Plateaux_Éphémères©VirginieMeigné-118
+- Action culturelle avec l'IME (1) (Personnalisé)
+- Action culturelle avec l'IME`,
     order: 202,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -5291,18 +4527,16 @@ Action culturelle avec l'IME`,
     section: "sortir-et-decouvrir",
     subsection: "Équipements culturels",
     summary:
-      "Le conservatoire de musique et de danse du SIVOM des Trois Vallées (Colombelles, Cuverville, Cormelles Le Royal, Giberville, Mondeville) propose un enseignement artistique…",
-    content: `Le conservatoire de musique et de danse du SIVOM des Trois Vallées (Colombelles, Cuverville, Cormelles Le Royal, Giberville, Mondeville) propose un enseignement artistique varié et de qualité.
-
-Danse (classique, contemporaine, jazz) – éveil artistique – cours d’instruments – chant – chant choral – orchestres divers – musique assistée par ordinateur – parcours découverte en musique et en danse.
+      "Le conservatoire de musique et de danse du SIVOM des Trois Vallées (Colombelles, Cuverville, Cormelles Le Royal, Giberville, Mondeville) propose un enseignement…",
+    content: `Le conservatoire de musique et de danse du SIVOM des Trois Vallées (Colombelles, Cuverville, Cormelles Le Royal, Giberville, Mondeville) propose un enseignement artistique varié et de qualité. Danse (classique, contemporaine, jazz) – éveil artistique – cours d’instruments – chant – chant choral – orchestres divers – musique assistée par ordinateur – parcours découverte en musique et en danse.
 
 Près de 30 disciplines sont enseignées par 26 professeurs qualifiés. Le conservatoire accueille des élèves de la petite section de maternelle aux adultes. Chacun peut trouver son parcours.
 
 De nombreuses manifestations sont également organisées.
 
-Retrouvez toutes les informations et actualités sur le site http://www.sivomdes3vallees.fr
+Retrouvez toutes les informations et actualités sur le site [sivomdes3vallees.fr](http://www.sivomdes3vallees.fr/)
 
-Vous pouvez également nous suivre sur la page Facebook http://facebook.com/conservatoire3vallees`,
+Vous pouvez également nous suivre sur la page Facebook [facebook.com/conservatoire3vallees](http://facebook.com/conservatoire3vallees)`,
     order: 203,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -5315,70 +4549,52 @@ Vous pouvez également nous suivre sur la page Facebook http://facebook.com/cons
     section: "sortir-et-decouvrir",
     subsection: "Équipements culturels",
     summary:
-      "Micro-Folie x EPN à l’Espace Wilkin",
+      "Depuis septembre 2026, la Micro-Folie de Colombelles et l’Espace Public Numérique (EPN) sont réunis à l’Espace Wilkin, au cœur de Colombelles.",
     content: `## Micro-Folie x EPN à l’Espace Wilkin
 
-Un lieu pour découvrir, créer et pratiquer le numérique
+### Un lieu pour découvrir, créer et pratiquer le numérique
 
-## Depuis septembre 2026, la
-
-Micro-Folie de Colombelles et l’Espace Public Numérique (EPN)
-
-sont réunis à l’
-
-Espace Wilkin , au cœur de Colombelles.
+Depuis septembre 2026, la **Micro-Folie de Colombelles et l’Espace Public Numérique (EPN)** sont réunis à l’**Espace Wilkin**, au cœur de Colombelles.
 
 Dans des locaux plus spacieux et mieux adaptés, petits et grands peuvent venir découvrir des œuvres, expérimenter de nouveaux outils, créer, apprendre et développer leurs usages du numérique.
 
 La Micro-Folie est un dispositif culturel de proximité porté par le ministère de la Culture et coordonné par La Villette. Elle permet d’accéder de manière ludique et interactive aux œuvres de nombreuses institutions culturelles françaises et internationales. Le réseau compte désormais plus de 650 Micro-Folies ouvertes et la Normandie est la région qui en accueille le plus.
 
-## Le Musée numérique
+### Le Musée numérique
 
-Voyagez à travers l’art, le patrimoine, la musique, la danse, l’architecture ou encore les sciences grâce au
-
-Musée Numérique
-
-.
+Voyagez à travers l’art, le patrimoine, la musique, la danse, l’architecture ou encore les sciences grâce au **Musée Numérique**.
 
 Projetées sur grand écran et accompagnées de tablettes interactives, plusieurs milliers d’œuvres issues de musées et d’institutions culturelles peuvent être explorées librement ou à travers des visites thématiques proposées par l’équipe de la Micro-Folie.
 
 Une manière différente et accessible à tous de découvrir l’art et la culture, seul, en famille ou en groupe.
 
-L’Espace Public Numérique (EPN)
+### L’Espace Public Numérique (EPN)
 
 Besoin d’un coup de pouce avec le numérique ou envie d’en découvrir davantage ?
 
-L’
-
-Espace Public Numérique (EPN)
-
-est ouvert à tous et permet de découvrir, comprendre et pratiquer le numérique à son rythme.
+L’**Espace Public Numérique (EPN)** est ouvert à tous et permet de découvrir, comprendre et pratiquer le numérique à son rythme.
 
 Accompagné par un animateur, chacun peut développer ses compétences, utiliser les outils informatiques, être aidé dans ses usages numériques ou explorer de nouvelles pratiques : internet, photo, vidéo, tablettes, création numérique, impression 3D…
 
 L’objectif : permettre à chacun de gagner en autonomie et de faire du numérique un outil utile, créatif et accessible.
 
-## Le Fab Lab
+### Le Fab Lab
 
 Ici, on passe de la découverte à la création !
 
-## Le
-
-Fab-Lab permet de s’initier à différentes techniques de fabrication et de création numérique : impression 3D, gravure et découpe laser, flocage textile, sublimation, création graphique, badgeuse…
+Le **Fab-Lab** permet de s’initier à différentes techniques de fabrication et de création numérique : impression 3D, gravure et découpe laser, flocage textile, sublimation, création graphique, badgeuse…
 
 Des ateliers sont régulièrement proposés pour découvrir les machines, expérimenter de nouvelles pratiques et donner vie à ses propres projets.
 
-Les rendez-vous réguliers
-
-## Le Labo des Inventeurs
+### Les rendez-vous réguliers Le Labo des Inventeurs
 
 Un rendez-vous dédié aux jeunes pour découvrir le numérique comme un véritable outil de création.
 
 Codage, jeux, objets interactifs ou fabrication numérique : chaque séance permet d’expérimenter, d’imaginer et de réaliser des projets concrets en lien avec le Fab-Lab.
 
-Mercredi de 15h à 18h
+**Mercredi de 15h à 18h**
 
-## Les ateliers particuliers
+### Les ateliers particuliers
 
 Des temps d’accompagnement pour découvrir un outil, développer ses compétences ou avancer sur un projet numérique.
 
@@ -5386,74 +4602,73 @@ Mardi de 10h à 12h
 
 Vous êtes un groupe ?
 
-Écoles, accueils de loisirs, associations, structures sociales, EHPAD ou autres groupes peuvent bénéficier de visites et ateliers adaptés
-
-.
+Écoles, accueils de loisirs, associations, structures sociales, EHPAD ou autres groupes peuvent bénéficier de **visites et ateliers adaptés**.
 
 L’équipe peut construire des séances autour du Musée Numérique et proposer des activités en lien avec le Fab-Lab et les outils numériques.
 
+**Accueil des groupes : jeudi et vendredi matin**
+
 D’autres créneaux peuvent être proposés selon les projets et disponibilités.
 
-Pour réserver un créneau de groupe c’est ici !
+Pour réserver un créneau de groupe **[c’est ici !](https://account.micro-folies.com/)**
 
 Une équipe de 4 personnes est à votre disposition pour vous accueillir.
 
-INFORMATIONS PRATIQUES
+### INFORMATIONS PRATIQUES
 
-📍
-
-## Espace Wilkin
+📍 **Espace Wilkin**
 
 2 rue des Frères Wilkins, 14460 Colombelles
 
-📞
-
-02 52 56 96 82
+📞 **02 52 56 96 82**
 
 ✉️ microfolie@colombelles.fr
 
-MICRO-FOLIE
+### MICRO-FOLIE
 
-Mercredi & samedi
+**Mercredi & samedi**
 
 10h–12h30 • 14h–18h
 
-Jeudi & vendredi
+**Jeudi & vendredi**
 
 14h–18h
 
+**Accueil des groupes**
+
 Jeudi & vendredi matin
 
-ESPACE PUBLIC NUMÉRIQUE
+### ESPACE PUBLIC NUMÉRIQUE
 
-Accès libre
+**Accès libre**
 
 Mar. 14h–18h • Jeu. 14h–18h
 
 Ven. 14h–16h • Sam. 10h–12h
 
-Sur rendez-vous
+**Sur rendez-vous**
 
 Mer. 10h–12h
 
-Ateliers particuliers
+**Ateliers particuliers**
 
 Mar. 10h–12h
 
-Labo des Inventeurs
+**Labo des Inventeurs**
 
 Mer. 15h–18h
 
-## Jeudi & vendredi matin
+**Accueil des groupes**
+
+Jeudi & vendredi matin
 
 Horaires susceptibles d’être adaptés lors d’événements ou d’animations programmés.
 
 🚌 Bus Twisto – lignes 6 ou 9 • Arrêt Colombelles Mairie
 
-Facebook
-- Instagram
+[Facebook](https://www.facebook.com/microfoliecolombelles14) • Instagram
 
-## Réservation en ligne
+### Réservation en ligne
 
 Entrée libre et gratuite selon les activités.
 
@@ -5461,7 +4676,7 @@ Certaines animations et certains ateliers sont proposés sur réservation et dan
 
 Retrouvez également toute la programmation de la Micro-Folie dans l’agenda culturel de la Ville.
 
-Billetterie Weezevent`,
+[Billetterie Weezevent](https://www.weezevent.com/widget_multi.php?283433.1.1.bo)`,
     order: 204,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -5474,32 +4689,30 @@ Billetterie Weezevent`,
     section: "sortir-et-decouvrir",
     subsection: "Nature",
     summary:
-      "Colombelles possède de nombreux espaces verts pour se balader, flâner et profiter de la nature et est labellisée",
-    content: `Colombelles possède de nombreux espaces verts pour se balader, flâner et profiter de la nature et est labellisée
-
-## Territoire Engagé pour la nature
+      "Colombelles possède de nombreux espaces verts pour se balader, flâner et profiter de la nature et est labellisée Territoire Engagé pour la nature",
+    content: `Colombelles possède de nombreux espaces verts pour se balader, flâner et profiter de la nature et est labellisée [Territoire Engagé pour la nature](https://www.anbdd.fr/biodiversite/collectivites/territoires-engages-pour-la-nature/)
 
 Ce programme vise à faire émerger, reconnaître et valoriser des plans d’actions en faveur de la biodiversité. Il s’adresse aux communes et intercommunalités quelle que soit leur taille, qu’elles soient débutantes ou initiées en matière de biodiversité.
 
 Quelques chiffres :
 
-8 hectares de bois accessibles et au total 20 hectares de taillis et de boisement
-
-2 espaces verts partagés – 3 vergers
-
-2 jardins familiaux
+- 8 hectares de bois accessibles et au total 20 hectares de taillis et de boisement
+- 2 espaces verts partagés – 3 vergers
+- 2 jardins familiaux
 
 ## Le jardin partagé
 
 Place François-Mitterrand, un jardin avec des bacs cultivables et un bac collectif permet à ceux qui le souhaite de disposer d’un espace pour jardiner, planter, récolter. Tous les mois, des rendez-vous et des animations sont ouvertes à tous et aux jardiniers pour entretenir et avoir des conseils.
 
-## Des vergers et des fruitiers en accès  libre
+[Des vergers et](https://www.colombelles.fr/wp-content/uploads/2023/09/Plan-de-Colombelles_GENERAL-Fruitiers.png)[des fruitiers en accès libre](https://www.colombelles.fr/wp-content/uploads/2023/09/Plan-de-Colombelles_GENERAL-Fruitiers.png)
 
 Des associations et des particuliers ont recensé les arbres fruitiers pour que chacun, à sa guise, mais dans le respect de la nature et des saison, puisse profiter de la production de fruits sur l’espace public : figuier, framboisiers, noisetiers… Retrouvez les arbres fruitiers sur la carte en bas de page.
 
 Des vergers sont accessibles :
 
-à l’entrée du bois, au niveau de la rue de la République : pommiers et poiriers au niveau de l’espace Auguste Michelle, en entrée de ville, avec des pommiers à cidre rue Jules Guesde devant l’école : pommiers
+- à l’entrée du bois, au niveau de la rue de la République : pommiers et poiriers
+- au niveau de l’espace Auguste Michelle, en entrée de ville, avec des pommiers à cidre
+- rue Jules Guesde devant l’école : pommiers
 
 ## Le Bois
 
@@ -5507,9 +4720,7 @@ Réaménagé en 2017, le Bois est un réel lieu de promenade : des cheminements 
 
 Situé entre l’Orne et le centre-ville, le Bois s’étale sur 8 ha. Il permet ainsi de faire une liaison entre le centre ville et le bas de Colombelles. La gestion du site est effectuée par un garde nature chargé de surveiller et entretenir les lieux.
 
-En accès libre dans le bois :
-
-une tyrolienne, une course d’orientation en accès libre, un verger, un théâtre de verdure, des tables de pique-nique.
+En accès libre dans le bois : **une tyrolienne, une course d’orientation en accès libre, un verger, un théâtre de verdure, des tables de pique-nique.**
 
 ## Les rives de l’Orne
 
@@ -5521,43 +4732,42 @@ Surplombant l’Orne et le canal, l’allée cavalière donne à voir sur l’ag
 
 ## Le parc des Métallos
 
-Créé et ouvert en 2022, le parc des Métallos, c’est  :
+Créé et ouvert en 2022, le parc des Métallos, c’est :
 
-11 700 m² de nature en ville plus 46 000 m3 de terres extraites lors des travaux de construction du quartier Jean-Jaurès et de la zone de développement économique EffiScience/Normandial,
+- 11 700 m² de nature en ville
+- plus 46 000 m3 de terres extraites lors des travaux de construction du quartier Jean-Jaurès et de la zone de développement économique EffiScience/Normandial,
+- 150 arbres, 3 000 arbustes et 8 000 couvre-sols.
 
-150 arbres, 3 000 arbustes et 8 000 couvre-sols.
+La paysagiste Liliana Motta a créé un belvédère de plus de 7 mètres de haut. Cette organisation avec des points hauts vise à créer plusieurs terrasses permettant de profiter des points de vue surplom
 
-La paysagiste Liliana Motta a créé un belvédère de plus de 7 mètres de haut. Cette organisation avec des points hauts vise à créer plusieurs terrasses permettant de profiter des points de vue surplom bant soit le Plateau de l’ex-SMN, soit l’horizon de l’Orne, avec la ville d’Hérouville Saint-Clair en fond paysager.
+bant soit le Plateau de l’ex-SMN, soit l’horizon de l’Orne, avec la ville d’Hérouville Saint-Clair en fond paysager.
 
 Une dizaine de bancs ainsi que 2 tables de pique-nique ont été installés. Un parc à découvrir sur un lieu d’histoire locale comme son nom l’indique, mais surtout un espace à s’approprier pour passer de bons moments en famille et entre amis.
 
-## Un parc sur un ancien site industriel
+**Un parc sur un ancien site industriel**
 
 Les projets Parc des Métallos du quartier Jean-Jaurès et la plateforme de recyclage des terres du Plateau ont été primés en 2022 dans la catégorie « Ville de demain » au congrès des Entreprises publiques locales. Le parc est notamment le démonstrateur d’une réflexion globale de gestion des terres polluées menée à l’échelle de l’ex site de la SMN. Le matériau composant le parc des Métallos est issu des terres des projets du Plateau qui ont été elles-mêmes au préalable triées et identifiées sur la plateforme de tri de Normandie Aménagement.
 
 En effet, le socle de ce parc s’organise en plusieurs couches bien distinctes et identifiées selon la qualité de la terre et sa teneur en pollution éventuelle liée aux activités de l’ex-site industriel :
 
-les terres les plus touchées par la pollution sont localisées au cœur de l’ouvrage. Ces terres sont confinées par un tissu hermétique de manière à assurer une protection environnementale et sanitaire les autres couches couvrent ce noyau jusqu’à arriver en surface la dernière couche de terre végétale finalise la constitution du parc
+- les terres les plus touchées par la pollution sont localisées au cœur de l’ouvrage. Ces terres sont confinées par un tissu hermétique de manière à assurer une protection environnementale et sanitaire
+- les autres couches couvrent ce noyau jusqu’à arriver en surface
+- la dernière couche de terre végétale finalise la constitution du parc
 
 Cette organisation a été conçue par le bureau d’études BURGEAP, bureau d’expertise en gestion de site et sol pollués. Ce projet a également été financé et suivi par l’ADEME (Agence de la transition écologique).
 
 ## Balades piétons et vélo
 
-La voie verte cyclo pédestre de 4,3 km, à l’est de l’agglomération, sur l’emprise de l’ancienne voie de chemin de fer minier, entre Colombelles, Giberville et Mondeville
+**La voie verte cyclo pédestre** de 4,3 km, à l’est de l’agglomération, sur l’emprise de l’ancienne voie de chemin de fer minier, **entre Colombelles, Giberville et Mondeville**. Ce cheminement piétons et vélos est aménagé de tables de pique-nique et de bancs.
 
-. Ce cheminement piétons et vélos est aménagé de tables de pique-nique  et de bancs.
-
-Une liaison cyclable longue de 3,3 km, cette voie verte permet de relier le plateau de Colombelles à la presqu’île hérouvillaise. L’aménagement des différentes sections propose un nouveau franchissement cyclable sécurisé de l’Orne. À terme, ces tronçons seront en connexion avec les aménagements cyclables du futur quartier de la presqu’île hérouvillaise et du futur pont qui sera réalisé sur le canal de
-
-Caen à la mer , d’ici 2025. Aussi, il sera possible de relier la vélo Francette et la voie verte du chemin de fer minier à vélo.
+Une liaison cyclable longue de 3,3 km, cette voie verte permet de relier le plateau de Colombelles à la presqu’île hérouvillaise. L’aménagement des différentes sections propose un **nouveau franchissement cyclable sécurisé** de l’Orne. À terme, ces tronçons seront en connexion avec les aménagements cyclables du futur quartier de la presqu’île hérouvillaise et du futur pont qui sera réalisé sur le canal de Caen à la mer, d’ici 2025. Aussi, il sera possible de relier la vélo Francette et la voie verte du chemin de fer minier à vélo.
 
 Vous pouvez aussi rejoindre Caen en passant par l’allée cavalière, les bords de l’orne ou encore le canal, ou allez jusqu’à la plage en longeant le canal jusqu’à Ouistreham.
 
 Bonne balade, à vous !
 
-Localisation des fruitiers
-
-Plan du Bois de Colombelles`,
+- Localisation des fruitiers
+- Plan du Bois de Colombelles`,
     order: 401,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -5570,7 +4780,7 @@ Plan du Bois de Colombelles`,
     section: "sortir-et-decouvrir",
     subsection: "Nature",
     summary:
-      "L’Orne et le canal",
+      "L’Orne longe le bas de Colombelles et rejoint la mer. Quelques mètres plus loin, c’est le canal (entre Caen et Ouistreham) qui s’écoule et permet de rejoindre la plage…",
     content: `## L’Orne et le canal
 
 L’Orne longe le bas de Colombelles et rejoint la mer. Quelques mètres plus loin, c’est le canal (entre Caen et Ouistreham) qui s’écoule et permet de rejoindre la plage en vélo en moins d’1h ou le port de Caen en 30 minutes. Cormorans, poules d’eau, canards rythment la balade pour le plaisir des yeux et des sens en longeant l’eau.
@@ -5581,9 +4791,8 @@ En longeant l’Orne ou le Canal, rejoindre Caen ou la mer en vélo est possible
 
 Pour une balade avec une vue sur le canal (et sur la mer par temps dégagé), l’allée cavalière est également accessible depuis le quartier du Plateau ou le quartier Jean-Jaurès.
 
-Vue depuis l'Orne | Crédit : François Monier - Septième Ciel Image
-
-Vue depuis l'Orne | Crédit : François Monier - Septième Ciel Image`,
+- Vue depuis l'Orne | Crédit : François Monier - Septième Ciel Image
+- Vue depuis l'Orne | Crédit : François Monier - Septième Ciel Image`,
     order: 402,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -5596,18 +4805,16 @@ Vue depuis l'Orne | Crédit : François Monier - Septième Ciel Image`,
     section: "sortir-et-decouvrir",
     subsection: "Nature",
     summary:
-      "Entrez dans le poumon vert de la ville !",
+      "À quelques pas des quartiers et des habitations, changez de décor. Sentiers ombragés, clairières, mares, verger, espaces de détente et biodiversité : le Bois de…",
     content: `Entrez dans le poumon vert de la ville !
 
-À quelques pas des quartiers et des habitations, changez de décor.
-
-Sentiers ombragés, clairières, mares, verger, espaces de détente et biodiversité : le Bois de Colombelles est un véritable poumon vert à explorer au fil des saisons. Réaménagé en 2017, le Bois est un réel lieu de promenade : des cheminements avec des clairières, des aires de pique-nique, un théâtre de verdure, un verger de pommes et poires…
+À quelques pas des quartiers et des habitations, changez de décor. Sentiers ombragés, clairières, mares, verger, espaces de détente et biodiversité : le Bois de Colombelles est un véritable poumon vert à explorer au fil des saisons. Réaménagé en 2017, le Bois est un réel lieu de promenade : des cheminements avec des clairières, des aires de pique-nique, un théâtre de verdure, un verger de pommes et poires…
 
 Situé entre l’Orne et le centre-ville, le Bois s’étale sur 8 ha. Il permet ainsi de faire une liaison entre le centre ville et le bas de Colombelles. La gestion du site est effectuée par un garde nature chargé de surveiller et entretenir les lieux.
 
-Promenade en famille, pause au calme, activité sportive ou simple envie d’observer la nature… suivez les chemins et redécouvrez un espace naturel parfois méconnu, à deux pas de chez vous.
+Promenade en famille, pause au calme, activité sportive ou simple envie d’observer la nature… **suivez les chemins et redécouvrez un espace naturel parfois méconnu, à deux pas de chez vous.**
 
-## Un bois en ville, une nature à préserver
+### Un bois en ville, une nature à préserver
 
 Le Bois de Colombelles constitue l’un des principaux espaces de nature de la commune. Ici, les espaces boisés côtoient des milieux plus ouverts, des mares, des clairières ou encore deux vergers, offrant des habitats variés à la faune et à la flore.
 
@@ -5615,55 +4822,45 @@ Au fil des chemins, arbres, arbustes, plantes sauvages, oiseaux, insectes et pet
 
 Au printemps, la végétation reprend ses droits. L’été offre l’ombre des arbres et la fraîcheur du sous-bois. À l’automne, feuillages, fruits et baies changent les couleurs du paysage. Même en hiver, le Bois continue de révéler ses particularités à qui prend le temps de l’observer.
 
-Un même lieu, mais jamais tout à fait le même.
+**Un même lieu, mais jamais tout à fait le même.**
 
-Explorez le Bois
+### Explorez le Bois
 
-Ouvrez l’œil !
+**Ouvrez l’œil !** Cette carte interactive vous permet de repérer les principaux points d’intérêt et de mieux connaître ce qui vous entoure lors de votre balade.
 
-Cette carte interactive vous permet de repérer les principaux points d’intérêt et de mieux connaître ce qui vous entoure lors de votre balade.
-
-Bois de Colombelles
-
-A connaître
+## Bois de Colombelles A connaître
 
 Plantes et fruits comestibles
 
 Mûres
 
-A observer
+## A observer
 
-Arbres et essences remarquables
+Pommiers Reinette du Mans
 
-Pommiers
+## A observer
 
-A observer
-
-Arbres et essences remarquables
+**Arbres et essences remarquables**
 
 Poiriers
 
-A connaître
+## A connaître
 
-Plantes et fruits comestibles
+**Plantes et fruits comestibles**
 
 Mirabelles
 
-A observer
+## A observer
 
-## Arbres et essences remarquables
+**Arbres et essences remarquables**
 
-Tilleuls à petites feuilles, tilia cordata
+Tilleuls à petites feuilles, *tilia cordata*
 
 À regarder, pas à goûter !
 
 Plantes toxiques ou impropres à la consommation
 
-## Il
-
-soigne les troubles veineux (surtout utilisé en Allemagne). Très efficace dans les traitements contre les varices et les hémorroïdes. Les extraits de plantes peuvent être ingérés ou appliqués sur les jambes variqueuses.
-
-Non comestible.
+Il soigne les troubles veineux (surtout utilisé en Allemagne). Très efficace dans les traitements contre les varices et les hémorroïdes. Les extraits de plantes peuvent être ingérés ou appliqués sur les jambes variqueuses. Non comestible.
 
 Fortement déconseillé en cas de tension artérielle élevée. Il en est de même pour les femmes enceintes.
 
@@ -5673,111 +4870,177 @@ Grenouilles rousses et tritons palmés sont nichés sont dans les mares.
 
 Les amphibiens qui y viennent s’y reproduiront au printemps.
 
-Préserver un environnement sans poissons est essentiel pour le
+Préserver un environnement sans poissons est
 
-Lissotriton helveticus
+essentiel pour le *Lissotriton helveticus* (triton palmé)
 
-(triton palmé)
+## à rencontrer
 
-à rencontrer
+Libellules et demoiselles
 
-## Libellules et demoiselles
+Certaines espèces dépendent de ces zones
 
-Certaines espèces dépendent de ces zones aquatiques pour une partie de leur cycle de vie.
+aquatiques pour une partie de leur cycle de vie.
 
-Au printemps, les libellules (ou demoiselles) s’y retrouvent pour se reproduire, avant de regagner des milieux terrestres (bois, haies, tas de bois ou de pierres) pour passer le reste de l’année.
+Au printemps, les libellules (ou
+
+demoiselles) s’y retrouvent pour se reproduire,
+
+avant de regagner des milieux terrestres (bois,
+
+haies, tas de bois ou de pierres) pour passer le
+
+reste de l’année.
 
 ## à observer
 
-L'érable champêtre, acer campestre à observer
+L'érable champêtre, *acer campestre*
 
-## Le Noisetier
+## à observer
+
+Le Noisetier
 
 En plus de ses noisettes, le noisetier soigne l'acné, les furoncles et le psoriasis !
 
 ## A observer
 
-Le charme commun, carpinus bétulus à connaître
+Le charme commun, *carpinus bétulus*
 
-L'Ortie
+## à connaître
 
-:
+**L'Ortie**:
 
-Elle soigne l'eczéma, le psoriasis et l'urticaire. L’asthme et la rhinite. Excellente pour l'allaitement, la lactation et les 3 derniers mois avant l’accouchement. Elle permet aussi aux vitamines de nous rebooster. Contre le manque d’appétit. Les calculs de la vessie. La cellulite. La cystite. Les cheveux (chute et pellicules).
+Elle soigne l'eczéma, le psoriasis et l'urticaire. L’asthme et la rhinite. Excellente pour l'allaitement, la lactation et les 3 derniers mois avant l’accouchement. Elle permet aussi aux vitamines de nous rebooster. Contre le manque d’appétit. Les calculs de la vessie. La cellulite. La cystite. Les cheveux (chute et pellicules).
 
-à rencontrer
+## à rencontrer
 
-## Les taupes
+Les taupes
 
-⚠️ La carte présente une sélection d’espèces observées dans le Bois et n’est pas exhaustive.
+À regarder, pas à goûter !
 
-Ne cueillez ni ne consommez jamais une plante sur la seule base de cette carte : en cas de doute, abstenez-vous.
+L'Arum tacheté
+
+Cette plante est un peu utilisée en homéopathie pour soulager la toux et l'enrouement mais il faut faire attention car elle est très toxique. Non comestible.
+
+## A observer
+
+**Le Sureau noir**:
+
+Il soigne l'urticaire. Les brûlures. La fièvre (la faire tomber), la grippe, la trachéite et le rhume des foins. **Ne pas donner à une femme enceinte et qui allaite. Faire très attention et ne pas confondre avec le sureau yèble : celui-ci a ses grappes de fruits et ses fleurs qui sont dressées vers le ciel, le noir quant à lui (voir photo) elles pendent.**
+
+## A observer
+
+Le Frêne commun,*fraxinus excelsior*
+
+## A connaître
+
+Les mûres sauvages
+
+## A rencontrer
+
+Le Hérisson d'Europe
+
+Qui se déplace notamment grâce au programme participatif de reconnexion des jardins et autres espaces verts "Piqu'en ville" Plus d'infos [ici](/vivre-a-colombelles/biodiversite)
+
+## A connaître
+
+Framboises sauvages
+
+## A observer
+
+Les sapins, très rares dans le bois, on peut les compter sur les doigts de la main
+
+## A observer
+
+L'acacia, *robina pseudoacacia*
+
+## A observer
+
+L'orme, *ulmus glabra*
+
+## A rencontrer
+
+Le pic vert
+
+Communément appelé pivert, est un oiseau de la famille des Picidés particulièrement célèbre pour son plumage coloré et son cri semblable à un éclat de rire
+
+## A observer
+
+Le bouleau, *betula pubescens*
+
+## A connaître
+
+La fraise des bois sauvage
+
+## A observer
+
+Le peuplier tremble,*populus tremula*
+
+## A connaître
+
+La menthe
+
+## A vivre
+
+Le coin pique-nique
+
+## A vivre
+
+"Le trône de bois"
+
+## La pause fraicheur
+
+Se dépenser sur la tyrolienne
+
+⚠️ La carte présente une sélection d’espèces observées dans le Bois et n’est pas exhaustive. Ne cueillez ni ne consommez jamais une plante sur la seule base de cette carte : en cas de doute, abstenez-vous.
 
 Que faire dans le Bois ?
 
-## Se promener et prendre le temps
+### Se promener et prendre le temps
 
 Pas besoin d’avoir un objectif ! Les 2,7kms de sentiers du Bois permettent simplement de marcher, prendre l’air, profiter de l’ombre des arbres ou s’accorder une pause dans un environnement naturel.
 
 Regardez au pied des arbres, levez les yeux vers les branches, approchez-vous des mares sans déranger leurs habitants, écoutez les oiseaux…
 
-La biodiversité ne se dévoile pas toujours au premier regard.
+La biodiversité ne se dévoile pas toujours au premier regard. **Ralentir suffit parfois à découvrir ce que l’on ne voyait plus.**
 
-Ralentir suffit parfois à découvrir ce que l’on ne voyait plus.
+### Tester le parcours d’orientation
 
-## Tester le parcours d’orientation
+Saviez vous que le Bois accueille également un **parcours permanent d’orientation ?**Il est en accès libre dans le Bois de Colombelles. Entre amis ou en famille, tentez l’expérience : plaisir, partage et échange garantis !
 
-Saviez vous que le Bois accueille également un parcours permanent d’orientation ?
-
-Il est en accès libre dans le Bois de Colombelles. Entre amis ou en famille, tentez l’expérience : plaisir, partage et échange garantis !
-
-Comment ça fonctionne ?
+**Comment ça fonctionne ?**
 
 Une carte spéciale d’orientation, une boussole et c’est parti pour une activité sportive de plein air praticable par tous ! La course d’orientation est à la fois une activité physique et de réflexion.
 
-Pour tenter l’expérience, veuillez télécharger la carte et le carton de contrôle.
+Pour tenter l’expérience, veuillez télécharger [la carte](https://www.colombelles.fr/wp-content/uploads/2023/04/3pages-parcours-orientation-Colombelles.pdf)et [le carton de contrôle.](https://www.colombelles.fr/wp-content/uploads/2023/04/Carton-de-controle-Colombelles.pdf)
 
-Bouger en pleine nature
+### Bouger en pleine nature
 
-## Avec
+Avec **2,7 km de chemins recensés**, auxquels s’ajoutent de nombreux petits sentiers, le Bois offre un terrain de jeu idéal pour les amateurs de trail. Ombragé et naturellement frais en été, il se parcourt toute l’année. Et avec son **dénivelé bien marqué**, les cuisses sont aussi mises à contribution ! De quoi varier les parcours et les entraînements sans quitter Colombelles.
 
-2,7 km de chemins recensés , auxquels s’ajoutent de nombreux petits sentiers, le Bois offre un terrain de jeu idéal pour les amateurs de trail. Ombragé et naturellement frais en été, il se parcourt toute l’année. Et avec son dénivelé bien marqué , les cuisses sont aussi mises à contribution ! De quoi varier les parcours et les entraînements sans quitter Colombelles.
-
-## Jouer et faire une pause
+### Jouer et faire une pause
 
 Le Bois n’est pas uniquement un espace à traverser.
 
-Des espaces de jeux, bancs et mobiliers permettent de s’arrêter, de profiter du lieu et de partager un moment en famille.
+Des espaces de jeux, bancs et mobiliers permettent de s’arrêter, de profiter du lieu et de partager un moment en famille. On y trouve notamment :
 
-REVOIR LE TEXTE
+- Des tables de pique-nique
+- Une tyrolienne
+- Des grands jeux pour les plus jeunes
 
-Connaissez-vous le théâtre de verdure ?
+### Des mares pleines de vie
 
-Une scène au milieu des arbres !
+En 2025, **deux mares écologiques** ont été crée au cœur du Bois de Colombelles. Ce projet s’inscrit dans une démarche globale de préservation et de valorisation des milieux naturels.
 
-Niché dans la végétation, le théâtre de verdure est un amphithéâtre extérieur aménagé au cœur du Bois.
+Véritables écosystèmes à part entière, ces mares constituent un habitat favorable pour de nombreuses espèces. Elles accueilleront notamment la grenouille rousse, espèce emblématique et essentielle des zones humides, ainsi qu’une grande diversité de plantes et d’animaux aquatiques.
 
-Quelques gradins, un espace ouvert et la nature pour décor : ce lieu méconnu offre une halte originale pendant la promenade et permet d’imaginer le Bois autrement.
-
-Un petit coin à redécouvrir lors de votre prochaine balade.
-
-## Des mares pleines de vie
-
-En 2025, deux mares écologiques ont été crée au cœur du Bois de Colombelles. Ce projet s’inscrit dans une démarche globale de préservation et de valorisation des milieux naturels.
-
-Véritables écosystèmes à part entière , ces mares constituent un habitat favorable pour de nombreuses espèces. Elles accueilleront notamment la grenouille rousse , espèce emblématique et essentielle des zones humides, ainsi qu’une grande diversité de plantes et d’animaux aquatiques.
-
-Cette réalisation est le fruit d’un engagement collectif en faveur de l’environnement et s’inscrit pleinement dans le cadre du label
-
-Territoire Engagé pour la Nature , porté par la collectivité.
+Cette réalisation est le fruit d’un engagement collectif en faveur de l’environnement et s’inscrit pleinement dans le cadre du label Territoire Engagé pour la Nature, porté par la collectivité.
 
 Pourquoi ces mares sont-elles essentielles ?
 
-Elles recréent des écosystèmes favorables à la faune et à la flore locales
-
-Elles contribuent activement à la préservation de la biodiversité
-
-Elles offrent aux habitants un espace naturel à découvrir, à comprendre et à protéger
+- Elles recréent des écosystèmes favorables à la faune et à la flore locales
+- Elles contribuent activement à la préservation de la biodiversité
+- Elles offrent aux habitants un espace naturel à découvrir, à comprendre et à protéger
 
 À travers ce projet, la commune affirme sa volonté d’agir concrètement pour la protection des milieux naturels et la transmission de ces enjeux aux générations futures.
 
@@ -5785,85 +5048,51 @@ Observer, oui. Déranger, non !
 
 Pour préserver ces milieux fragiles, restez sur les espaces accessibles et évitez de manipuler les animaux ou la végétation.
 
-Les vergers et leurs arbres fruitiers
+### Les vergers et leurs arbres fruitiers Le Bois sous l’œil de Bruno
 
-TEXTE A FAIRE
-
-Le Bois sous l’œil de Bruno
-
-## Garde nature chez
-
-ATIPIC , Bruno veille plusieurs fois par semaine sur le Bois : il ramasse les déchets rencontrés et signale les équipements ou éléments défectueux afin qu’ils puissent être pris en charge.
+Garde nature chez **ATIPIC**, Bruno veille plusieurs fois par semaine sur le Bois : il ramasse les déchets rencontrés et signale les équipements ou éléments défectueux afin qu’ils puissent être pris en charge.
 
 Mais Bruno est surtout un passionné de nature. Il connaît les chemins du Bois, observe son évolution et continue, saison après saison, à s’émerveiller de ses changements de couleurs et de ses découvertes.
 
-« Le Bois n’est jamais tout à fait le même. »
+> **« Le Bois n’est jamais tout à fait le même. »**
 
 Des visites nature sont notamment proposées avec lui à l’occasion de certains événements organisés par la Ville, notamment lors de la Fête de la Nature courant mai.
 
-## Un espace à découvrir… et à respecter
+### Un espace à découvrir… et à respecter
 
 Le Bois appartient au cadre de vie de tous. Pour permettre à chacun d’en profiter et préserver les espèces qui y vivent, quelques gestes simples comptent :
 
-✓
+**✓** Observer la faune à distance
 
-Observer la faune à distance
+**✓** Respecter la végétation
 
-✓
+**✓** Remporter ses déchets
 
-Respecter la végétation
+**✓** Respecter la tranquillité des autres promeneurs
 
-✓
+**✓** Utiliser les équipements dans le respect des lieux
 
-Remporter ses déchets
+**✓** Promenez son chien en laisse
 
-## ✓
+**Découvrir le Bois, c’est aussi apprendre à en prendre soin.**
 
-Respecter la tranquillité des autres promeneurs
+### 📍 Préparez votre balade
 
-## ✓
+**Le Bois de Colombelles**
 
-Utiliser les équipements dans le respect des lieux
+📍 **Accès :** Rue de la République, rue de Suède, rue Jules Guesde
 
-✓
+🚲 **Accès vélo :** des arceaux sont installés près des entrées rue de la République mais aussi Jules Guesde, face au cimetière ou encore rue de Suède
 
-## Promenez son chien en laisse
+🅿️ **Stationnement :** Rue de la République, rue de Suède, rue Jules Guesde
 
-Découvrir le Bois, c’est aussi apprendre à en prendre soin.
+🚌 **Transports en commun :** Ligne 6a/6b arrêts « Colombelles école », « kiruna » ou « cité sudédoise »
 
-📍 Préparez votre balade
+### Avec l’aide de celles et ceux qui connaissent le Bois
 
-Le Bois de Colombelles
+**Merci à Anne-Christine d’ACF Nature** pour son expertise et sa connaissance du Bois, qui ont permis d’identifier les plantes présentées sur cette carte, notamment les espèces comestibles et toxiques.
 
-📍
-
-Accès :
-
-Rue de la République, rue de Suède, rue Jules Guesde
-
-🚲
-
-Accès vélo :
-
-des arceaux sont installés près des entrées rue de la République mais aussi Jules Guesde, face au cimetière ou encore rue de Suède
-
-🅿️
-
-Stationnement :
-
-Rue de la République, rue de Suède, rue Jules Guesde
-
-🚌
-
-Transports en commun :
-
-Ligne 6a/6b arrêts « Colombelles école » , « kiruna » ou « cité sudédoise »
-
-## Avec l’aide de celles et ceux qui connaissent le Bois
-
-Merci à Anne-Christine d’ACF Nature pour son expertise et sa connaissance du Bois, qui ont permis d’identifier les plantes présentées sur cette carte, notamment les espèces comestibles et toxiques.
-
-Merci également à Bruno d’ATIPIC , garde nature et fin connaisseur du Bois, pour son regard de terrain et sa contribution à la découverte de ses différents milieux.`,
+**Merci également à Bruno d’ATIPIC**, garde nature et fin connaisseur du Bois, pour son regard de terrain et sa contribution à la découverte de ses différents milieux.`,
     order: 403,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -5876,10 +5105,10 @@ Merci également à Bruno d’ATIPIC , garde nature et fin connaisseur du Bois, 
     section: "sortir-et-decouvrir",
     subsection: "Nature",
     summary:
-      "Envie de prendre l’air, de se promener ?",
+      "Colombelles est riche d’espaces verts, de chemins de randonnée et de chemins. Ci-dessous voici un plan simplifié, réalisé initialement pour les enfants, mais sur lequel…",
     content: `Envie de prendre l’air, de se promener ?
 
-Colombelles est riche d’espaces verts, de chemins de randonnée et de chemins. Ci-dessous voici un plan simplifié, réalisé initialement pour les enfants, mais sur lequel vous retrouverez les différents espaces et propositions de balades.`,
+Colombelles est riche d’espaces verts, de chemins de randonnée et de chemins. Ci-dessous voici un plan simplifié, réalisé initialement pour les enfants, mais sur lequel vous retrouverez les différents espaces et propositions de balades.`,
     order: 404,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -5892,73 +5121,57 @@ Colombelles est riche d’espaces verts, de chemins de randonnée et de chemins.
     section: "sortir-et-decouvrir",
     subsection: "Lieux de vie",
     summary:
-      "Affilié à la fédération Léo Lagrange, association d’éducation populaire reconnue d’utilité publique, le",
-    content: `Affilié à la fédération Léo Lagrange, association d’éducation populaire reconnue d’utilité publique, le
+      "Affilié à la fédération Léo Lagrange, association d’éducation populaire reconnue d’utilité publique, le CSCS Léo Lagrange a pour objectif de développer la vie…",
+    content: `Affilié à la fédération Léo Lagrange, association d’éducation populaire reconnue d’utilité publique, le **CSCS Léo Lagrange** a pour objectif de développer la vie associative, en prenant en compte les besoins des usagers et des habitants, en favorisant les échanges et les rencontres intergénérationnelles en proposant **aux publics de tous âges** des activités et des loisirs de qualité dans des domaines différents : activités socio culturelles ou sportives, loisirs pour la jeunesse, projets et ateliers avec le secteur Familles/Habitants, etc.
 
-CSCS Léo Lagrange a pour objectif de développer la vie associative, en prenant en compte les besoins des usagers et des habitants, en favorisant les échanges et les rencontres intergénérationnelles en proposant aux publics de tous âges des activités et des loisirs de qualité dans des domaines différents : activités socio culturelles ou sportives, loisirs pour la jeunesse, projets et ateliers avec le secteur Familles/Habitants, etc.
+## L’espace Familles et Habitants du centre social du CSCS Léo Lagrange
 
-L’espace Familles et Habitants du centre social du CSCS Léo Lagrange est un lieu de proximité à vocation familiale et intergénérationnelle. Il s’adresse aux adultes et aux enfants accompagnés de leur parent ou de leur grand-parent.
+est un lieu de proximité à vocation familiale et intergénérationnelle. Il s’adresse aux adultes et aux enfants accompagnés de leur parent ou de leur grand-parent.
 
-Ils accueillent toute la population pour répondre au mieux aux envies et besoins de chacun et favorisent le développement des liens familiaux et sociaux.
+Ils accueillent toute la population pour répondre au mieux aux envies et besoins de chacun et favorisent le développement des liens familiaux et sociaux.
 
 Ce lieu d’animation propose des activités éducatives, culturelles, sportives et des services aux familles et aux habitants.
 
 Un programme mensuel est proposé selon les propositions et les échanges avec les adhérents.
 
-Programme hebdomadaires (hors vacances scolaires)
+### Programme hebdomadaires (hors vacances scolaires)
 
 Adultes Parents/enfants
 
-MARDI : 10h-11h30
+MARDI : 10h-11h30 **Café parent / enfant** – de 3 ans à partir du 23/10 activités à thème ou en accès libre et sur inscription
 
-Café parent / enfant
-- de 3 ans à partir du 23/10 activités à thème ou en accès libre et sur inscription
+MERCREDI : 11h -12h **Sport en famille** De 3 à 6 ans
 
-MERCREDI : 11h -12h
+JEUDI : 11h-12h **Baby-gym** De 1 à 3 ans
 
-Sport en famille
+Animations supplémentaires occasionnelles parent/enfant de 3 à 10 ans
 
-De 3 à 6 ans
-
-JEUDI : 11h-12h
-
-Baby-gym
-
-## De 1 à 3 ans
-
-Animations supplémentaires occasionnelles parent/enfant de 3 à 10 ans qui sont proposées dans le programme mensuel  le mercredi matin ou après-midi pendant et hors vacances scolaires
+qui sont proposées dans le programme mensuel le mercredi matin ou après-midi pendant et hors vacances scolaires
 
 Activités manuelles et créatives : cuisine, couture, dessin, peinture, sortie etc.
 
-PROGRAMME DES ACTIVITES DE SEPT. & OCT. 2026
+[PROGRAMME DES ACTIVITES DE SEPT. & OCT. 2026](https://www.colombelles.fr/wp-content/uploads/2026/08/Programme-Centre-Social-Septembre-Octobre-26-2.jpg)
 
-## Adultes
+Adultes
 
-MARDI  : 14h 16h Cours de Français (apprentissage de la langue française )
+MARDI : 14h 16h Cours de Français (apprentissage de la langue française )
 
-## VENDREDI : 9h30-12h Couture
+VENDREDI : 9h30-12h Couture
 
-L’instant : Moment de rencontre convivial et de discussion : lundi 14h -16h
+- L’instant : Moment de rencontre convivial et de discussion : lundi 14h -16h
+- Collectif cuisine : Ateliers à thème, actions de bénévolat, atelier de cuisine saine et responsable etc.
+- Collectif culture : Sortie culturelle, découverte du patrimoine, visite de musée
+- Cinéma 1 film proposé 1X/ mois à 1.50 € au Café des Images à Hérouville/ St Clair
 
-Collectif cuisine : Ateliers à thème, actions de bénévolat, atelier de cuisine saine et responsable etc.
+[PROGRAMME DES ACTIVITES DE JUILLET-AÔUT 2026](https://www.colombelles.fr/wp-content/uploads/2026/06/26-0708Programme-ete-CS.pdf)
 
-Collectif culture : Sortie culturelle, découverte du patrimoine, visite de musée
+**Comment participer ?**
 
-Cinéma 1 film proposé 1X/ mois à 1.50 € au Café des Images à Hérouville/ St Clair
+- Il faut adhérer à l’Espace Familles (adhésion annuelle de 5 € (valable du 1 er septembre au 31 Août) par personne est obligatoire).
+- L’inscription aux différentes activités se fait auprès d’Anaïs à l’accueil et veuillez réserver 2 jours au plus tard.
+- Certaines activités demanderont une participation financière.
 
-PROGRAMME DES ACTIVITES DE JUILLET-AÔUT 2026
-
-Comment participer ?
-
-## Il faut adhérer à l’Espace Familles
-
-(adhésion annuelle de 5 € (valable du 1 er septembre au 31 Août) par personne est obligatoire).
-
-L’inscription aux différentes activités se fait auprès d’Anaïs à l’accueil et veuillez réserver 2 jours au plus tard.
-
-Certaines activités demanderont une participation financière.
-
-Retrouvez leurs actualités sur leur page FaceBook
+Retrouvez leurs actualités sur leur [page FaceBook](https://www.facebook.com/profile.php?id=61555123299201)
 
 ## Projet DÉMOS
 
@@ -5968,39 +5181,28 @@ Démos (Dispositif d’Éducation Musicale et Orchestrale à vocation Sociale) e
 
 L’expérience Démos dure 3 ans, les enfants s’engagent donc sur 3 années d’octobre à juin.
 
-7 territoires de Caen la mer sont concernés par ce projet :  Chemin-Vert, Grâce-de-Dieu, Guérinière, Pierre-Heuzé, Hérouville, Ouistreham et Colombelles.
+- 7 territoires de Caen la mer sont concernés par ce projet : Chemin-Vert, Grâce-de-Dieu, Guérinière, Pierre-Heuzé, Hérouville, Ouistreham et Colombelles.
 
 Sont ciblés prioritairement les enfants de 7 à 10 ans (l’idéal est de débuter l’expérience au niveau CE2) ne disposant pas d’un accès facile à la pratique et aux institutions musicales.
 
-Il s’adresse à 15 enfants par territoire.
+- **Il s’adresse à 15 enfants par territoire.**
+- Ni solfège ni travail individuel, l’apprentissage de la musique se fait collectivement au sein d’un orchestre.
+- La famille d’instruments proposée sur Colombelles est celle des instruments à cordes (violon, alto et violoncelle).
+- L’enfant bénéficie gratuitement de 2 cours de musique par semaine d’1H30, hors temps scolaire et hors vacances scolaires : le lundi de 17h00 à 18h30 et le mercredi de 10h30 à 12h.
+- Les enfants peuvent être pris en charge dès la sortie de l’école par un animateur socio-culturel.
+- Une fois par mois, un danseur et un chef de chœur interviennent auprès des enfants dans le but de créer des passerelles avec d’autres disciplines artistiques.
+- Les enfants des 7 groupes de Caen la mer répètent une fois par mois en « tutti », en orchestre de 105 enfants.
+- Des concerts sont régulièrement organisés dont un grand rassemblement orchestral par an.
 
-Ni solfège ni travail individuel, l’apprentissage de la musique se fait collectivement au sein d’un orchestre.
+- [Flyer de présentation](https://www.colombelles.fr/wp-content/uploads/2023/09/flyer1.pdf)
+- Projet Démos – présentation nationale : **[Démos – Philharmonie de Paris – Accueil Démos](https://demos.philharmoniedeparis.fr/)**
 
-La famille d’instruments proposée sur Colombelles est celle des instruments à cordes (violon, alto et violoncelle).
+### Informations pratiques
 
-L’enfant bénéficie gratuitement de 2 cours de musique par semaine d’1H30, hors temps scolaire et hors vacances scolaires : le lundi de 17h00 à 18h30 et le mercredi de 10h30 à 12h.
-
-Les enfants peuvent être pris en charge dès la sortie de l’école par un animateur socio-culturel.
-
-Une fois par mois, un danseur et un chef de chœur interviennent auprès des enfants dans le but de créer des passerelles avec d’autres disciplines artistiques.
-
-Les enfants des 7 groupes de Caen la mer répètent une fois par mois en « tutti », en orchestre de 105 enfants.
-
-Des concerts sont régulièrement organisés dont un grand rassemblement orchestral par an.
-
-Flyer de présentation
-
-Projet Démos – présentation nationale :
-
-Démos – Philharmonie de Paris – Accueil Démos
-
-## Informations pratiques
-
-Centre socio-culturel et de loisirs Léo Lagrange
-
-52 avenue Léon Blum, Colombelles
-
-02 31 72 40 86 cscsleolagrange@gmail.com`,
+- **Contact** — Centre socio-culturel et de loisirs Léo Lagrange
+- **Adresse** — 52 avenue Léon Blum, Colombelles
+- **Téléphone** — 02 31 72 40 86
+- **Courriel** — cscsleolagrange@gmail.com`,
     order: 501,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -6014,7 +5216,7 @@ Centre socio-culturel et de loisirs Léo Lagrange
     subsection: "Lieux de vie",
     summary:
       "À la médiathèque Le Phénix, il est possible de boire un café, un thé ou un chocolat chaud en lisant une revue ou en papotant avec un autre lecteur.",
-    content: `À la médiathèque  Le Phénix, il est possible de boire un café, un thé ou un chocolat chaud en lisant une revue ou en papotant avec un autre lecteur.
+    content: `À la médiathèque Le Phénix, il est possible de boire un café, un thé ou un chocolat chaud en lisant une revue ou en papotant avec un autre lecteur.
 
 L’équipe prépare chaque matin ces boissons.
 
@@ -6036,7 +5238,8 @@ Pour plus de convivialité, vous pouvez apporter ce que vous aimez à partager (
 
 Accès :
 
-sur présentation de votre carte de bibliothèque ouvert en accès libre (sauf en cas d’animations)`,
+- sur présentation de votre carte de bibliothèque
+- ouvert en accès libre (sauf en cas d’animations)`,
     order: 503,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -6049,18 +5252,16 @@ sur présentation de votre carte de bibliothèque ouvert en accès libre (sauf e
     section: "sortir-et-decouvrir",
     subsection: "Lieux de vie",
     summary:
-      "Le Mini Lab est un espace ludique et créatif qui permet de s’initier à la fabrication et à la création à l’aide d’outils numériques, mécaniques et innovants. Imprimante 3D,…",
+      "Le Mini Lab est un espace ludique et créatif qui permet de s’initier à la fabrication et à la création à l’aide d’outils numériques, mécaniques et innovants. Imprimante…",
     content: `Le Mini Lab est un espace ludique et créatif qui permet de s’initier à la fabrication et à la création à l’aide d’outils numériques, mécaniques et innovants. Imprimante 3D, brodeuse numérique, presse à chaud pour flocage textile, découpe vinyle, badgeuse et tablette graphique grande taille sont à votre disposition. Vous pouvez venir librement découvrir le Mini Lab sur nos horaires d’ouverture. Pour vos projets, n’hésitez pas à nous contacter en amont pour fixer ensemble un rendez-vous.
 
-Informations pratiques
+## Informations pratiques
 
-Micro-Folie Colombelles
-
-## Rue des ateliers, la Grande Halle
-
-Mercredi et samedi : 10h – 12h30 / 14h – 18h // Jeudi – vendredi – samedi : 14h – 18h
-
-02 52 56 96 82 – 06 86 49 95 48 microfolie@colombelles.fr`,
+- **Contact** — Micro-Folie Colombelles
+- **Adresse** — Rue des ateliers, la Grande Halle
+- **Téléphone** — 02 52 56 96 82 – 06 86 49 95 48
+- **Courriel** — microfolie@colombelles.fr
+- **Horaires** — Mercredi et samedi : 10h – 12h30 / 14h – 18h // Jeudi – vendredi – samedi : 14h – 18h`,
     order: 504,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -6074,7 +5275,7 @@ Mercredi et samedi : 10h – 12h30 / 14h – 18h // Jeudi – vendredi – samed
     subsection: "Lieux de vie",
     summary:
       "La médiathèque de Colombelles, au sein de son Espace Public Numérique, vous propose des ateliers gratuits et une permanence pour répondre à vos interrogations sur le…",
-    content: `La médiathèque de Colombelles, au sein de son Espace Public Numérique, vous propose des ateliers gratuits et une permanence pour répondre à vos interrogations sur le numérique.
+    content: `La médiathèque de Colombelles, au sein de son Espace Public Numérique, vous propose des ateliers gratuits et une permanence pour répondre à vos interrogations sur le numérique.
 
 Les référents numériques proposent des conseils personnalisés, des ateliers d’initiation ou de perfectionnement aux outils numériques.
 
@@ -6082,27 +5283,22 @@ Ce service est gratuit.
 
 Ateliers sur réservation auprès du référent numérique, epn@colombelles.fr ou au 02 31 72 27 46
 
-Horaires d’été en juillet et août
+**Horaires d’été en juillet et août**
 
-Mardi : 16h-18h
+- Mardi : 16h-18h
+- Mercredi : 10h-12h et 14h-18h
+- Jeudi : 16h-18h
+- Vendredi : 16h-18h
+- Samedi : 10h-12h et 14h-18h
 
-Mercredi : 10h-12h et 14h-18h
+## Informations pratiques
 
-Jeudi : 16h-18h
+- **Contact** — Espace Public Numérique
+- **Adresse** — 10, rue Elsa Triolet, Colombelles
+- **Téléphone** — 02 31 72 27 46
+- **Courriel** — epn@colombelles.fr
 
-Vendredi : 16h-18h
-
-Samedi : 10h-12h et 14h-18h
-
-Informations pratiques
-
-Espace Public Numérique
-
-10, rue Elsa Triolet, Colombelles
-
-02 31 72 27 46 epn@colombelles.fr
-
-202406_Affiche Horaires été 2024`,
+- 202406_Affiche Horaires été 2024`,
     order: 505,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -6120,19 +5316,16 @@ Espace Public Numérique
 
 Votre tout-petit profitera d’un espace de jeu adapté pour y rencontrer d’autres enfants. Vous pourrez faire une pause dans votre quotidien et discuter de vos préoccupations avec d’autres parents.
 
-## Gratuit et sans inscription
+- Gratuit et sans inscription
+- Ouvert le lundi matin de 9h à 12h, pendant les périodes scolaires
+- Horaire d’arrivée et de départ libre
+- Présence de deux accueillants
 
-Ouvert le lundi matin de 9h à 12h, pendant les périodes scolaires
+## Informations pratiques
 
-Horaire d’arrivée et de départ libre
-
-Présence de deux accueillants
-
-CONTACT PÔLE PETITE ENFANCE
-
-## 20 place F. Mitterrand
-
-02 31 52 04 48 – 07 57 08 30 73 rpe@colombelles.fr`,
+- **Adresse** — 20 place F. Mitterrand
+- **Téléphone** — 02 31 52 04 48 – 07 57 08 30 73
+- **Courriel** — rpe@colombelles.fr`,
     order: 506,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -6146,27 +5339,25 @@ CONTACT PÔLE PETITE ENFANCE
     subsection: "Lieux de vie",
     summary:
       "La Ruche est le local jeunes des 11 – 17 ans à Colombelles. Un lieu de rencontres, de partage, d’activités et de projets pour les jeunes qui le souhaitent.",
-    content: `La Ruche est le local jeunes des 11 – 17 ans à Colombelles. Un lieu de rencontres, de partage, d’activités et de projets pour les jeunes qui le souhaitent.
+    content: `La Ruche est le local jeunes des 11 – 17 ans à Colombelles. Un lieu de rencontres, de partage, d’activités et de projets pour les jeunes qui le souhaitent.
 
-Mardi, jeudi et vendredi  : 16h-18h30 et jusqu’à 19h en période estivale
+**Accueil**
 
-Mercredi et samedi  : 14h-18h30 et jusqu’à 19h en période estivale
+- Mardi, jeudi et vendredi : 16h-18h30 et jusqu’à 19h en période estivale
+- Mercredi et samedi : 14h-18h30 et jusqu’à 19h en période estivale
+- Vacances scolaires : 10h-12h / 14h-18h30 et jusqu’à 19h en période estivale
+- Des veillées sont proposées régulièrement de 18h30 à 22h : calendrier sur demande
 
-Vacances scolaires  : 10h-12h / 14h-18h30 et jusqu’à 19h en période estivale
+**Pour les conditions d’inscription**
 
-Des veillées sont proposées régulièrement de 18h30 à 22h : calendrier sur demande
+- Dossier à retirer au local jeunes ou demander à un animateur du local jeunes au secrétariat.
+- Pour que l’inscription soit définitive, le dossier doit être dûment rempli et une adhésion à l’année de 35€ est obligatoire (15€ d’adhésion à l’association des Francas et 10€ au local).
 
-## Pour les conditions d’inscription
+## Informations pratiques
 
-Dossier à retirer au local jeunes ou demander à un animateur du local jeunes au secrétariat.
-
-Pour que l’inscription soit définitive, le dossier doit être dûment rempli et une adhésion à l’année de 35€ est obligatoire (15€ d’adhésion à l’association des Francas et 10€ au local).
-
-INFORMATIONS PRATIQUES
-
-## Local jeune de Colombelle – La Ruche
-
-52 avenue Léon Blum localjeune.colombelles@gmail.com`,
+- **Contact** — Local jeune de Colombelle – La Ruche
+- **Adresse** — 52 avenue Léon Blum
+- **Téléphone** — localjeune.colombelles@gmail.com`,
     order: 507,
     status: "publie",
     updatedAt: "2026-09-02T10:00:00.000Z",
@@ -6179,14 +5370,14 @@ INFORMATIONS PRATIQUES
     section: "sortir-et-decouvrir",
     subsection: "Lieux de vie",
     summary:
-      "Potageons partout",
+      "Tous les premiers mercredis de chaque mois, rendez-vous place François-Mitterrand pour un temps de partage et de découverte autour du jardin. Des animations sur le thème…",
     content: `## Potageons partout
 
 Tous les premiers mercredis de chaque mois, rendez-vous place François-Mitterrand pour un temps de partage et de découverte autour du jardin. Des animations sur le thème de la biodiversité, de la pollinisation, des conseils de jardiniers pour vos semis sont au programme. Envie d’avoir votre propre bac pour planter vos tomates, fraisiers ou herbes aromatiques par exemple ? C’est possible.
 
-## Information et demande : 07 57 09 66 30
+Information et demande : 07 57 09 66 30
 
-Les jardins familiaux : cultiver la terre… et le lien social à Colombelles
+## Les jardins familiaux : cultiver la terre… et le lien social à Colombelles
 
 Prendre le temps de jardiner, voir pousser ses légumes, partager des conseils entre voisins, profiter d’un moment au calme… Les jardins familiaux sont bien plus que de simples parcelles cultivées : ce sont de véritables lieux de vie, de rencontres et de bien-être.
 
@@ -6198,37 +5389,25 @@ Les jardins familiaux participent également à la biodiversité locale et à un
 
 Au-delà de l’aspect environnemental, les jardins sont souvent synonymes de partage : échange de graines, conseils de culture, entraide entre jardiniers… autant de moments simples qui renforcent le vivre-ensemble.
 
-Comment obtenir une parcelle ?
+**Comment obtenir une parcelle ?**
 
 Pour bénéficier d’un jardin, une caution de 100 € est demandée. Celle-ci est récupérable dans le respect du règlement intérieur. La location annuelle est fixée à 67 €, eau comprise.
 
 Les personnes souhaitant s’inscrire sur liste d’attente peuvent contacter :
 
-M. Legras
+**M. Legras**
 
 📞 06 67 54 45 94
 
-📧
+📧 ph.legras@laposte.net
 
-ph.legras@laposte.net
+[[Document de demande](https://www.colombelles.fr/wp-content/uploads/2026/05/Scan-Copieur-compta_20260528_161736.pdf)] > formulaire également disponible à l’accueil de la mairie
 
-[
+## Les jardins partagés du Libéra : des jardins où chacun s’investit
 
-## Document de demande
+Au cœur du quartier du Libéra, les **Jardins du Libéra** sont un espace partagé où les habitants cultivent, entretiennent et font vivre le jardin collectivement. Potager, projets autour de la biodiversité, installation de ruches… le lieu a vocation à grandir avec les idées et l’implication de ses adhérents. **Débutants comme jardiniers confirmés sont les bienvenus !** Une cotisation annuelle et une participation à l’entretien du jardin sont demandées.
 
-## ] > formulaire également disponible à l’accueil de la mairie
-
-Les jardins partagés du Libéra : des jardins où chacun s’investit
-
-## Au cœur du quartier du Libéra, les
-
-Jardins du Libéra sont un espace partagé où les habitants cultivent, entretiennent et font vivre le jardin collectivement. Potager, projets autour de la biodiversité, installation de ruches… le lieu a vocation à grandir avec les idées et l’implication de ses adhérents.
-
-Débutants comme jardiniers confirmés sont les bienvenus !
-
-Une cotisation annuelle et une participation à l’entretien du jardin sont demandées.
-
-Envie de rejoindre les jardiniers du Libéra ?
+**Envie de rejoindre les jardiniers du Libéra ?**
 
 📞 Contact : Pierre Milcent / 06 78 90 85 29
 
@@ -6245,40 +5424,63 @@ Envie de rejoindre les jardiniers du Libéra ?
     section: "sortir-et-decouvrir",
     subsection: "Activités sportives",
     summary:
-      "Rouverte après près de deux ans de travaux : grand bassin homologué, petit bassin d'apprentissage, isolation renforcée et panneaux solaires.",
-    content: `La piscine a rouvert ses portes après **près de deux ans de travaux**. La rénovation a porté aussi bien sur le confort des usagers que sur la performance énergétique du bâtiment. L'équipement accueille environ 60 000 visiteurs par an.
+      "Après près de deux ans de travaux, la piscine vous ouvre à nouveau ses portes avec de nombreuses améliorations, notamment sur le plan énergétique :",
+    content: `## Une piscine rénovée pour votre confort et vos performances
 
-## Ce que les travaux ont changé
+Après près de deux ans de travaux, la piscine vous ouvre à nouveau ses portes avec de nombreuses améliorations, notamment sur le plan énergétique :
 
-- Reprise complète des sols et des revêtements
-- Homologation du grand bassin pour la compétition, sur cinq couloirs
-- Isolation thermique renforcée
-- Installation de panneaux solaires
+✅ Réfection des sols des bassins et des plages en résine
 
-## Les bassins
+✅ Grand bassin homologué pour les compétitions (5 couloirs)
 
-- **Grand bassin** — 25 mètres, pour la nage libre et la pratique sportive.
-- **Petit bassin** — profondeur progressive jusqu'à 1,20 m, pour l'apprentissage et l'aquagym.
+✅ Petit bassin dédié aux enfants et à l’aquagym
 
-## Horaires d'ouverture au public
+✅ Peintures et revêtements de sol entièrement refaits
 
-| Jour | Horaires |
-| --- | --- |
-| Mardi à vendredi | 10h30 – 13h30 · 14h00 – 18h00 |
-| Samedi | 10h00 – 13h30 · 14h00 – 16h30 |
-| Dimanche et lundi | Fermé |
+✅ Niches de rangement pour le matériel sportif
 
-Le bassin est évacué vingt minutes avant la fermeture.
+✅ Isolation thermique renforcée
 
-## Règles d'accès
+✅ Installation de panneaux solaires
 
-Le **bonnet de bain est obligatoire**. Les shorts et bermudas ne sont pas admis.
+## Un équipement pour tous
 
-## Les activités encadrées
+La piscine accueille chaque année près de **60 000 visiteurs** : grand public, établissements scolaires, clubs et associations. Que vous soyez amateur de loisirs aquatiques ou sportif régulier, vous y trouverez votre espace :
 
-Sport santé, lutte contre l'aquaphobie, perfectionnement adulte, aquagym, aquapalmes et aquabike.
+- **Un petit bassin** à profondeur progressive (1,20 m), idéal pour l’apprentissage, l’aquagym, les leçons particulières ou les stages.
+- **Un bassin de 25 mètres**, adapté à la nage libre et à la pratique sportive.
 
-La piscine est gérée par le SIVOM des Trois Vallées, qui publie les tarifs et le calendrier des activités.`,
+## Informations pratiques
+
+**Horaires d’été** (ouverture au public) :
+
+- **Mardi à vendredi** : 10h30 – 13h30 / 14h00 – 18h00
+- **Samedi** : 10h00 – 13h30 / 14h00 – 16h30
+- **Fermeture** : dimanche et lundi
+
+**À noter** :
+
+- Évacuation des bassins 20 minutes avant la fermeture
+- Bonnet de bain obligatoire
+- Shorts et bermudas interdits
+
+## Activités à la rentrée
+
+Le SIVOM proposera une large gamme d’activités pour tous les niveaux :
+
+- Sport santé
+- Lutte contre l’aquaphobie
+- Perfectionnement adulte
+- Aquagym (petit bain)
+- Aquapalmes (grand bain)
+- Aquabike
+
+📌 **Envie d’en savoir plus ?**
+
+Renseignez-vous à l’accueil ou via [le site du SIVOM](https://www.sivomdes3vallees.fr/index.php/la-piscine-de-colombelles/) pour découvrir toutes nos offres et modalités d’inscription.
+
+- IMG_4468
+- IMG_4486`,
     order: 301,
     status: "publie",
     updatedAt: "2026-08-30T10:00:00.000Z",
@@ -6291,23 +5493,8 @@ La piscine est gérée par le SIVOM des Trois Vallées, qui publie les tarifs et
     section: "sortir-et-decouvrir",
     subsection: "Activités sportives",
     summary:
-      "Un espace de glisse en accès libre pour le skate, la trottinette et le roller, au pied du stade Pierre-Rival.",
-    content: `Le skate park offre un espace de glisse aux amateurs de **skate, de trottinette et de roller**. L'accès est libre et gratuit, tous les jours.
-
-## Où le trouver
-
-Il jouxte le **stade Pierre-Rival**, 52 avenue Léon-Blum. L'implantation permet d'enchaîner facilement avec les équipements voisins : terrain de basket extérieur, terrain de football, piste d'athlétisme.
-
-## À proximité immédiate
-
-- Terrain de basket en accès libre
-- Piste d'athlétisme
-- Terrain de football
-- Aire de jeux et bac à sable, rue Raymond-Cosson
-
-## Bon à savoir
-
-L'équipement n'est pas surveillé : le port des protections est vivement recommandé, en particulier pour les plus jeunes. Pour signaler une dégradation, utilisez le [formulaire de signalement](/signalement).`,
+      "Jouxtant le stade Pierre Rival, le skate parc offre un espace de glisse pour les amateurs de skate, trottinettes et rollers. Libre d’accès, il offre la possibilité de…",
+    content: `Jouxtant le stade Pierre Rival, le skate parc offre un espace de glisse pour les amateurs de skate, trottinettes et rollers. Libre d’accès, il offre la possibilité de sports urbains. Il est à proximité d’un terrain de basket extérieur, du stade qui accueille des matchs de football et aussi de la piste d’athlétisme.`,
     order: 302,
     status: "publie",
     updatedAt: "2026-08-30T10:00:00.000Z",
@@ -6320,23 +5507,33 @@ L'équipement n'est pas surveillé : le port des protections est vivement recomm
     section: "sortir-et-decouvrir",
     subsection: "Activités sportives",
     summary:
-      "Deux pistes complémentaires, l'une pour débuter et l'autre pour les pratiquants confirmés, espace Auguste-Michelle.",
-    content: `Inauguré au début de l'année 2025, le pumptrack propose **deux pistes complémentaires**, faites de bosses et de virages relevés aux dénivelés adaptés : l'une pensée pour les débutants, l'autre pour les pratiquants confirmés.
+      "Depuis sa labellisation « Ville Active et Sportive », Colombelles poursuit son engage- ment en faveur d’une offre sportive diversifiée et inclusive. En complément des…",
+    content: `## Le sport accessible au plus grand nombre
 
-## Un espace de glisse sécurisé
+Depuis sa labellisation « Ville Active et Sportive », Colombelles poursuit son engage- ment en faveur d’une offre sportive diversifiée et inclusive. En complément des activités proposées par les associations et sections sportives, plusieurs équipements de plein air ont vu le jour ces trois dernières années : pumptrack, terrain de Foot5, agrès sportifs, pistes cyclables, rénovation de la piscine etc. Un maillage territorial cohérent qui permet à chacun de s’épanouir par la pratique toute l’année.
 
-L'équipement est en accès libre, tous les jours. Il s'adresse aux jeunes et aux amateurs de pratiques freestyle, à vélo comme en trottinette.
+## Un pumptrack en 2025
 
-## Accès et aménagements
+Implanté sur l’espace **Auguste Michelle**, le pumptrack se compose de **deux pistes complémentaires**, constituées de bosses et de virages relevés avec des dénivelés adaptés :
 
-- **Espace Auguste-Michelle**, rue Jean-Jaurès
-- Accessible en mobilités douces, notamment par la piste cyclable Jean-Jaurès
-- Une vingtaine de places de stationnement à proximité des vestiaires existants
-- Des bancs installés autour des pistes pour les accompagnants et les spectateurs
+- une piste destinée aux **débutants et novices**,
+- une seconde pensée pour les **pratiquants plus expérimentés**.
 
-## Financement
+Facilement accessible depuis l’ensemble des quartiers grâce aux **mobilités douces**, le site bénéficie notamment de la piste cyclable aménagée rue Jean-Jaurès, reliant le quartier Jean-Jaurès au Plateau via l’allée cavalière.
 
-Le projet a été financé à hauteur de 80 % par la Région Normandie, le Département du Calvados, l'État, l'Agence nationale du sport et la Fédération française de football. Le chantier a démarré à l'automne 2024.`,
+Ouvert **7 jours sur 7**, le pumptrack offre aujourd’hui un **espace de glisse sécurisé et convivial**, très apprécié des jeunes et des amateurs de free ride.
+
+Une **vingtaine de places de stationnement** a été aménagée à proximité des vestiaires existants et des **bancs** ont été installés autour des pistes pour le confort des accompagnants et spectateurs.
+
+Ce projet structurant pour le développement sportif du territoire a pu voir le jour grâce au soutien financier de la **Région Normandie**, du **Département du Calvados**, de l’**État**, de l’**Agence nationale du Sport** et de la **Fédération française de Football**, à hauteur de **80 % du coût total**.
+
+Les travaux ont débuté à l’automne 2024 et les équipements ont été **livrés et inaugurés au premier trimestre 2025**, offrant depuis de nouvelles perspectives sportives et de loisirs aux habitants.
+
+- IMG_7475
+- IMG_5117
+- IMG_5126
+- IMG_5130
+- IMG_5144`,
     order: 303,
     status: "publie",
     updatedAt: "2026-08-30T10:00:00.000Z",
@@ -6349,35 +5546,42 @@ Le projet a été financé à hauteur de 80 % par la Région Normandie, le Dépa
     section: "sortir-et-decouvrir",
     subsection: "Activités sportives",
     summary:
-      "Trois stades, deux gymnases, des terrains et une course d'orientation permanente : où pratiquer librement, dans chaque quartier.",
-    content: `Colombelles est labellisée **Ville active et sportive** (deux lauriers) et **Terre de Jeux 2024**. La commune compte trois stades et deux gymnases, et met à disposition des espaces libres et gratuits dans plusieurs quartiers, pour pratiquer seul, en club ou entre amis.
+      "Il se compose d’un gymnase sur accès réservé en fonction de l’utilisation par les associations et les écoles.",
+    content: `## Des stades en libre accès
 
-## Stade Michel-Hidalgo — rue du Stade
+**Stade Michel-Hidalgo, rue du Stade**
 
-- Terrain de football en accès libre
-- Piste d'athlétisme accessible
-- Gymnase réservé aux associations et aux écoles
+Un terrain de football et une piste d’athlétisme sont accessibles.
 
-## Stade Auguste-Michelle — rue Jean-Jaurès
+Il se compose d’un gymnase sur accès réservé en fonction de l’utilisation par les associations et les écoles.
 
-- Terrain de football d'entraînement
-- Pumptrack attenant
+**Stade Auguste Michelle, rue Jean-Jaurès**
 
-## Stade Pierre-Rival — 52 avenue Léon-Blum
+En entrée de ville, ce stade accueille les entrainements de football.
 
-- Piste d'athlétisme
-- Terrains de football, de handball, de basket et de foot à 5
-- Trois courts de tennis, en dehors des cours réservés
-- Gymnase et dojo réservés aux associations et aux écoles
-- Skate park attenant
+**Stade Pierre-Rival, 52 avenue Léon-Blum**
 
-## Plateau sportif Henri-Sellier
+Il se compose d’un gymnase et d’un dojo sur accès réservé en fonction de l’utilisation par les associations, le centre de loisirs ou les écoles.
 
-Accessible depuis le bois de Colombelles : une piste, un terrain de handball et des panneaux de basket.
+En extérieur, une piste d’athlétisme, un terrain de football, un terrain de handball, un terrain de basket et un terrain de foot 5 sont à disposition.
 
-## La course d'orientation permanente
+## Terrains de tennis
 
-Un circuit praticable par tous traverse le **bois de Colombelles**. Les cartes et les fiches de boussole se téléchargent gratuitement. L'activité mêle effort physique et lecture de carte : elle se pratique en famille comme en entraînement.`,
+3 terrains de tennis sont à disposition sur le complexe Rival en dehors des cours réservées par le centre socio-culturel Léo Lagrange.
+
+## Plateau sport du site Henri-Sellier
+
+Accessible par le Bois de Colombelles, cet espace offre uns piste, un terrain de handball et des panneaux de basket.
+
+## Parcours d’orientation
+
+Un circuit de course d’orientation est à votre disposition dans le Bois de Colombelles. Entre amis ou en famille, tentez l’expérience : plaisir, partage et échange garantis !
+
+**Comment ça fonctionne ?**
+
+Une carte spéciale d’orientation, une boussole et c’est parti pour une activité sportive de plein air praticable par tous ! La course d’orientation est à la fois une activité physique et de réflexion.
+
+Seul ou en famille, jeunes ou moins jeunes, tout le monde y trouve un intérêt : celui de se promener en pleine nature ou en milieu urbain, découvrir un espace, trouver les balises, ou courir. À Colombelles, le parcours est installé dans le Bois de Colombelles. Pour tenter l’expérience, veuillez télécharger [la carte](https://www.colombelles.fr/wp-content/uploads/2023/04/3pages-parcours-orientation-Colombelles.pdf)et [le carton de contrôle.](https://www.colombelles.fr/wp-content/uploads/2023/04/Carton-de-controle-Colombelles.pdf)`,
     order: 304,
     status: "publie",
     updatedAt: "2026-08-30T10:00:00.000Z",
@@ -6390,22 +5594,21 @@ Un circuit praticable par tous traverse le **bois de Colombelles**. Les cartes e
     section: "sortir-et-decouvrir",
     subsection: "Activités sportives",
     summary:
-      "Huit espaces aménagés dans les quartiers, avec des équipements adaptés à chaque tranche d'âge.",
-    content: `Des aires de jeux sont aménagées dans chaque quartier, avec des équipements adaptés aux différentes tranches d'âge.
+      "Les différentes aires de jeux dans les quartiers permettent de prendre l’air en s’amusant avec des équipements adaptés selon l’âge des enfants.",
+    content: `Les différentes aires de jeux dans les quartiers permettent de prendre l’air en s’amusant avec des équipements adaptés selon l’âge des enfants.
 
-| Quartier | Emplacement | Âges |
-| --- | --- | --- |
-| Centre-ville | Espace Olympe-de-Gouges, avenue Léon-Blum | 2 – 6 ans et 6 – 12 ans |
-| Complexe Pierre-Rival | Rue Raymond-Cosson, près du skate park | Bac à sable et piste de promenade |
-| Bois et maisons suédoises | Rue de Suède | À partir de 3 ans |
-| Jean-Jaurès | Rue Pierre-Mendès-France | 4 – 10 ans |
-| Jean-Jaurès | Rue Fernand-Léger | 5 – 12 ans |
-| Le Plateau | Place des Tilleuls / square Mérel | 4 – 14 ans |
-| Libéra | Cours de la Rose-Blanche | 1 – 6 ans et 4 – 14 ans |
+- Centre-ville, près de la piscine,espace Olympe de Gouge, avenue Léon Blum, pour les 2 – 6 ans et les les 6 – 12 ans
+- Près du skate-parc, complexe Pierre Rival,rue Raymond Cosson : bac à sable et piste de promenade
+- Près du Bois et des maisons Suédoises, rue de Suède, pour les plus de 3 ans
+- Quartier Jean-Jaurès, rue Pierre Mendès-France, pour les 4 – 10 ans et rue Fernand Léger, pour les 5 – 12 ans
+- Quartier Le Plateau, place des Tilleuls – square Mérel, pour les 4 – 14 ans
+- Quartier Libéra, cours de la rose blanche, pour les 1 – 6 ans et les 4 – 14 ans
 
-## Sécurité et entretien
-
-Les aires sont contrôlées régulièrement par les services techniques. Pour signaler un jeu dégradé ou un défaut d'entretien, utilisez le [formulaire de signalement](/signalement) : la demande est transmise directement au service compétent.`,
+- Cours de la rose blanche, le Libéra
+- Place des Tilleuls, le Plateau
+- Place des Tilleuls, le Plateau
+- Place Pierre Mendès France, quartier Jean Jaurès
+- Quartier des Suédoises en lisière du Bois`,
     order: 305,
     status: "publie",
     updatedAt: "2026-08-30T10:00:00.000Z",
