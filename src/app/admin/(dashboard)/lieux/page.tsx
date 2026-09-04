@@ -1,4 +1,5 @@
 import { AdminBody, AdminHeader, EmptyState, StatusBadge } from "@/components/admin/admin-ui";
+import { Preview } from "@/components/admin/admin-hints";
 import { RowActions } from "@/components/admin/row-actions";
 import { read } from "@/lib/db";
 
@@ -38,7 +39,23 @@ export default async function Page() {
               <tbody>
                 {places.map((item) => (
                   <tr key={item.id} className="border-b border-border hover:bg-secondary/50">
-                    <td className="px-3 py-3.5 font-medium">{item.name}</td>
+                    <td className="max-w-xs px-3 py-3.5">
+                      <Preview
+                        href={`/admin/lieux/${item.id}`}
+                        title={item.name}
+                        theme={item.theme}
+                        eyebrow={item.category}
+                        excerpt={item.description}
+                        facts={[
+                          { label: "Adresse", value: item.address },
+                          { label: "Coordonnées", value: `${item.lat.toFixed(5)} · ${item.lon.toFixed(5)}` },
+                          { label: "Téléphone", value: item.phone },
+                          { label: "Courriel", value: item.email },
+                          { label: "Fiche", value: item.href },
+                        ]}
+                        footer="Point affiché sur la carte interactive"
+                      />
+                    </td>
                     <td className="px-3 py-3.5 text-muted-foreground">
                       <span className="flex items-center gap-2">
                         <span

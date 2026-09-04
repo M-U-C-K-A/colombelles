@@ -103,3 +103,13 @@ export function toDateInput(iso?: string): string {
   if (!iso) return "";
   return iso.length === 10 ? iso : parisParts(iso).date;
 }
+
+/** Poids d'un fichier, en unités françaises (Ko, Mo). */
+export function formatBytes(bytes: number): string {
+  if (!Number.isFinite(bytes) || bytes < 0) return "—";
+  if (bytes < 1024) return `${bytes} o`;
+  const ko = bytes / 1024;
+  if (ko < 1024) return `${ko.toLocaleString("fr-FR", { maximumFractionDigits: ko < 10 ? 1 : 0 })} Ko`;
+  const mo = ko / 1024;
+  return `${mo.toLocaleString("fr-FR", { maximumFractionDigits: 1 })} Mo`;
+}

@@ -1,4 +1,5 @@
 import { AdminBody, AdminHeader, EmptyState, StatusBadge } from "@/components/admin/admin-ui";
+import { Preview } from "@/components/admin/admin-hints";
 import { RowActions } from "@/components/admin/row-actions";
 import { formatDate } from "@/lib/format";
 import { read } from "@/lib/db";
@@ -40,7 +41,18 @@ export default async function Page() {
                 {documents.map((item) => (
                   <tr key={item.id} className="border-b border-border hover:bg-secondary/50">
                     <td className="max-w-sm px-3 py-3.5">
-                      <span className="block truncate font-medium">{item.title}</span>
+                      <Preview
+                        href={`/admin/publications/${item.id}`}
+                        title={item.title}
+                        eyebrow={item.category}
+                        facts={[
+                          { label: "Format", value: item.fileType },
+                          { label: "Poids", value: item.size },
+                          { label: "Fichier", value: item.url },
+                          { label: "Publiée", value: formatDate(item.publishedAt) },
+                        ]}
+                        footer="Le fichier doit être déposé dans public/ à cette adresse"
+                      />
                       <span className="eyebrow mt-1 block truncate text-muted-foreground">
                         {item.url}
                       </span>

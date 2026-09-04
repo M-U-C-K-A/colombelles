@@ -1,4 +1,5 @@
 import { AdminBody, AdminHeader, EmptyState, StatusBadge } from "@/components/admin/admin-ui";
+import { Preview } from "@/components/admin/admin-hints";
 import { RowActions } from "@/components/admin/row-actions";
 import { read } from "@/lib/db";
 
@@ -43,7 +44,25 @@ export default async function Page() {
                           style={{ backgroundColor: `var(--t-${item.theme})` }}
                           aria-hidden="true"
                         />
-                        {item.name}
+                        <Preview
+                          href={`/admin/salles/${item.id}`}
+                          title={item.name}
+                          theme={item.theme}
+                          excerpt={item.description}
+                          image={
+                            item.images[0]
+                              ? { url: item.images[0], alt: item.name }
+                              : undefined
+                          }
+                          facts={[
+                            { label: "Capacité", value: item.capacity },
+                            { label: "Adresse", value: item.address },
+                            { label: "Équipement", value: item.equipment },
+                            { label: "Colombellois", value: item.rateResident },
+                            { label: "Hors commune", value: item.rateNonResident },
+                          ]}
+                          footer={`${item.images.length} photo${item.images.length > 1 ? "s" : ""} dans l'aperçu du site public`}
+                        />
                       </span>
                     </td>
                     <td className="px-3 py-3.5 text-muted-foreground">{item.capacity}</td>

@@ -1,4 +1,5 @@
 import { AdminBody, AdminHeader, EmptyState } from "@/components/admin/admin-ui";
+import { Preview } from "@/components/admin/admin-hints";
 import { RowActions } from "@/components/admin/row-actions";
 import { read } from "@/lib/db";
 
@@ -37,7 +38,22 @@ export default async function Page() {
                 {elus.map((item) => (
                   <tr key={item.id} className="border-b border-border hover:bg-secondary/50">
                     <td className="numeral px-3 py-3.5 text-muted-foreground">{item.order}</td>
-                    <td className="px-3 py-3.5 font-medium">{item.name}</td>
+                    <td className="max-w-xs px-3 py-3.5">
+                      <Preview
+                        href={`/admin/elus/${item.id}`}
+                        title={item.name}
+                        theme={item.theme}
+                        eyebrow={item.role}
+                        excerpt={item.delegation}
+                        facts={[
+                          { label: "Pôle", value: item.pole },
+                          { label: "Courriel", value: item.email },
+                          { label: "Permanence", value: item.permanence },
+                          { label: "Rang", value: `${item.order}` },
+                        ]}
+                        footer="Le rang fixe l'ordre protocolaire de la page Équipe municipale"
+                      />
+                    </td>
                     <td className="px-3 py-3.5 text-muted-foreground">{item.role}</td>
                     <td className="max-w-sm truncate px-3 py-3.5 text-muted-foreground">
                       {item.delegation}

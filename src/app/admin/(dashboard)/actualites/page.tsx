@@ -1,4 +1,5 @@
 import { AdminBody, AdminHeader, EmptyState, StatusBadge } from "@/components/admin/admin-ui";
+import { Preview } from "@/components/admin/admin-hints";
 import { RowActions } from "@/components/admin/row-actions";
 import { formatDate } from "@/lib/format";
 import { read } from "@/lib/db";
@@ -37,7 +38,21 @@ export default async function Page() {
                 {news.map((item) => (
                   <tr key={item.id} className="border-b border-border hover:bg-secondary/50">
                     <td className="max-w-md px-3 py-3.5">
-                      <span className="block truncate font-medium">{item.title}</span>
+                      <Preview
+                        href={`/admin/actualites/${item.id}`}
+                        title={item.title}
+                        subtitle={`/actualites/${item.slug}`}
+                        theme={item.theme}
+                        eyebrow={item.category}
+                        excerpt={item.excerpt}
+                        image={item.image ? { url: item.image, alt: item.title } : undefined}
+                        facts={[
+                          { label: "Auteur", value: item.author },
+                          { label: "Mots-clés", value: item.tags.join(", ") },
+                          { label: "Publication", value: formatDate(item.publishedAt) },
+                        ]}
+                        footer={item.featured ? "Mise en avant sur la page d'accueil" : undefined}
+                      />
                       {item.featured && (
                         <span className="eyebrow mt-1 block text-rouge">En avant</span>
                       )}

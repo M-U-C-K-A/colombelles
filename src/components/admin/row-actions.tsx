@@ -5,6 +5,7 @@ import { useTransition } from "react";
 import { Eye, EyeOff, Pencil, Trash2 } from "lucide-react";
 import { toast } from "sonner";
 import { deleteResource, toggleStatus, type ResourceKind } from "@/app/admin/actions/resources";
+import { Hint } from "@/components/admin/admin-hints";
 import {
   AlertDialog,
   AlertDialogAction,
@@ -37,22 +38,29 @@ export function RowActions({
   return (
     <div className="flex items-center justify-end gap-1">
       {viewHref && status === "publie" && (
-        <Link
-          href={viewHref}
-          target="_blank"
-          title="Voir sur le site"
-          className="p-2 text-muted-foreground transition-colors hover:text-foreground"
-        >
-          <Eye className="size-4" aria-hidden="true" />
-          <span className="sr-only">Voir « {label} » sur le site</span>
-        </Link>
+        <Hint label="Ouvrir sur le site public, dans un nouvel onglet">
+          <Link
+            href={viewHref}
+            target="_blank"
+            className="p-2 text-muted-foreground transition-colors hover:text-foreground"
+          >
+            <Eye className="size-4" aria-hidden="true" />
+            <span className="sr-only">Voir « {label} » sur le site</span>
+          </Link>
+        </Hint>
       )}
 
       {status && (
+        <Hint
+          label={
+            status === "publie"
+              ? "Dépublier : le contenu disparaît du site, sans être supprimé"
+              : "Publier : le contenu devient visible sur le site"
+          }
+        >
         <button
           type="button"
           disabled={pending}
-          title={status === "publie" ? "Dépublier" : "Publier"}
           onClick={() =>
             startTransition(async () => {
               await toggleStatus(kind, recordId);
@@ -70,28 +78,31 @@ export function RowActions({
             {status === "publie" ? "Dépublier" : "Publier"} « {label} »
           </span>
         </button>
+        </Hint>
       )}
 
-      <Link
-        href={editHref}
-        title="Modifier"
-        className="p-2 text-muted-foreground transition-colors hover:text-foreground"
-      >
-        <Pencil className="size-4" aria-hidden="true" />
-        <span className="sr-only">Modifier « {label} »</span>
-      </Link>
+      <Hint label="Modifier la fiche">
+        <Link
+          href={editHref}
+          className="p-2 text-muted-foreground transition-colors hover:text-foreground"
+        >
+          <Pencil className="size-4" aria-hidden="true" />
+          <span className="sr-only">Modifier « {label} »</span>
+        </Link>
+      </Hint>
 
       <AlertDialog>
+        <Hint label="Supprimer définitivement — sans retour possible">
         <AlertDialogTrigger asChild>
           <button
             type="button"
-            title="Supprimer"
             className="p-2 text-muted-foreground transition-colors hover:text-rouge"
           >
             <Trash2 className="size-4" aria-hidden="true" />
             <span className="sr-only">Supprimer « {label} »</span>
           </button>
         </AlertDialogTrigger>
+        </Hint>
         <AlertDialogContent>
           <AlertDialogHeader>
             <AlertDialogTitle>Supprimer définitivement ?</AlertDialogTitle>

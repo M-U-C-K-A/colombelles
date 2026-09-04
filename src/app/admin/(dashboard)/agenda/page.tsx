@@ -1,4 +1,5 @@
 import { AdminBody, AdminHeader, EmptyState, StatusBadge } from "@/components/admin/admin-ui";
+import { Preview } from "@/components/admin/admin-hints";
 import { RowActions } from "@/components/admin/row-actions";
 import { formatDateTime, isPast } from "@/lib/format";
 import { read } from "@/lib/db";
@@ -37,7 +38,22 @@ export default async function Page() {
                 {events.map((item) => (
                   <tr key={item.id} className="border-b border-border hover:bg-secondary/50">
                     <td className="max-w-xs px-3 py-3.5">
-                      <span className="block truncate font-medium">{item.title}</span>
+                      <Preview
+                        href={`/admin/agenda/${item.id}`}
+                        title={item.title}
+                        subtitle={`/agenda/${item.slug}`}
+                        theme={item.theme}
+                        eyebrow={item.category}
+                        excerpt={item.excerpt}
+                        image={item.image ? { url: item.image, alt: item.title } : undefined}
+                        facts={[
+                          { label: "Quand", value: formatDateTime(item.startsAt) },
+                          { label: "Où", value: item.location },
+                          { label: "Tarif", value: item.price },
+                          { label: "Inscription", value: item.registration },
+                        ]}
+                        footer={isPast(item.startsAt) ? "Événement passé" : undefined}
+                      />
                       <span className="eyebrow mt-1 flex items-center gap-2 text-muted-foreground">
                         <span
                           className="size-2.5 shrink-0"

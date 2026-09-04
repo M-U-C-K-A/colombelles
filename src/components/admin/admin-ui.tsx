@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { ChevronRight, Plus } from "lucide-react";
+import { Hint } from "@/components/admin/admin-hints";
 import { cn } from "@/lib/utils";
 
 /** En-tête de page d'administration : fil d'Ariane, titre, action principale. */
@@ -94,8 +95,18 @@ const STATUS_LABELS: Record<string, string> = {
   rejete: "Rejeté",
 };
 
+/** Ce que chaque état veut dire, une fois le badge survolé. */
+const STATUS_HINTS: Record<string, string> = {
+  publie: "Visible sur le site public.",
+  brouillon: "Enregistré, mais absent du site public.",
+  nouveau: "Signalement reçu, pas encore pris en charge.",
+  en_cours: "Signalement pris en charge par un service.",
+  traite: "Signalement résolu.",
+  rejete: "Signalement écarté : hors compétence, doublon ou sans suite.",
+};
+
 export function StatusBadge({ status }: { status: string }) {
-  return (
+  const badge = (
     <span
       className={cn(
         "inline-flex shrink-0 items-center border px-2 py-0.5 text-[0.6875rem] font-medium tracking-wide uppercase",
@@ -105,6 +116,9 @@ export function StatusBadge({ status }: { status: string }) {
       {STATUS_LABELS[status] ?? status}
     </span>
   );
+
+  const hint = STATUS_HINTS[status];
+  return hint ? <Hint label={hint}>{badge}</Hint> : badge;
 }
 
 /** Tuile de statistique du tableau de bord. */

@@ -28,6 +28,7 @@ import {
   X,
 } from "lucide-react";
 import { logoutAction } from "@/app/admin/actions/auth";
+import { TooltipProvider } from "@/components/ui/tooltip";
 import { LogoMark } from "@/components/site/logo";
 import { ADMIN_NAV } from "@/lib/admin-nav";
 import { cn } from "@/lib/utils";
@@ -218,7 +219,10 @@ export function AdminShell({
         </header>
         {keySource === "deploiement" && <SessionKeyWarning />}
         {storage !== "disque" && storage !== "blob" && <StorageWarning mode={storage} />}
-        <div className="min-w-0 flex-1">{children}</div>
+        <div className="min-w-0 flex-1">
+          {/* Les repères au survol des listes ont besoin de ce contexte. */}
+          <TooltipProvider delayDuration={250}>{children}</TooltipProvider>
+        </div>
       </div>
     </div>
   );

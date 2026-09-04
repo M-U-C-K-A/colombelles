@@ -1,4 +1,5 @@
 import { AdminBody, AdminHeader, EmptyState } from "@/components/admin/admin-ui";
+import { Preview } from "@/components/admin/admin-hints";
 import { RowActions } from "@/components/admin/row-actions";
 import { read } from "@/lib/db";
 
@@ -37,7 +38,20 @@ export default async function Page() {
                 {services.map((item) => (
                   <tr key={item.id} className="border-b border-border hover:bg-secondary/50">
                     <td className="numeral px-3 py-3.5 text-muted-foreground">{item.order}</td>
-                    <td className="max-w-xs px-3 py-3.5 font-medium">{item.name}</td>
+                    <td className="max-w-xs px-3 py-3.5">
+                      <Preview
+                        href={`/admin/services/${item.id}`}
+                        title={item.name}
+                        excerpt={item.description}
+                        facts={[
+                          { label: "Téléphone", value: item.phone },
+                          { label: "Courriel", value: item.email },
+                          { label: "Horaires", value: item.hours },
+                          { label: "Adresse", value: item.address },
+                        ]}
+                        footer="Proposé comme destinataire dans le formulaire de contact"
+                      />
+                    </td>
                     <td className="numeral px-3 py-3.5 text-muted-foreground">{item.phone}</td>
                     <td className="max-w-[14rem] truncate px-3 py-3.5 text-muted-foreground">
                       {item.email}

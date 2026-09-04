@@ -1,4 +1,5 @@
 import { AdminBody, AdminHeader, EmptyState, StatusBadge } from "@/components/admin/admin-ui";
+import { Preview } from "@/components/admin/admin-hints";
 import { RowActions } from "@/components/admin/row-actions";
 import { formatDate } from "@/lib/format";
 import { SECTION_BY_KEY } from "@/lib/navigation";
@@ -60,7 +61,21 @@ export default async function Page() {
                       {items.map((item) => (
                         <tr key={item.id} className="border-b border-border hover:bg-secondary/50">
                           <td className="max-w-sm px-3 py-3.5">
-                            <span className="block truncate font-medium">{item.title}</span>
+                            <Preview
+                              href={`/admin/pages/${item.id}`}
+                              title={item.title}
+                              subtitle={`/${item.section}/${item.slug}`}
+                              theme={item.theme}
+                              eyebrow={item.subsection ?? meta?.label}
+                              excerpt={item.summary}
+                              image={item.image}
+                              facts={[
+                                { label: "Rubrique", value: meta?.label ?? "Institutionnel" },
+                                { label: "Ordre", value: `${item.order}` },
+                                { label: "Bloc", value: item.block },
+                                { label: "Mise à jour", value: formatDate(item.updatedAt) },
+                              ]}
+                            />
                             <span className="eyebrow mt-1 block text-muted-foreground">
                               /{item.slug}
                             </span>

@@ -1,4 +1,5 @@
 import { AdminBody, AdminHeader, EmptyState, StatusBadge } from "@/components/admin/admin-ui";
+import { Preview } from "@/components/admin/admin-hints";
 import { RowActions } from "@/components/admin/row-actions";
 import { formatDate } from "@/lib/format";
 import { read } from "@/lib/db";
@@ -37,7 +38,27 @@ export default async function Page() {
               <tbody>
                 {jobs.map((item) => (
                   <tr key={item.id} className="border-b border-border hover:bg-secondary/50">
-                    <td className="max-w-xs truncate px-3 py-3.5 font-medium">{item.title}</td>
+                    <td className="max-w-xs px-3 py-3.5">
+                      <Preview
+                        href={`/admin/emploi/${item.id}`}
+                        title={item.title}
+                        subtitle={`/emploi/${item.slug}`}
+                        theme="emploi"
+                        eyebrow={item.department}
+                        excerpt={item.description
+                          .split("\n")
+                          .filter((line) => line.startsWith("- "))
+                          .slice(0, 3)
+                          .map((line) => line.slice(2))
+                          .join(" · ")}
+                        facts={[
+                          { label: "Statut", value: item.contract },
+                          { label: "Temps", value: item.timeframe },
+                          { label: "Limite", value: formatDate(`${item.deadline}T12:00:00.000Z`) },
+                          { label: "Publiée", value: formatDate(item.publishedAt) },
+                        ]}
+                      />
+                    </td>
                     <td className="px-3 py-3.5 text-muted-foreground">{item.department}</td>
                     <td className="max-w-[14rem] truncate px-3 py-3.5 text-muted-foreground">
                       {item.contract}
