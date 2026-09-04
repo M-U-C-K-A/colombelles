@@ -217,7 +217,7 @@ export function AdminShell({
           <span className="text-sm font-medium">Administration</span>
         </header>
         {keySource === "deploiement" && <SessionKeyWarning />}
-        {storage !== "disque" && <StorageWarning mode={storage} />}
+        {storage !== "disque" && storage !== "blob" && <StorageWarning mode={storage} />}
         <div className="min-w-0 flex-1">{children}</div>
       </div>
     </div>
@@ -259,8 +259,10 @@ function StorageWarning({ mode }: { mode: StorageMode }) {
         {mode === "temporaire"
           ? "Cet hébergement ne dispose pas de disque permanent : vos modifications sont conservées le temps de la session du serveur, puis perdues."
           : "Cet hébergement ne permet aucune écriture sur disque : vos modifications ne sont conservées qu'en mémoire et seront perdues au prochain redémarrage."}{" "}
-        Pour une mise en production, renseignez <code className="bg-muted px-1 py-0.5 font-mono text-xs">DATA_DIR</code>{" "}
-        vers un volume inscriptible, ou remplacez la couche de persistance par une base de données.
+        Reliez un magasin <strong className="font-medium">Vercel Blob privé</strong> au projet pour
+        que le contenu soit conservé, ou renseignez{" "}
+        <code className="bg-muted px-1 py-0.5 font-mono text-xs">DATA_DIR</code> vers un volume
+        inscriptible.
       </p>
     </div>
   );

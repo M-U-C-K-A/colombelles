@@ -221,21 +221,49 @@ sur un disque inscriptible.
 
 ### Hébergement sans disque permanent (Vercel et plateformes sans état)
 
-La couche de persistance se dégrade au lieu d'échouer. Elle essaie, dans
-l'ordre : `DATA_DIR`, puis `data/` à la racine du projet, puis le dossier
-temporaire du système ; à défaut de tout, elle reste en mémoire. Le site est
-donc consultable et l'administration utilisable partout — mais lorsque
-l'écriture n'est pas durable, un bandeau **« Mode démonstration »** le signale à
-l'agent connecté, plutôt que de lui laisser croire que son travail est
+Sur ces hébergements, le disque n'est pas inscriptible et chaque requête peut
+atterrir sur une instance différente. Écrire dans un fichier n'y sert à rien :
+la modification enregistrée par une instance reste invisible partout ailleurs,
+et l'administration donne l'illusion de fonctionner.
+
+La couche de persistance essaie donc, dans l'ordre :
+
+1. **un magasin Vercel Blob privé**, s'il est relié au projet — le contenu y est
+   déposé et relu à chaque requête ; c'est le seul mode qui tienne ici ;
+2. `DATA_DIR`, puis `data/` à la racine du projet, puis le dossier temporaire du
+   système ;
+3. à défaut de tout, la mémoire du processus.
+
+Lorsque l'écriture n'est pas durable, un bandeau **« Mode démonstration »** le
+signale à l'agent connecté, plutôt que de lui laisser croire que son travail est
 enregistré.
 
-Pour une vraie mise en production, deux voies :
+#### Relier un magasin Blob
 
-1. **Un volume inscriptible** — renseignez `DATA_DIR` (VPS, Scalingo, Railway,
-   Fly.io, conteneur avec volume…). Rien d'autre à changer.
-2. **Une base de données** — réécrivez `src/lib/db.ts`. C'est le seul module à
-   toucher : il n'expose que `getDb`, `read` et `mutate`, sur lesquels
-   s'appuient `queries.ts` et les actions serveur, qui restent inchangés.
+1. Tableau de bord Vercel → **Storage** → **Create Database** → **Blob**, en mode
+   **privé**. Le mode ne se change plus ensuite, et un magasin public servirait
+   le fichier à qui en connaît l'adresse : il contient les empreintes des mots
+   de passe, les messages des habitants et les signalements. Un magasin public
+   est refusé par l'application, qui retombe sur le disque en le disant dans les
+   journaux.
+2. Onglet **Projects** du magasin → **Connect to Project**.
+3. Redéployer.
+
+La connexion pose d'elle-même `BLOB_STORE_ID` et `VERCEL_OIDC_TOKEN` : rien à
+saisir. `BLOB_READ_WRITE_TOKEN` ne sert qu'en dehors de Vercel.
+
+Une fois le magasin alimenté, **c'est lui qui fait foi** : les corrections
+apportées à `src/lib/seed.ts` n'apparaissent plus au déploiement suivant, sauf
+pour une collection entièrement nouvelle. Pour repartir du jeu de données
+initial, supprimez `colombelles.json` dans le magasin.
+
+#### Autres voies
+
+- **Un volume inscriptible** — renseignez `DATA_DIR` (VPS, Scalingo, Railway,
+  Fly.io, conteneur avec volume…). Rien d'autre à changer.
+- **Une base de données** — réécrivez `src/lib/db.ts`. C'est le seul module à
+  toucher : il n'expose que `getDb`, `read` et `mutate`, sur lesquels s'appuient
+  `queries.ts` et les actions serveur, qui restent inchangés.
 
 ## Contenus
 
