@@ -46,13 +46,19 @@ canonique déclarée dans `src/lib/site-url.ts` — aujourd'hui
 variable, si le site déménage : les pages statiques figent cette valeur au
 moment de la compilation.
 
-`AUTH_SECRET` signe les cookies de session de l'administration. **Définissez-la
-sur votre hébergement** (`openssl rand -base64 48`). La clé de développement
-présente dans le dépôt n'est jamais utilisée en production : à défaut
-d'`AUTH_SECRET`, la clé est dérivée de l'identifiant du déploiement — les
-sessions restent valides tant que la livraison ne change pas, et un
-avertissement s'affiche dans l'administration. Si aucun identifiant stable n'est
-disponible, les sessions sont refusées plutôt que devinables.
+`AUTH_SECRET` signe les cookies de session de l'administration. Elle est
+définie sur le déploiement de démonstration ; sur un autre hébergement,
+**posez-la** :
+
+```bash
+openssl rand -base64 48 | vercel env add AUTH_SECRET production
+```
+
+La clé de développement présente dans le dépôt n'est jamais utilisée en
+production : à défaut d'`AUTH_SECRET`, la clé est dérivée de l'identifiant du
+déploiement — les sessions restent valides tant que la livraison ne change pas,
+et un avertissement s'affiche dans l'administration. Si aucun identifiant stable
+n'est disponible, les sessions sont refusées plutôt que devinables.
 
 ---
 
@@ -229,7 +235,8 @@ et l'administration donne l'illusion de fonctionner.
 La couche de persistance essaie donc, dans l'ordre :
 
 1. **un magasin Vercel Blob privé**, s'il est relié au projet — le contenu y est
-   déposé et relu à chaque requête ; c'est le seul mode qui tienne ici ;
+   déposé et relu à chaque requête (lecture sans cache, dédupliquée par requête) ;
+   c'est le seul mode qui tienne ici ;
 2. `DATA_DIR`, puis `data/` à la racine du projet, puis le dossier temporaire du
    système ;
 3. à défaut de tout, la mémoire du processus.
@@ -240,22 +247,35 @@ enregistré.
 
 #### Relier un magasin Blob
 
-1. Tableau de bord Vercel → **Storage** → **Create Database** → **Blob**, en mode
-   **privé**. Le mode ne se change plus ensuite, et un magasin public servirait
-   le fichier à qui en connaît l'adresse : il contient les empreintes des mots
-   de passe, les messages des habitants et les signalements. Un magasin public
-   est refusé par l'application, qui retombe sur le disque en le disant dans les
-   journaux.
-2. Onglet **Projects** du magasin → **Connect to Project**.
-3. Redéployer.
+```bash
+vercel blob create-store colombelles-contenu-prive --access private --region cdg1 --yes
+```
 
-La connexion pose d'elle-même `BLOB_STORE_ID` et `VERCEL_OIDC_TOKEN` : rien à
-saisir. `BLOB_READ_WRITE_TOKEN` ne sert qu'en dehors de Vercel.
+Le magasin **doit être privé**. Le document contient les empreintes des mots de
+passe, les messages des habitants et les signalements ; un magasin public le
+servirait à qui en connaît l'adresse. L'application refuse ce cas, le dit dans
+les journaux et retombe sur le disque. Le mode ne se change plus après création,
+et l'option `--access` demande le CLI Vercel en version 59 ou plus récente.
+
+La commande relie le magasin au projet et pose `BLOB_READ_WRITE_TOKEN` sur les
+trois environnements ; sur Vercel, l'exécution s'authentifie ensuite par OIDC
+(`BLOB_STORE_ID` + `VERCEL_OIDC_TOKEN`). Les variables ne prennent effet qu'au
+déploiement suivant.
+
+La région `cdg1` (Paris) place les données près des habitants dont elles
+proviennent.
+
+#### Revenir au jeu de données initial
 
 Une fois le magasin alimenté, **c'est lui qui fait foi** : les corrections
 apportées à `src/lib/seed.ts` n'apparaissent plus au déploiement suivant, sauf
-pour une collection entièrement nouvelle. Pour repartir du jeu de données
-initial, supprimez `colombelles.json` dans le magasin.
+pour une collection entièrement nouvelle. Pour repartir de zéro :
+
+```bash
+vercel blob del colombelles.json
+```
+
+Le document est redéposé au premier démarrage suivant.
 
 #### Autres voies
 
