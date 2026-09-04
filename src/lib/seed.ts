@@ -210,7 +210,7 @@ Pour toute question relative au chantier : service technique municipal, 02 31 35
     id: "n-006",
     theme: "culture",
     slug: "forum-des-associations-2026",
-    title: "Forum des associations : 68 structures au gymnase Marcel-Cerdan",
+    title: "Forum des associations : 68 structures au gymnase Michel-Hidalgo",
     excerpt:
       "Sport, culture, solidarité, loisirs : le rendez-vous de la rentrée associative se tient samedi 6 septembre de 10h à 17h.",
     content: `Le forum des associations réunit cette année 68 structures colombelloises et intercommunales.
@@ -224,7 +224,7 @@ Pour toute question relative au chantier : service technique municipal, 02 31 35
 
 ## Infos pratiques
 
-Gymnase Marcel-Cerdan, rue des Sports. Entrée libre. Restauration sur place assurée par le comité des fêtes.
+Gymnase Michel-Hidalgo, rue du Stade. Entrée libre. Restauration sur place assurée par le comité des fêtes.
 
 Le guide des associations est également téléchargeable dans la rubrique publications.`,
     category: "Vie associative",
@@ -369,7 +369,7 @@ const events: EventItem[] = [
       "Le rendez-vous incontournable de la rentrée. Stands, démonstrations, inscriptions sur place. Restauration assurée par le comité des fêtes.",
     startsAt: "2026-09-06T08:00:00.000Z",
     endsAt: "2026-09-06T15:00:00.000Z",
-    location: "Gymnase Marcel-Cerdan",
+    location: "Gymnase Michel-Hidalgo",
     category: "Vie associative",
     price: "Entrée libre",
     status: "publie",
@@ -5928,21 +5928,21 @@ const services: ServiceItem[] = [
   { id: "s-004", name: "Service Urbanisme", description: "Autorisations d'urbanisme, PLUi, certificats, droit de préemption, adressage.", phone: "02 31 35 25 32", email: "urbanisme@colombelles.fr", hours: "Permanence sans rendez-vous le mardi 9h-12h · sinon sur rendez-vous", address: "Hôtel de ville — 1ᵉʳ étage", order: 4 },
   { id: "s-005", name: "Services techniques", description: "Voirie, bâtiments, espaces verts, propreté, interventions sur le domaine public.", phone: "02 31 35 25 30", email: "technique@colombelles.fr", hours: "Du lundi au vendredi, 8h-12h / 13h30-17h", address: "Centre technique municipal, rue de l'Industrie", order: 5 },
   { id: "s-006", name: "Police municipale", description: "Tranquillité publique, circulation et stationnement, objets trouvés, opération tranquillité vacances, procurations.", phone: "02 31 35 25 25", email: "police@colombelles.fr", hours: "Du lundi au vendredi, 8h-12h / 13h30-18h", address: "Rue de l'Église", order: 6 },
-  { id: "s-007", name: "Service des sports et de la vie associative", description: "Créneaux des équipements, subventions, forum des associations, prêt de matériel.", phone: "02 31 35 25 38", email: "sports@colombelles.fr", hours: "Du lundi au vendredi, 9h-12h / 14h-17h", address: "Gymnase Marcel-Cerdan", order: 7 },
+  { id: "s-007", name: "Service des sports et de la vie associative", description: "Créneaux des équipements, subventions, forum des associations, prêt de matériel.", phone: "02 31 35 25 38", email: "sports@colombelles.fr", hours: "Du lundi au vendredi, 9h-12h / 14h-17h", address: "Stade Pierre-Rival, 52 avenue Léon-Blum", order: 7 },
   { id: "s-008", name: "Service Culture", description: "Programmation du théâtre, médiathèque, conservatoire, patrimoine, Micro-Folie.", phone: "02 31 35 25 45", email: "culture@colombelles.fr", hours: "Du mardi au samedi", address: "Médiathèque Le Phénix", order: 8 },
   { id: "s-009", name: "Service Jeunesse", description: "Local jeune, chantiers d'été, bourses, médiation, projets des 11-25 ans.", phone: "02 31 35 25 35", email: "jeunesse@colombelles.fr", hours: "Mercredi et samedi 14h-18h · tous les jours pendant les vacances", address: "Centre Léo Lagrange", order: 9 },
   { id: "s-010", name: "Réglementation et réservations", description: "Location de salles, droits de place, débits de boissons, occupation du domaine public, marché.", phone: "02 31 35 25 18", email: "reglementation@colombelles.fr", hours: "Du lundi au vendredi, 9h-12h", address: "Hôtel de ville — rez-de-chaussée", order: 10 },
 ];
 
 const directory: DirectoryItem[] = [
-  { id: "a-001", name: "Union sportive de Colombelles — Football", type: "association", category: "Sport", description: "Football de l'école de foot aux seniors, plus de 300 licenciés.", address: "Stade Jean-Bouin, rue du Stade", phone: "02 31 72 14 05", email: "contact@usc-football.fr", status: "publie" },
-  { id: "a-002", name: "Colombelles Basket Club", type: "association", category: "Sport", description: "Basket-ball loisir et compétition, catégories U9 à seniors.", address: "Gymnase Marcel-Cerdan", email: "cbc14@sport.fr", status: "publie" },
+  { id: "a-001", name: "Union sportive de Colombelles — Football", type: "association", category: "Sport", description: "Football de l'école de foot aux seniors, plus de 300 licenciés.", address: "Stade Michel-Hidalgo, rue du Stade", phone: "02 31 72 14 05", email: "contact@usc-football.fr", status: "publie" },
+  { id: "a-002", name: "Colombelles Basket Club", type: "association", category: "Sport", description: "Basket-ball loisir et compétition, catégories U9 à seniors.", address: "Gymnase du stade Pierre-Rival, 52 avenue Léon-Blum", email: "cbc14@sport.fr", status: "publie" },
   { id: "a-003", name: "Mémoire de la SMN", type: "association", category: "Patrimoine", description: "Collecte de témoignages, archives et visites guidées de l'ancien site sidérurgique.", address: "Médiathèque Le Phénix", email: "memoire.smn@assoc.fr", status: "publie" },
   { id: "a-004", name: "Les Jardins de l'Orne", type: "association", category: "Environnement", description: "Jardins partagés, ateliers de permaculture, grainothèque.", address: "Coulée verte, chemin des Berges", status: "publie" },
   { id: "a-005", name: "Secours populaire — antenne de Colombelles", type: "association", category: "Solidarité", description: "Aide alimentaire, vestiaire, accès aux droits et Solidaribus.", address: "Rue Jean-Jaurès", phone: "02 31 82 00 00", status: "publie" },
   { id: "a-006", name: "Compagnie du Phénix", type: "association", category: "Culture", description: "Théâtre amateur, ateliers enfants et adultes, création annuelle.", address: "Théâtre La Renaissance", status: "publie" },
   { id: "a-007", name: "Amicale des anciens de Colombelles", type: "association", category: "Seniors", description: "Sorties, ateliers, repas et voyages pour les plus de 60 ans.", address: "Centre Léo Lagrange", status: "publie" },
-  { id: "a-008", name: "Colombelles Judo", type: "association", category: "Sport", description: "Judo, jujitsu et taïso, à partir de 4 ans.", address: "Dojo du gymnase Marcel-Cerdan", status: "publie" },
+  { id: "a-008", name: "Colombelles Judo", type: "association", category: "Sport", description: "Judo, jujitsu et taïso, à partir de 4 ans.", address: "Dojo du stade Pierre-Rival, 52 avenue Léon-Blum", status: "publie" },
   { id: "a-009", name: "Vélo Club des Rives de l'Orne", type: "association", category: "Sport", description: "Sorties route et VTT, école de vélo, atelier de réparation participatif.", address: "Halte nautique", status: "publie" },
   { id: "a-010", name: "Boulangerie du Bourg", type: "commerce", category: "Alimentation", description: "Pains au levain, viennoiseries, pâtisserie. Fermé le lundi.", address: "12 place François Mitterrand", phone: "02 31 72 30 11", status: "publie" },
   { id: "a-011", name: "Pharmacie de Colombelles", type: "commerce", category: "Santé", description: "Officine, orthopédie, matériel médical. Garde selon planning départemental.", address: "4 rue de l'Église", phone: "02 31 72 08 44", status: "publie" },
@@ -6061,7 +6061,7 @@ export function seedDatabase(): Database {
         reference: "SIG-2026-0149",
         category: "Propreté",
         description: "Dépôt sauvage d'encombrants au pied des colonnes à verre.",
-        location: "Parking du gymnase Marcel-Cerdan",
+        location: "Parking du gymnase Michel-Hidalgo",
         name: "Riverain",
         email: "signalement-demo2@example.org",
         status: "nouveau" as const,
